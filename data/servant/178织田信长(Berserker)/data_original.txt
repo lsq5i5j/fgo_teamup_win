@@ -1,0 +1,689 @@
+﻿
+
+
+查看“织田信长(Berserker)”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"织田信长(Berserker)","wgTitle":"织田信长(Berserker)","wgCurRevisionId":285043,"wgRevisionId":0,"wgArticleId":3582,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"织田信长(Berserker)","wgRelevantArticleId":3582,"wgRequestId":"6419c5e2a58ecef742344245","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@1md9gpc",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+Mooncell提示：国服将于1小时16分钟后开始维护。
+$(document).ready(
+	function(){
+		checkTime();
+		var i=window.setInterval(
+			function(){
+				if(new Date().getSeconds()==0){
+					window.clearInterval(i);
+					window.setInterval(checkTime(),60000);
+				}
+			},1000)
+	}
+);
+function checkTime(){
+	var a=document.getElementsByClassName('TLDcontainer');
+	if(a.length==0){return};
+	var ct=new Date().getTime()/1000;
+	for(var i=0;i<a.length;i++){
+		var s=a[i].getAttribute('data-time').split(',');
+		if(parseInt(s[0],10)<ct&&ct<parseInt(s[1],10)){
+			if(a[i].style.display!='inline'){
+				a[i].style.display='inline';
+			}
+		}else{
+			if(a[i].style.display!='none'){
+				a[i].style.display='none';
+			}					
+		}
+	}
+}
+
+
+
+查看“织田信长(Berserker)”的源代码 
+←织田信长(Berserker)
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{相关从者|织田信长|织田信长(Berserker)|织田信长(Avenger)}}[[分类:未复查的从者条目]]
+
+==基础数值==
+{{基础数值
+|稀有度=4
+|获取途径=限定
+|序号=178
+|中文名=织田信长
+|日文名=織田信長
+|英文名=Oda Nobunaga
+|中文战斗名=织田信长
+|日文战斗名=織田信長
+|中文卡面名=织田信长
+|日文卡面名=織田信長
+|英文卡面名=Oda Nobunaga
+|声优=钉宫理惠
+|画师=pako
+|属性1=混沌
+|属性2=夏
+|性别=女性
+|身高=152cm
+|体重=44kg
+|隐藏属性=人
+|职阶=Berserker
+|筋力=B
+|耐久=C
+|敏捷=B
+|魔力=C
+|幸运=B
+|宝具=?
+|基础ATK=1691
+|基础HP=1603
+|满级ATK=10146
+|满级HP=10023
+|90级ATK=11211
+|90级HP=11083
+|100级ATK=12285
+|100级HP=12153
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Buster
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.93%
+|A卡np率=0.93%
+|B卡np率=0.93%
+|EX卡np率=0.93%
+|宝具np率=0.93%
+|受击np率=5%
+|Q卡hit数=3
+|A卡hit数=2
+|B卡hit数=6
+|EX卡hit数=5
+|宝具卡hit数=12
+|Q卡伤害分布=16,33,51
+|A卡伤害分布=33,67
+|B卡伤害分布=4,9,14,19,23,31
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=1,2,3,5,6,7,8,10,11,12,14,21
+|出星率=5.0%
+|即死率=52.0%
+|暴击权重=10
+|特性1=王
+|特性2=人科
+|人型=是
+|被EA特攻=是
+|昵称=狂信长,Nobu!
+|立绘1=第１阶段
+|文件1=狂信长-卡面-1
+|立绘2=第２阶段
+|文件2=狂信长-卡面-2
+|立绘3=第３阶段
+|文件3=狂信长-卡面-3
+|立绘4=第４阶段
+|文件4=狂信长-卡面-4
+|立绘5=愚人节
+|文件5=狂信长-卡面-愚人节}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+强化前=
+{{宝具
+|中文名=第六天魔王波旬～盛夏～
+|国服上标=Nobunaga THE Rock 'n' Roll
+|日文名=第六天魔王波旬～夏盛～
+|日服上标=ノブナガ・ＴＨＥ・ロックンロール
+|卡色=Buster
+|类型=单体
+|阶级=E～EX
+|种类=对神宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=600%|数值A2=800%|数值A3=900%|数值A4=950%|数值A5=1000%
+|效果B={{特性|神性|特攻=yes}}特攻<Over Charge时特攻威力提升>
+|数值B1=150%|数值B2=162.5%|数值B3=175%|数值B4=187.5%|数值B5=200%
+}}
+|-|
+强化后=通关「[[织田信长(Berserker)/从者任务#强化任务|强化关卡 织田信长]]」后强化。<br>
+''（开放条件：达到灵基再临第4阶段。开放时间：[[复刻：ALL信长总进击 唠唠叨叨最终本能寺2019 轻量版]]。）''
+{{宝具
+|中文名=第六天魔王波旬～盛夏～
+|国服上标=Nobunaga THE Rock 'n' Roll
+|日文名=第六天魔王波旬～夏盛～
+|日服上标=ノブナガ・ＴＨＥ・ロックンロール
+|卡色=Buster
+|类型=单体
+|阶级=E～EX
+|种类=对神宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=800%|数值A2=1000%|数值A3=1100%|数值A4=1150%|数值A5=1200%
+|效果B={{特性|神性|特攻=yes}}特攻<Over Charge时特攻威力提升>
+|数值B1=150%|数值B2=162.5%|数值B3=175%|数值B4=187.5%|数值B5=200%
+|效果C=付与自身使场地具有〔燃烧〕特性的状态(3回合)<!--自身にフィールドを〔炎上〕特性にする状態を付与(3ターン)[g][o]▲[/o][/g]-->
+|数值C1=Ø
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|回避|傻瓜杀法 A|うつけ殺法 A|8
+|付与自身回避状态(1回合)|∅|||||||||
+|Buster指令卡性能提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|回合出星|敦盛节拍 B|敦盛ビート B|10
+|付与自身每回合获得暴击星状态(5回合)|5|6|6|7|7|8|8|9|9|10
+|付与己方全体每回合回复HP的状态(5回合)|300|320|340|360|380|400|420|440|460|500
+|每回合回复NP的状态(5回合)|3%|||||||||
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|集星|水边的第六天魔王 A-|渚の第六天魔王 A-|6
+|自身暴击星集中度提升(1回合)|1000%|1200%|1400%|1600%|1800%|2000%|2200%|2400%|2600%|3000%
+|付与自身必中状态(1回合)|∅|||||||||
+|在〔燃烧〕场地上攻击力提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+
+===职阶技能===
+{{职阶技能|狂化|狂化|C|自身的Buster指令卡性能小幅提升(6%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=4
+|0->1={{材料消耗|狂阶银棋|4}}
+|1->2={{材料消耗|狂阶银棋|10}}{{材料消耗|魔术髓液|18}}
+|2->3={{材料消耗|狂阶金像|4}}{{材料消耗|奇奇神酒|4}}{{材料消耗|万死的毒针|10}}
+|3->4={{材料消耗|狂阶金像|10}}{{材料消耗|万死的毒针|20}}{{材料消耗|混沌之爪|6}}
+|总计={{材料消耗|狂阶银棋|14}}{{材料消耗|狂阶金像|14}}{{材料消耗|万死的毒针|30}}{{材料消耗|魔术髓液|18}}{{材料消耗|混沌之爪|6}}{{材料消耗|奇奇神酒|4}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=4
+|1->2={{材料消耗|狂之辉石|4}}
+|2->3={{材料消耗|狂之辉石|10}}
+|3->4={{材料消耗|狂之魔石|4}}
+|4->5={{材料消耗|狂之魔石|10}}{{材料消耗|奇奇神酒|2}}
+|5->6={{材料消耗|狂之秘石|4}}{{材料消耗|奇奇神酒|4}}
+|6->7={{材料消耗|狂之秘石|10}}{{材料消耗|魔术髓液|12}}
+|7->8={{材料消耗|魔术髓液|24}}{{材料消耗|追忆的贝壳|5}}
+|8->9={{材料消耗|追忆的贝壳|15}}{{材料消耗|咒兽胆石|8}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|狂之辉石|14}}{{材料消耗|狂之魔石|14}}{{材料消耗|狂之秘石|14}}{{材料消耗|魔术髓液|36}}{{材料消耗|追忆的贝壳|20}}{{材料消耗|咒兽胆石|8}}{{材料消耗|奇奇神酒|6}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|狂阶银棋|14}}{{材料消耗|狂阶金像|14}}{{材料消耗|狂之辉石|42}}{{材料消耗|狂之魔石|42}}{{材料消耗|狂之秘石|42}}{{材料消耗|万死的毒针|30}}{{材料消耗|魔术髓液|126}}{{材料消耗|追忆的贝壳|60}}{{材料消耗|混沌之爪|6}}{{材料消耗|咒兽胆石|24}}{{材料消耗|奇奇神酒|22}}{{材料消耗|传承结晶|3}}
+|稀有度=4
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+水边的第六天魔王，在此降临！
+加入了大量夏日尾张的流行要素，
+穿着美妙服饰的那位信又回来啦！
+哎？　问我难道不觉得那件垃圾俗气的T恤很丢人吗？
+哼……这次的我和以前的我是不同的！
+在这个夏日，我居然还剩大概2次再临。
+没错，是期待已久的换衣再临！
+等看到再临后我那艳美的身姿，可别惊讶得站不起来哦！
+哇哈哈哈哈～！
+
+……话说我觉得这件T恤还挺帅气的，挺帅气的！
+
+|详情日文=
+渚の第六天魔王、ここに轟臨！
+この夏の尾張のトレンドをふんだんに盛り込んだ
+素敵なルックであのノッブが帰ってきた！
+え？　クソダサＴシャツとか恥ずかしくないんですかって？
+ふっ……、今回のわしは今までのわしとは違うのじゃ！　なんとこの夏のわしはまだ再臨を２回ぐらい残しておる。そう、念願の着替え再臨じゃ！
+再臨したわしの艶姿に腰を抜かすでないぞ！
+うっはっはっはっはー！
+
+……というかこのＴシャツ、イケてると思うんじゃが、じゃが！
+
+|资料1条件=
+|资料1=
+身高／体重：152cm·44kg
+出处：史实
+地域：日本
+属性：混沌·夏　　　性别：女性
+之所以从普通版信转化成夏日属性这种稀少属性，
+多半是兴致使然。之所以从秩序变成了混沌，
+大概是因为受第六天魔王状态的影响吧。
+
+「哇哈哈哈！　我正是水边的第六天魔王，织田信长！
+　我脱了以后可是很厉害的哦！」
+
+|资料1日文=
+身長／体重：152cm・44kg
+出典：史実
+地域：日本
+属性：混沌・夏　　　性別：女性
+ノーマルノッブから属性が夏とかいう希少属性に変化しているが多分ノリ。秩序から混沌へ変化しているのは第六天魔王状態の影響と思われる。
+
+「うっはっはっは！　わしこそが渚の第六天魔王、織田信長じゃ！　わしったら脱いでも凄いんじゃからネ！」
+
+|资料2条件=
+|资料2=
+身披内心燃烧般涌现的激情，
+2018年夏日的『信长 THE 摇滚明星』华丽出道！
+战斗风格犹如尾张大笨蛋时期的战国顽皮风＆摇滚。
+
+哎？　火绳枪？　我没把那家伙带来。
+在海滨战斗湿气会很重，估计那家伙应付不了哦！
+
+|资料2日文=
+己が内から燃え盛るように湧き上がるパッションをその身にまとい、２０１７年夏『ノブナガ・THE・ロックスター』鮮烈デビューなのじゃ！
+ファイトスタイルは尾張うつけ時代を彷彿とさせる戦国やんちゃスタイル＆ロックンロール。
+
+え？　火縄？　奴はおいてきた。浜辺の戦いには湿気ってついてこれそうにないからネ！
+
+|资料3条件=
+|资料3=
+『第六天魔王波旬～盛夏～』
+阶级：E～EX　种类：对神宝具
+Nobunaga THE Rock 'n' Roll
+能消灭神佛的魔王信长真正宝具……的小规模改造版。
+变生成能对拥有神性或神秘之人发挥极大效果的
+固有结界的限定解放状态。
+解放状态的信的背后会出现谜之巨大骸骨（暂定名），
+发挥魔王般的实力。
+
+|资料3日文=
+『第六天魔王波旬～夏盛～』
+ランク：Ｅ～ＥＸ　種別：対神宝具
+ノブナガ・ＴＨＥ・ロックンロール。
+神仏を滅ぼす魔王信長の真の宝具……の、マイナーチェンジバージョン。
+神性や神秘を持つ者に対して絶大な力を揮う存在へと変生する固有結界の限定解放状態。解放状態のノッブの背後には謎の巨大骸骨（仮）が顕現し、魔王の如き力を揮う。
+
+|资料4条件=
+|资料4=
+傻瓜杀法：A
+凭借难以想象的傻瓜思维进行战斗。
+在寺庙门口敲完门就开溜，
+在茶釜里塞进鞭炮，
+或是惹信胜哭泣，简直肆意妄为。
+原本就特别擅长想这种馊点子，
+所以从不好的意义来说近身战斗力得以提升。
+
+敦盛节拍：B
+让敦盛节拍响彻整个战场的必杀超空间舞蹈敦盛之战。
+本想让她说清楚这究竟是跳舞还是唱歌，
+但信表示这就是摇滚。
+
+顺便说一句，谜之魔王武装的名字是
+『压Kill长谷部』。
+
+|资料4日文=
+○うつけ殺法：Ａ
+想像を絶するうつけ的発想で戦闘を行う。
+寺にピンポンダッシュをしたり、
+茶釜に爆竹をしかけたり、
+信勝を泣かしたりとやりたい放題である。
+元来、こういう事には頭が回るため悪い意味で
+近接戦闘能力がパワーアップしている。
+
+○敦盛ビート：Ｂ
+敦盛のビートを戦場に轟かす必殺の超空間ダンシング敦盛ファイト。踊りなのか歌なのはっきりしてほしいがノッブ曰くこれがロック。
+
+ちなみに謎の魔王武装の名前は
+『ヘシKill・ハセーべ』との事。
+
+|资料5条件=
+|资料5=
+水边的第六天魔王：A-
+根据本人的夏日影响，扭曲自己生活方式的怪物。
+能力、外貌都发生了变化。
+原本技能「魔王」的另一种技能形态。
+魔王在水边换上了泳装后就会这样。
+副作用是胸部好像稍微变大了一点，难道是错觉吗？
+
+|资料5日文=
+○渚の第六天魔王：Ａ-
+本人の夏のイメージによって、己の在り方を捻じ曲げられた怪物。能力・姿が変貌してしまう。
+本来のスキル「魔王」のアナザースキル。
+渚で魔王が水着に着替えたらこうなった。
+副作用で少し胸が大きくなっている気もするんじゃが気のせいかの？
+
+|资料6条件=
+羁绊达到Lv.5后开放
+
+|资料6=
+第六天魔王波旬，织田信长。
+
+原本的第六天魔王状态是不仅能烧尽神佛，
+甚至会烧尽自己的危险模式，
+所以才通过用 Berserker 这个职阶进行封印，
+以便暂时维持第六天魔王状态。
+尽管她总使用愚蠢的言行糊弄过去，但对信长来说，
+这个形象是非常危险的状态，因此需要定期
+释放（Shout）魔力（Rock）来降温才行。
+
+——算了，这也是无可奈何的！
+
+|资料6日文=
+第六天魔王波旬、織田信長。
+
+本来の第六天魔王状態は神仏はおろか、己すら焼き尽くしかねない危険なモードのため、バーサーカーというクラスに封じることで限定的に第六天魔王状態を保っている。
+うつけた言動で誤魔化してはいるが、この姿は信長的にはかなり危険な状態のため、定期的に魔力（ロック）を解放（シャウト）してクールダウンしている。　
+
+―――ま、是非もないよネ！
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+まおうサーヴァント
+ロックな水着を着たノッブ。いつも以上にはしゃぎすぎている。すみやかに霊基再臨してクソダサいＴシャツを脱がせてあげたい。
+}}
+
+==羁绊点数==
+{{羁绊点数|2000|3000|4000|5000|6000|210000|230000|270000|350000|400000|4}}
+
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|织田信长(Berserker)|yy}}
+{{参阅|织田信长(Berserker)/情人节剧情语音|该从者情人节剧情的语音}}
+{{:织田信长(Berserker)/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|图标1=狂信长头像1.png
+|图标2=狂信长头像2.png
+|图标3=狂信长头像3.png
+}}
+===战斗形象===
+{{战斗形象
+|模型1=狂信长战斗模型1.png
+|模型2=狂信长战斗模型2.png
+|模型3=狂信长战斗模型3.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==其他==
+===武器===
+{| class="wikitable" style="text-align:center;width:300px"
+![[文件:织田信长(Berserker)武器.png|252x252px]]
+|- style="background:#ffadad"
+|～燃烧夏日!～Guitar～
+|}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+[[分类:泳装系从者]]
+该页面使用的模板：
+
+天下布武～2018summer.ver～（查看源代码）燃烧无对错巧克力（查看源代码）织田信长(Berserker)/成长曲线（查看源代码）织田信长(Berserker)/未来Pick Up情况（查看源代码）织田信长(Berserker)/语音（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者小图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:特性（查看源代码）（受保护）模板:相关从者（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至织田信长(Berserker)。
+ 
+						取自“http://fgo.wiki/w/织田信长(Berserker)”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF(Berserker)","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF(Berserker)","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF(Berserker)&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/3582
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+国服：复刻：唠唠叨叨帝都圣杯奇谭 轻量版
+日服：复刻：ALL信长总进击 唠唠叨叨最终本能寺2019 轻量版
+日服：2000万下载突破纪念活动
+
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+1600万下载纪念推荐召唤
+大奥推荐召唤2
+
+日服
+复刻唠唠叨叨最终本能寺2019推荐召唤
+2000万下载纪念推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+Bigfun社区-FGO版块
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+    var commentStyle = document.createElement("style");
+    commentStyle.type = "text/css";
+    commentStyle.innerHTML = ".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+    commentStyle.id = "addCommentStyle";
+    document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":173});});
+
+

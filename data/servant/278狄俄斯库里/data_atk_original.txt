@@ -1,0 +1,278 @@
+﻿
+
+
+查看“狄俄斯库里/成长曲线”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"狄俄斯库里/成长曲线","wgTitle":"狄俄斯库里/成长曲线","wgCurRevisionId":279529,"wgRevisionId":0,"wgArticleId":52250,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"狄俄斯库里/成长曲线","wgRelevantArticleId":52250,"wgRequestId":"959bb18b1697a3dae7c0079d","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“狄俄斯库里/成长曲线”的源代码 
+←狄俄斯库里/成长曲线
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{成长曲线|数据=
+{"lv": 1, "HP": 2174, "ATK": 1829},{"lv": 2, "HP": 2389, "ATK": 1999},{"lv": 3, "HP": 2616, "ATK": 2179},{"lv": 4, "HP": 2831, "ATK": 2349},{"lv": 5, "HP": 3059, "ATK": 2529},{"lv": 6, "HP": 3274, "ATK": 2699},{"lv": 7, "HP": 3502, "ATK": 2880},{"lv": 8, "HP": 3717, "ATK": 3050},{"lv": 9, "HP": 3932, "ATK": 3220},{"lv": 10, "HP": 4147, "ATK": 3390},{"lv": 11, "HP": 4349, "ATK": 3550},{"lv": 12, "HP": 4564, "ATK": 3721},{"lv": 13, "HP": 4767, "ATK": 3881},{"lv": 14, "HP": 4969, "ATK": 4041},{"lv": 15, "HP": 5172, "ATK": 4201},{"lv": 16, "HP": 5361, "ATK": 4351},{"lv": 17, "HP": 5551, "ATK": 4501},{"lv": 18, "HP": 5741, "ATK": 4652},{"lv": 19, "HP": 5918, "ATK": 4792},{"lv": 20, "HP": 6095, "ATK": 4932},{"lv": 21, "HP": 6272, "ATK": 5072},{"lv": 22, "HP": 6437, "ATK": 5202},{"lv": 23, "HP": 6601, "ATK": 5332},{"lv": 24, "HP": 6753, "ATK": 5452},{"lv": 25, "HP": 6905, "ATK": 5573},{"lv": 26, "HP": 7056, "ATK": 5693},{"lv": 27, "HP": 7196, "ATK": 5803},{"lv": 28, "HP": 7322, "ATK": 5903},{"lv": 29, "HP": 7449, "ATK": 6003},{"lv": 30, "HP": 7575, "ATK": 6103},{"lv": 31, "HP": 7676, "ATK": 6183},{"lv": 32, "HP": 7790, "ATK": 6273},{"lv": 33, "HP": 7891, "ATK": 6353},{"lv": 34, "HP": 7980, "ATK": 6424},{"lv": 35, "HP": 8068, "ATK": 6494},{"lv": 36, "HP": 8144, "ATK": 6554},{"lv": 37, "HP": 8208, "ATK": 6604},{"lv": 38, "HP": 8271, "ATK": 6654},{"lv": 39, "HP": 8321, "ATK": 6694},{"lv": 40, "HP": 8372, "ATK": 6734},{"lv": 41, "HP": 8410, "ATK": 6764},{"lv": 42, "HP": 8448, "ATK": 6794},{"lv": 43, "HP": 8473, "ATK": 6814},{"lv": 44, "HP": 8486, "ATK": 6824},{"lv": 45, "HP": 8499, "ATK": 6834},{"lv": 46, "HP": 8511, "ATK": 6844},{"lv": 47, "HP": 8524, "ATK": 6854},{"lv": 48, "HP": 8536, "ATK": 6864},{"lv": 49, "HP": 8549, "ATK": 6874},{"lv": 50, "HP": 8574, "ATK": 6894},{"lv": 51, "HP": 8612, "ATK": 6924},{"lv": 52, "HP": 8663, "ATK": 6964},{"lv": 53, "HP": 8714, "ATK": 7004},{"lv": 54, "HP": 8777, "ATK": 7054},{"lv": 55, "HP": 8840, "ATK": 7104},{"lv": 56, "HP": 8916, "ATK": 7164},{"lv": 57, "HP": 9005, "ATK": 7234},{"lv": 58, "HP": 9093, "ATK": 7305},{"lv": 59, "HP": 9194, "ATK": 7385},{"lv": 60, "HP": 9308, "ATK": 7475},{"lv": 61, "HP": 9409, "ATK": 7555},{"lv": 62, "HP": 9536, "ATK": 7655},{"lv": 63, "HP": 9662, "ATK": 7755},{"lv": 64, "HP": 9789, "ATK": 7855},{"lv": 65, "HP": 9928, "ATK": 7965},{"lv": 66, "HP": 10080, "ATK": 8085},{"lv": 67, "HP": 10232, "ATK": 8206},{"lv": 68, "HP": 10383, "ATK": 8326},{"lv": 69, "HP": 10548, "ATK": 8456},{"lv": 70, "HP": 10712, "ATK": 8586},{"lv": 71, "HP": 10889, "ATK": 8726},{"lv": 72, "HP": 11066, "ATK": 8866},{"lv": 73, "HP": 11244, "ATK": 9006},{"lv": 74, "HP": 11433, "ATK": 9157},{"lv": 75, "HP": 11623, "ATK": 9307},{"lv": 76, "HP": 11813, "ATK": 9457},{"lv": 77, "HP": 12015, "ATK": 9617},{"lv": 78, "HP": 12218, "ATK": 9777},{"lv": 79, "HP": 12420, "ATK": 9937},{"lv": 80, "HP": 12635, "ATK": 10108},{"lv": 81, "HP": 12837, "ATK": 10268},{"lv": 82, "HP": 13053, "ATK": 10438},{"lv": 83, "HP": 13268, "ATK": 10608},{"lv": 84, "HP": 13483, "ATK": 10778},{"lv": 85, "HP": 13710, "ATK": 10959},{"lv": 86, "HP": 13925, "ATK": 11129},{"lv": 87, "HP": 14153, "ATK": 11309},{"lv": 88, "HP": 14368, "ATK": 11479},{"lv": 89, "HP": 14596, "ATK": 11659},{"lv": 90, "HP": 14824, "ATK": 11840},{"lv": 91, "HP": 14963, "ATK": 11950},{"lv": 92, "HP": 15102, "ATK": 12060},{"lv": 93, "HP": 15241, "ATK": 12170},{"lv": 94, "HP": 15380, "ATK": 12280},{"lv": 95, "HP": 15532, "ATK": 12400},{"lv": 96, "HP": 15671, "ATK": 12510},{"lv": 97, "HP": 15810, "ATK": 12620},{"lv": 98, "HP": 15949, "ATK": 12730},{"lv": 99, "HP": 16101, "ATK": 12851},{"lv": 100, "HP": 16240, "ATK": 12961}
+}}
+该页面使用的模板：
+
+模板:成长曲线（查看源代码）返回至狄俄斯库里/成长曲线。
+ 
+						取自“http://fgo.wiki/w/狄俄斯库里/成长曲线”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E7%8B%84%E4%BF%84%E6%96%AF%E5%BA%93%E9%87%8C\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E7%8B%84%E4%BF%84%E6%96%AF%E5%BA%93%E9%87%8C\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E7%8B%84%E4%BF%84%E6%96%AF%E5%BA%93%E9%87%8C\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/52250
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+国服：幕间物语活动 第8弹
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112});});
+
+

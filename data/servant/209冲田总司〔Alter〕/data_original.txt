@@ -1,0 +1,640 @@
+﻿
+
+
+查看“冲田总司〔Alter〕”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"冲田总司〔Alter〕","wgTitle":"冲田总司〔Alter〕","wgCurRevisionId":285046,"wgRevisionId":0,"wgArticleId":14093,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"冲田总司〔Alter〕","wgRelevantArticleId":14093,"wgRequestId":"c9a11c596500894547011c3c","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@1md9gpc",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+Mooncell提示：国服将于1小时16分钟后开始维护。
+$(document).ready(
+	function(){
+		checkTime();
+		var i=window.setInterval(
+			function(){
+				if(new Date().getSeconds()==0){
+					window.clearInterval(i);
+					window.setInterval(checkTime(),60000);
+				}
+			},1000)
+	}
+);
+function checkTime(){
+	var a=document.getElementsByClassName('TLDcontainer');
+	if(a.length==0){return};
+	var ct=new Date().getTime()/1000;
+	for(var i=0;i<a.length;i++){
+		var s=a[i].getAttribute('data-time').split(',');
+		if(parseInt(s[0],10)<ct&&ct<parseInt(s[1],10)){
+			if(a[i].style.display!='inline'){
+				a[i].style.display='inline';
+			}
+		}else{
+			if(a[i].style.display!='none'){
+				a[i].style.display='none';
+			}					
+		}
+	}
+}
+
+
+
+查看“冲田总司〔Alter〕”的源代码 
+←冲田总司〔Alter〕
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{相关从者|冲田总司|冲田总司〔Alter〕|冲田·J·总司}}{{review|user=vk950313|time=2018.7.10}}
+
+==基础数值==
+{{基础数值
+|背景颜色=#8F6F6F
+|文字颜色=#EDEED5
+|稀有度=5
+|获取途径=限定
+|序号=209
+|中文名=冲田总司〔Alter〕
+|日文名=沖田総司〔オルタ〕
+|英文名=Okita Souji (Alter)
+|中文战斗名=魔{{jin}}·冲田总司
+|日文战斗名=魔{{jin}}・沖田総司
+|中文卡面名=魔{{jin}}·冲田总司
+|日文卡面名=魔{{jin}}・沖田総司
+|英文卡面名=Okita Souji (Alter)
+|声优=悠木碧
+|画师=武内崇
+|属性1=中立
+|属性2=中庸
+|性别=女性
+|身高=163cm
+|体重=51kg
+|隐藏属性=人
+|职阶=Alterego
+|筋力=B
+|耐久=C
+|敏捷=A
+|魔力=B
+|幸运=C
+|宝具=A
+|基础ATK=1926
+|基础HP=1862
+|满级ATK=12465
+|满级HP=12696
+|90级ATK=12465
+|90级HP=12696
+|100级ATK=13645
+|100级HP=13909
+|第一张卡=Quick
+|第二张卡=Quick
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.77%
+|A卡np率=0.77%
+|B卡np率=0.77%
+|EX卡np率=0.77%
+|宝具np率=0.77%
+|受击np率=4%
+|Q卡hit数=5
+|A卡hit数=3
+|B卡hit数=3
+|EX卡hit数=5
+|宝具卡hit数=7
+|Q卡伤害分布=6,13,20,26,35
+|A卡伤害分布=16,33,51
+|B卡伤害分布=16,33,51
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=3,7,10,14,17,21,28
+|出星率=10.2%
+|即死率=35.0%
+|暴击权重=99
+|特性1=阿尔托莉雅脸
+|特性2=所爱之人
+|特性3=人科
+|人型=是
+|被EA特攻=是
+|昵称=总司酱、魔神总司、黑总司、魔总、摩斯、黑冲田
+|立绘1=第１阶段
+|文件1=黑总司初始
+|立绘2=第２阶段
+|文件2=黑总司一破
+|立绘3=第３阶段
+|文件3=黑总司三破
+|立绘4=第４阶段
+|文件4=黑总司满破
+|立绘5=愚人节
+|文件5=冲田总司〔Alter〕愚人节卡面
+}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{参阅|音乐鉴赏/宝具背景音乐合集#冲田总司〔Alter〕|该从者的宝具背景音乐}}
+{{宝具
+|中文名=绝剑·无穹三段
+|国服上标=Zekken Mukyuu Sandan
+|日文名=絶剱·無穹三段
+|日服上标=ぜっけん・むきゅうさんだん
+|卡色=Buster
+|类型=全体
+|阶级=A
+|种类=对界宝具
+|效果A=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值A1=300%|数值A2=400%|数值A3=450%|数值A4=475%|数值A5=500%
+|效果B=Buster攻击耐性下降(3回合)<Over Charge时效果提升>
+|数值B1=30%|数值B2=35%|数值B3=40%|数值B4=45%|数值B5=50%
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|红绿放|极地 A|極地 A|8	
+|自身的Quick指令卡性能提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%	
+|Buster指令卡性能提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+<tabber>
+强化前=
+{{持有技能|充能|不断 B|不断 B|8
+|自身增加NP|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|暴击星集中度提升(1回合)|300%|320%|340%|360%|380%|400%|420%|440%|460%|500%
+}}
+|-|
+强化后=通关「[[冲田总司〔Alter〕/从者任务#强化任务|强化关卡 冲田总司〔Alter〕]]」后强化。<br>
+''（开放条件：达到灵基再临第4阶段。开放时间：[[复刻：ALL信长总进击 唠唠叨叨最终本能寺2019 轻量版]]。）''
+{{持有技能|充能|不断 B+|不断 B+|8
+|自身增加NP<!--自身のNPを増やす-->
+|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|暴击星集中度提升(1回合)
+|300%|320%|340%|360%|380%|400%|420%|440%|460%|500%
+|攻击力提升(3次·3回合)<!--攻撃力をアップ(3回・3ターン)[g][o]▲[/o][/g]-->
+|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+</tabber>
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|宝具威力提升|无边 A|無辺 A|7
+|自身的宝具威力提升(1回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|付与自身回避状态(1次·3回合)|∅|||||||||
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|B|自身的弱化状态耐性少量提升(17.5%)|单独行动|单独行动|A|自身的暴击威力少许提升(10%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|剑阶银棋|5}}{{材料消耗|杀阶银棋|5}}
+|1->2={{材料消耗|剑阶银棋|12}}{{材料消耗|杀阶银棋|12}}
+|2->3={{材料消耗|剑阶金像|5}}{{材料消耗|杀阶金像|5}}
+|3->4={{材料消耗|剑阶金像|12}}{{材料消耗|杀阶金像|12}}
+|总计={{材料消耗|剑阶银棋|17}}{{材料消耗|杀阶银棋|17}}{{材料消耗|剑阶金像|17}}{{材料消耗|杀阶金像|17}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|剑之辉石|5}}{{材料消耗|杀之辉石|5}}
+|2->3={{材料消耗|剑之辉石|12}}{{材料消耗|杀之辉石|12}}
+|3->4={{材料消耗|剑之魔石|5}}{{材料消耗|杀之魔石|5}}
+|4->5={{材料消耗|剑之魔石|12}}{{材料消耗|杀之魔石|12}}
+|5->6={{材料消耗|剑之秘石|5}}{{材料消耗|杀之秘石|5}}
+|6->7={{材料消耗|剑之秘石|12}}{{材料消耗|杀之秘石|12}}
+|7->8={{材料消耗|八连双晶|8}}{{材料消耗|永远结冰|8}}
+|8->9={{材料消耗|咒兽胆石|9}}{{材料消耗|奇奇神酒|9}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|剑之辉石|17}}{{材料消耗|杀之辉石|17}}{{材料消耗|剑之魔石|17}}{{材料消耗|杀之魔石|17}}{{材料消耗|剑之秘石|17}}{{材料消耗|杀之秘石|17}}{{材料消耗|八连双晶|8}}{{材料消耗|永远结冰|8}}{{材料消耗|咒兽胆石|9}}{{材料消耗|奇奇神酒|9}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|剑阶银棋|17}}{{材料消耗|杀阶银棋|17}}{{材料消耗|剑阶金像|17}}{{材料消耗|杀阶金像|17}}{{材料消耗|剑之辉石|51}}{{材料消耗|杀之辉石|51}}{{材料消耗|剑之魔石|51}}{{材料消耗|杀之魔石|51}}{{材料消耗|剑之秘石|51}}{{材料消耗|杀之秘石|51}}{{材料消耗|八连双晶|24}}{{材料消耗|永远结冰|24}}{{材料消耗|咒兽胆石|27}}{{材料消耗|奇奇神酒|27}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+只为仅仅一次的闪耀调整而成的决战英灵。
+别名『魔{{jin}}·冲田总司Alternative』
+
+|详情日文=
+ただ一度の輝きのために調整された決戦英霊。
+別名『魔{{jin}}・沖田総司オルタナティブ』。
+
+|资料1条件=
+|资料1=
+身高／体重：163cm·51kg
+出处：史实
+地域：日本
+属性：中立·中庸　　　性别：女性
+「我乃魔{{jin}}Sa……不，是Alterego，冲田Alter亲。」
+
+|资料1日文=
+身長／体重：163cm・51kg
+出典：史実
+地域：日本
+属性：中立・中庸　　　性別：女性
+「我は魔{{jin}}セ……、いや、アルターエゴ、沖田オルタちゃんだった」
+
+|资料2条件=
+|资料2=
+冲田总司的另一个侧面，是为了行使抑止力而改变、调整了灵基的极为特殊的英灵。
+由于是为仅仅一次的显现为目的调整而成的，所以除基本架构以外，已经变质到与原本的冲田灵基完全不同的程度。之所以作为Alterego被召唤，而不是作为冲田适性职阶的Saber被召唤，也是因为这个原因。
+
+是英年早逝的冲田总司可能到达的可能性的末路。
+
+|资料2日文=
+沖田総司の別側面であり、抑止力の行使のために霊基を改変、調整された極めて特殊な英霊。
+ただ一度きりの顕現を目的として調整されたため、基本骨子以外は、元となる沖田の霊基とは別物ともいえるレベルに変質している。沖田の適性クラスであるセイバーではなくアルターエゴでの召喚もそのため。
+
+若くしてこの世を去った沖田総司が到達しえたかもしれない可能性の末路。
+
+|资料3条件=
+|资料3=
+单独行动：A
+作为抑止的守护者，可以单独行动。由于是为了在绝望状况下显现，并以单骑歼灭目标或是与对方同归于尽为目的调整而成的，所以级别很高。
+
+对魔力：B
+与原本的冲田不同，预计会与超常之人战斗，所以持有与Saber职阶相当的对魔力。顺便一提，病弱也被克服了。卑鄙？　就算你这么说……
+
+|资料3日文=
+○単独行動：Ａ
+抑止の守護者として単独での行動が可能。絶望的な状況下に顕現させ、単騎で目標を殲滅、もしくは相打ちでの消滅を目的として調整されたため高ランク。
+
+○対魔力：Ｂ
+本来の沖田とは異なり、超常の者との戦いを想定されているためセイバークラス相当の対魔力を保持する。ちなみに病弱は克服されている。ずるい？　そんな事いわれてもだな……。
+
+|资料4条件=
+|资料4=
+极地：A
+能在各种空间中以万全的状态行动的究极步法。
+
+不断：B
+持续照耀永无止境战斗前路的不断之光。这是那天记忆的证明。
+
+无边：A
+全面照耀所有世界的无边之光。毁灭天魔的金色极光。
+
+|资料4日文=
+○極地：Ａ
+あらゆる空間での十全たる動きを可能とする究極の歩法。
+
+○不断：Ｂ
+絶え間なく続く戦いの道行きを照らす不断の光。それはあの日の記憶の証。
+
+○無辺：Ａ
+一切の世界をあまねく照らす無辺の光。天魔を滅す金色の極光。
+
+|资料5条件=
+|资料5=
+『绝剑·无穹三段』
+阶级：A　种类：对界宝具
+
+Zekken Mukyuu Sandan
+无量、无碍、无边，三光集束成就无穹。
+释放出闪耀着黑光的魔{{jin}}·冲田总司的必杀魔剑。
+甚至可以将本应不存在、不可能存在的东西强行排除出这个世界，进行消灭。
+使用特殊的大太刀『炼狱剑』释放。
+
+大太刀刀铭的『炼狱』是擅自取的，原本是无铭的谜之武器。不知怎么一回事，似乎具备自律意识，性能会配合使用者的心情大幅变动。状态好的时候刀身中央会闪耀红光。它似乎还挺中意炼狱这个刀铭呢。
+
+|资料5日文=
+『絶剱・無穹三段』
+ランク：Ａ　種別：対界宝具
+
+ぜっけん・むきゅうさんだん。
+無量、無碍、無辺、三光束ねて無穹と成す。
+光り輝く黒光を放つ魔{{jin}}・沖田総司必殺の魔剣。
+本来、存在しえないもの、してはいけないものすら強制的に世界から退去、消滅させることが可能。
+特殊な大太刀『煉獄剣』を使用して放つ。
+
+大太刀の銘『煉獄』は勝手につけられたもので本来は無銘の謎兵装。どういうわけか自律意思のようなものがあるらしく、使用者の気分に合わせて性能がかなり変動する。調子がいいときは刀身の中央が赤く輝く。煉獄という銘はそれなりに気に入っている模様。
+
+|资料6条件=
+羁绊达到Lv.5后开放
+
+|资料6=
+我原本只为仅仅一次的显现而生，却不知为何拥有了近乎永恒的人生，如今也像这样立于无穹之空下。尽管记忆和灵基都有所损耗，已经记不清那个人的容颜，但那时候、那个地方、那份情感至今仍温暖地照耀着我的内心。
+
+　　　　——那是何等美妙啊。
+
+|资料6日文=
+ただ一度の顕現のためだけに生まれたはずの私が、どういうわけか永遠とも思える長い時を生き、こうして無穹の空の下で今も立ち続けている。もはや記憶も霊基も摩耗しあの人の顔すら朧げだが、あの時、あの場所、あの気持ちだけは今も私の心に暖かく灯り続けている。
+
+　　　　―――それはとても素敵なこと。
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=
+人斩从者
+冲田总司帅气的进化形态。看起来很酷但又不失亲切。身为正义的伙伴，虽然力量有所提升，但相应的，头脑也会变得有点不好使。
+
+|日文=
+ひときりサーヴァント
+沖田総司がかっこよく進化したすがた。クールな見た目だが人懐こい。正義の味方としてパワーアップしているが、そのぶん頭が若干悪くなっているぞ。
+}}
+
+==羁绊点数==
+{{羁绊点数|3500|8500|7000|6000|2500|292500|360000|340000|320000|315000|5}}
+
+==相关礼装==
+{{参阅|冲田总司〔Alter〕/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+
+{{参阅三|冲田总司〔Alter〕|yy}}
+{{参阅|冲田总司〔Alter〕/情人节剧情语音|该从者情人节剧情的语音}}
+{{:冲田总司〔Alter〕/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=冲田总司〔Alter〕头像1.png
+|图标2=冲田总司〔Alter〕头像2.png
+|图标3=冲田总司〔Alter〕头像3.png
+}}
+
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=冲田总司〔Alter〕-战斗形象-1.png
+|模型2=冲田总司〔Alter〕-战斗形象-2.png
+|模型3=冲田总司〔Alter〕-战斗形象-3.png
+}}
+
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+关东煮巧克力（查看源代码）冲田总司〔Alter〕/成长曲线（查看源代码）冲田总司〔Alter〕/未来Pick Up情况（查看源代码）冲田总司〔Alter〕/语音（查看源代码）无穹的尽头（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Jin（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者小图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:相关从者（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:语音表格/注释（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至冲田总司〔Alter〕。
+ 
+						取自“http://fgo.wiki/w/冲田总司〔Alter〕”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8%E3%80%94Alter%E3%80%95","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8%E3%80%94Alter%E3%80%95","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8%E3%80%94Alter%E3%80%95&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/14093
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+国服：复刻：唠唠叨叨帝都圣杯奇谭 轻量版
+日服：复刻：ALL信长总进击 唠唠叨叨最终本能寺2019 轻量版
+日服：2000万下载突破纪念活动
+
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+1600万下载纪念推荐召唤
+大奥推荐召唤2
+
+日服
+复刻唠唠叨叨最终本能寺2019推荐召唤
+2000万下载纪念推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+Bigfun社区-FGO版块
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+    var commentStyle = document.createElement("style");
+    commentStyle.type = "text/css";
+    commentStyle.innerHTML = ".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+    commentStyle.id = "addCommentStyle";
+    document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":146});});
+
+

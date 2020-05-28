@@ -1,0 +1,1076 @@
+﻿
+
+
+查看“伟大的石像神”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"伟大的石像神","wgTitle":"伟大的石像神","wgCurRevisionId":287734,"wgRevisionId":0,"wgArticleId":41777,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"伟大的石像神","wgRelevantArticleId":41777,"wgRequestId":"06d8a4313f45e5fec59947d3","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0lsxqe2",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+ type="text/css"/* 这里放置的CSS将应用于所有皮肤的侧边栏 */
+.skin-vector .mw-body {
+	margin-left: 11em!important;
+	padding: 1.25em 1.5em 1.5em 1.5em!important
+}
+
+.skin-vector #mw-panel {
+	padding-left: 0!important;
+	width: 10.5em!important
+}
+
+div#MenuSidebar {
+	margin-bottom: 5rem;
+	position: absolute;
+	top: 200px;
+	width: 100%
+}
+
+div#MenuSidebar a.external {
+	background: 0;
+	padding-right: auto
+}
+
+div#MenuSidebar>:first-child {
+	margin-top: 0;
+	border-top: 2px solid #f4c430
+}
+
+div#MenuSidebar>:first-child>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul {
+	list-style: none none;
+	width: 100%;
+	margin: 0
+}
+
+div#MenuSidebar ul {
+	position: relative;
+	font-size: .9rem
+}
+
+div#MenuSidebar>ul>li ul {
+	display: block;
+	opacity: 0;
+	pointer-events: none;
+	visibility: hidden;
+	transition: .2s all ease-in-out
+}
+
+div#MenuSidebar>ul ul {
+	list-style: none none;
+	position: absolute;
+	left: 100%;
+	width: 100%;
+	top: 0;
+	margin: 0;
+	z-index: 1;
+	background-color: #333;
+	box-shadow: -1px 2px 10px 0 rgba(0, 0, 0, 0.4), -1px -2px 10px 0 rgba(0, 0, 0, 0.4)
+}
+
+div#MenuSidebar ul li:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>p {
+	padding: 8px 10px;
+	margin: 0;
+	cursor: default;
+	margin-top: 8px
+}
+
+div#MenuSidebar>ul li:hover>ul {
+	display: block;
+	opacity: 1;
+	pointer-events: auto;
+	visibility: visible
+}
+
+div#MenuSidebar li {
+	position: relative;
+	margin: 0;
+	box-shadow: inset 0 1px rgba(244, 196, 48, 0.5);
+	transition: .15s all ease-in;
+	z-index: 1
+}
+
+div#MenuSidebar li b,
+div#MenuSidebar li a {
+	padding: 5px 0;
+	padding-left: 18px;
+	display: block;
+	width: auto;
+	height: 100%;
+	font-weight: normal
+}
+
+div#MenuSidebar a {
+	transition: all .15s ease-in;
+	color: #eaeaea
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	color: #000;
+	background-color: #f4c430;
+	text-decoration: none!important
+}
+
+div#MenuSidebar b {
+	cursor: default
+}
+
+div#MenuSidebar li.child>a::after,
+div#MenuSidebar li.child>b::after {
+	float: right;
+	content: "\f0da";
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	display: inherit;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 100%;
+	font-size: 1rem;
+	padding-top: 2%;
+	margin-right: 3px
+}
+
+div#MenuSidebar a.selflink:hover {
+	background-color: inherit;
+	color: #f4c430
+}
+
+div#MenuSidebar>ul>li:last-child>a,
+div#MenuSidebar>ul>li:last-child>b {
+	border-bottom-right-radius: 5px
+}
+
+div#MenuSidebar a.selflink::before {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	border-top: 6px solid transparent;
+	border-bottom: 6px solid transparent;
+	border-left: 6px solid #f4c430
+}
+
+div#MenuSidebar {
+	background-color: rgba(255, 255, 255, 0);
+	box-shadow: none;
+	top: 170px
+}
+
+div#MenuSidebar>ul {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.16), 0 2px 4px rgba(0, 0, 0, 0.23);
+	border-bottom-right-radius: 4px;
+	margin-top: -1px;
+	margin-bottom: 6px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: inset 0 1px #85c1f7;
+	margin-left: 0
+}
+
+div#MenuSidebar>ul ul {
+	background-color: hsla(0, 0%, 100%, 0.9);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+	border-radius: 4px;
+	width: unset!important;
+	z-index: 2
+}
+
+div#MenuSidebar>ul ul li {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul>li>ul {
+	width: 150%;
+	font-size: 100%
+}
+
+div#MenuSidebar>ul>li>ul ul {
+	font-size: 100%
+}
+
+div#MenuSidebar a,
+div#MenuSidebar b {
+	color: #333;
+	text-decoration: none!important
+}
+
+div#MenuSidebar>p {
+	border-top: 0;
+	border-bottom: 2px solid #4487df;
+	color: #4487df;
+	padding: 8px 10px 6px;
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.16), 0 0 4px rgba(0, 0, 0, 0.23);
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:first-child,
+div#MenuSidebar>:not(p)+ul {
+	border-top: 0;
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:not(p)+ul>:first-child {
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>ul>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul ul a,
+div#MenuSidebar>ul ul b {
+	padding: 5px 18px 5px 10px;
+	white-space: nowrap
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding-left: 18px
+}
+
+div#MenuSidebar li li.child>a::after,
+div#MenuSidebar li li.child>b::after {
+	float: unset;
+	position: absolute;
+	right: 0;
+	bottom: 5px
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	background-color: rgba(205, 235, 252, 0.4)
+}
+
+div#MenuSidebar a.selflink,
+div#MenuSidebar b.selflink {
+	font-weight: normal;
+	color: #333;
+	background-image: linear-gradient(90deg, #4487df 4px, transparent 4px)
+}
+
+div#MenuSidebar a.selflink:hover,
+div#MenuSidebar b.selflink:hover {
+	background-color: inherit;
+	color: #333
+}
+
+.skin-vector #left-navigation,
+.skin-vector #content {
+	margin-left: 10.5em
+}
+
+div#MenuSidebar>ul,
+div#MenuSidebar>p {
+	box-shadow: none;
+	border-radius: 0!important;
+	background-color: unset;
+	margin: 0
+}
+
+div#MenuSidebar>p {
+	font-weight: normal;
+	padding: 8px 10px 3px 10px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: none
+}
+
+div#MenuSidebar>p::after {
+	height: 4px;
+	display: block;
+	width: 100%;
+	position: absolute;
+	bottom: -8px;
+	left: 5px;
+	border-radius: 25px;
+	content: "";
+	background-image: linear-gradient(90deg, #4487df, transparent 95%)
+}
+
+div#MenuSidebar>p {
+	color: #4487df;
+	position: relative;
+	padding-left: 15px!important;
+	margin-top: 0!important;
+	margin-bottom: 8px!important;
+	border: 0!important
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding: 2px 0;
+	padding-left: 8px;
+	margin-top: 2px;
+	margin-left: 10px;
+	margin-right: 0;
+	border-radius: 5px 0 0 5px;
+	transition: .3s all ease;
+	color: #555
+}
+
+div#MenuSidebar>ul>:first-child>a,
+div#MenuSidebar>ul>:first-child>b {
+	margin-top: 5px
+}
+
+div#MenuSidebar>ul>li>a:HOVER,
+div#MenuSidebar>ul>li>b:HOVER {
+	background-color: rgba(34, 170, 255, 0.2);
+	color: black
+}
+
+div#MenuSidebar>ul>li>a.selflink {
+	background-color: rgba(34, 170, 255, 0.2)!important;
+	color: black!important
+}
+
+div#MenuSidebar>ul {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: 0;
+	background-image: none
+}
+
+div#MenuSidebar {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	border-radius: none!important;
+	padding-top: 40px;
+	box-shadow: none!important
+}
+
+div#MenuSidebar>ul>li.child>a::after,
+div#MenuSidebar>ul>li.child>b::after {
+	margin-right: 10px!important;
+	color: inherit!important;
+	padding-top: 1%!important;
+}
+
+div#MenuSidebar>ul>li>ul {
+	top: -4px
+}
+
+a.feedlink {
+	padding-left: 16px!important;
+}
+
+/* 为复制短链接增加一个图标 */
+#MenuSidebar #wgCopyURL-url-copy-sidebar::after {
+  content: "\f0c1";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-size: 70%;
+  margin-left: .4em;
+  color: var(--darkblue);
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“伟大的石像神”的源代码 
+←伟大的石像神
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}[[分类:未复查的从者条目]]
+==基础数值==
+{{基础数值
+|背景颜色=
+|文字颜色=
+|稀有度=5
+|获取途径=常驻
+|序号=244
+|中文名=伟大的石像神
+|日文名=大いなる石像神
+|英文名=Great Statue God
+|中文名2=吉娜可·加里吉利
+|日文名2=ジナコ＝カリギリ
+|英文名2=Jinako Carigiri
+|中文战斗名=伽内什
+|日文战斗名=ガネーシャ
+|中文卡面名=伟大的石像神
+|日文卡面名=大いなる石像神
+|英文卡面名=Great Statue God
+|中文卡面名2=吉娜可·加里吉利
+|日文卡面名2=ジナコ＝カリギリ
+|英文卡面名2=Jinako Carigiri
+|中文卡面名3=吉娜可·加里吉利
+|日文卡面名3=ジナコ＝カリギリ
+|英文卡面名3=Jinako Carigiri
+|中文卡面名4=吉娜可·加里吉利
+|日文卡面名4=ジナコ＝カリギリ
+|英文卡面名4=Jinako Carigiri
+|声优=悠木碧
+|画师=WADA ARUKO
+|属性1=秩序
+|属性2=善
+|性别=女性
+|身高=153cm
+|体重=82kg
+|隐藏属性=天
+|职阶=MoonCancer
+|筋力=B
+|耐久=A++
+|敏捷=E
+|魔力=B
+|幸运=A
+|宝具=C
+|基础ATK=1416
+|基础HP=2617
+|满级ATK=9166
+|满级HP=17844
+|90级ATK=9166
+|90级HP=17844
+|100级ATK=10034
+|100级HP=19549
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Arts
+|第五张卡=Buster
+|Q卡np率=0.35%
+|A卡np率=0.35%
+|B卡np率=0.35%
+|EX卡np率=0.35%
+|宝具np率=0.35%
+|受击np率=3%
+|Q卡hit数=4
+|A卡hit数=4
+|B卡hit数=4
+|EX卡hit数=5
+|宝具卡hit数=3
+|Q卡伤害分布=10,20,30,40
+|A卡伤害分布=10,20,30,40
+|B卡伤害分布=10,20,30,40
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=16,33,51
+|出星率=14.5%
+|即死率=0.7%
+|暴击权重=51
+|特性1=神性
+|特性2=骑乘
+|特性3=天地从者
+|特性3备注=(拟似从者)
+|特性4=人科
+|特性5=活在当下的人类
+|人型=是
+|被EA特攻=是
+|天地拟似=1
+|昵称=
+|立绘1=第１阶段
+|文件1=吉娜可初始
+|立绘2=第２阶段
+|文件2=吉娜可一破
+|立绘3=第３阶段
+|文件3=吉娜可三破
+|立绘4=第４阶段
+|文件4=吉娜可满破
+|立绘5=愚人节
+|文件5=伟大的石像神愚人节卡面
+}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{宝具
+|中文名=肉弹啊，明天再开始努力吧
+|国服上标=Ganesh Impact
+|日文名=肉弾よ、翌日から本気であれ
+|日服上标=ガーネッシュ・インパクト
+|卡色=Arts
+|类型=全体
+|阶级=C
+|种类=对人宝具
+|效果A=敌方全体的防御力下降(3回合)
+|数值A1=30%
+|效果B=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值B1=450%|数值B2=600%|数值B3=675%|数值B4=712.5%|数值B5=750%
+|效果C=付与自身无敌状态(1回合)
+|数值C1=∅
+|效果D=HP回复<Over Charge时效果提升>
+|数值D1=2000|数值D2=3000|数值D3=4000|数值D4=5000|数值D5=6000
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|充能|生意兴隆 A|商売繁盛 A|8
+|己方全体的NP增加|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|攻击力提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|付与每回合获得暴击星状态(3回合)|5|||||||||
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|目标集中|被折断的牙 B|砕折されし牙 B|7
+|付与自身目标集中状态(1回合)|300%|||||||||
+|付与被伤害减免状态(1回合)|1000|||||||||
+|攻击力提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|无敌|毗那夜迦 EX|ヴィナーヤカ EX|7
+|付与己方单体无敌状态(1回合)|∅|||||||||
+|NP获得量提升(1回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|付与技能封印状态(1回合)【负面效果】|∅|||||||||
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|A|自身的弱化状态耐性提升(20%)|骑乘|骑乘|A|自身的Quick指令卡性能提升(10%)|神性|神性|B|付与自身伤害附加状态(175)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|枪阶银棋|5}}{{材料消耗|术阶银棋|5}}
+|1->2={{材料消耗|枪阶银棋|12}}{{材料消耗|术阶银棋|12}}
+|2->3={{材料消耗|枪阶金像|5}}{{材料消耗|术阶金像|5}}
+|3->4={{材料消耗|枪阶金像|12}}{{材料消耗|术阶金像|12}}
+|总计={{材料消耗|枪阶银棋|17}}{{材料消耗|术阶银棋|17}}{{材料消耗|枪阶金像|17}}{{材料消耗|术阶金像|17}}
+}}
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|枪之辉石|5}}{{材料消耗|术之辉石|5}}
+|2->3={{材料消耗|枪之辉石|12}}{{材料消耗|术之辉石|12}}
+|3->4={{材料消耗|枪之魔石|5}}{{材料消耗|术之魔石|5}}
+|4->5={{材料消耗|枪之魔石|12}}{{材料消耗|术之魔石|12}}
+|5->6={{材料消耗|枪之秘石|5}}{{材料消耗|术之秘石|5}}
+|6->7={{材料消耗|枪之秘石|12}}{{材料消耗|术之秘石|12}}
+|7->8={{材料消耗|巨人的戒指|8}}{{材料消耗|闲古铃|8}}
+|8->9={{材料消耗|智慧之圣甲虫像|9}}{{材料消耗|九十九镜|9}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|枪之辉石|17}}{{材料消耗|术之辉石|17}}{{材料消耗|枪之魔石|17}}{{材料消耗|术之魔石|17}}{{材料消耗|枪之秘石|17}}{{材料消耗|术之秘石|17}}{{材料消耗|巨人的戒指|8}}{{材料消耗|闲古铃|8}}{{材料消耗|智慧之圣甲虫像|9}}{{材料消耗|九十九镜|9}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|枪阶银棋|17}}{{材料消耗|术阶银棋|17}}{{材料消耗|枪阶金像|17}}{{材料消耗|术阶金像|17}}{{材料消耗|枪之辉石|51}}{{材料消耗|术之辉石|51}}{{材料消耗|枪之魔石|51}}{{材料消耗|术之魔石|51}}{{材料消耗|枪之秘石|51}}{{材料消耗|术之秘石|51}}{{材料消耗|巨人的戒指|24}}{{材料消耗|闲古铃|24}}{{材料消耗|智慧之圣甲虫像|27}}{{材料消耗|九十九镜|27}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+非常大（各种意义上）。
+是个象头的石像（如你所见）。
+能感受到神性（不知为何）。
+
+除此之外没有什么好说的——
+目前是这样。
+
+|详情日文=
+大きいのである（いろんな意味で）。
+象頭の石像なのである（見ての通り）。
+神性を感じるのである（なぜか）。
+
+それ以外に語るところはない―――
+今のところは。
+
+|资料1条件=
+灵基再临突破1阶段且羁绊达到Lv.1时开放
+
+|资料1=
+身高／体重：153cm·82kg
+出处：―
+地域：―
+属性：秩序·善　　　性别：女性
+里面不存在什么人。
+
+|资料1日文=
+身長／体重：153cm・82kg
+出典：―
+地域：―
+属性：秩序・善　　　性別：女性
+中の人などいない。
+
+|资料2条件=
+灵基再临突破1阶段且羁绊达到Lv.2时开放
+
+|资料2=
+她是神灵凭依在人类身上的拟似从者……尽管这样认为，其成立过程却谜团重重。
+说实在的，各种原委都出了问题。
+尽管灵基图谱的姓名栏里写着被认为是凭依之躯的人类魔术师的名字，但不知为何出现了概念上的乱码，谁也无法解读。
+因此包括御主在内，所有迦勒底人员都依照她本人的自称，称其为「伽内什小姐」。
+她的真实身份到底是不是印度神灵伽内什，其实还尚无定论。
+
+|资料2日文=
+人間の依り代に神霊が宿った疑似サーヴァント……であると考えられるものの、その成立過程には謎が多い。
+正直なところ、様々な経緯がバグっている。
+霊基グラフの名前欄には依り代と思われる人間の魔術師の名前が表記されているようだが、なぜか概念的な文字化けを起こし誰にも読み取れない状態にある。
+なのでマスターを含めカルデアの人員は、彼女のことは本人の自称に従って「ガネーシャさん」と呼ぶ。
+本当に中身がインドの神霊ガネーシャなのかどうかは実のところ定かではない。
+
+|资料3条件=
+灵基再临突破1阶段且羁绊达到Lv.3时开放
+
+|资料3=
+偶尔，与凭依之躯的她似乎有些因缘的人会不经意提起她的名字，但这种情况仅仅会在无意识中发生。而且，其他人也无法认知到她的名字。
+
+从她显现为特殊职阶来看，推测或许是某个上级AI对该从者的成立有所干预……但真相尚在黑暗之中，
+或者在另一个世界的月之背面。
+
+|资料3日文=
+稀に依り代の彼女と縁があるらしき者が何かの拍子にその名を口にすることもあるが、それは無意識の中からしか生まれ得ず、また、その名が他の誰かに意味を持って認識されることもない。
+
+エクストラクラスで顕現していることからして、とある上級ＡＩがこのサーヴァントの成立に何か関与しているのではないかと推測されているが……真実は闇の中、
+もしくは別世界の月の裏側である。
+
+|资料4条件=
+灵基再临突破1阶段且羁绊达到Lv.4时开放
+
+|资料4=
+○被折断的牙：B
+表现象头神的特征，被折断的右牙的技能。
+她看穿持斧罗摩的斧子是父神湿婆赐予之物，便刻意没有避开，而是接了下来。因此，她的牙才会折断。这一传说十分有名。
+异说也有很多，比如她的牙最初就是折断的、折断牙是为了把牙掷向月亮。
+
+○毗那夜迦：EX
+伽内什的别名。意思是「无上」。
+此外，这也被视作拥有『化为障碍者』这一性质的魔神之名。
+其与『只要越过这一障碍就能迎来成功』的含义相联系，结果产生了『排除障碍之神』的信仰。
+
+|资料4日文=
+○砕折されし牙：Ｂ
+象頭の神の特徴、折れた右の牙を示すスキル。
+パラシュラーマの斧が父神シヴァの与えたものだと見抜き、あえて避けずに受け止めたために牙が折れたという逸話が有名。
+異説も多く、牙は最初から折れていたとも、月に向かって投げつけたからだとも言われる。
+
+○ヴィナーヤカ：ＥＸ
+ガネーシャの別名。「無上」を意味する。
+また、これは『障害となる者』の性質を持つ魔神の名でもあるとされる。
+それは『その障害を乗り越えれば成功が訪れる』という意味に繋がり、結果として『障害を除去する神』の信仰を生み出すこととなった。
+
+|资料5条件=
+灵基再临突破1阶段且羁绊达到Lv.5时开放
+
+|资料5=
+『肉弹啊，明天再开始努力吧』
+阶级：C　种类：对人宝具
+有效范围：1～10　最大捕捉：10人
+
+Ganesh Impact。
+各种意义上被逼到绝境的伽内什小姐猛地放出的
+反咬一口的宝具。
+其真面目，是用填入了满满神气的武器发起的，
+字面意义上的超重打击。
+
+|资料5日文=
+『肉弾よ、翌日から本気であれ』
+ランク：Ｃ　種別：対人宝具
+レンジ：１～１０　最大捕捉：１０人
+
+ガーネッシュ・インパクト。
+いろいろ追い詰められたガネーシャさんが繰り出す
+逆ギレ宝具。
+その正体は、神気を込めに込めた武器による、
+ただの重すぎる打撃である。
+
+|资料6条件=
+Lostbelt No.4通关且灵基再临突破1阶段且羁绊达到Lv.5时开放
+
+|资料6=
+『归命吧，吾乃障碍之神』
+阶级：A　种类：对碍宝具
+有效范围：―　最大捕捉：―
+
+Ganesha Vighnesvara。
+只有特殊情况下才能使用。
+『Ganesha』有着『亲族之主』的含义，
+『Vighnesvara』是伽内什的别名，
+意为『障碍之神』。
+由将身为排除障碍之神的性质纯粹化而显现出的、绝对不可侵犯的力场。
+若是用于攻击，便能以那份绝对强度排除、击败挡在眼前的障碍。
+当然在防守方面，也可以当做完美的盾来使用，能防住来自别处的任何攻击（障碍）。
+
+在印度异闻带中，她使用这一宝具（通过与拥有更接近的性质的拉克西米的宝具相结合）覆盖了自身周围的一切，
+创造出了就连重塑世界之神的力量也无法干涉的『绝对不可侵犯的家里蹲房间』。
+
+|资料6日文=
+『帰命せよ、我は障害の神なり』
+ランク：Ａ　種別：対礙宝具
+レンジ：―　最大捕捉：―
+
+ガネーシャ・ヴィグネーシュヴァラ。
+特別な事情がない限り使われない。
+『ガネーシャ』は『眷属の主』を意味し、
+『ヴィグネーシュヴァラ』はガネーシャの別名で
+『障害の神』を意味する。
+障害除去神としての性質を純化させる事で発現させる、絶対不可侵力場。
+攻めに使えば、その絶対強度で眼前に立ちはだかる障害を排する、押し退ける事ができる。
+もちろん守りには他からのいかなる攻撃（障害）も防ぐ完全な盾として使える。
+
+インドの異聞帯では、彼女はこれを用いて（さらに近い性質を持つラクシュミーの宝具と組み合わせる事によって）自らの周囲全てを覆い、世界を創り変える神の力すらも届かぬ『絶対不可侵の引きこもり部屋』を作り出した。
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=
+家里蹲从者
+超级尊贵的象的石像。如果装饰在玄关或者房间的话能保证全家安康，事业有成，学习能力超直线上升。不过好像有什么圆滚滚的生物住在里面了。
+
+|日文=
+ひきこもりサーヴァント
+大変ありがたい象の像。玄関や居間に飾っておけば家内安全、商売繁盛、学力向上まちがいなし。中に何か丸っこい生き物が住み着いているようだ。
+}}
+
+==羁绊点数==
+{{羁绊点数|4000|12000|3000|13000|10000|257500|261000|309000|343600|431400|5}}
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|{{PAGENAME}}|yy}}
+{{参阅|{{PAGENAME}}/情人节剧情语音|该从者情人节剧情的语音}}
+{{:{{PAGENAME}}/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=伟大的石像神_status_1.png
+|图标2=伟大的石像神_status_2.png
+|图标3=伟大的石像神_status_3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=伟大的石像神_model_1.png
+|模型2=伟大的石像神_model_2.png
+|模型3=伟大的石像神_model_3.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+[[分类:拟似从者]]
+该页面使用的模板：
+
+伟大的石像神/成长曲线（查看源代码）伟大的石像神/未来Pick Up情况（查看源代码）伟大的石像神/语音（查看源代码）在美食之门中（查看源代码）豪华巧克力蛋糕（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至伟大的石像神。
+ 
+						取自“http://fgo.wiki/w/伟大的石像神”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+英灵图鉴礼装图鉴指令纹章图鉴游戏数据基础各类信息汇总新人御主Q＆A抽卡模拟器 
+
+
+
+热门
+
+
+国服：冥界的圣诞快乐日服：魔伊联动复刻★5(SSR)埃列什基伽勒★4(SR)美游·艾德费尔特 
+
+
+
+扩展
+
+
+关卡配置活动一览卡池一览道具一览灵衣一览敌人一览技能一览状态一览御主装备音乐鉴赏声优一览画师一览登场人物关卡特性相关数据计算器 
+
+
+
+趣味
+
+
+FGO相关表情包FGO名人录FGO黑话·梗·成句游戏卫星一览趣味游戏 
+
+
+
+常用
+
+
+首页最近更改随机页面SE.RA.PH模板一览编辑指南贡献分数页面短链接如何支持我们收支一览点我反馈 
+
+
+
+工具
+
+
+链入页面相关更改特殊页面页面信息 
+
+
+window.toolbox=document.querySelector("#p-tb ul").innerHTML;var a=document.querySelectorAll("#mw-panel > *");for (var i=0;i<a.length;i++){if(a[i].id!="p-logo"){a[i].parentNode.removeChild(a[i])}}首页
+复制短链接https://fgo.wiki/id/41777
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：『Fate/Requiem』棋盘游戏默示录
+国服：淑女·莱妮丝事件簿
+
+新增从者
+★4(SR) 鬼女红叶(Berserker)
+★5(SSR) 旅行者(Foreigner)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+事件簿联动活动推荐召唤
+
+日服
+FR联动推荐召唤
+FR联动开幕前夕推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+Bigfun社区-FGO版块
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具document.querySelector("#MSToolbox").innerHTML=window.toolbox;childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")};childlist = document.querySelectorAll("#MenuSidebar > ul#MSToolbox > li");for(var i=0;i<childlist.length;i++){if(childlist[i].innerHTML === ""){childlist[i].parentNode.removeChild(childlist[i])}};
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+    var commentStyle = document.createElement("style");
+    commentStyle.type = "text/css";
+    commentStyle.innerHTML = ".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+    commentStyle.id = "addCommentStyle";
+    document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+ 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119});});
+
+

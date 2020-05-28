@@ -1,0 +1,590 @@
+﻿
+
+
+查看“始皇帝”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"始皇帝","wgTitle":"始皇帝","wgCurRevisionId":279755,"wgRevisionId":0,"wgArticleId":30626,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"始皇帝","wgRelevantArticleId":30626,"wgRequestId":"2dd74f31fae779da8a0613e4","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“始皇帝”的源代码 
+←始皇帝
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}
+[[分类:未复查的从者条目]]
+{{替换侧边栏底图|文件:FGOQ始皇帝.png|width=162px}}
+==基础数值==
+{{基础数值
+|背景颜色=#E2FAF7
+|文字颜色=#094D7C
+|稀有度=5
+|获取途径=限定
+|序号=229
+|中文名=始皇帝
+|日文名=始皇帝
+|英文名=Qin Shi Huang
+|中文战斗名=始皇帝
+|日文战斗名=始皇帝
+|中文卡面名=始皇帝
+|日文卡面名=始皇帝
+|英文卡面名=Qin Shi Huang
+|声优=福山润
+|画师=东冬
+|属性1=秩序
+|属性2=善
+|性别=其他
+|身高=180cm
+|体重=65kg
+|隐藏属性=人
+|职阶=Ruler
+|筋力=B+
+|耐久=B+
+|敏捷=B+
+|魔力=B+
+|幸运=B+
+|宝具=B+
+|基础ATK=1541
+|基础HP=2321
+|满级ATK=9977
+|满级HP=15828
+|90级ATK=9977
+|90级HP=15828
+|100级ATK=10921
+|100级HP=17340
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.47%
+|A卡np率=0.47%
+|B卡np率=0.47%
+|EX卡np率=0.47%
+|宝具np率=0.47%
+|受击np率=3%
+|Q卡hit数=5
+|A卡hit数=4
+|B卡hit数=3
+|EX卡hit数=4
+|宝具卡hit数=—
+|Q卡伤害分布=6,13,20,26,35
+|A卡伤害分布=10,20,30,40
+|B卡伤害分布=16,33,51
+|EX卡伤害分布=10,20,30,40
+|出星率=10.0%
+|即死率=23.6%
+|暴击权重=100
+|特性1=王
+|特性2=人科
+|人型=是
+|被EA特攻=是
+|立绘1=第１阶段
+|文件1=秦始皇_初始
+|立绘2=第２阶段
+|文件2=秦始皇_一破
+|立绘3=第３阶段
+|文件3=秦始皇_三破
+|立绘4=第４阶段
+|文件4=秦始皇_满破
+|立绘5=愚人节
+|文件5=始皇帝愚人节卡面
+}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{参阅|音乐鉴赏/宝具背景音乐合集#始皇帝|该从者的宝具背景音乐}}
+{{宝具
+|中文名=始皇帝
+|国服上标=The Domination Beginning
+|日文名=始皇帝
+|日服上标=ザ・ドミネーション・ビギニング
+|卡色=Arts
+|类型=辅助
+|阶级=B+
+|种类=对界宝具
+|效果A=付与自身无敌状态(1回合)
+|数值A1=∅
+|效果B=付与目标集中状态(1回合)
+|数值B1=500%
+|效果C=攻击力提升(3回合)<Over Charge时效果提升>
+|数值C1=50%|数值C2=62.5%|数值C3=75%|数值C4=87.5%|数值C5=100%
+|效果D=暴击威力提升(3回合)<宝具升级效果提升>
+|数值D1=50%|数值D2=75%|数值D3=87.5%|数值D4=93.8%|数值D5=100%
+|效果E=暴击星集中度提升(3回合)
+|数值E1=300%
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|灭气|书当焚 A|書は焚すべし A|8
+|敌方全体的充能减少1格|∅|||||||||
+|防御力下降(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|眩晕|儒应坑 A|儒は坑すべし A|8
+|一定概率眩晕敌方全体(1回合)|70%|||||||||
+|自身攻击力提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|充能|永世帝位 A|永世帝位 A|8
+|自身NP增加|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+|解除自身弱化状态|∅|||||||||
+|回复HP|1000|1200|1400|1600|1800|2000|2200|2400|2600|3000
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|B+|自身的弱化状态耐性少量提升(18%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|剑阶银棋|5}}{{材料消耗|术阶银棋|5}}{{材料消耗|骑阶银棋|5}}
+|1->2={{材料消耗|弓阶银棋|5}}{{材料消耗|枪阶银棋|5}}{{材料消耗|杀阶银棋|5}}{{材料消耗|狂阶银棋|5}}
+|2->3={{材料消耗|剑阶金像|5}}{{材料消耗|术阶金像|5}}{{材料消耗|骑阶金像|5}}
+|3->4={{材料消耗|弓阶金像|5}}{{材料消耗|枪阶金像|5}}{{材料消耗|杀阶金像|5}}{{材料消耗|狂阶金像|5}}
+|总计={{材料消耗|剑阶银棋|5}}{{材料消耗|弓阶银棋|5}}{{材料消耗|枪阶银棋|5}}{{材料消耗|骑阶银棋|5}}{{材料消耗|术阶银棋|5}}{{材料消耗|杀阶银棋|5}}{{材料消耗|狂阶银棋|5}}{{材料消耗|剑阶金像|5}}{{材料消耗|弓阶金像|5}}{{材料消耗|枪阶金像|5}}{{材料消耗|骑阶金像|5}}{{材料消耗|术阶金像|5}}{{材料消耗|杀阶金像|5}}{{材料消耗|狂阶金像|5}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|剑之辉石|5}}{{材料消耗|术之辉石|5}}{{材料消耗|骑之辉石|5}}
+|2->3={{材料消耗|弓之辉石|5}}{{材料消耗|枪之辉石|5}}{{材料消耗|杀之辉石|5}}{{材料消耗|狂之辉石|5}}
+|3->4={{材料消耗|剑之魔石|5}}{{材料消耗|术之魔石|5}}{{材料消耗|骑之魔石|5}}
+|4->5={{材料消耗|弓之魔石|5}}{{材料消耗|枪之魔石|5}}{{材料消耗|杀之魔石|5}}{{材料消耗|狂之魔石|5}}
+|5->6={{材料消耗|剑之秘石|5}}{{材料消耗|术之秘石|5}}{{材料消耗|骑之秘石|5}}
+|6->7={{材料消耗|弓之秘石|5}}{{材料消耗|枪之秘石|5}}{{材料消耗|杀之秘石|5}}{{材料消耗|狂之秘石|5}}
+|7->8={{材料消耗|闲古铃|12}}
+|8->9={{材料消耗|晓光炉心|20}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|剑之辉石|5}}{{材料消耗|弓之辉石|5}}{{材料消耗|枪之辉石|5}}{{材料消耗|骑之辉石|5}}{{材料消耗|术之辉石|5}}{{材料消耗|杀之辉石|5}}{{材料消耗|狂之辉石|5}}{{材料消耗|剑之魔石|5}}{{材料消耗|弓之魔石|5}}{{材料消耗|枪之魔石|5}}{{材料消耗|骑之魔石|5}}{{材料消耗|术之魔石|5}}{{材料消耗|杀之魔石|5}}{{材料消耗|狂之魔石|5}}{{材料消耗|剑之秘石|5}}{{材料消耗|弓之秘石|5}}{{材料消耗|枪之秘石|5}}{{材料消耗|骑之秘石|5}}{{材料消耗|术之秘石|5}}{{材料消耗|杀之秘石|5}}{{材料消耗|狂之秘石|5}}{{材料消耗|闲古铃|12}}{{材料消耗|晓光炉心|20}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|剑阶银棋|5}}{{材料消耗|弓阶银棋|5}}{{材料消耗|枪阶银棋|5}}{{材料消耗|骑阶银棋|5}}{{材料消耗|术阶银棋|5}}{{材料消耗|杀阶银棋|5}}{{材料消耗|狂阶银棋|5}}{{材料消耗|剑阶金像|5}}{{材料消耗|弓阶金像|5}}{{材料消耗|枪阶金像|5}}{{材料消耗|骑阶金像|5}}{{材料消耗|术阶金像|5}}{{材料消耗|杀阶金像|5}}{{材料消耗|狂阶金像|5}}{{材料消耗|剑之辉石|15}}{{材料消耗|弓之辉石|15}}{{材料消耗|枪之辉石|15}}{{材料消耗|骑之辉石|15}}{{材料消耗|术之辉石|15}}{{材料消耗|杀之辉石|15}}{{材料消耗|狂之辉石|15}}{{材料消耗|剑之魔石|15}}{{材料消耗|弓之魔石|15}}{{材料消耗|枪之魔石|15}}{{材料消耗|骑之魔石|15}}{{材料消耗|术之魔石|15}}{{材料消耗|杀之魔石|15}}{{材料消耗|狂之魔石|15}}{{材料消耗|剑之秘石|15}}{{材料消耗|弓之秘石|15}}{{材料消耗|枪之秘石|15}}{{材料消耗|骑之秘石|15}}{{材料消耗|术之秘石|15}}{{材料消耗|杀之秘石|15}}{{材料消耗|狂之秘石|15}}{{材料消耗|闲古铃|36}}{{材料消耗|晓光炉心|60}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+嬴政，别名始皇帝。
+于公元前221年统一了中国大陆，第一位自称『皇帝』之人。
+其真实身份是异闻带·中国的始皇帝的模样。
+运用通过中央集权制度获得的极大权力，将全部精力都倾注于内政与技术开发，并企图通过探求仙道，从而作为生命更新寿命极限的真人的最终结论。
+
+|详情日文=
+嬴政、またの名を始皇帝。
+紀元前２２１年に中国大陸を統一し、初の『皇帝』を名乗った。
+この真体は異聞帯・中国における始皇帝の姿。
+中央集権制度による絶大な権力を駆使して内政と技術開発に全精力を傾け、なおかつ仙道の探求によって生命としての寿命限界を更新しようと試みた真人の、最終結論である。
+
+|资料1条件=
+羁绊达到Lv.1后开放
+
+|资料1=
+身高／体重：180cm·65kg
+出处：史实及异闻带
+地域：中国
+属性：秩序·善　　　性别：朕
+自不用说，这是真人躯体的数值。
+
+|资料1日文=
+身長／体重：180cm・65kg
+出典：史実及び異聞帯
+地域：中国
+属性：秩序・善　　　性別：朕
+言うまでもないが真人躯体の数値である。
+
+|资料2条件=
+通关 Lostbelt No.3 且 羁绊达到Lv.2开放
+
+|资料2=
+异闻带的嬴政从殷王朝的遗迹中回收了仙人·太乙真人制作的人造人残骸，通过对其的解析，得到了肉体机械化的技术。
+于是，实现了不老不死夙愿的始皇帝通过铁壁般的治理回避了战乱时代，让中国赶在西洋文艺复兴之前完成了工业革命，并通过压倒性的技术差距征服了全世界。
+
+|资料2日文=
+異聞帯における嬴政は殷王朝の遺跡より仙人・太乙真人の作による人造人体の残骸を回収し、これを解析することで肉体を機械化する技術を獲得した。
+かくして悲願の不老不死を獲得した始皇帝が、鉄壁の治世によって戦乱時代を回避した結果、中国は西洋ルネサンスに先駆けて産業革命を達成。圧倒的技術格差によって全世界の征服を実現する。
+
+|资料3条件=
+通关 Lostbelt No.3 且 羁绊达到Lv.3开放
+
+|资料3=
+为了让能力提升到足以支配整个地球，始皇帝不断扩张机械化圣躯，最终身体连居城阿房宫也一并吞没，其巨大的身躯通过反重力漂浮于咸阳上空。
+他那能让领土全域的民众不分早晚拜谒皇帝大御身的威容，简直可以被称为监视与统治的具现，皇帝用他那等同于神明的运算力，预测所有臣民的生涯，并为他们的命运做决裁。
+
+|资料3日文=
+地球全域を支配するに足る能力の向上を求めて機械化聖躯を拡張し続けた結果、始皇帝の身体は居城であった阿房宮をも呑み込み、その巨体を咸陽上空に反重力で浮遊させるまでに至る。
+領土全域の民草に朝晩の区別なく皇帝の大御身を拝謁せしめるその威容は、まさしく監視と統制の具現者に相応しく、帝はその神に等しき演算力によって臣民すべての生涯を見通し運命を決裁していた。
+
+|资料4条件=
+通关 Lostbelt No.3 且 羁绊达到Lv.4开放
+
+|资料4=
+机械化圣躯的内部构造不是人体，而是模仿自然环境的存在，犹如由微缩模型的山林与水银河川所构成的人工庭园。将身体本身作为小宇宙，依照实际自然界运行的风水魔术为原理，驱动着阿房宫型始皇帝。
+
+之后，始皇帝获得了解析活仙女样本的机会，能够在维持人型的情况下实现尸解仙了，但他仍然认为超级运算装置的样子才是配得上统治世界为政者之权能的模样。
+这样的他之所以会再次炼成人型的肉体，只是为了用自己能接受的方式决出一次胜负，仅此而已。
+
+|资料4日文=
+機械化聖躯の内部構造は人体ではなく自然環境そのものを模倣したものであり、ミニチュアの山林に水銀の河川が流れるという人工庭園の様相を呈していた。身体そのものを小宇宙とし、実際の自然界の運行と照応させる風水魔術の原理によって、阿房宮型始皇帝は駆動している。
+
+その後、生きた仙女のサンプルを解析する機会を得て、人型を維持したままでの尸解仙も方法として実現可能になった始皇帝だったが、世界を統べる為政者に相応しき権能は超弩級演算装置としての姿にこそあった。
+そんな彼が再び人型の肉体を錬成し身に纏うに至ったのは、ただ一度の決戦に納得いく勝敗をつける、それだけの理由である。
+
+|资料5条件=
+通关 Lostbelt No.3 且 羁绊达到Lv.5开放
+
+|资料5=
+『始皇帝』
+阶级：B+　种类：对界宝具
+有效范围：10～999　最大捕捉：60亿人
+
+The Domination Beginning
+始皇帝推行的中央集权制度的国威之具现。
+皇帝作为唯一一位真人，乃是以万民之侍奉为基石的，守护万民的法政之容。将其作为诅咒般的拘束力，强制整个世界的宝具。
+但对象范围限定为始皇帝认定为隶属于自己的领土领民的范畴内，所以严格来说不能被划分为对界宝具。
+
+|资料5日文=
+『始皇帝』
+ランク：Ｂ＋　種別：対界宝具
+レンジ：１０～９９９　最大捕捉：６０億人
+
+ザ・ドミネーション・ビギニング。
+始皇帝の敷いた中央集権制度の国威の具現。
+ただ独りの真人たる帝が、万民の奉仕を礎に万民を守護する法政の容。これを呪的な拘束力として世界そのものに強要する宝具。
+ただし対象範囲は始皇帝が自らの領土領民と認識した範囲に限定されるため、厳密には対界宝具のカテゴリには嵌まらない。
+
+|资料6条件=
+通关 Lostbelt No.3 且 羁绊达到Lv.5开放
+
+|资料6=
+被作为进化到极限的电子仙术结晶培养出来的「真人·始皇帝」的肉体可以说具备了人体无法实现的究极平衡与能力的超生命体。
+唯一绝对且永远不灭，由于不需要繁殖，因此已经超越了性别。
+甚至可以说，这人造仙人的模样，就是经历了2000年培养起来的永世秦帝国技术的终点。
+
+|资料6日文=
+極限まで進化したサイバー仙術の結晶として培養した「真人・始皇帝」の肉体は、人体が至りうる究極の均整と能力を備えた超生命体といえる。
+唯一絶対にして永遠不滅、繁殖の必要すらないため性別をも超越している。
+彼が２０００年以上に渡り培った永世秦帝国の技術の到達点ともいえる、人造の仙人としての姿である。
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=
+皇帝从者
+他是达成了天下统一的朕之国的皇帝。虽说一开始生就着粗犷且动作迟缓的巨大躯体，然而其最终形态却是一副苗条但透露着肌肉美的样子，就像少年漫画中经常出现的变身系最终boss一样。
+
+|日文=
+こうていサーヴァント
+天下統一を成し遂げてしまった朕の国の皇帝。最初は無骨で動きが鈍そうな巨体だが最終形態はスリムな細マッチョという少年漫画でよくある変身系ラスボスだ。
+}}
+
+==羁绊点数==
+{{羁绊点数|4000|12000|3000|13000|3000|165000|380000|360000|380000|360000|5}}
+
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|{{PAGENAME}}|yy}}
+{{参阅|{{PAGENAME}}/情人节剧情语音|该从者情人节剧情的语音}}
+{{:{{PAGENAME}}/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=秦始皇_正面1.png
+|图标2=秦始皇_正面2.png
+|图标3=秦始皇_正面3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=秦始皇_模型_TEST1.png
+|模型2=秦始皇_模型_TEST2.png
+|模型3=秦始皇_模型_TEST3.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+不老不死的仙丹（查看源代码）始皇帝/成长曲线（查看源代码）始皇帝/未来Pick Up情况（查看源代码）始皇帝/语音（查看源代码）玉髓巧克力（查看源代码）阿房宫模型（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:替换侧边栏底图（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至始皇帝。
+ 
+						取自“http://fgo.wiki/w/始皇帝”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E5%A7%8B%E7%9A%87%E5%B8%9D","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E5%A7%8B%E7%9A%87%E5%B8%9D","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E5%A7%8B%E7%9A%87%E5%B8%9D&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/30626
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":150});});
+
+

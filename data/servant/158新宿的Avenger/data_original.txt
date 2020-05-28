@@ -1,0 +1,627 @@
+﻿
+
+
+查看“新宿的Avenger”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"新宿的Avenger","wgTitle":"新宿的Avenger","wgCurRevisionId":279879,"wgRevisionId":0,"wgArticleId":3561,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"新宿的Avenger","wgRelevantArticleId":3561,"wgRequestId":"ab50f907d1029a768c972295","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“新宿的Avenger”的源代码 
+←新宿的Avenger
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{review|content=内容|id=1|user=CodeTamamo|time=2018-06-09}} 
+
+==基础数值==
+{{基础数值
+|背景颜色=rgb(44,62,172)
+|文字颜色=rgba(255,255,255,0.8)
+|稀有度=4
+|获取途径=常驻
+|序号=158
+|中文名=黑森·罗伯
+|日文名=ヘシアン・ロボ
+|英文名=Hessian Lobo
+|中文战斗名=黑森·罗伯
+|日文战斗名=ヘシアン・ロボ
+|中文卡面名={{黑幕|黑森·罗伯}}
+|日文卡面名={{黑幕|ヘシアン・ロボ}}
+|英文卡面名={{黑幕|Hessian Lobo}}
+|真名解放=yes
+|声优=竹内良太
+|画师=下越
+|属性1=混沌
+|属性2=恶
+|性别=男性
+|身高=181cm
+|体重=99kg
+|隐藏属性=地
+|职阶=Avenger
+|筋力=A+
+|耐久=B+
+|敏捷=A+
+|魔力=E
+|幸运=D
+|宝具=B+
+|基础ATK=1771
+|基础HP=1591
+|满级ATK=10628
+|满级HP=9949
+|90级ATK=11743
+|90级HP=11002
+|100级ATK=12868
+|100级HP=12063
+|第一张卡=Quick
+|第二张卡=Quick
+|第三张卡=Arts
+|第四张卡=Arts
+|第五张卡=Buster
+|Q卡np率=0.79%
+|A卡np率=0.79%
+|B卡np率=0.79%
+|EX卡np率=0.79%
+|宝具np率=0.79%
+|受击np率=5%
+|Q卡hit数=3
+|A卡hit数=2
+|B卡hit数=2
+|EX卡hit数=5
+|宝具卡hit数=8
+|Q卡伤害分布=16,33,51
+|A卡伤害分布=33,67
+|B卡伤害分布=33,67
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=2,5,8,11,13,16,19,26
+|出星率=6.0%
+|即死率=10.0%
+|暴击权重=29
+|特性1=猛兽
+|特性2=天地从者
+|特性3=魔兽型
+|人型=是
+|被EA特攻=是
+|昵称=狼王
+|立绘1=第１阶段
+|文件1=黑森·罗伯1
+|立绘2=第２阶段
+|文件2=黑森·罗伯2
+|立绘3=第３阶段
+|文件3=黑森·罗伯3
+|立绘4=第４阶段
+|文件4=黑森·罗伯4
+|立绘5=愚人节
+|文件5=黑森·罗伯5
+}}
+注：通关[[亚种特异点Ⅰ 恶性隔绝魔境 新宿/关卡配置#第13节|亚种特异点Ⅰ 新宿 第13节 狼王回归]]后真名判明。
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+强化后=通关幕间物语「[[新宿的Avenger/从者任务#幕间物语|嘶吼，活下去，咬碎一切，毁灭一切]]」后强化。''<br>（开放条件：通关亚种特异点Ⅰ，达到灵基再临第3阶段，达到羁绊Lv.5。开放时间：[[幕间物语活动 第8弹]]。）''
+{{宝具
+|中文名=对遥远之辈的斩罪
+|国服上标=Frieren Scharfrichter
+|日文名=遥かなる者への斬罪
+|日服上标=フリーレン・シャルフリヒター
+|卡色=Quick
+|类型=单体
+|阶级=C+
+|种类=对人宝具
+|效果A=付与自身必中状态(1回合)
+|数值A1=∅
+|效果B=暴击威力提升(3回合)
+|数值B1=20%
+|效果C=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值C1=1600%|数值C2=2000%|数值C3=2200%|数值C4=2300%|数值C5=2400%
+|效果D=敌方单体中概率即死<Over Charge时概率提升>
+|数值D1=60%|数值D2=70%|数值D3=80%|数值D4=90%|数值D5=100%
+}}
+|-|
+强化前=
+{{宝具
+|中文名=对遥远之辈的斩罪
+|国服上标=Frieren Scharfrichter
+|日文名=遥かなる者への斬罪
+|日服上标=フリーレン・シャルフリヒター
+|卡色=Quick
+|类型=单体
+|阶级=C
+|种类=对人宝具
+|效果A=付与自身必中状态(1回合)
+|数值A1=∅
+|效果B=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值B1=1200%|数值B2=1600%|数值B3=1800%|数值B4=1900%|数值B5=2000%
+|效果C=敌方单体中概率即死<Over Charge时概率提升>
+|数值C1=60%|数值C2=70%|数值C3=80%|数值C4=90%|数值C5=100%
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|集星|堕天之魔 A+|堕天の魔 A+|7
+|自身暴击星集中度提升(1回合)|600%|660%|720%|780%|840%|900%|960%|1020%|1080%|1200%
+|防御力提升(1回合)|20%|22%|24%|26%|28%|30%|32%|34%|36%|40%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|加攻|怪力 B|怪力 B|7
+|自身的攻击力提升(2回合)|10%|12%|14%|16%|18%|20%|22%|24%|26%|30%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|即死耐性下降|身披死亡之物 A|死を纏う者 A|7
+|敌方单体即死耐性下降(1回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+|攻击力下降(1回合)|10%|12%|14%|16%|18%|20%|22%|24%|26%|30%
+|解除强化状态|∅|||||||||
+}}
+
+===职阶技能===
+{{职阶技能|复仇者|复仇者|A|自身受到伤害时NP获得量提升(20%)+除自身以外的己方全体<包括替补>弱化状态耐性下降【负面效果】(10%)|忘却补正|忘却补正|B|自身的暴击威力提升(8%)|自我回复（魔力）|自我回复（魔力）|B|付与自身每回合获取NP状态(3.5%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=4
+|0->1={{材料消耗|凶骨|8}}{{材料消耗|鬼魂提灯|8}}
+|1->2={{材料消耗|黑兽脂|8}}{{材料消耗|虚影之尘|8}}
+|2->3={{材料消耗|血之泪石|8}}{{材料消耗|魔术髓液|8}}
+|3->4={{材料消耗|咒兽胆石|8}}{{材料消耗|起源的胎毛|8}}
+|总计={{材料消耗|虚影之尘|8}}{{材料消耗|凶骨|8}}{{材料消耗|魔术髓液|8}}{{材料消耗|鬼魂提灯|8}}{{材料消耗|血之泪石|8}}{{材料消耗|黑兽脂|8}}{{材料消耗|起源的胎毛|8}}{{材料消耗|咒兽胆石|8}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=4
+|1->2={{材料消耗|凶骨|8}}
+|2->3={{材料消耗|虚影之尘|8}}
+|3->4={{材料消耗|鬼魂提灯|10}}
+|4->5={{材料消耗|追忆的贝壳|10}}
+|5->6={{材料消耗|混沌之爪|10}}
+|6->7={{材料消耗|黑兽脂|12}}
+|7->8={{材料消耗|血之泪石|12}}
+|8->9={{材料消耗|咒兽胆石|12}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|虚影之尘|8}}{{材料消耗|凶骨|8}}{{材料消耗|鬼魂提灯|10}}{{材料消耗|追忆的贝壳|10}}{{材料消耗|混沌之爪|10}}{{材料消耗|血之泪石|12}}{{材料消耗|黑兽脂|12}}{{材料消耗|咒兽胆石|12}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|虚影之尘|32}}{{材料消耗|凶骨|32}}{{材料消耗|魔术髓液|8}}{{材料消耗|鬼魂提灯|38}}{{材料消耗|追忆的贝壳|30}}{{材料消耗|混沌之爪|30}}{{材料消耗|血之泪石|44}}{{材料消耗|黑兽脂|44}}{{材料消耗|起源的胎毛|8}}{{材料消耗|咒兽胆石|44}}{{材料消耗|传承结晶|3}}
+|稀有度=4
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+绝不可能相互理解。
+身在此处的，乃是播撒憎恶的野兽是也。
+
+|详情日文=
+相互理解など不可能。
+此処に居るのは、憎悪を撒き散らす獣なり。
+
+|资料1条件=
+真名解放(通关新宿·狼王回归) 及羁绊Lv.1时开放
+
+|资料1=
+身高／体重：181cm·99kg（不包括头）
+出处：传承、史实、小说
+地域：美国
+属性：混沌·恶　　　性别：男性·雄性·男性
+狼王与史实不同，身长超过3m。
+
+|资料1日文=
+身長／体重:181cm・99kg（首は除いている）
+出典：伝承、史実、小説
+地域：アメリカ
+属性：混沌・悪　　　性別：男性・雄・男性
+狼王は史実とは異なり、体長３ｍを超えている。
+
+|资料2条件=
+真名解放(通关新宿·狼王回归) 及羁绊Lv.2时开放
+
+|资料2=
+狼王罗伯是实际存在的灰狼（存在多种说法），
+由于被「西顿动物记」提及，因而名震天下。
+在美国广阔的牧场科伦坡平原肆虐，
+传说五年间杀害了两千头牛，
+一夜间就能把接近二百五十头羊咬死但不吃。
+当然，牧场主尝试着使用毒药、枪、陷阱等各种方法
+消灭他，然而完全没有被罗伯放在眼里。
+
+|资料2日文=
+狼王ロボは実在したハイイロオオカミ（諸説あり）、「シートン動物記」に取り上げられたことで一躍その名が広まった。
+アメリカの広大な放牧地カランポー平原を荒らし回り、五年間に二千頭もの牛を殺し、一晩で二百五十頭近い羊を食いもせずに殺したと伝えられている。
+当然、牧場主は毒薬や銃、罠などあらゆる方法で彼を仕留めようとしたが、ロボはそれらを意にも介さなかったという。
+
+|资料3条件=
+真名解放(通关新宿·狼王回归) 及羁绊Lv.3时开放
+
+|资料3=
+连著名的猎人都恐惧地将罗伯称作「恶魔的化身」，
+而被雇佣的西顿则想到了不从罗伯本身下手，
+而是利用他的妻子，白狼布兰卡的方法。
+好奇心旺盛的她中了兽夹，
+最后被人类杀害。
+为了找回妻子尸体的罗伯最终落入了陷阱。
+被抓住的罗伯拒绝人类给予的食物，
+就这么死去了。
+
+|资料3日文=
+名高いハンターが「悪魔の化身」と恐れたロボに対し、雇用されたシートンはロボではなく彼の妻、白い狼ブランカを利用することを思いつく。
+好奇心旺盛な彼女はトラバサミに引っかかってしまい、その上で人間たちに殺された。
+妻の死体を求めたロボは、遂に罠に掛かってしまった。捕縛されたロボは人間からの餌を拒んで、そのまま亡くなったという。
+
+|资料4条件=
+真名解放(通关新宿·狼王回归) 及羁绊Lv.4时开放
+
+|资料4=
+黑森是被英国政府雇佣，并送去美国的雇佣兵。
+骑乘罗伯的正是这些无名佣兵中的一人。
+传说被大炮炮弹击中，脑袋被打飞的他
+丝毫没有意识到自己已经死去，
+彷徨于浅眠之洼——沉睡谷。
+
+|资料4日文=
+ヘシアンとは英国政府に雇われてアメリカに渡った
+ドイツ人傭兵であり、ロボに騎乗するこの名も無き
+傭兵もその一人であった。
+だが、大砲の弾を頭に喰らって吹き飛んだ彼は、
+自分が死んだことを自覚せぬまま、
+微睡みの窪―――スリーピー・ホロウを
+彷徨っている、と伝わっている。
+
+|资料5条件=
+真名解放(通关新宿·狼王回归) 及羁绊Lv.5时开放
+
+|资料5=
+『对遥远之辈的斩罪』
+阶级：C　类型：对人宝具
+有效范围：1～5　最大捕捉：1人
+Frieren Scharfrichter
+犹如二人复仇心表现的愤怒的断罪。
+虽然没有逆转因果的力量，
+但通过对宝具有效范围内的世界施加微妙的偏差，
+得以创造「能轻易斩首」的状况。
+能一击斩首的绝杀宝具。
+
+|资料5日文=
+『遥かなる者への斬罪』
+ランク：Ｃ　種別：対人宝具
+レンジ：１～５　最大捕捉：１人
+フリーレン・シャルフリヒター。
+二人の復讐心を形にした憤怒の断罪。
+因果を逆転するほどの力は持たないものの、
+宝具のレンジ内で微妙に世界への偏差を加える事によって「首を刈りやすくする」状況を形作る。
+一撃で首を刈る、絶殺宝具。
+
+|资料6条件=
+通关 [[新宿的Avenger/从者任务#幕间物语|嘶吼，活下去，咬碎一切，毁灭一切]]后开放
+
+|资料6=
+由狼王罗伯、沉睡谷的无头骑士、以及身为创作角色的透明人这三个幻灵结合而成的极为特异的复合型从者。
+由于新宿特异点化，临时作为从者被召唤的他们是决不会屈服于人类的。过去无法被改变，人与兽也无法相伴。御主能做到的，只有目不斜视地直面他。
+
+|资料6日文=
+狼王ロボ、スリーピー・ホロウの首無し騎士、そして創作上の人物である透明人間という三つの幻霊が結合した、極めて特異な複合型サーヴァント。
+新宿の特異点化により、一時的にサーヴァントとしても召喚されるようになった彼らは、決して人間に靡くことはない。過去は変えられず、人と獣が寄り添うこともできない。マスターに可能なのは、目を逸らさずに向き合うことだけだろう。
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+わんこサーヴァント
+超大型犬であるため、朝夜合計四時間の散歩は欠かさないよう
+にしてください。運動不足になると、イライラした目付きでこ
+ちらを見つめてきます。また、毎日のブラッシングを欠かさな
+いようにしましょう。犬の躾には自分が上位であることを示す
+必要がありますが、この犬は下克上が大好きなので上位である
+ことを示した瞬間に叛逆してきます。がぶがぶ。
+}}
+
+==羁绊点数==
+{{羁绊点数|5000|15000|10000|2000|18000|150000|400000|300000|280000|370000|4}}
+
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|新宿的Avenger|yy}}
+{{参阅|新宿的Avenger/情人节剧情语音|该从者情人节剧情的语音}}
+{{:新宿的Avenger/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=Servant158正面1.png
+|图标2=Servant158正面2.png
+|图标3=Servant158正面3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=英灵模型158_0破.png
+|模型2=英灵模型158_1破.png
+|模型3=英灵模型158_3破.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+新宿的Avenger/成长曲线（查看源代码）新宿的Avenger/未来Pick Up情况（查看源代码）新宿的Avenger/语音（查看源代码）疾驰（查看源代码）远方的荒野（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至新宿的Avenger。
+ 
+						取自“http://fgo.wiki/w/新宿的Avenger”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E6%96%B0%E5%AE%BF%E7%9A%84Avenger","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E6%96%B0%E5%AE%BF%E7%9A%84Avenger","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E6%96%B0%E5%AE%BF%E7%9A%84Avenger&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/3561
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":144});});
+
+

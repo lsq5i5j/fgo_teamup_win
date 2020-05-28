@@ -1,0 +1,683 @@
+﻿
+
+
+查看“Archer Inferno”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Archer_Inferno","wgTitle":"Archer Inferno","wgCurRevisionId":280364,"wgRevisionId":0,"wgArticleId":3587,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"Archer_Inferno","wgRelevantArticleId":3587,"wgRequestId":"0513ef14d338cdc7ef7fa370","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“Archer Inferno”的源代码 
+←Archer Inferno
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{review|user=vk950313|time=2018.7.9}}
+
+==基础数值==
+{{基础数值
+|背景颜色=#E2D6E7
+|文字颜色=#A3302C
+|稀有度=4
+|获取途径=常驻
+|序号=184
+|中文名=巴御前
+|日文名=巴御前
+|英文名=Tomoe Gozen
+|中文战斗名=巴御前
+|日文战斗名=巴御前
+|中文卡面名={{黑幕|巴御前}}
+|日文卡面名={{黑幕|巴御前}}
+|英文卡面名={{黑幕|Tomoe Gozen}}
+|真名解放=yes
+|声优=金元寿子
+|画师=SHIRABI
+|属性1=中立
+|属性2=中庸
+|性别=女性
+|身高=162cm
+|体重=50kg
+|隐藏属性=地
+|职阶=Archer
+|筋力=C
+|耐久=D
+|敏捷=C
+|魔力=B
+|幸运=A
+|宝具=B+
+|基础ATK=1657
+|基础HP=1728
+|满级ATK=9946
+|满级HP=10804
+|90级ATK=10990
+|90级HP=11947
+|100级ATK=12043
+|100级HP=13100
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.87%
+|A卡np率=0.87%
+|B卡np率=0.87%
+|EX卡np率=0.87%
+|宝具np率=0.87%
+|受击np率=3%
+|Q卡hit数=3
+|A卡hit数=2
+|B卡hit数=2
+|EX卡hit数=5
+|宝具卡hit数=1
+|Q卡伤害分布=16,33,51
+|A卡伤害分布=33,67
+|B卡伤害分布=33,67
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=100
+|出星率=7.9%
+|即死率=31.5%
+|暴击权重=153
+|特性1=天地从者
+|特性2=魔性
+|特性3=人科
+|人型=是
+|被EA特攻=是
+|昵称=巴，鲅鱼圈，巴妈
+|立绘1=第１阶段
+|文件1=巴御前卡面Ⅰ
+|立绘2=第２阶段
+|文件2=巴御前卡面Ⅱ
+|立绘3=第３阶段
+|文件3=巴御前卡面Ⅲ
+|立绘4=第４阶段
+|文件4=巴御前卡面Ⅳ
+|立绘5=愚人节
+|文件5=巴御前愚人节}}
+注：通关[[亚种特异点Ⅲ 尸山血河舞台 下总国/关卡配置#第六节|亚种特异点Ⅲ 下总国 第6节 第二歌 无尽火狱（急）]]后真名判明。
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+真名解放前=
+{{宝具
+|中文名=？？？
+|国服上标=
+|日文名=？？？
+|日服上标=
+|卡色=Buster
+|类型=单体
+|阶级=？
+|种类=？
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=600%|数值A2=800%|数值A3=900%|数值A4=950%|数值A5=1000%
+|效果B=暴击发生率下降(3回合)
+|数值B1=20%
+|效果C=付与灼伤状态(5回合)
+|数值C1=1000
+|效果D=付与延烧状态(5回合)(灼伤效果量提升的状态)<Over Charge时效果提升>
+|数值D1=100%|数值D2=150%|数值D3=200%|数值D4=250%|数值D5=300%
+}}
+|-|
+真名解放后=通关[[亚种特异点Ⅲ 尸山血河舞台 下总国/关卡配置#第六节|亚种特异点Ⅲ 下总国 第6节 第二歌 无尽火狱（急）]]后真名解放。
+{{宝具
+|中文名=真言·圣观世音菩萨
+|国服上标=Om Alolik Svaha
+|日文名=真言·聖観世音菩薩
+|日服上标=オン・アロリキヤ・ソワカ
+|卡色=Buster
+|类型=单体
+|阶级=B
+|种类=对人宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=600%|数值A2=800%|数值A3=900%|数值A4=950%|数值A5=1000%
+|效果B=暴击发生率下降(3回合)
+|数值B1=20%
+|效果C=付与灼伤状态(5回合)
+|数值C1=1000
+|效果D=付与延烧状态(5回合)(灼伤效果量提升的状态)<Over Charge时效果提升>
+|数值D1=100%|数值D2=150%|数值D3=200%|数值D4=250%|数值D5=300%
+}}	
+|-|
+真名解放、强化后=通关「[[Archer Inferno/从者任务#幕间物语|吾心，不会忘记那旭日]]」后强化。<br>''（开放条件：通关亚种特异点Ⅲ，达到灵基再临第3阶段，达到羁绊Lv.5 开放。
+开放时间：[[幕间物语活动/第11弹|幕间物语活动 第11弹]]。）''
+{{宝具
+|中文名=真言·圣观世音菩萨
+|国服上标=Om Alolik Svaha
+|日文名=真言・聖観世音菩薩
+|日服上标=オン・アロリキヤ・ソワカ
+|卡色=Buster
+|类型=单体
+|阶级=B++
+|种类=对人宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升><!--敵単体に超強力な攻撃[g][o]▲[/o][/g]<宝具升级效果提升>-->
+|数值A1=800%|数值A2=1000%|数值A3=1100%|数值A4=1150%|数值A5=1200%
+|效果B=暴击发生率下降(5回合)<!--クリティカル発生率をダウン(5ターン[g][o]▲[/o][/g])-->
+|数值B1=20%
+|效果C=付与灼伤状态(5回合)<!--やけど状態を付与[g][o]▲[/o][/g](5ターン)-->
+|数值C1=2000
+|效果D=付与延烧状态(5回合)(灼伤效果量提升的状态)<Over Charge时效果提升><!--延焼状態(やけどの効果量がアップする状態)を付与(5ターン)<Over Chargeで効果アップ>-->
+|数值D1=100%|数值D2=150%|数值D3=200%|数值D4=250%|数值D5=300%
+}}
+</tabber>
+延烧效果：敌方回合结束时所受灼伤伤害=灼伤效果附加伤害x（1+延烧状态数值）
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|加攻|鬼种之魔 B|鬼種の魔 B|7
+|己方全体的攻击力提升(3回合)|9%|10%|11%|12%|13%|14%|15%|16%|17%|19%
+|自身宝具威力提升(3回合)|18%|19%|20%|21%|22%|23%|24%|25%|26%|28%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|集星|乱战之心得 B|乱戦の心得 B|8
+|自身暴击星集中度提升(3回合)|300%|330%|360%|390%|420%|450%|480%|510%|540%|600%
+|己方全体的暴击星掉落率提升(3回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|毅力|血脉激发 A|血脈励起 A|9
+|付与自身毅力状态(1次·5回合)|1000|1100|1200|1300|1400|1500|1600|1700|1800|2000
+|最大HP提升(5回合)|1000|1200|1400|1600|1800|2000|2200|2400|2600|3000
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|B|自身的弱化状态耐性提升(17.5%)|单独行动|单独行动|A|自身的暴击威力提升(10%)|狂化|狂化|E|自身的Buster指令卡性能小幅提升(2%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=4
+|0->1={{材料消耗|弓阶银棋|4}}
+|1->2={{材料消耗|弓阶银棋|10}}{{材料消耗|陨蹄铁|6}}
+|2->3={{材料消耗|弓阶金像|4}}{{材料消耗|凤凰羽毛|7}}{{材料消耗|枯淡勾玉|4}}
+|3->4={{材料消耗|弓阶金像|10}}{{材料消耗|枯淡勾玉|8}}{{材料消耗|黑兽脂|6}}
+|总计={{材料消耗|弓阶银棋|14}}{{材料消耗|弓阶金像|14}}{{材料消耗|凤凰羽毛|7}}{{材料消耗|陨蹄铁|6}}{{材料消耗|枯淡勾玉|12}}{{材料消耗|黑兽脂|6}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=4
+|1->2={{材料消耗|弓之辉石|4}}
+|2->3={{材料消耗|弓之辉石|10}}
+|3->4={{材料消耗|弓之魔石|4}}
+|4->5={{材料消耗|弓之魔石|10}}{{材料消耗|凤凰羽毛|4}}
+|5->6={{材料消耗|弓之秘石|4}}{{材料消耗|凤凰羽毛|7}}
+|6->7={{材料消耗|弓之秘石|10}}{{材料消耗|陨蹄铁|4}}
+|7->8={{材料消耗|陨蹄铁|8}}{{材料消耗|奇奇神酒|2}}
+|8->9={{材料消耗|奇奇神酒|6}}{{材料消耗|血之泪石|12}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|弓之辉石|14}}{{材料消耗|弓之魔石|14}}{{材料消耗|弓之秘石|14}}{{材料消耗|凤凰羽毛|11}}{{材料消耗|陨蹄铁|12}}{{材料消耗|血之泪石|12}}{{材料消耗|奇奇神酒|8}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|弓阶银棋|14}}{{材料消耗|弓阶金像|14}}{{材料消耗|弓之辉石|42}}{{材料消耗|弓之魔石|42}}{{材料消耗|弓之秘石|42}}{{材料消耗|凤凰羽毛|40}}{{材料消耗|陨蹄铁|42}}{{材料消耗|枯淡勾玉|12}}{{材料消耗|血之泪石|36}}{{材料消耗|黑兽脂|6}}{{材料消耗|奇奇神酒|24}}{{材料消耗|传承结晶|3}}
+|稀有度=4
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+她一定会温柔地微笑。
+只要愤怒尚未填满她的内心全部。
+
+她是与■■间的■■之裔，因此具备浓厚的粗暴性质，
+但基于对所爱之人的情感，这种性质在关键时刻
+被封了起来，她才获得了文静人类女性的个性。
+——看似如此。
+
+|详情日文=
+彼女は優しく微笑むだろう。
+怒りが、その心を埋め尽くさない限りには。
+
+■■との■■の裔であるゆえに荒ぶる性質を色濃く有しているが、愛するモノへの想いによってそれを瀬戸際で封じ込め、彼女は、静かな人間の女性としての個性を得ている。
+───ように見える。
+
+|资料1条件=
+真名解放 且 羁绊达到Lv.1 后开放
+
+|资料1=
+身高／体重：162cm·50kg
+出处：史实
+地域：日本
+属性：中立·中庸　　　性别：女性
+拥有能空手拧下人类首级程度的臂力。
+以力大无穷而著称的敌军武将·御田八郎师重的首级
+被她拧下的轶事也实际存在。
+
+|资料1日文=
+身長／体重：162cm・50kg
+出典：史実
+地域：日本
+属性：中立・中庸　　　性別：女性
+素手で人間の首をもぐ程度の膂力は―――ある。大力で知られる敵軍の武者・御田八郎師重の首を捻じ切った、という逸話も実在する。
+
+|资料2条件=
+真名解放 且 羁绊达到Lv.2 后开放
+
+|资料2=
+生卒年不详。是平安后期·镰仓时代前期的人物。
+乃获得征夷大将军的地位，
+却输给了源赖朝的名将·木曾义仲（源义仲）的爱妾。
+始终伴随义仲左右，时不时建立功勋的勇妇。
+武艺高强，被评价为一骑当千。
+乃中原兼远之女，
+被称为木曾四天王的樋口兼光与今井兼平之妹——
+与义仲是同一奶妈抚养长大的，形同兄妹。
+
+|资料2日文=
+生没年不詳。平安後期・鎌倉時代前期の人物。
+征夷大将軍の位を得るも源頼朝に敗れた名将・木曾義仲（源義仲）の愛妾。
+常に義仲に従い、しばしば戦功を立てた勇婦。
+武勇に長け、一騎当千と謳われた。
+中原兼遠の娘であり、木曾四天王といわれた樋口兼光と今井兼平の妹であり───義仲とは乳兄妹の仲であった。
+
+|资料3条件=
+真名解放 且 羁绊达到Lv.3 后开放
+
+|资料3=
+根据觉一本『平家物语』卷九「木曾之死」的描述，
+称其「肤白发长，容貌超群，且善用强弓，
+不论马上步下，无不百发百中，
+神鬼皆愁，算得上以一当千的英雄。」
+也就是说，巴御前乃是皮肤白皙，
+长发、容貌秀美且善用强弓的一骑当千之人。
+
+|资料3日文=
+覚一本『平家物語』巻九「木曾最期」によれば
+「いろしろく髪ながく、容顔まことにすぐれたり。ありがたきつよ弓、せい兵、馬のうへ、かちだち、うち物もツては鬼にも神にもあはふどいふ一人当千の兵也」
+とある。
+すなわち、色白、長髪、容姿に優れた強弓にして一騎当千の美女こそが巴御前である。
+
+|资料4条件=
+真名解放 且 羁绊达到Lv.4 后开放
+
+|资料4=
+乱战之心得：B
+应对敌我混乱纠缠的大人数战斗的技术。
+并非指挥军团的能力，
+而是在军队中以一骑之力奋战的战斗技术。
+巴十分擅长多对多、一对多的战斗。
+
+血脉激发：A
+生前的巴无意识进行的自我暗示之一。
+在作为从者现界时，
+被定义为短暂增幅身为鬼种力量的技能。
+
+|资料4日文=
+○乱戦の心得：Ｂ
+敵味方入り乱れての多人数戦闘に対する技術。
+軍団を指揮する能力ではなく、
+軍勢の中の一騎として奮戦するための戦闘技術。多対多、一対多の戦いに巴は慣れている。
+
+○血脈励起：Ａ
+生前の巴が無意識に行っていた自己暗示の一種。
+サーヴァントとして現界するにあたっては、鬼種としての力を一時的に増幅させるスキルとして定義されている。
+
+|资料5条件=
+真名解放 且 羁绊达到Lv.5 后开放
+
+|资料5=
+『真言·圣观世音菩萨』
+阶级：B　种类：对人宝具
+有效范围：1～1　2最大捕捉：1人
+Om Alolik Svaha
+对人宝具。未能与义仲一同迎来死亡的哀叹与悲伤，
+与天生的火焰能力以及鬼种的怪力结合在一起，
+升华成宝具的存在。
+祭奠自己所爱的木曾义仲的义仲寺的本尊为圣观音菩萨
+——通过咏唱其真言，
+确认「自己内心对义仲的爱」之后，
+抓住敌人投掷出去，并用灼热的箭矢进行射击，
+用象征对义仲感情的近似太阳的魔力对敌人造成打击。
+
+|资料5日文=
+『真言・聖観世音菩薩』
+ランク：Ｂ　種別：対人宝具
+レンジ：１～１２　最大捕捉：１人
+オン・アロリキヤ・ソワカ。
+対人宝具。義仲と共に最期を迎えられなかった嘆きと悲しみが、生来の炎の能力や鬼種の怪力と相まって宝具へと昇華されたモノ。
+愛する木曾義仲を供養した義仲寺の本尊たる聖観音菩薩───その真言を唱えることで「自分の中の義仲への愛」を確かめた後、敵を掴んで投げ飛ばし、そして灼熱の矢を打ち込み、義仲への想いを象徴する太陽に似せた魔力によってダメージを与える。
+
+|资料6条件=
+[[亚种特异点Ⅲ 尸山血河舞台 下总国/关卡配置|亚种特异点Ⅲ]]通关且羁绊Lv.5后开放
+
+|资料6=
+尽管无比深爱主君义仲，
+但却未能在其临终之际伴随他左右——
+心中隐藏着这份悔恨的女武者。
+她那平静的悲痛，被『英灵剑豪七番决胜』中的
+芦屋道满变质成愤怒的火焰，化为肆虐的火焰之怪，
+做出了将常陆国燃烧殆尽的行为。
+原本，是位温柔恬静的少女。
+厌恶人与人的纷争，爱好风月。
+
+巴御前的生死观非常明确。对身为从者这临时客人的
+自己迟早会平静地从地上消失一事深信无疑。
+即便在『绝对魔兽战线巴比伦尼亚』中，
+也毫不犹豫地选择了与敌方将领基塔布利尔同归于尽。
+
+|资料6日文=
+主君義仲へと想いを寄せ続けるも、最期の時を共にできなかった───
+ひとつの無念を胸に秘め続ける女武者。
+その静かな悲しみを、『英霊剣豪七番勝負』においては蘆屋道満によって憤怒の炎へと変質させられ、荒ぶる焔の怪と化して常陸国を灼き尽くすという所業を見せた。
+本来は、たおやかなる乙女。人と人の諍いを厭い、風月を好む。
+
+巴御前の死生観は明確だ。サーヴァントという仮初めの客である自分は、いずれ静かに地上から消え去るべきと信じて疑わない。『絶対魔獣戦線バビロニア』においても、迷うことなく敵将ギルタブリルとの相討ちを選んだ。
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+平淡的人属性从者
+自己一步拖走了命令自己不许再做为老式的端庄秀丽的女性的从者。
+因为对向往的男性的爱护，所以抑制了自己过于专心致志以至于
+因噎废食的玩儿游戏，真是个值得赞扬的废人少女啊。
+
+|日文=
+みぼうじんサーヴァント
+自らは一歩引いてマスターを立ててくれる古風な大和撫子。愛する男への想いを抑えるためにゲームに没頭しすぎている健気なゲーム廃人乙女。
+}}
+
+==羁绊点数==
+{{羁绊点数|4500|20000|2500|2500|10500|160000|365000|315000|310000|350000|4}}
+
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+
+{{参阅三|Archer Inferno|yy}}
+{{参阅|Archer Inferno/情人节剧情语音|该从者情人节剧情的语音}}
+{{:Archer Inferno/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=Servant184正面1.png
+|图标2=Servant184正面2.png
+|图标3=Servant184正面3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=英灵模型184_0破.png
+|模型2=英灵模型184_1破.png
+|模型3=英灵模型184_3破.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+Archer Inferno/成长曲线（查看源代码）Archer Inferno/未来Pick Up情况（查看源代码）Archer Inferno/语音（查看源代码）思念跨越三生（查看源代码）甘栗巧克力（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:语音表格/注释（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至Archer Inferno。
+ 
+						取自“http://fgo.wiki/w/Archer_Inferno”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/Archer_Inferno","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/Archer_Inferno","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=Archer_Inferno&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/3587
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119});});
+
+

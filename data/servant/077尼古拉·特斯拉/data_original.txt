@@ -1,0 +1,638 @@
+﻿
+
+
+查看“尼古拉·特斯拉”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"尼古拉·特斯拉","wgTitle":"尼古拉·特斯拉","wgCurRevisionId":280307,"wgRevisionId":0,"wgArticleId":797,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"尼古拉·特斯拉","wgRelevantArticleId":797,"wgRequestId":"ea029a8a3bcf4b0330e1fa02","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“尼古拉·特斯拉”的源代码 
+←尼古拉·特斯拉
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{review|user=Seniorious|time=2018年6月10日}}
+
+==基础数值==
+{{基础数值
+|稀有度=5
+|获取途径=剧情
+|序号=77
+|中文名=尼古拉·特斯拉
+|日文名=ニコラ・テスラ
+|英文名=Nikola Tesla
+|中文战斗名=尼古拉·特斯拉
+|日文战斗名=ニコラ・テスラ
+|中文卡面名=尼古拉·特斯拉
+|日文卡面名=ニコラ･テスラ
+|英文卡面名=Nikola Tesla
+|声优=稻田彻
+|画师=NAMANIKU ATK(Nitro+)
+|属性1=混沌
+|属性2=善
+|性别=男性
+|身高=190cm
+|体重=80kg
+|隐藏属性=星
+|职阶=Archer
+|筋力=D
+|耐久=C
+|敏捷=C
+|魔力=B
+|幸运=D
+|宝具=EX
+|基础ATK=1820
+|基础HP=2027
+|满级ATK=11781
+|满级HP=13825
+|90级ATK=11781
+|90级HP=13825
+|100级ATK=12896
+|100级HP=15146
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.87%
+|A卡np率=0.87%
+|B卡np率=0.87%
+|EX卡np率=0.87%
+|宝具np率=0.87%
+|受击np率=3%
+|Q卡hit数=3
+|A卡hit数=2
+|B卡hit数=1
+|EX卡hit数=3
+|宝具卡hit数=3
+|Q卡伤害分布=16,33,51
+|A卡伤害分布=33,67
+|B卡伤害分布=100
+|EX卡伤害分布=12,25,63
+|宝具卡伤害分布=16,33,51
+|出星率=7.9%
+|即死率=31.5%
+|暴击权重=147
+|特性1=所爱之人
+|特性2=人科
+|人型=是
+|被EA特攻=否
+|昵称=特总，祖师爷
+|立绘1=第１阶段
+|文件1=特斯拉1阶
+|立绘2=第２阶段
+|文件2=特斯拉2阶
+|立绘3=第３阶段
+|文件3=特斯拉3阶
+|立绘4=第４阶段
+|文件4=特斯拉满破图
+|立绘5=愚人节
+|文件5=特斯拉愚人节}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+强化后=通关幕间物语「[[尼古拉·特斯拉/从者任务#幕间物语1|闪电]]」后强化。
+<br>''（开放条件：通关第四特异点，达到灵基再临第2阶段，达到羁绊Lv.3。开放时间：[[第四特异点 死界魔雾都市 伦敦|第四特异点]]公开。）''
+{{宝具
+|中文名=人类神话·雷电降临
+|国服上标=System Keraunos
+|日文名=人類神話·雷電降臨
+|日服上标=システム・ケラウノス
+|卡色=Buster
+|类型=全体
+|阶级=EX
+|种类=对城宝具
+|效果A=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值A1=400%|数值A2=500%|数值A3=550%|数值A4=575%|数值A5=600%
+|效果B={{特性|天地从者|〔拥有天或地之力的从者〕|特攻=yes}}特攻<Over Charge时特攻威力提升>
+|数值B1=150%|数值B2=162.5%|数值B3=175%|数值B4=187.5%|数值B5=200%
+|效果C=中概率付与晕眩状态(1回合)
+|数值C1=40%
+|效果D=自身的HP减少500【负面效果】
+|数值D1=∅
+}}
+|-|
+强化前=
+{{宝具
+|中文名=人类神话·雷电降临
+|国服上标=System Keraunos
+|日文名=人類神話·雷電降臨
+|日服上标=システム・ケラウノス
+|卡色=Buster
+|类型=全体
+|阶级=EX
+|种类=对城宝具
+|效果A=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值A1=300%|数值A2=400%|数值A3=450%|数值A4=475%|数值A5=500%
+|效果B={{特性|天地从者|〔拥有天或地之力的从者〕|特攻=yes}}特攻<Over Charge时特攻威力提升>
+|数值B1=150%|数值B2=162.5%|数值B3=175%|数值B4=187.5%|数值B5=200%
+|效果C=低概率付与晕眩状态(1回合)
+|数值C1=30%
+|效果D=自身的HP减少500【负面效果】
+|数值D1=∅
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+<tabber>
+强化前=
+{{持有技能|NP获得量提升|流电学 A|ガルバニズム A|7
+|自身的NP获得量提升(3回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+}}
+|-|
+强化后=通关「[[尼古拉·特斯拉/从者任务#幕间物语2|人类神话·雷电降临]]」后强化。<br>
+''（开放条件：通关[[Lostbelt No.3 － intro －/关卡配置|Lostbelt No.3序章]]，灵基再临第3阶段，羁绊等级达到Lv.5。需通关幕间物语「[[尼古拉·特斯拉/从者任务#幕间物语1|闪电]]」。开放时间：[[幕间物语活动 第10弹]]。）''
+{{持有技能|NP获得量提升|特斯拉线圈 A+|テスラコイル A+|7
+|自身的NP获得量提升(3回合)<!--自身のNP獲得量をアップ(3ターン)-->
+|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+|除自身以外己方全体的NP获得量提升(3回合)<!--自身を除く味方全体のNP獲得量をアップ(3ターン)[g][o]▲[/o][/g]-->
+|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+}}
+</tabber>
+'''技能2（灵基再临第1阶段开放）'''
+<tabber>
+强化后=通关「[[尼古拉·特斯拉/从者任务#强化任务|强化关卡 尼古拉·特斯拉]]」后强化。<br>
+''（开放条件：达到灵基再临第4阶段。开放时间：[[从者强化任务 第7弹]]。）''
+{{持有技能|毅力|天赋的睿智 EX|天賦の叡智 EX|7
+|付与自身各种随机效果|∅|||||||||
+|80%概率防御力提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|80%概率宝具威力提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|攻击力提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|付与毅力状态(1次·3回合)|1000|1200|1400|1600|1800|2000|2200|2400|2600|3000
+}}
+|-|
+强化前={{持有技能|毅力|天赋的睿智 A|天賦の叡智 A|7
+|付与自身各种随机效果|∅|||||||||
+|80%概率防御力提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|80%概率宝具威力提升(1回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|付与毅力状态(1次·3回合)|1000|1200|1400|1600|1800|2000|2200|2400|2600|3000
+}}
+</tabber>
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|充能|星之开拓者 EX|星の開拓者 EX|8
+|自身增加NP|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+|付与无敌贯通状态(3回合)|∅|||||||||
+|获得暴击星|10|||||||||
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|C|自身的弱化状态耐性少量提升(15%)|单独行动|单独行动|B|自身的暴击威力提升(8%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|弓阶银棋|5}}
+|1->2={{材料消耗|弓阶银棋|12}}{{材料消耗|虚影之尘|15}}
+|2->3={{材料消耗|弓阶金像|5}}{{材料消耗|禁断书页|10}}{{材料消耗|无间齿轮|5}}
+|3->4={{材料消耗|弓阶金像|12}}{{材料消耗|无间齿轮|10}}{{材料消耗|鬼魂提灯|12}}
+|总计={{材料消耗|弓阶银棋|17}}{{材料消耗|弓阶金像|17}}{{材料消耗|虚影之尘|15}}{{材料消耗|鬼魂提灯|12}}{{材料消耗|无间齿轮|15}}{{材料消耗|禁断书页|10}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|弓之辉石|5}}
+|2->3={{材料消耗|弓之辉石|12}}
+|3->4={{材料消耗|弓之魔石|5}}
+|4->5={{材料消耗|弓之魔石|12}}{{材料消耗|禁断书页|5}}
+|5->6={{材料消耗|弓之秘石|5}}{{材料消耗|禁断书页|10}}
+|6->7={{材料消耗|弓之秘石|12}}{{材料消耗|虚影之尘|10}}
+|7->8={{材料消耗|虚影之尘|20}}{{材料消耗|凤凰羽毛|5}}
+|8->9={{材料消耗|凤凰羽毛|15}}{{材料消耗|鬼魂提灯|24}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|弓之辉石|17}}{{材料消耗|弓之魔石|17}}{{材料消耗|弓之秘石|17}}{{材料消耗|虚影之尘|30}}{{材料消耗|凤凰羽毛|20}}{{材料消耗|鬼魂提灯|24}}{{材料消耗|禁断书页|15}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|弓阶银棋|17}}{{材料消耗|弓阶金像|17}}{{材料消耗|弓之辉石|51}}{{材料消耗|弓之魔石|51}}{{材料消耗|弓之秘石|51}}{{材料消耗|虚影之尘|105}}{{材料消耗|凤凰羽毛|60}}{{材料消耗|鬼魂提灯|84}}{{材料消耗|无间齿轮|15}}{{材料消耗|禁断书页|55}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+操控电磁的19～20世纪的天才科学家。
+毫不含蓄的天才，宣称甚至能斩断星辰。
+解开了在众多的神话中，
+被誉为神（自然）之传说的雷电的秘密，
+给人类文明带来「电力」的伟大学者之一。
+
+|详情日文=
+電磁を制した十九～二〇世紀の天才科学者。
+星さえ割ってみせると宣う、堂々たる天才。
+数多の神話で神（自然）の伝説として
+語られる雷電の力を解明し、人類文明に
+「電気」をもたらした偉大な碩学のひとり。
+
+|资料1条件=
+|资料1=
+身高／体重：190cm·80kg
+出处：史实
+地域：欧洲
+属性：混沌·善　　　性别：男性
+马克·吐温称其为雷电博士。
+
+|资料1日文=
+身長／体重：190cm・80kg
+出典：史実
+地域：欧州
+属性：混沌・善　　　性別：男性
+マーク・トゥウェインは彼を雷電博士と呼んだ。
+
+|资料2条件=
+|资料2=
+无可比拟的天才。现代的普罗米修斯。
+绝世美男子。发明王爱迪生的对手。
+在大地之上再现宙斯之雷霆的男人。
+他正是那雄伟华丽的睿智魔人。
+对御主的态度也只能用傲慢这个词来形容。
+
+|资料2日文=
+比類無き天才。現代のプロメテウス。
+絶世の美男子。発明王エジソンの好敵手。
+ゼウスの雷霆を地上に顕した男。
+壮絶にして華麗なる叡智の魔人こそ、彼である。
+マスターへの態度は尊大の一語。
+
+|资料3条件=
+|资料3=
+星之开拓者：EX
+付与成为人类历史转折点的英雄的特殊技能。
+将仅存在于神代的力量送到人间，
+提升了文明水准的他，自然拥有EX阶级。
+
+|资料3日文=
+○星の開拓者：ＥＸ
+人類史においてターニングポイントになった
+英雄に与えられる特殊スキル。
+神代の存在のみが有していた力を地上へ降ろし、
+文明を引き上げた彼は、ＥＸランクを所有する。
+
+|资料4条件=
+|资料4=
+『人类神话·雷电降临』
+阶级：EX 种类：对城宝具
+System Keraunos。根据其生前的伟大成就，
+以及各种超自然传说进行神秘升华后的存在。
+哪怕真名解放前也拥有极为强大的电磁操控能力。
+
+|资料4日文=
+『人類神話・雷電降臨』
+ランク：ＥＸ　種別：対城宝具
+システム・ケラウノス。生前の偉業と数々の
+超自然的伝説による神秘が昇華されたモノ。
+真名解放前でもきわめて強力な電磁操作能力。
+
+|资料5条件=
+|资料5=
+其宝具所展现的猛威，
+令人不禁联想到各种神话中的雷神们的降世，
+这也造就了身为Archer的他。
+只要解放真名，就能「产生限定拟似的时空断层」，
+破坏周围一切。
+
+|资料5日文=
+数多の神話で語られる雷電神たちの再臨を
+思わせる猛威を地上へともたらす宝具の
+存在が、彼をアーチャーたらしめている。
+真名解放を行えば「限定的・擬似的な
+時空断層の発生」によって周囲一帯を破壊する。
+
+|资料6条件=
+通关 [[尼古拉·特斯拉/从者任务#幕间物语1|闪电]]后开放
+
+|资料6=
+对圣杯的愿望是「完成尼古拉·特斯拉世界系统」。
+迎接交流电可在空间中自由来往的新世界。
+为了成就这个伟业，尼古拉·特斯拉想必也会，
+毫无保留地全力协助修复人类史吧。
+
+|资料6日文=
+聖杯にかける願いは「ニコラ・テスラ世界
+システムを完成させること」。交流電流が
+空間そのものを行き交う新世界の到来である。
+これを成就させるためにも、ニコラ・テスラは
+人類史の修復に協力を惜しまないだろう。
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+でんきサーヴァント
+誰もが科学館などで一度は目にしたことのあるかっこいいプラズマボールを発明したことで有名なおじさん。
+}}
+
+==羁绊点数==
+{{羁绊点数|6000|24000|15000|2500|2500|160000|440000|330000|350000|375000|5}}
+
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|尼古拉·特斯拉|yy}}
+{{参阅|尼古拉·特斯拉/情人节剧情语音|该从者情人节剧情的语音}}
+{{:尼古拉·特斯拉/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=特总1阶头像.png
+|图标2=特总2阶头像.png
+|图标3=特总满破头像.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=特总初始战斗模型.png
+|模型2=特总2阶战斗模型.png
+|模型3=特总满破战斗模型.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+
+<references />
+
+==注释和链接==
+<references/>{{外部参阅|mode=wp|标题=尼古拉·特斯拉}}{{外部参阅|mode=mg|标题=尼古拉·特斯拉(Fate)}}
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+交流式雷电曲奇（查看源代码）尼古拉·特斯拉/成长曲线（查看源代码）尼古拉·特斯拉/未来Pick Up情况（查看源代码）尼古拉·特斯拉/语音（查看源代码）雷电之手（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:外部参阅（查看源代码）模板:外部参阅/mode（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:特性（查看源代码）（受保护）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至尼古拉·特斯拉。
+ 
+						取自“http://fgo.wiki/w/尼古拉·特斯拉”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%89%B9%E6%96%AF%E6%8B%89","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%89%B9%E6%96%AF%E6%8B%89","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%89%B9%E6%96%AF%E6%8B%89&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/797
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":157});});
+
+

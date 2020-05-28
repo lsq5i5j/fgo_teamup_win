@@ -1,0 +1,644 @@
+﻿
+
+
+查看“吉尔伽美什”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"吉尔伽美什","wgTitle":"吉尔伽美什","wgCurRevisionId":279553,"wgRevisionId":0,"wgArticleId":460,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"吉尔伽美什","wgRelevantArticleId":460,"wgRequestId":"00b92d58b41e624255a2ebfc","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“吉尔伽美什”的源代码 
+←吉尔伽美什
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{相关从者|吉尔伽美什|吉尔伽美什(Caster)}}{{review|user=零蛋|time=2019-06-15}}{{替换侧边栏底图|闪闪愚人节2.png|width=170px}}
+
+==基础数值==
+{{基础数值
+|背景颜色=#FFF4C0
+|文字颜色=#AD2525
+|稀有度=5
+|获取途径=限定
+|序号=12
+|中文名=吉尔伽美什
+|日文名=ギルガメッシュ
+|英文名=Gilgamesh
+|中文战斗名=吉尔伽美什
+|日文战斗名=ギルガメッシュ
+|中文卡面名=吉尔伽美什
+|日文卡面名=ギルガメッシュ
+|英文卡面名=Gilgamesh
+|声优=关智一
+|画师=武内崇
+|属性1=混沌
+|属性2=善
+|性别=男性
+|身高=182cm
+|体重=68kg
+|隐藏属性=天
+|职阶=Archer
+|筋力=B
+|耐久=C
+|敏捷=C
+|魔力=B
+|幸运=A
+|宝具=EX
+|基础ATK=1897
+|基础HP=1920
+|满级ATK=12280
+|满级HP=13097
+|90级ATK=12280
+|90级HP=13097
+|100级ATK=13442
+|100级HP=14348
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.34%
+|A卡np率=0.34%
+|B卡np率=0.34%
+|EX卡np率=0.34%
+|宝具np率=0.34%
+|受击np率=3%
+|Q卡hit数=5
+|A卡hit数=5
+|B卡hit数=5
+|EX卡hit数=8
+|宝具卡hit数=1
+|Q卡伤害分布=7,15,23,15,40
+|A卡伤害分布=6,13,20,26,35
+|B卡伤害分布=27,22,13,4,34
+|EX卡伤害分布=10,14,17,3,10,14,7,25
+|宝具卡伤害分布=100
+|出星率=7.9%
+|即死率=31.5%
+|暴击权重=153
+|特性1=神性
+|特性2=天地从者
+|特性3=王
+|特性4=人科
+|人型=是
+|被EA特攻=是
+|昵称=金闪闪，二闪，A闪，乌鲁克村长，英雄王，黄金王，最古老，AUO
+|立绘1=第１阶段
+|文件1=吉尔伽美什1
+|立绘2=第２阶段
+|文件2=吉尔伽美什2
+|立绘3=第３阶段
+|文件3=吉尔伽美什3
+|立绘4=第４阶段
+|文件4=吉尔伽美什4
+|立绘5=愚人节
+|文件5=吉尔伽美什愚人节
+}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{参阅|音乐鉴赏/宝具背景音乐合集#吉尔伽美什|该从者的宝具背景音乐}}
+<tabber>
+强化后=
+通关幕间物语「[[吉尔伽美什/从者任务#幕间物语2|开辟之理]]」后强化。''<br>（开放条件：通关第四特异点，达到灵基再临第2阶段，达到羁绊Lv.3。需通关幕间物语「[[吉尔伽美什/从者任务#幕间物语1|值得的存在]]」。<br>开放时间：[[『Fate/Accel Zero Order』开幕前夕预热活动]]。）''
+{{宝具
+|中文名=天地乖离开辟之星
+|国服上标=Enuma Elish
+|日文名=天地乖離す開闢の星
+|日服上标=エヌマ・エリシュ
+|卡色=Buster
+|类型=全体
+|阶级=EX
+|种类=对界宝具
+|效果A=自身宝具威力提升(1回合)
+|数值A1=30%
+|效果B=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值B1=400%|数值B2=500%|数值B3=550%|数值B4=575%|数值B5=600%
+|效果C=对{{特性|被EA特攻|〔从者〕|特攻}}特攻[对于拥有特别的星之力的从者则特攻无效]<Over Charge时特攻威力提升>
+|数值C1=150%|数值C2=162.5%|数值C3=175%|数值C4=187.5%|数值C5=200%
+}}
+|-|
+强化前={{宝具
+|中文名=天地乖离开辟之星
+|国服上标=Enuma Elish
+|日文名=天地乖離す開闢の星
+|日服上标=エヌマ・エリシュ
+|卡色=Buster
+|类型=全体
+|阶级=A++
+|种类=对界宝具
+|效果A=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值A1=300%|数值A2=400%|数值A3=450%|数值A4=475%|数值A5=500%
+|效果B=对{{特性|被EA特攻|〔从者〕|特攻=yes}}特攻[对于拥有特别的星之力的从者则特攻无效]<Over Charge时特攻威力提升>
+|数值B1=150%|数值B2=162.5%|数值B3=175%|数值B4=187.5%|数值B5=200%
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|加攻|领袖气质 A+|カリスマ A+|7
+|己方全体的攻击力提升(3回合)|10.5%|11.6%|12.6%|13.7%|14.7%|15.8%|16.8%|17.9%|18.9%|21%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|NP获得量提升|黄金律 A|黄金律 A|8
+|自身的NP获得量提升(3回合)|20%|23%|26%|29%|32%|35%|38%|41%|44%|50%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+<tabber>
+强化后=
+通关幕间物语「[[吉尔伽美什/从者任务#幕间物语3|天之理]]」后强化。''
+<br>''（开放条件：通关第五特异点，达到灵基再临第3阶段，达到羁绊Lv.5。需通关幕间物语「[[吉尔伽美什/从者任务#幕间物语2|开辟之理]]」。开放时间：[[圆桌骑士推荐召唤]]。）''
+{{持有技能|集星|巴比伦宝库 EX|バビロンの蔵 EX|7
+|自身暴击星集中度大幅提升(3回合)|300%|330%|360%|390%|420%|450%|480%|510%|540%|600%
+|NP增加|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+}}
+|-|
+强化前=
+{{持有技能|集星|收藏家 EX|コレクター EX|7
+|自身暴击星集中度大幅提升(3回合)|300%|330%|360%|390%|420%|450%|480%|510%|540%|600%
+}}
+</tabber>
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|E|自身的弱化状态耐性少量提升(10%)|单独行动|单独行动|A+|自身的暴击威力提升(11%)|神性|神性|B|付与自身伤害附加状态(175)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|弓阶银棋|5}}
+|1->2={{材料消耗|弓阶银棋|12}}{{材料消耗|蛇之宝玉|6}}
+|2->3={{材料消耗|弓阶金像|5}}{{材料消耗|英雄之证|29}}{{材料消耗|龙之逆鳞|2}}
+|3->4={{材料消耗|弓阶金像|12}}{{材料消耗|龙之逆鳞|4}}{{材料消耗|蛮神心脏|5}}
+|总计={{材料消耗|弓阶银棋|17}}{{材料消耗|弓阶金像|17}}{{材料消耗|英雄之证|29}}{{材料消耗|蛇之宝玉|6}}{{材料消耗|龙之逆鳞|6}}{{材料消耗|蛮神心脏|5}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|弓之辉石|5}}
+|2->3={{材料消耗|弓之辉石|12}}
+|3->4={{材料消耗|弓之魔石|5}}
+|4->5={{材料消耗|弓之魔石|12}}{{材料消耗|英雄之证|15}}
+|5->6={{材料消耗|弓之秘石|5}}{{材料消耗|英雄之证|29}}
+|6->7={{材料消耗|弓之秘石|12}}{{材料消耗|蛇之宝玉|4}}
+|7->8={{材料消耗|蛇之宝玉|8}}{{材料消耗|虚影之尘|12}}
+|8->9={{材料消耗|虚影之尘|36}}{{材料消耗|蛮神心脏|10}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|弓之辉石|17}}{{材料消耗|弓之魔石|17}}{{材料消耗|弓之秘石|17}}{{材料消耗|英雄之证|44}}{{材料消耗|虚影之尘|48}}{{材料消耗|蛇之宝玉|12}}{{材料消耗|蛮神心脏|10}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|弓阶银棋|17}}{{材料消耗|弓阶金像|17}}{{材料消耗|弓之辉石|51}}{{材料消耗|弓之魔石|51}}{{材料消耗|弓之秘石|51}}{{材料消耗|英雄之证|161}}{{材料消耗|虚影之尘|144}}{{材料消耗|蛇之宝玉|42}}{{材料消耗|龙之逆鳞|6}}{{材料消耗|蛮神心脏|35}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+公元前，统治苏美尔的都市国家乌鲁克的半人半神之王。
+并不仅限于传说，据说也是现实中存在的人物，
+人类最古老叙事诗『吉尔伽美什史诗』中记述的王。
+
+|详情日文=
+紀元前、シュメルの都市国家ウルクを
+治めていた半神半人の王。
+伝説だけではなく実在したとされる、人類最古の叙事詩『ギルガメシュ叙事詩』に記された王。
+
+|资料1条件=
+|资料1=
+身高／体重：182cm·68kg
+出处：苏美尔文明、吉尔伽美什史诗
+地域：巴比伦尼亚、乌鲁克
+属性：混沌·善　　性别：男性
+
+|资料1日文=
+身長／体重：182cm・68kg
+出典：シュメル文明、ギルガメシュ叙事詩
+地域：バビロニア、ウルク
+属性：混沌・善　　性別：男性
+
+|资料2条件=
+|资料2=
+性格刻薄无情。不听从他人的意见，
+只以自己为绝对标准的暴君。
+傲然披露其极尽奢华的黄金甲胄，
+如流水般释放出各种财宝的破天荒英灵。
+第一人称写作『我』读作『本王』。
+
+|资料2日文=
+性酷薄にして無情。人の意見を聞き届けず、
+己の基準のみを絶対とする暴君。
+華美きわまりない黄金の甲冑を誇示し、ありあまる財宝を湯水のように放出する破格の英霊。
+一人称は『我』と書いて『オレ』と読む。
+
+|资料3条件=
+|资料3=
+神性：B（A+）
+虽拥有最大的神灵适性，
+但却因本人厌恶神灵，导致阶级下降。
+拥有三分之二为神，三分之一是人的高神格，
+世间已然没有他的敌手，
+作为获得这世间一切的超越者得以到达完美。
+
+|资料3日文=
+○神性：Ｂ（Ａ＋）
+最大の神霊適性を持つのだが、本人が神を
+嫌っているのでランクダウンしている。
+三分の二が神、三分の一が人という高い神格を持ち、この世で彼に敵う存在はなく、この世の全てを手に入れた超越者として完成されていた。
+
+|资料4条件=
+|资料4=
+『王之财宝』
+阶级：E～A++　种类：对人宝具
+Gate of Babylon。
+与黄金之都连接的钥匙之剑。
+可以连接空间，自由取出宝物库中的道具。
+使用者的财产越多，攻击就越强大。
+本作中则作为普通攻击之一来使用。
+
+|资料4日文=
+『王の財宝』
+ランク：Ｅ～Ａ＋＋　種別：対人宝具
+ゲート・オブ・バビロン。
+黄金の都へ繋がる鍵剣。空間を繋げ、宝物庫の中にある道具を自由に取り出せるようになる。
+使用者の財があればあるほど強力な攻撃となる。
+今作では通常攻撃の一つとして使用する。
+
+|资料5条件=
+|资料5=
+『天地乖离开辟之星』
+阶级：EX　种类：对界宝具
+Enuma Elish
+美索不达米亚神话中冠以神之名的剑，
+乖离剑·EA对空间进行切断。
+在大量宝具中也属于位居顶点的宝具之一，
+也是“斩裂世界”之剑。
+
+|资料5日文=
+『天地乖離す開闢の星』
+ランク：ＥＸ　種別：対界宝具
+エヌマ・エリシュ
+メソポタミア神話における神の名を冠した剣、
+乖離剣エアによる空間切断。
+数ある宝具の中でも頂点の一つとされる、
+“世界を切り裂いた”剣である。
+
+|资料6条件=
+通关 [[吉尔伽美什/从者任务#幕间物语1|值得的存在]]后开放
+
+|资料6=
+吉尔伽美什是财宝收藏者。
+他的口头禅是“地上之宝已全被本王搜罗”，
+然而这确实不是什么比喻之类的修辞。
+他搜集了发生于他所在时代的所有技术雏形，
+予以保管，并封印了起来。
+『人类虽愚蠢，但人类所创造的道具、
+文明还是有价值的』是他本人的主张。
+
+|资料6日文=
+ギルガメッシュは財宝のコレクターでもある。
+“地上の宝はすべて集めた”彼の口癖だが、
+それは比喩でも何でもない。
+彼は彼の時代において発生した、あらゆる技術の雛形を
+集め、納め、これを封印した。
+『人間は愚かだが人間が生み出す道具、
+文明には価値がある』とは本人の弁。
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1 
+|中文=
+金色从者
+他是一位想要将世间万物皆纳为己有的傲慢的从者。尽管因其无比自大傲慢的为人处世的态度而让人很难亲近他，然而他确实拥有当得起自己那份自以为是的才能。
+
+|日文=
+きんいろサーヴァント
+この世のすべてをほしいままにする我様サーヴァント。ものすごく態度がでかく懐かせるのは至難の技だが、偉そうなだけあって有能だぞ。
+}}
+
+==羁绊点数==
+{{羁绊点数|5000|15000|10000|2000|18000|150000|430000|340000|320000|405000|5}}
+
+==相关礼装==
+{{参阅|吉尔伽美什/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|吉尔伽美什|yy}}
+{{参阅|吉尔伽美什/情人节剧情语音|该从者情人节剧情的语音}}
+{{:吉尔伽美什/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=#aa0000
+|文字颜色=#ffff00
+|图标1=闪闪头像初始_1.png
+|图标2=闪闪头像一破_1.png
+|图标3=闪闪头像满破_1.png
+}}
+{| class="wikitable" style="text-align:center; width:295px; display:table; white-space:normal;"
+! width="30px" | 特殊
+| width="265px" | [[文件:闪闪头像七章.png|150x150px]]  
+|- style="background:#aa0000; color:#ffff00;"
+|
+| 第七章助战
+|}
+===战斗形象===
+{{战斗形象
+|背景颜色=#aa0000
+|文字颜色=#ffff00
+|模型1=闪闪初始.png
+|模型2=闪闪一破.png
+|模型3=闪闪满破.png
+|模型1新=闪闪新模型_初始.png
+|模型2新=闪闪新模型_一破.png
+|模型3新=闪闪新模型_满破.png
+}}
+{| class="wikitable" style="text-align:center; width:560px; display:table; white-space:normal;"
+! width="30px" | 特殊
+| [[文件:闪闪七章.png|252x252px]] 
+| [[文件:闪闪新模型_七章.png|252x252px]]
+|- style="background:#aa0000; color:#ffff00;"
+|
+| 第七章助战（旧）
+| 第七章助战（新）
+|}
+{{color|red|※请注意，在国服{{PAGENAME}}还未改变战斗模型。}}
+
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>{{外部参阅|mode=mg|标题=吉尔伽美什(Fate)}}
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+吉尔伽美什/成长曲线（查看源代码）吉尔伽美什/未来Pick Up情况（查看源代码）吉尔伽美什/语音（查看源代码）王律之键（查看源代码）青金石手链（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Heimu（查看源代码）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者小图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:外部参阅（查看源代码）模板:外部参阅/mode（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:替换侧边栏底图（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:特性（查看源代码）（受保护）模板:相关从者（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至吉尔伽美什。
+ 
+						取自“http://fgo.wiki/w/吉尔伽美什”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/460
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":130});});
+
+

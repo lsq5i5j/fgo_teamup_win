@@ -1,0 +1,563 @@
+﻿
+
+
+查看“吉尔·德·雷(Caster)”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"吉尔·德·雷(Caster)","wgTitle":"吉尔·德·雷(Caster)","wgCurRevisionId":279573,"wgRevisionId":0,"wgArticleId":3453,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"吉尔·德·雷(Caster)","wgRelevantArticleId":3453,"wgRequestId":"ad010c93bedfed38d9618957","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“吉尔·德·雷(Caster)”的源代码 
+←吉尔·德·雷(Caster)
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{相关从者|吉尔·德·雷|吉尔·德·雷(Caster)}}[[分类:未复查的从者条目]]
+
+==基础数值==
+{{基础数值
+|稀有度=3
+|获取途径=剧情
+|序号=32
+|中文名=吉尔·德·雷
+|日文名=ジル・ド・レェ
+|英文名=Gilles de Rais
+|中文战斗名=吉尔
+|日文战斗名=ジル
+|中文卡面名=吉尔·德·雷
+|日文卡面名=ジル・ド・レエ
+|英文卡面名=Gilles de Rais
+|声优=鹤冈聪
+|画师=Azusa
+|属性1=混沌
+|属性2=恶
+|性别=男性
+|身高=196cm
+|体重=70kg
+|隐藏属性=人
+|职阶=Caster
+|筋力=D
+|耐久=E
+|敏捷=D
+|魔力=C
+|幸运=E
+|宝具=A+
+|基础ATK=1209
+|基础HP=1711
+|满级ATK=6514
+|满级HP=9506
+|90级ATK=8047
+|90级HP=11758
+|100级ATK=8816
+|100级HP=12889
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Arts
+|第五张卡=Buster
+|Q卡np率=1.58%
+|A卡np率=1.58%
+|B卡np率=1.58%
+|EX卡np率=1.58%
+|宝具np率=1.58%
+|受击np率=3%
+|Q卡hit数=2
+|A卡hit数=1
+|B卡hit数=1
+|EX卡hit数=3
+|宝具卡hit数=3
+|Q卡伤害分布=33,67
+|A卡伤害分布=100
+|B卡伤害分布=100
+|EX卡伤害分布=12,25,63
+|宝具卡伤害分布=16,33,51
+|出星率=10.8%
+|即死率=48.0%
+|暴击权重=48
+|特性1=人科
+|人型=是
+|被EA特攻=是
+|昵称=C元帅、蓝胡子
+|立绘1=第１阶段
+|文件1=吉尔·德·雷(Caster)1
+|立绘2=第２阶段
+|文件2=吉尔·德·雷(Caster)2
+|立绘3=第３阶段
+|文件3=吉尔·德·雷(Caster)3
+|立绘4=第４阶段
+|文件4=吉尔·德·雷(Caster)4
+|立绘5=愚人节
+|文件5=吉尔·德·雷(Caster)5}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{宝具
+|中文名=螺湮城教本
+|国服上标=Prelati's·spellbook
+|日文名=螺湮城教本
+|日服上标=プレラーティーズ・スペルブック
+|卡色=Buster
+|类型=全体
+|阶级=A+
+|种类=对军宝具
+|效果A=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值A1=300%|数值A2=400%|数值A3=450%|数值A4=475%|数值A5=500%
+|效果B=攻击力下降(3回合)<Over Charge时效果提升>
+|数值B1=20%|数值B2=25%|数值B3=30%|数值B4=35%|数值B5=40%
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|弱化成功率提升|精神污染 A|精神汚染 A|7
+|自身的精神弱化付与成功率提升(3回合)|5%|7%|9%|11%|13%|15%|17%|19%|21%|25%
+|精神弱化耐性提升(3回合)|50%|55%|60%|65%|70%|75%|80%|85%|90%|100%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|宝具威力下降|艺术审美 E-|芸術審美 E-|7
+|敌方单体〔从者〕的宝具威力下降(1回合)|5.5%|6.1%|6.6%|7.2%|7.7%|8.3%|8.8%|9.4%|9.9%|11%
+}}
+'''技能3（灵基再临第4阶段开放）'''<br>
+通关「[[吉尔·德·雷(Caster)/从者任务#强化任务|强化关卡 吉尔·德·雷]]」后开放。<br>
+''（开放条件：达到灵基再临第4阶段。开放时间：[[从者强化任务 第2弹]]。）''
+{{持有技能|眩晕|深渊的邪视 C|深淵の邪視 C|10
+|付与敌方全体恐怖状态(5回合)<br><每回合一定概率付与晕眩状态(1回合)，只生效1次>|30%|31%|32%|33%|34%|35%|36%|37%|38%|40%
+}}
+
+===职阶技能===
+{{职阶技能|阵地建造|阵地建造|B|自身的Art指令卡性能提升(8%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=3
+|0->1={{材料消耗|术阶银棋|4}}
+|1->2={{材料消耗|术阶银棋|8}}{{材料消耗|鬼魂提灯|5}}
+|2->3={{材料消耗|术阶金像|4}}{{材料消耗|人工生命体幼体|7}}{{材料消耗|禁断书页|4}}
+|3->4={{材料消耗|术阶金像|8}}{{材料消耗|禁断书页|7}}{{材料消耗|蛮神心脏|4}}
+|总计={{材料消耗|术阶银棋|12}}{{材料消耗|术阶金像|12}}{{材料消耗|鬼魂提灯|5}}{{材料消耗|禁断书页|11}}{{材料消耗|人工生命体幼体|7}}{{材料消耗|蛮神心脏|4}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=3
+|1->2={{材料消耗|术之辉石|4}}
+|2->3={{材料消耗|术之辉石|8}}
+|3->4={{材料消耗|术之魔石|4}}
+|4->5={{材料消耗|术之魔石|8}}{{材料消耗|人工生命体幼体|4}}
+|5->6={{材料消耗|术之秘石|4}}{{材料消耗|人工生命体幼体|7}}
+|6->7={{材料消耗|术之秘石|8}}{{材料消耗|鬼魂提灯|4}}
+|7->8={{材料消耗|鬼魂提灯|7}}{{材料消耗|虚影之尘|8}}
+|8->9={{材料消耗|虚影之尘|24}}{{材料消耗|蛮神心脏|7}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|术之辉石|12}}{{材料消耗|术之魔石|12}}{{材料消耗|术之秘石|12}}{{材料消耗|虚影之尘|32}}{{材料消耗|鬼魂提灯|11}}{{材料消耗|人工生命体幼体|11}}{{材料消耗|蛮神心脏|7}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|术阶银棋|12}}{{材料消耗|术阶金像|12}}{{材料消耗|术之辉石|36}}{{材料消耗|术之魔石|36}}{{材料消耗|术之秘石|36}}{{材料消耗|虚影之尘|96}}{{材料消耗|鬼魂提灯|38}}{{材料消耗|禁断书页|11}}{{材料消耗|人工生命体幼体|40}}{{材料消耗|蛮神心脏|25}}{{材料消耗|传承结晶|3}}
+|稀有度=3
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+15世纪的法国贵族。
+连续绑架领地内的少年，残忍地凌辱、杀害他们，
+因成为后世童话『蓝胡子』的原型而为人们所知。
+
+|详情日文=
+１５世紀フランスの貴族。自らの領地にて近隣の少年を次々と拉致しては陵辱・惨殺するという所行を繰り返し、後の世の童話『青髭』のモデルとして知られるようになる。
+
+|资料1条件=
+|资料1=
+身高／体重：196cm·70kg
+出处：史实
+地域：法国
+属性：混沌·恶　　性别：男性
+比任何人都渴求神明的神圣怪物。
+
+|资料1日文=
+身長／体重：196cm・70kg
+出典：史実
+地域：フランス
+属性：混沌・悪　　性別：男性
+誰よりも神を求めた聖なる怪物。
+
+|资料2条件=
+|资料2=
+本是个非常虔诚的信徒，
+却因为贞德被当做异端予以处决后，
+感受到深深的绝望，失去了对神信仰的方向。
+他最终那些残暴的行为也只是，
+为了证明（本应惩罚恶行的）神并不存在的手段。
+
+|资料2日文=
+深い信仰心の持ち主であったが、ジャンヌ・ダルクが異端として処刑されたことで深い絶望を味わい、神を見失う。彼の残虐行為は、（悪徳を罰する筈の）神の不在を証明する手段でもあった。
+
+|资料3条件=
+|资料3=
+『螺湮城教本』
+阶级：A+　种类：对军宝具
+Prelati's Spellbook
+内部蕴含着魔力炉的魔导书。
+能够无限召唤异界的怪物。
+吉尔·德·雷本身并非正规的魔术师，
+也没有魔术的素养，这本魔导书则代替他执行魔术。
+
+|资料3日文=
+『螺湮城教本』
+ランク：Ａ＋　種別：対軍宝具
+プレラーティーズ・スペルブック
+それ自体が魔力炉を内蔵した魔導書。
+異界の怪物を無尽蔵に召喚する。
+ジル・ド・レェ自身は正規の魔術師ではなく魔術の素養も無いのだが、代わりにこの魔導書が魔術を行使している。
+
+|资料4条件=
+|资料4=
+起初吉尔与他好友兼导师的弗朗索瓦·普勒拉蒂一起，
+为了解决财政困难而接触了炼金术，
+但不知不觉中失去了当初的目的，
+开始为恶魔召唤所倾倒。
+
+|资料4日文=
+はじめは彼の友人であり導師であったフランソワ・プレラーティとともに、財政難を賄うための金策として錬金術に手を出したジルだが、いつしか当初の目的を見失い悪魔召喚に傾倒するようになる。
+
+|资料5条件=
+|资料5=
+一些人担心吉尔为了钱可能会将领土贩卖给敌国，
+因此以他平时的恶行之名定罪，
+没收其领地，最终将他处决。
+对他残酷行为与亵渎神明的弹劾，
+都只是政治上的借口罢了。
+
+|资料5日文=
+金策のために領土を敵国に売り渡す可能性を危惧されたジルは、領地を没収する口実として平素の悪行を断罪され、処刑されることになる。その残虐行為と涜神への糾弾は、すべて政治上の名目でしかなかった。
+
+|资料6条件=
+通关 [[吉尔·德·雷(Caster)/从者任务#幕间物语1|神的祭品]]后开放
+
+|资料6=
+由于过度称颂神明以至于无法不质疑神明，
+进而诅咒并贬低神明的这名执着的男性，
+最终也没有受到神的制裁，走向了毁灭。
+只有能表现出理解他这份热情与失落的御主，
+才能完美地将其作为从者来使役吧。 
+
+|资料6日文=
+神を讃えすぎたが故に神を疑わざるをえず、神を呪い貶めることに執心した男は、ついに神に裁かれることすらなく破滅した。
+その熱意と失望に理解を示すマスターのみが、彼をサーヴァントとして十全に使役できるであろう。
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+あおひげサーヴァント
+ジャンヌが好きすぎてとうとうこんな感じになってしまった。ここまで目が飛び出したらもう手遅れだ。子供を近づけてはいけないぞ。
+}}
+
+==羁绊点数==
+{{羁绊点数| 4000 | 12000 | 3000 | 13000 | 3000 | 145000 | 310000 | 300000 | 310000 | 290000 | 3}}
+
+==相关礼装==
+{{参阅|吉尔·德·雷(Caster)/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|吉尔·德·雷(Caster)|yy}}
+{{参阅|吉尔·德·雷(Caster)/情人节剧情语音|该从者情人节剧情的语音}}
+{{:吉尔·德·雷(Caster)/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=Servant032正面1.png
+|图标2=Servant032正面2.png
+|图标3=Servant032正面3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=英灵模型032_0破.png
+|模型2=英灵模型032_1破.png
+|模型3=英灵模型032_3破.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+友人的信函（查看源代码）吉尔·德·雷(Caster)/成长曲线（查看源代码）吉尔·德·雷(Caster)/未来Pick Up情况（查看源代码）吉尔·德·雷(Caster)/语音（查看源代码）吉尔君人偶（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者小图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:相关从者（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至吉尔·德·雷(Caster)。
+ 
+						取自“http://fgo.wiki/w/吉尔·德·雷(Caster)”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7(Caster)","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7(Caster)","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7(Caster)&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/3453
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":149});});
+
+

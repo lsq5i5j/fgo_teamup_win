@@ -1,0 +1,585 @@
+﻿
+
+
+查看“牛若丸”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"牛若丸","wgTitle":"牛若丸","wgCurRevisionId":280311,"wgRevisionId":0,"wgArticleId":3447,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"牛若丸","wgRelevantArticleId":3447,"wgRequestId":"88e8cf47543f3e8e8d86af63","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“牛若丸”的源代码 
+←牛若丸
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{相关从者|牛若丸|牛若丸(Assassin)}}{{review|user=vk950313|time=2018.7.4}}
+
+==基础数值==
+{{基础数值
+|稀有度=3
+|获取途径=常驻
+|序号=27
+|中文名=牛若丸
+|日文名=牛若丸
+|英文名=Ushiwakamaru
+|中文战斗名=牛若丸
+|日文战斗名=牛若丸
+|中文卡面名=牛若丸
+|日文卡面名=牛若丸
+|英文卡面名=Ushiwakamaru
+|声优=早见沙织
+|画师=SAKAMOTO MINEJI
+|属性1=混沌
+|属性2=中庸
+|性别=女性
+|身高=168cm
+|体重=55kg
+|隐藏属性=人
+|职阶=Rider
+|筋力=D
+|耐久=C
+|敏捷=A+
+|魔力=B
+|幸运=A
+|宝具=A+
+|基础ATK=1314
+|基础HP=1625
+|满级ATK=7076
+|满级HP=9028
+|90级ATK=8741
+|90级HP=11167
+|100级ATK=9576
+|100级HP=12240
+|第一张卡=Quick
+|第二张卡=Quick
+|第三张卡=Arts
+|第四张卡=Arts
+|第五张卡=Buster
+|Q卡np率=0.87%
+|A卡np率=0.87%
+|B卡np率=0.87%
+|EX卡np率=0.87%
+|宝具np率=0.87%
+|受击np率=3%
+|Q卡hit数=2
+|A卡hit数=2
+|B卡hit数=1
+|EX卡hit数=3
+|宝具卡hit数=1
+|Q卡伤害分布=33,67
+|A卡伤害分布=33,67
+|B卡伤害分布=100
+|EX卡伤害分布=12,25,63
+|宝具卡伤害分布=100
+|出星率=9.1%
+|即死率=35.0%
+|暴击权重=204
+|特性1=骑乘
+|特性2=所爱之人
+|特性3=人科
+|人型=是
+|被EA特攻=是
+|昵称=牛肉丸，牛若
+|立绘1=第１阶段
+|文件1=牛若丸1
+|立绘2=第２阶段
+|文件2=牛若丸2
+|立绘3=第３阶段
+|文件3=牛若丸3
+|立绘4=第４阶段
+|文件4=牛若丸4
+|立绘5=愚人节
+|文件5=牛若丸5}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+强化后=通关幕间物语「[[牛若丸/从者任务#幕间物语|没有无偿之爱]]」后强化。<br>''（开放条件：通关特异点F，达到灵基再临第1阶段，达到羁绊Lv.2。 开放时间：[[第三特异点 封锁终局四海 俄刻阿诺斯|第三特异点]]公开。）''
+{{宝具
+|中文名=坛之浦·八艘跳
+|国服上标=Dan-no-ura Hasso Tobi
+|日文名=壇ノ浦·八艘跳
+|日服上标=だんのうら・はっそうとび
+|卡色=Quick
+|类型=单体
+|阶级=C
+|种类=对人奥义
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=1600%|数值A2=1800%|数值A3=1900%|数值A4=2000%|数值A5=2400%
+|效果B=自身暴击星掉落率大幅提升(3回合)<Over Charge时效果提升>
+|数值B1=50%|数值B2=60%|数值B3=70%|数值B4=80%|数值B5=90%
+}}
+|-|
+强化前={{宝具
+|中文名=坛之浦·八艘跳
+|国服上标=Dan-no-ura Hasso Tobi
+|日文名=壇ノ浦·八艘跳
+|日服上标=だんのうら・はっそうとび
+|卡色=Quick
+|类型=单体
+|阶级=D
+|种类=对人奥义
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=1200%|数值A2=1600%|数值A3=1800%|数值A4=1900%|数值A5=2000%
+|效果B=自身暴击星掉落率大幅提升(3回合)<Over Charge时效果提升>
+|数值B1=50%|数值B2=60%|数值B3=70%|数值B4=80%|数值B5=90%
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+<tabber>
+强化后=通关「[[牛若丸/从者任务#强化任务2|强化关卡 牛若丸 2]]」后强化。
+<br>''（开放条件：达到灵基再临第4阶段。需通关「[[牛若丸/从者任务#强化任务1|强化关卡 牛若丸]]」。开放时间：[[从者强化任务 第9弹～3rd Anniversary～特别篇]]。）''
+{{持有技能|NP获得量提升|天狗的兵法 EX|天狗の兵法 EX|7
+|己方全体的NP获得量提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|自身Quick指令卡性能提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+|-|
+强化前=
+{{持有技能|NP获得量提升|天狗的兵法 A|天狗の兵法 A|7
+|己方全体的NP获得量提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+</tabber>
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|加攻|领袖气质 C+|カリスマ C+|7
+|己方全体的攻击力提升(3回合)|8.5%|9.4%|10.2%|11.1%|11.9%|12.8%|13.6%|14.5%|15.3%|17%
+}}
+'''技能3（灵基再临第4阶段开放）'''<br>
+通关「[[牛若丸/从者任务#强化任务1|强化关卡 牛若丸]]」后开放。<br>
+''（开放条件：达到灵基再临第4阶段。开放时间：[[从者强化任务 第3弹]]。）''
+{{持有技能|回避|燕之迅捷 B|燕の早業 B|8
+|付与自身回避状态(1回合)|∅|||||||||
+|暴击星掉落率提升(1回合)|50%|55%|60%|65%|70%|75%|80%|85%|90%|100%
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|C|自身的弱化状态耐性少量提升(15%)|骑乘|骑乘|A+|自身的Quick指令卡性能提升(11%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=3
+|0->1={{材料消耗|骑阶银棋|4}}
+|1->2={{材料消耗|骑阶银棋|8}}{{材料消耗|英雄之证|15}}
+|2->3={{材料消耗|骑阶金像|4}}{{材料消耗|陨蹄铁|7}}{{材料消耗|鬼魂提灯|4}}
+|3->4={{材料消耗|骑阶金像|8}}{{材料消耗|鬼魂提灯|7}}{{材料消耗|八连双晶|8}}
+|总计={{材料消耗|骑阶银棋|12}}{{材料消耗|骑阶金像|12}}{{材料消耗|英雄之证|15}}{{材料消耗|鬼魂提灯|11}}{{材料消耗|陨蹄铁|7}}{{材料消耗|八连双晶|8}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=3
+|1->2={{材料消耗|骑之辉石|4}}
+|2->3={{材料消耗|骑之辉石|8}}
+|3->4={{材料消耗|骑之魔石|4}}
+|4->5={{材料消耗|骑之魔石|8}}{{材料消耗|陨蹄铁|4}}
+|5->6={{材料消耗|骑之秘石|4}}{{材料消耗|陨蹄铁|7}}
+|6->7={{材料消耗|骑之秘石|8}}{{材料消耗|英雄之证|10}}
+|7->8={{材料消耗|英雄之证|20}}{{材料消耗|无间齿轮|4}}
+|8->9={{材料消耗|无间齿轮|12}}{{材料消耗|八连双晶|16}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|骑之辉石|12}}{{材料消耗|骑之魔石|12}}{{材料消耗|骑之秘石|12}}{{材料消耗|英雄之证|30}}{{材料消耗|无间齿轮|16}}{{材料消耗|陨蹄铁|11}}{{材料消耗|八连双晶|16}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|骑阶银棋|12}}{{材料消耗|骑阶金像|12}}{{材料消耗|骑之辉石|36}}{{材料消耗|骑之魔石|36}}{{材料消耗|骑之秘石|36}}{{材料消耗|英雄之证|105}}{{材料消耗|鬼魂提灯|11}}{{材料消耗|无间齿轮|48}}{{材料消耗|陨蹄铁|40}}{{材料消耗|八连双晶|56}}{{材料消耗|传承结晶|3}}
+|稀有度=3
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+在日本无人不知无人不晓的著名悲剧武将。天赋异禀，
+有着过人的领袖气质，然而却遭到了兄长赖朝的疏远，
+最后与随从弁庆一起被打败。牛若丸是源义经的乳名。
+
+|详情日文=
+日本において、その名を知らぬ者はいないと言われるほどに有名な悲運の武将。天賦の才を持ち、カリスマ性を有しながらも兄である頼朝に疎まれ、最期には従者である弁慶ら共々打ち倒された。牛若丸は源義経の幼名である。
+
+|资料1条件=
+|资料1=
+身高／体重：168cm·55kg
+出处：『义经记』『平家物语』
+地域：日本
+属性：混沌·中庸　　性别：女性
+骑乘的战马，名为太夫黑。
+
+|资料1日文=
+身長／体重：168cm・55kg
+出典：『義経記』『平家物語』
+地域：日本
+属性：混沌・中庸　　性別：女性
+騎乗する馬の名は太夫黒（たゆうぐろ）。
+
+|资料2条件=
+|资料2=
+牛若丸（源义经）足以称为日本史上最有名的武将。
+以知名度而言，只有织田信长可以与她媲美了吧。
+……然而，关于她的历史存在很多不明确的要素，
+尤其是起兵前的前半生完全是个谜。
+
+|资料2日文=
+牛若丸（源義経）は日本史上、もっとも有名な武将と言っても過言ではない。彼女に匹敵する知名度となると、織田信長くらいのものであろう。
+……ただし、歴史的には不明瞭な点が多く、特に挙兵する前の半生は謎に包まれている。
+
+|资料3条件=
+|资料3=
+天狗的兵法：A
+固有技能。
+传说她是从存于人世之外的天狗那里学习的兵法。
+对剑术、弓术、枪术等近身战斗力，
+以及军略和对魔力都有能力加成。
+
+|资料3日文=
+○天狗の兵法：Ａ
+固有スキル。人外の存在である天狗から兵法を習ったという逸話から。
+剣術、弓術、槍術などの近接戦闘力及び軍略や対魔力などにボーナス。
+
+|资料4条件=
+|资料4=
+十一岁时，被寄养在鞍马寺的牛若丸，
+遇到了阴阳师鬼一法眼，
+并因此被传授了兵法（另有说法称此人是鞍马天狗）。
+义经无疑是个优秀的兵法家，但也欠缺了致命的要素。
+
+|资料4日文=
+十一歳のとき、鞍馬寺に預けられた牛若丸は陰陽師である鬼一法眼（一説には彼が鞍馬天狗であったとも）と出会い、兵法を授かったと伝えられている。優れた兵法家であったことは疑いようもないが、義経には致命的なものが欠けていた。
+
+|资料5条件=
+|资料5=
+那就是对战场的恐惧。她一生都与其他武将水火不容。
+赖朝竟会对义经心怀杀意的原因，
+她想必终生都没能理解吧。
+对天才的她而言，根本无法体会对于能力的恐惧。
+
+|资料5日文=
+それは戦場への恐怖である。彼女は一生涯、他の武将とは相容れなかった。頼朝が義経に殺意すら抱いたことも、彼女には終生理解できなかっただろう。天才である彼女には能力への恐れが存在しなかったのだから。
+
+|资料6条件=
+通关 [[牛若丸/从者任务#幕间物语1|没有无偿之爱]]后开放
+
+|资料6=
+宝具正式的名称是『遮那王流离谭』。
+牛若丸一生所创造的诸多传说以奥义之名具现化，
+除了这次的八艘跳以外还有四种。
+
+|资料6日文=
+宝具の正式名は『遮那王流離譚（しゃなおうりゅうりたん）』である。
+牛若丸が死ぬまでに成し遂げた伝説の数々が奥義として具現化したものであり、今回の八艘跳び以外にも残り四種が存在する。
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+くれいじーちゅうけんサーヴァント
+よく懐くが暴走が激しい。少し放置すると、手柄を求めてデーモンの首を引き千切ってくる。要るのは心臓なのだと、何回言っても理解してくれない（返事はする）。
+}}
+
+==羁绊点数==
+{{羁绊点数|2000|3000|4000|5000|6000|190000|208000|252000|310000|360000|3}}
+
+==相关礼装==
+{{参阅|牛若丸/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|牛若丸|yy}}
+{{参阅|牛若丸/情人节剧情语音|该从者情人节剧情的语音}}
+{{:牛若丸/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=Servant027正面1.png
+|图标2=Servant027正面2.png
+|图标3=Servant027正面3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=英灵模型027_0破.png
+|模型2=英灵模型027_1破.png
+|模型3=英灵模型027_3破.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>{{外部参阅|mode=mg|标题=牛若丸(Fate)}}
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+名刀薄绿巧克力风味（查看源代码）牛若丸/成长曲线（查看源代码）牛若丸/未来Pick Up情况（查看源代码）牛若丸/语音（查看源代码）薄绿（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者小图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:外部参阅（查看源代码）模板:外部参阅/mode（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:相关从者（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:语音表格/注释（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至牛若丸。
+ 
+						取自“http://fgo.wiki/w/牛若丸”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E7%89%9B%E8%8B%A5%E4%B8%B8","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E7%89%9B%E8%8B%A5%E4%B8%B8","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E7%89%9B%E8%8B%A5%E4%B8%B8&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/3447
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+国服：幕间物语活动 第8弹
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125});});
+
+

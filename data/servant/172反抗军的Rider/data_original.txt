@@ -1,0 +1,648 @@
+﻿
+
+
+查看“反抗军的Rider”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"反抗军的Rider","wgTitle":"反抗军的Rider","wgCurRevisionId":279696,"wgRevisionId":0,"wgArticleId":3578,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"反抗军的Rider","wgRelevantArticleId":3578,"wgRequestId":"a585b8fac476e32378d1815e","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“反抗军的Rider”的源代码 
+←反抗军的Rider
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}[[分类:未复查的从者条目]]
+
+==基础数值==
+{{基础数值
+|稀有度=3
+|获取途径=剧情
+|序号=172
+|中文名=克里斯托弗·哥伦布
+|日文名=クリストファー・コロンブス
+|英文名=Christopher Colombus
+|中文战斗名=哥伦布
+|日文战斗名=コロンブス
+|中文卡面名={{黑幕|克里斯托弗·哥伦布}}
+|日文卡面名={{黑幕|クリストファー・コロンブス}}
+|英文卡面名={{黑幕|Christopher Colombus}}
+|真名解放=yes
+|声优=大冢芳忠
+|画师=元村人
+|属性1=中立
+|属性2=恶
+|性别=男性
+|身高=180cm
+|体重=84kg
+|隐藏属性=人
+|职阶=Rider
+|筋力=C
+|耐久=B
+|敏捷=D
+|魔力=E
+|幸运=EX
+|宝具=A
+|基础ATK=1216
+|基础HP=1728
+|满级ATK=6552
+|满级HP=9600
+|90级ATK=8094
+|90级HP=11875
+|100级ATK=8867
+|100级HP=13016
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.55%
+|A卡np率=0.55%
+|B卡np率=0.55%
+|EX卡np率=0.55%
+|宝具np率=0.55%
+|受击np率=3%
+|Q卡hit数=3
+|A卡hit数=3
+|B卡hit数=4
+|EX卡hit数=5
+|宝具卡hit数=5
+|Q卡伤害分布=16,33,51
+|A卡伤害分布=16,33,51
+|B卡伤害分布=10,20,30,40
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=6,13,20,26,35
+|出星率=8.9%
+|即死率=50.0%
+|暴击权重=208
+|特性1=骑乘
+|特性2=人科
+|人型=是
+|被EA特攻=是
+|昵称=
+|立绘1=第１阶段
+|文件1=克里斯托弗·哥伦布1
+|立绘2=第２阶段
+|文件2=克里斯托弗·哥伦布2
+|立绘3=第３阶段
+|文件3=克里斯托弗·哥伦布3
+|立绘4=第４阶段
+|文件4=克里斯托弗·哥伦布4
+|立绘5=愚人节
+|文件5=克里斯托弗·哥伦布5}}
+注：通关[[亚种特异点Ⅱ 传承地底世界 雅戈泰/关卡配置#第11节|亚种特异点Ⅱ 雅戈泰 第11节 前进之火]](6/7)后真名判明。
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+真名解放前={{宝具
+|中文名=？？？
+|国服上标=
+|日文名=？？？
+|日服上标=
+|卡色=Buster
+|类型=全体
+|阶级=？
+|种类=？
+|效果A=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值A1=300%|数值A2=400%|数值A3=450%|数值A4=475%|数值A5=500%
+|效果B=暴击发生率下降(3回合)<Over Charge时效果提升>
+|数值B1=20%|数值B2=30%|数值B3=40%|数值B4=50%|数值B5=60%
+}}
+|-|
+真名解放、强化后=通关幕间物语「[[反抗军的Rider/从者任务#幕间物语|他]]」后强化。<br>''（开放条件：通关亚种特异点Ⅱ，达到灵基再临第2阶段，达到羁绊Lv.3。开放时间：[[幕间物语活动 第6弹]]。）''
+{{宝具
+|中文名=新天地探索航行
+|国服上标=Santa Maria Drop Anchor
+|日文名=新天地探索航
+|日服上标=サンタマリア・ドロップアンカー
+|卡色=Buster
+|类型=全体
+|阶级=A+
+|种类=对军宝具
+|效果A=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值A1=400%|数值A2=500%|数值A3=550%|数值A4=575%|数值A5=600%
+|效果B=暴击发生率下降(3回合)<Over Charge时效果提升>
+|数值B1=50%|数值B2=62.5%|数值B3=75%|数值B4=87.5%|数值B5=100%
+}}
+|-|
+真名解放后=通关[[亚种特异点Ⅱ 传承地底世界 雅戈泰/关卡配置#第11节|亚种特异点Ⅱ 雅戈泰 第11节 前进之火]](6/7)后真名解放。
+{{宝具
+|中文名=新天地探索航行
+|国服上标=Santa Maria Drop Anchor
+|日文名=新天地探索航
+|日服上标=サンタマリア・ドロップアンカー
+|卡色=Buster
+|类型=全体
+|阶级=A
+|种类=对军宝具
+|效果A=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值A1=300%|数值A2=400%|数值A3=450%|数值A4=475%|数值A5=500%
+|效果B=暴击发生率下降(3回合)<Over Charge时效果提升>
+|数值B1=20%|数值B2=30%|数值B3=40%|数值B4=50%|数值B5=60%
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|宝具威力提升|暴风雨的航海家 B|嵐の航海者 B|7
+|己方全体的宝具威力提升(1回合)|7%|7.7%|8.4%|9.1%|9.8%|10.5%|11.2%|11.9%|12.6%|14%
+|攻击力提升(1回合)|7%|7.7%|8.4%|9.1%|9.8%|10.5%|11.2%|11.9%|12.6%|14%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|毅力|不屈的意志 C|不屈の意志 C|9
+|付与自身毅力状态(1次·3回合)|1|||||||||
+|增加NP|10%|12%|14%|16%|18%|20%|22%|24%|26%|30%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|红放|征服者 EX|コンキスタドール EX|8
+|自身的Buster指令卡性能提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|获得暴击星|5|6|7|8|9|10|11|12|13|15
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|D|自身的弱化状态耐性少量提升(12.5%)|骑乘|骑乘|B|自身的Quick指令卡性能提升(8%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=3
+|0->1={{材料消耗|骑阶银棋|4}}
+|1->2={{材料消耗|骑阶银棋|8}}{{材料消耗|愚者之锁|15}}
+|2->3={{材料消耗|骑阶金像|4}}{{材料消耗|奇奇神酒|3}}{{材料消耗|万死的毒针|8}}
+|3->4={{材料消耗|骑阶金像|8}}{{材料消耗|万死的毒针|16}}{{材料消耗|鬼魂提灯|8}}
+|总计={{材料消耗|骑阶银棋|12}}{{材料消耗|骑阶金像|12}}{{材料消耗|愚者之锁|15}}{{材料消耗|万死的毒针|24}}{{材料消耗|鬼魂提灯|8}}{{材料消耗|奇奇神酒|3}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=3
+|1->2={{材料消耗|骑之辉石|4}}
+|2->3={{材料消耗|骑之辉石|8}}
+|3->4={{材料消耗|骑之魔石|4}}
+|4->5={{材料消耗|骑之魔石|8}}{{材料消耗|奇奇神酒|2}}
+|5->6={{材料消耗|骑之秘石|4}}{{材料消耗|奇奇神酒|3}}
+|6->7={{材料消耗|骑之秘石|8}}{{材料消耗|愚者之锁|10}}
+|7->8={{材料消耗|愚者之锁|20}}{{材料消耗|魔术髓液|12}}
+|8->9={{材料消耗|魔术髓液|36}}{{材料消耗|咒兽胆石|7}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|骑之辉石|12}}{{材料消耗|骑之魔石|12}}{{材料消耗|骑之秘石|12}}{{材料消耗|愚者之锁|30}}{{材料消耗|魔术髓液|48}}{{材料消耗|咒兽胆石|7}}{{材料消耗|奇奇神酒|5}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|骑阶银棋|12}}{{材料消耗|骑阶金像|12}}{{材料消耗|骑之辉石|36}}{{材料消耗|骑之魔石|36}}{{材料消耗|骑之秘石|36}}{{材料消耗|愚者之锁|105}}{{材料消耗|万死的毒针|24}}{{材料消耗|魔术髓液|144}}{{材料消耗|鬼魂提灯|8}}{{材料消耗|咒兽胆石|21}}{{材料消耗|奇奇神酒|18}}{{材料消耗|传承结晶|3}}
+|稀有度=3
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+饱尝酸甜苦辣的壮年男子。
+表示重要的是永不放弃，
+会拍着即将气馁的同伴鼓励他们。
+他的脸上永远不会失去从容。
+他那自信的笑容永不会消失。
+
+——他知道。
+只要不断前行，必将会到达目标地点。
+
+|详情日文=
+酸いも甘いも噛み分けた壮年の男。
+大事なのは諦めない事だと語り、くじけそうになっている仲間の肩を叩いて鼓舞する。
+その顔から余裕が失われる事はない。
+不敵な笑みが消える事はない。
+
+――彼は知っている。
+進み続けてさえいれば、望む場所には必ず辿り着けるのだと。
+
+|资料1条件=
+真名解放 且 羁绊达到Lv.1 后开放
+
+|资料1=
+身高／体重：180cm·84kg
+出处：史实
+地域：西班牙
+属性：中立·恶　　性别：男性
+敲碎鸡蛋底部让鸡蛋竖起来的方式是邪道。
+
+|资料1日文=
+身長／体重：180cm・84kg
+出典：史実
+地域：スペイン
+属性：中立・悪　　性別：男性
+卵の底の殻を割って立てるのは邪道。
+
+|资料2条件=
+真名解放 且 羁绊达到Lv.2 后开放
+
+|资料2=
+大航海时代，
+作为基督教文化圈的白人首次到达美洲海域的人物。
+他产生并确信向西航线的想法是在1480年前后。
+然而在筹措费用，寻找资助人的问题上遇到了困难，
+实际出发是在1492年。
+1492年，哥伦布终于率领着旗舰圣玛丽亚号、
+尼尼雅号、平塔号这三艘横跨大西洋。
+在不安的船员即将发动叛乱前，
+抵达了美洲海域，发现了圣萨尔瓦多岛。
+
+|资料2日文=
+大航海時代、キリスト教圏の白人として初めてアメリカ海域に到達した人物。
+彼が西回り航路の着想・確信を得たのは1480年頃。
+しかしそのための費用集め・パトロン探しが難航し、実際に出発できたのは1492年のことだった。
+1492年、ついにコロンブスは旗船サンタマリア号・ニーニャ号・ピンタ号の三隻で大西洋を横断。
+不安がる船員達に反乱を起こされる寸前でアメリカ海域へ到達し、サンサルバドル島を発見した。
+
+|资料3条件=
+真名解放 且 羁绊达到Lv.3 后开放
+
+|资料3=
+到达了目的地的哥伦布做的第一件事——
+就是从那里的原住民身上掠夺有价值的东西，
+并将他们作为奴隶带走。
+已经没有人能阻止发现了新天地的他了。
+他很快就开始了第二次航行，并陆续发现了新的岛屿。
+当然，哥伦布率领的西班牙人对原住民施行的杀戮、
+凌辱、掠夺也毫无止境——
+
+|资料3日文=
+目的地へ到達したコロンブスが最初に行ったのは――
+そこにいた原住民から価値あるものを略奪し、彼らを奴隷として連行することだった。
+新天地を発見した彼を止めるものはもういない。
+すぐに第二の航海も行われ、次々と新たな島が発見されていった。
+勿論、コロンブス率いるスペイン人たちによる、
+原住民に対する殺戮・陵辱・略奪も、留まるところなく――
+
+|资料4条件=
+真名解放 且 羁绊达到Lv.4 后开放
+
+|资料4=
+征服者：EX
+Conquistador在西班牙语中是「征服者」的意思。
+大航海时代，通过航海，征服未开化土地之人的技能。
+也表现了对未开化土地的入侵、支配、奴隶化等手段。
+严格来说，通过航海征服了「美洲大陆」的人
+才能被称为征服者，但作为其源流——
+作为让「来自西班牙的征服者」这概念最初出现的人，
+哥伦布的这个技能是EX级的。
+
+|资料4日文=
+○コンキスタドール：ＥＸ
+スペイン語で「征服者」を意味する。
+大航海時代、航海の果てに未開地を征服した者のスキル。未開の地への侵攻、支配、略奪、奴隷化などの手際を示す。
+厳密には、航海の結果「アメリカ大陸」を征服した者こそをコンキスタドールと呼ぶ向きもあるが、
+その源流―――「スペインからの征服者」という概念を最初に発生させた者として、コロンブスはこのスキルをＥＸランクで有する。
+
+|资料5条件=
+真名解放 且 羁绊达到Lv.5 后开放
+
+|资料5=
+『新天地探索航行』
+阶级：A　种类：对军宝具
+Santa Maria Drop Anchor
+最为有名的第一次航海获得成功的存在。
+他乘坐的旗舰圣玛丽亚号出现、靠岸
+（哪怕在陆地中间），并且——
+服从他的指示，做应做的事。
+那就是「圣玛丽亚号啊，抛锚」，
+也是身为船长发出的开始掠夺的命令。
+
+|资料5日文=
+『新天地探索航』
+ランク：Ａ　種別：対軍宝具
+サンタマリア・ドロップアンカー。
+最も有名な最初の航海が結実したもの。
+彼の乗っていた旗船サンタマリア号が出現、接岸（陸地のど真ん中であっても）し、そして―――
+彼の指示に従い、為すべき事を為す。
+これは「サンタマリア号よ、錨を下ろせ」という、
+船長としての略奪開始命令である。
+
+|资料6条件=
+通关 [[反抗军的Rider/从者任务#幕间物语1|他]]后开放
+
+|资料6=
+向圣杯许下的愿望当然是「金钱与快乐」。
+将御主视为一起赚钱的搭档。只要能让他赚钱，且大方的御主就是好御主。
+对伦理与正义于要求很高的御主就是坏御主。
+被召唤到迦勒底的情况下，由于人类史被烧却，根本谈不上赚钱了，无奈只能出手协助。由于会为利益而行动，因此知道反抗也没有什么好处。但一有机会，就会企图满足自己的欲望。
+
+|资料6日文=
+聖杯にかける願いは勿論「金と快楽」。
+マスターには金稼ぎの相棒として接する。金を稼がせて気持ちよくしてくれるマスターはいいマスター、
+倫理や正義にうるさいマスターは悪いマスター。
+カルデアに召喚された場合、人類史が焼却されては金どころではないため、仕方なく協力する。損得勘定で動くため、逆らっても益がない事を理解している。しかし隙あらば自分の欲望は果たそうとする。
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+ふなのりサーヴァント
+夢を叶えるため大海原に漕ぎだした冒険家。目標達成のための努力は惜しまない、勤勉で前向きなおじいさんだ。人なつこい笑顔がチャームポイント。
+}}
+
+==羁绊点数==
+{{羁绊点数|2000|3000|4000|5000|6000|190000|208000|252000|310000|360000|3}}
+
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|反抗军的Rider|yy}}
+{{参阅|反抗军的Rider/情人节剧情语音|该从者情人节剧情的语音}}
+{{:反抗军的Rider/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=Servant172正面1.png
+|图标2=Servant172正面2.png
+|图标3=Servant172正面3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=英灵模型172_0破.png
+|模型2=英灵模型172_1破.png
+|模型3=英灵模型172_3破.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+反抗军的Rider/成长曲线（查看源代码）反抗军的Rider/未来Pick Up情况（查看源代码）反抗军的Rider/语音（查看源代码）尼尼雅号（查看源代码）立起来的水煮蛋（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:语音表格/注释（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至反抗军的Rider。
+ 
+						取自“http://fgo.wiki/w/反抗军的Rider”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E5%8F%8D%E6%8A%97%E5%86%9B%E7%9A%84Rider","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E5%8F%8D%E6%8A%97%E5%86%9B%E7%9A%84Rider","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E5%8F%8D%E6%8A%97%E5%86%9B%E7%9A%84Rider&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/3578
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":154});});
+
+

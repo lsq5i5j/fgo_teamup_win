@@ -1,0 +1,661 @@
+﻿
+
+
+查看“新宿的Archer”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"新宿的Archer","wgTitle":"新宿的Archer","wgCurRevisionId":279685,"wgRevisionId":0,"wgArticleId":3558,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"新宿的Archer","wgRelevantArticleId":3558,"wgRequestId":"4d998ce3b8107f487df9aa5d","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“新宿的Archer”的源代码 
+←新宿的Archer
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}
+==基础数值==
+{{基础数值
+|背景颜色=#3C619F
+|文字颜色=#F4E3C4
+|稀有度=5
+|获取途径=限定
+|序号=156
+|中文名=詹姆斯·莫里亚蒂
+|日文名=ジェームズ・モリアーティ
+|英文名=James Moriarty
+|中文战斗名=莫里亚蒂
+|日文战斗名=モリアーティ
+|中文卡面名={{黑幕|詹姆斯·莫里亚蒂}}
+|日文卡面名={{黑幕|ジェームズ・モリアーティ}}
+|英文卡面名={{黑幕|James Moriarty}}
+|真名解放=yes
+|声优=土师孝也
+|画师=本庄雷太
+|属性1=混沌
+|属性2=恶
+|性别=男性
+|身高=175cm
+|体重=68kg
+|隐藏属性=人
+|职阶=Archer
+|筋力=C
+|耐久=D
+|敏捷=A
+|魔力=B
+|幸运=A
+|宝具=C
+|基础ATK=1820
+|基础HP=2007
+|满级ATK=11781
+|满级HP=13685
+|90级ATK=11781
+|90级HP=13685
+|100级ATK=12896
+|100级HP=14992
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Arts
+|第五张卡=Buster
+|Q卡np率=0.38%
+|A卡np率=0.38%
+|B卡np率=0.38%
+|EX卡np率=0.38%
+|宝具np率=0.38%
+|受击np率=3%
+|Q卡hit数=3
+|A卡hit数=4
+|B卡hit数=5
+|EX卡hit数=6
+|宝具卡hit数=12
+|Q卡伤害分布=16,33,51
+|A卡伤害分布=10,20,30,40
+|B卡伤害分布=6,13,20,26,35
+|EX卡伤害分布=4,9,14,19,23,31
+|宝具卡伤害分布=1,2,3,5,6,7,8,10,11,12,14,21
+|出星率=8.0%
+|即死率=31.5%
+|暴击权重=153
+|特性1=人科
+|人型=是
+|被EA特攻=是
+|昵称=教授
+|立绘1=第１阶段
+|文件1=莫里亚蒂初始
+|立绘2=第２阶段
+|文件2=莫里亚蒂一破
+|立绘3=第３阶段
+|文件3=莫里亚蒂三破
+|立绘4=第４阶段
+|文件4=莫里亚蒂满破
+|立绘5=老练灰领
+|文件5=莫里亚蒂灵衣
+|立绘6=愚人节
+|文件6=莫里亚蒂愚人节}}
+注：通关[[亚种特异点Ⅰ 恶性隔绝魔境 新宿/关卡配置#第10节|亚种特异点Ⅰ 新宿 第10节 监狱大逃脱]]后真名判明。
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|新宿的Archer的宝具动画}}
+<tabber>
+真名解放前=
+{{宝具
+|中文名=？？？
+|国服上标=
+|日文名=？？？
+|日服上标=
+|卡色=Buster
+|类型=单体
+|阶级=？
+|种类=？
+|效果A=敌方单体防御力下降(3回合)<Over Charge时效果提升>
+|数值A1=20%|数值A2=25%|数值A3=30%|数值A4=35%|数值A5=40%
+|效果B=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值B1=600%|数值B2=800%|数值B3=900%|数值B4=950%|数值B5=1000%
+}}
+|-|
+真名解放后=通关[[亚种特异点Ⅰ 恶性隔绝魔境 新宿/关卡配置#第10节|亚种特异点Ⅰ 新宿 第10节 监狱大逃脱]]后真名解放。
+{{宝具
+|中文名=终极犯罪
+|国服上标=The Dynamics of an Asteroid
+|日文名=終局的犯罪
+|日服上标=ザ・ダイナミクス・オブ・アン・アステロイド
+|卡色=Buster
+|类型=单体
+|阶级=A+
+|种类=对军宝具
+|效果A=敌方单体防御力下降(3回合)<Over Charge时效果提升>
+|数值A1=20%|数值A2=25%|数值A3=30%|数值A4=35%|数值A5=40%
+|效果B=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值B1=600%|数值B2=800%|数值B3=900%|数值B4=950%|数值B5=1000%
+}}
+</tabber>
+
+注：在[[亚种特异点Ⅰ 恶性隔绝魔境 新宿/关卡配置|亚种特异点Ⅰ 恶性隔绝魔境 新宿]]中，敌方新宿的Archer宝具上标为『Catastrophe Crime』。
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|无敌贯通|魔弹射手 EX|魔弾の射手 EX|7
+|付与自身无敌贯通状态(1回合)|∅|||||||||
+|暴击星集中度提升状态(1回合)|300%|330%|360%|390%|420%|450%|480%|510%|540%|600%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+<tabber>
+强化后=通关「[[新宿的Archer/从者任务#强化任务|强化关卡 {{黑幕|莫里亚蒂}}]]」后强化。
+<br>''（开放条件：达到灵基再临第4阶段。开放时间：[[旧时蜘蛛余残怀古共纺丝]]）''
+{{持有技能|充能|蛛丝的尽头 A+++|蜘蛛糸の果て A+++|8
+|<仅在暴击星为10个以上时可使用><br>增加自身NP|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+|宝具威力提升(3回合)|20%|||||||||
+|付与除自身以外的己方全体{{特性|恶}}特性(3回合)|∅|||||||||
+}}
+|-|
+强化前=
+{{持有技能|充能|蛛丝的尽头 A++|蜘蛛糸の果て A++|8
+|<仅在暴击星为10个以上时可使用><br>增加自身NP|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+|宝具威力提升(3回合)|20%|||||||||
+|减少10个暴击星【负面效果】|∅|||||||||
+}}
+</tabber>
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|加攻|邪智的魅力 A|邪智のカリスマ A|7
+|己方全体的攻击力提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|除自身以外己方全体{{特性|恶}}特性的攻击力提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|D|自身的弱化状态耐性少量提升(12.5%)|单独行动|单独行动|A+|自身的暴击威力提升(11%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|弓阶银棋|5}}
+|1->2={{材料消耗|弓阶银棋|12}}{{材料消耗|禁断书页|8}}
+|2->3={{材料消耗|弓阶金像|5}}{{材料消耗|万死的毒针|24}}{{材料消耗|混沌之爪|3}}
+|3->4={{材料消耗|弓阶金像|12}}{{材料消耗|混沌之爪|6}}{{材料消耗|智慧之圣甲虫像|5}}
+|总计={{材料消耗|弓阶银棋|17}}{{材料消耗|弓阶金像|17}}{{材料消耗|万死的毒针|24}}{{材料消耗|禁断书页|8}}{{材料消耗|混沌之爪|9}}{{材料消耗|智慧之圣甲虫像|5}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|弓之辉石|5}}
+|2->3={{材料消耗|弓之辉石|12}}
+|3->4={{材料消耗|弓之魔石|5}}
+|4->5={{材料消耗|弓之魔石|12}}{{材料消耗|万死的毒针|12}}
+|5->6={{材料消耗|弓之秘石|5}}{{材料消耗|万死的毒针|24}}
+|6->7={{材料消耗|弓之秘石|12}}{{材料消耗|禁断书页|5}}
+|7->8={{材料消耗|禁断书页|10}}{{材料消耗|虚影之尘|12}}
+|8->9={{材料消耗|虚影之尘|36}}{{材料消耗|魔术髓液|72}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|弓之辉石|17}}{{材料消耗|弓之魔石|17}}{{材料消耗|弓之秘石|17}}{{材料消耗|虚影之尘|48}}{{材料消耗|万死的毒针|36}}{{材料消耗|魔术髓液|72}}{{材料消耗|禁断书页|15}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|弓阶银棋|17}}{{材料消耗|弓阶金像|17}}{{材料消耗|弓之辉石|51}}{{材料消耗|弓之魔石|51}}{{材料消耗|弓之秘石|51}}{{材料消耗|虚影之尘|144}}{{材料消耗|万死的毒针|132}}{{材料消耗|魔术髓液|216}}{{材料消耗|禁断书页|53}}{{材料消耗|混沌之爪|9}}{{材料消耗|智慧之圣甲虫像|5}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+
+===灵衣开放===
+{{参阅|灵衣一览|其他从者的灵衣相关信息}}
+{{灵衣开放素材
+|灵衣名称=グレイ･カラー<br>老练灰领
+|素材={{材料消耗|宵泣之铁桩|10}}{{材料消耗|永远结冰|5}}{{材料消耗|血之泪石|5}}{{材料消耗|奇奇神酒|5}}
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+什么，我可是很平凡的哟。
+只是有那么一点，真的只是有那么一丁点坏而已！
+我定会用我的魔弹助你一臂之力。只不过，
+请注意魔弹是有限制的！
+
+|详情日文=
+何、私は平凡だよ君。
+ほんの少し、ほんの少しだけあくどいだけサ！
+我が魔弾にて、君を助けるとしよう。ただし、
+魔弾には限りがあるので要注意！
+
+|资料1条件=
+真名解放(通关新宿·监狱大逃脱) 及羁绊Lv.1时开放
+
+|资料1=
+身高／体重：175cm·68kg
+出处：夏洛克·福尔摩斯系列
+地域：欧洲全域
+属性：混沌·恶　　　性别：男
+请称呼我为Mr.时髦！（不可能）
+
+|资料1日文=
+身長／体重:175cm・68kg
+出典：シャーロック・ホームズシリーズ
+地域：ヨーロッパ全域
+属性：混沌・悪　　　性別：男性
+Ｍｒ・ダンディと呼んでくれたまえ！（無理）
+
+|资料2条件=
+真名解放(通关新宿·监狱大逃脱) 及羁绊Lv.2时开放
+
+|资料2=
+在夏洛克·福尔摩斯系列中，
+以福尔摩斯最大最强的对手而著称。
+数学教授。
+登场的作品仅有三部，而且几乎全都
+仅限于通过福尔摩斯的话被提到，
+却因为在福尔摩斯最后事件中（之后虽然复活了……）
+暗中活动，而受到热烈支持的邪恶有魅力角色。
+
+|资料2日文=
+シャーロック・ホームズシリーズにおいて、
+ホームズ最大最強のライバルとして名高い
+数学教授。
+登場した作品はわずか三作、しかもそのほとんど
+はホームズの言葉のみで登場していないにも
+かかわらず、ホームズ最後の事件（後に復活する
+のだが……）の暗躍によって、絶大な支持を受け
+た、悪のカリスマである。
+
+|资料3条件=
+真名解放(通关新宿·监狱大逃脱) 及羁绊Lv.3时开放
+
+|资料3=
+天才、哲学家、思想家，拥有极为优秀的头脑。
+福尔摩斯称其为「犯罪界的拿破仑」，
+虽然只是个数学教授，但他的组织网
+却已经遍及整个欧洲。
+根据作品中揭示的设定，
+他可以说在干着类似犯罪顾问的工作。
+
+|资料3日文=
+天才、哲学者、思索家、極めて優れた頭脳。
+ホームズ曰く「犯罪界のナポレオン」であり、
+ただの数学教授でありながら、その組織網は
+ヨーロッパ中に広がっていたとされる。
+作中で明かされた設定によると、言うなれば犯罪
+コンサルタントのような仕事に携わっていたとか。
+
+|资料4条件=
+真名解放(通关新宿·监狱大逃脱) 及羁绊Lv.4时开放
+
+|资料4=
+『终极犯罪』
+阶级：A+　种类：对军宝具
+有效范围：1～99　最大捕捉：100人
+
+The Dynamics of an Asteroid
+将莫里亚蒂的目标「行星破坏」具现化的宝具。
+由于作为从者被召唤，所以停留于「对军」的范畴，
+但只要对力量进行增幅，就能将范围扩大到
+「对都市」「对国」。
+是莫里亚蒂对目标的极致破坏。
+
+|资料4日文=
+『終局的犯罪』
+ランク：Ａ＋　種別：対軍宝具
+レンジ：１～９９　最大捕捉：１００人
+
+ザ・ダイナミクス・オブ・アン・アステロイド。
+モリアーティが目指す「惑星破壊」を
+具現化した宝具。
+サーヴァントとして召喚されたため、「対軍」に留まっているが、力を増幅させれば「対都市」「対国」と範囲が広がっていく。
+モリアーティが目標としている窮極の破壊。
+
+|资料5条件=
+真名解放(通关新宿·监狱大逃脱) 及羁绊Lv.5时开放
+|资料5=
+吸收了幻灵「魔弹射手」能力的融合型从者。
+在歌剧「魔弹射手」中登场的猎人通过将灵魂卖给恶魔，
+获得了必能命中并解决自己瞄准猎物的魔弹，
+然而只有第七发魔弹会射向恶魔希望的对象——
+也就是能让契约者绝望的存在。
+
+|资料5日文=
+幻霊「魔弾の射手」の能力を吸収した、融合型
+サーヴァント。
+歌劇である「魔弾の射手」に登場する狩人は
+悪魔に魂を売り渡すことで、狙う獲物を必ず
+仕留める魔弾を手に入れるが、七発目だけは
+悪魔の望む者――つまり、契約者を絶望させる
+誰かに放たれるのだという。
+
+|资料6条件=
+通关 [[/从者任务#幕间物语|寻求安静时光]]后开放
+
+|资料6=
+终生之敌夏洛克·福尔摩斯。
+为什么你小子是帅哥，而我是年过半百的
+时髦绅士？明明是从者却还得为慢性
+腰痛苦恼不堪吗？
+福尔摩斯你这家伙，你是说那是叫巴流术的力量吗！
+那好，我也去向老人团的李书文先生<!-- 老师 -->
+请教请教！ 不行是吗？
+
+|资料6日文=
+終生のライバルであるシャーロック・ホームズ。
+何で貴様がイケメンで、こちとらアラフィフの
+ダンディ紳士なのか。サーヴァントなのに慢性
+腰痛に悩まされなければいかんのか。
+おのれホームズ、それがバリツの力だというのか！
+いいもんワシだって老人繋がりで書文先生に
+何か教えて貰うから！　ダメですかそうですか。
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+う゛ぃらんサーヴァント
+胡散臭いアラフィフ親父。腰痛、関節痛などに悩まされ、筋肉痛は二日遅れでやってくる。歯の神経を抜いたせいで最近妙にグラグラしてる。起きても何となくやる気が出ない。若いっていいなあ。
+}}
+
+==羁绊点数==
+{{羁绊点数|3000|6125|6125|6125|6125|282500|300000|320000|340000|370000|5}}
+
+==相关礼装==
+{{参阅|新宿的Archer/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|新宿的Archer|yy}}
+{{参阅|新宿的Archer/情人节剧情语音|该从者情人节剧情的语音}}
+{{:新宿的Archer/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=svt156头像1.png
+|图标2=svt156头像2.png
+|图标3=svt156头像3.png
+|灵衣1=老练灰领
+|灵衣1图标=莫里亚蒂_30_status.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=莫里亚蒂初始模型.png
+|模型2=莫里亚蒂一破模型.png
+|模型3=莫里亚蒂满破模型.png
+|灵衣1=老练灰领
+|灵衣1模型=莫里亚蒂_30_model2.png
+}}
+
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+小行星力学（查看源代码）新宿的Archer/成长曲线（查看源代码）新宿的Archer/未来Pick Up情况（查看源代码）新宿的Archer/语音（查看源代码）邪恶教典（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:模糊（查看源代码）模板:灵基再临素材（查看源代码）模板:灵衣开放素材（查看源代码）模板:特性（查看源代码）（受保护）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:语音表格/注释（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至新宿的Archer。
+ 
+						取自“http://fgo.wiki/w/新宿的Archer”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E6%96%B0%E5%AE%BF%E7%9A%84Archer","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E6%96%B0%E5%AE%BF%E7%9A%84Archer","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E6%96%B0%E5%AE%BF%E7%9A%84Archer&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/3558
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":118});});
+
+

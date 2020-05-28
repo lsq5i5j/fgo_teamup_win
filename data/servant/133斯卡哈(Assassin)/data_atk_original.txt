@@ -1,0 +1,278 @@
+﻿
+
+
+查看“斯卡哈(Assassin)/成长曲线”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"斯卡哈(Assassin)/成长曲线","wgTitle":"斯卡哈(Assassin)/成长曲线","wgCurRevisionId":50484,"wgRevisionId":0,"wgArticleId":17693,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"斯卡哈(Assassin)/成长曲线","wgRelevantArticleId":17693,"wgRequestId":"7bd3ec9ffadd0c937c39b47a","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“斯卡哈(Assassin)/成长曲线”的源代码 
+←斯卡哈(Assassin)/成长曲线
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{成长曲线|数据=
+{"lv": 1, "HP": 1786, "ATK": 1508},{"lv": 2, "HP": 1898, "ATK": 1598},{"lv": 3, "HP": 2020, "ATK": 1696},{"lv": 4, "HP": 2133, "ATK": 1787},{"lv": 5, "HP": 2255, "ATK": 1885},{"lv": 6, "HP": 2377, "ATK": 1983},{"lv": 7, "HP": 2489, "ATK": 2073},{"lv": 8, "HP": 2611, "ATK": 2171},{"lv": 9, "HP": 2733, "ATK": 2269},{"lv": 10, "HP": 2846, "ATK": 2360},{"lv": 11, "HP": 2968, "ATK": 2458},{"lv": 12, "HP": 3090, "ATK": 2556},{"lv": 13, "HP": 3202, "ATK": 2646},{"lv": 14, "HP": 3324, "ATK": 2744},{"lv": 15, "HP": 3446, "ATK": 2842},{"lv": 16, "HP": 3559, "ATK": 2933},{"lv": 17, "HP": 3681, "ATK": 3031},{"lv": 18, "HP": 3803, "ATK": 3129},{"lv": 19, "HP": 3915, "ATK": 3219},{"lv": 20, "HP": 4037, "ATK": 3317},{"lv": 21, "HP": 4159, "ATK": 3415},{"lv": 22, "HP": 4272, "ATK": 3506},{"lv": 23, "HP": 4394, "ATK": 3604},{"lv": 24, "HP": 4516, "ATK": 3702},{"lv": 25, "HP": 4628, "ATK": 3792},{"lv": 26, "HP": 4750, "ATK": 3890},{"lv": 27, "HP": 4872, "ATK": 3988},{"lv": 28, "HP": 4985, "ATK": 4079},{"lv": 29, "HP": 5107, "ATK": 4177},{"lv": 30, "HP": 5229, "ATK": 4275},{"lv": 31, "HP": 5341, "ATK": 4366},{"lv": 32, "HP": 5463, "ATK": 4464},{"lv": 33, "HP": 5585, "ATK": 4562},{"lv": 34, "HP": 5698, "ATK": 4652},{"lv": 35, "HP": 5820, "ATK": 4750},{"lv": 36, "HP": 5942, "ATK": 4848},{"lv": 37, "HP": 6054, "ATK": 4939},{"lv": 38, "HP": 6176, "ATK": 5037},{"lv": 39, "HP": 6298, "ATK": 5135},{"lv": 40, "HP": 6411, "ATK": 5225},{"lv": 41, "HP": 6533, "ATK": 5323},{"lv": 42, "HP": 6645, "ATK": 5414},{"lv": 43, "HP": 6767, "ATK": 5512},{"lv": 44, "HP": 6889, "ATK": 5610},{"lv": 45, "HP": 7002, "ATK": 5700},{"lv": 46, "HP": 7124, "ATK": 5798},{"lv": 47, "HP": 7246, "ATK": 5896},{"lv": 48, "HP": 7358, "ATK": 5987},{"lv": 49, "HP": 7480, "ATK": 6085},{"lv": 50, "HP": 7602, "ATK": 6183},{"lv": 51, "HP": 7715, "ATK": 6273},{"lv": 52, "HP": 7837, "ATK": 6371},{"lv": 53, "HP": 7959, "ATK": 6469},{"lv": 54, "HP": 8071, "ATK": 6560},{"lv": 55, "HP": 8193, "ATK": 6658},{"lv": 56, "HP": 8315, "ATK": 6756},{"lv": 57, "HP": 8428, "ATK": 6847},{"lv": 58, "HP": 8550, "ATK": 6945},{"lv": 59, "HP": 8672, "ATK": 7043},{"lv": 60, "HP": 8784, "ATK": 7133},{"lv": 61, "HP": 8906, "ATK": 7231},{"lv": 62, "HP": 9028, "ATK": 7329},{"lv": 63, "HP": 9141, "ATK": 7420},{"lv": 64, "HP": 9263, "ATK": 7518},{"lv": 65, "HP": 9385, "ATK": 7616},{"lv": 66, "HP": 9498, "ATK": 7706},{"lv": 67, "HP": 9619, "ATK": 7804},{"lv": 68, "HP": 9741, "ATK": 7902},{"lv": 69, "HP": 9854, "ATK": 7993},{"lv": 70, "HP": 9976, "ATK": 8091},{"lv": 71, "HP": 10098, "ATK": 8189},{"lv": 72, "HP": 10211, "ATK": 8279},{"lv": 73, "HP": 10333, "ATK": 8377},{"lv": 74, "HP": 10454, "ATK": 8475},{"lv": 75, "HP": 10567, "ATK": 8566},{"lv": 76, "HP": 10689, "ATK": 8664},{"lv": 77, "HP": 10811, "ATK": 8762},{"lv": 78, "HP": 10924, "ATK": 8852},{"lv": 79, "HP": 11046, "ATK": 8950},{"lv": 80, "HP": 11168, "ATK": 9049},{"lv": 81, "HP": 11280, "ATK": 9139},{"lv": 82, "HP": 11402, "ATK": 9237},{"lv": 83, "HP": 11515, "ATK": 9328},{"lv": 84, "HP": 11637, "ATK": 9426},{"lv": 85, "HP": 11759, "ATK": 9524},{"lv": 86, "HP": 11871, "ATK": 9614},{"lv": 87, "HP": 11993, "ATK": 9712},{"lv": 88, "HP": 12115, "ATK": 9810},{"lv": 89, "HP": 12228, "ATK": 9901},{"lv": 90, "HP": 12350, "ATK": 9999},{"lv": 91, "HP": 12472, "ATK": 10097},{"lv": 92, "HP": 12584, "ATK": 10187},{"lv": 93, "HP": 12706, "ATK": 10285},{"lv": 94, "HP": 12828, "ATK": 10383},{"lv": 95, "HP": 12941, "ATK": 10474},{"lv": 96, "HP": 13063, "ATK": 10572},{"lv": 97, "HP": 13185, "ATK": 10670},{"lv": 98, "HP": 13297, "ATK": 10760},{"lv": 99, "HP": 13419, "ATK": 10858},{"lv": 100, "HP": 13541, "ATK": 10956}
+}}
+该页面使用的模板：
+
+模板:成长曲线（查看源代码）返回至斯卡哈(Assassin)/成长曲线。
+ 
+						取自“http://fgo.wiki/w/斯卡哈(Assassin)/成长曲线”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E6%96%AF%E5%8D%A1%E5%93%88(Assassin)\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E6%96%AF%E5%8D%A1%E5%93%88(Assassin)\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E6%96%AF%E5%8D%A1%E5%93%88(Assassin)\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/17693
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+国服：幕间物语活动 第8弹
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93});});
+
+

@@ -1,0 +1,649 @@
+﻿
+
+
+查看“岩窟王”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"岩窟王","wgTitle":"岩窟王","wgCurRevisionId":280447,"wgRevisionId":0,"wgArticleId":919,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"岩窟王","wgRelevantArticleId":919,"wgRequestId":"b5312dc6910e4b360d054be6","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“岩窟王”的源代码 
+←岩窟王
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}[[分类:未复查的从者条目]]
+
+==基础数值==
+{{基础数值
+|背景颜色=#12424d
+|文字颜色=#F0E9D9
+|稀有度=5
+|获取途径=限定
+|序号=96
+|中文名=岩窟王
+|日文名=巌窟王
+|英文名=Edmond Dantès
+|中文战斗名=岩窟王
+|日文战斗名=巌窟王
+|中文卡面名=岩窟王 爱德蒙·唐泰斯
+|日文卡面名=巌窟王 エドモン・ダンテス
+|英文卡面名=Edmond Dantès
+|声优=岛崎信长
+|画师=小松崎类
+|属性1=混沌
+|属性2=恶
+|性别=男性
+|身高=185cm
+|体重=75kg
+|隐藏属性=人
+|职阶=Avenger
+|筋力=B
+|耐久=A+
+|敏捷=C
+|魔力=B
+|幸运=─
+|宝具=A
+|基础ATK=1953
+|基础HP=1785
+|满级ATK=12641
+|满级HP=12177
+|90级ATK=12641
+|90级HP=12177
+|100级ATK=13838
+|100级HP=13340
+|第一张卡=Quick
+|第二张卡=Quick
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.62%
+|A卡np率=0.62%
+|B卡np率=0.62%
+|EX卡np率=0.62%
+|宝具np率=0.62%
+|受击np率=5%
+|Q卡hit数=4
+|A卡hit数=2
+|B卡hit数=3
+|EX卡hit数=5
+|宝具卡hit数=8
+|Q卡伤害分布=10,20,30,40
+|A卡伤害分布=33,67
+|B卡伤害分布=16,33,51
+|EX卡伤害分布=5,11,5,17,62
+|宝具卡伤害分布=3,6,10,13,16,13,10,29
+|出星率=5.9%
+|即死率=7.0%
+|暴击权重=30
+|特性1=人科
+|人型=是
+|被EA特攻=是
+|昵称=伯爵，超高校级的伯爵，哈哈队成员
+|立绘1=第１阶段
+|文件1=爱德蒙灵基再临I
+|立绘2=第２阶段
+|文件2=爱德蒙灵基再临II
+|立绘3=第３阶段
+|文件3=爱德蒙灵基再临III
+|立绘4=第４阶段
+|文件4=爱德蒙灵基再临IV
+|立绘5=基督山特选
+|文件5=爱德蒙灵衣
+|立绘6=愚人节
+|文件6=爱德蒙愚人节}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+强化后=通关「[[岩窟王/从者任务#强化任务|强化关卡 岩窟王]]」后强化。
+<br>''（开放条件：达到灵基再临第4阶段。开放时间：[[从者强化任务 第9弹～3rd Anniversary～特别篇]]。）''
+{{宝具
+|中文名=虎啊，煌煌燎燃
+|国服上标=Enfer Chateau d'If
+|日文名=虎よ、煌々と燃え盛れ
+|日服上标=アンフェル・シャトー・ディフ
+|卡色=Quick
+|类型=全体
+|阶级=A+
+|种类=对军宝具
+|效果A=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值A1=800%|数值A2=1000%|数值A3=1100%|数值A4=1150%|数值A5=1200%
+|效果B=防御力下降(3回合)<Over Charge时效果提升>
+|数值B1=20%|数值B2=25%|数值B3=30%|数值B4=35%|数值B5=40%
+|效果C=付与诅咒状态(5回合)<Over Charge时效果提升>
+|数值C1=500|数值C2=750|数值C3=1000|数值C4=1250|数值C5=1500
+|效果D=付与咒厄状态(5回合)<诅咒效果量提升状态>
+|数值D1=100%
+}}
+|-|
+强化前=
+{{宝具
+|中文名=虎啊，煌煌燎燃
+|国服上标=Enfer Chateau d'If
+|日文名=虎よ、煌々と燃え盛れ
+|日服上标=アンフェル・シャトー・ディフ
+|卡色=Quick
+|类型=全体
+|阶级=A
+|种类=对军宝具
+|效果A=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值A1=600%|数值A2=800%|数值A3=900%|数值A4=950%|数值A5=1000%
+|效果B=防御力下降(3回合)<Over Charge时效果提升>
+|数值B1=20%|数值B2=25%|数值B3=30%|数值B4=35%|数值B5=40%
+|效果C=付与诅咒状态(5回合)<Over Charge时效果提升>
+|数值C1=500|数值C2=750|数值C3=1000|数值C4=1250|数值C5=1500
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|无敌贯通|钢铁的决意 EX|鋼鉄の決意 EX|8
+|付与自身无敌贯通状态(1回合)|∅|||||||||
+|攻击力提升(1回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+|弱化耐性提升(3回合)|14%|15.8%|17.6%|19.4%|21.2%|23%|24.8%|26.6%|28.4%|32%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|NP获得量提升|黄金律 A|黄金律 A|8
+|自身的NP获得量提升(3回合)|20%|23%|26%|29%|32%|35%|38%|41%|44%|50%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|灭气|绝境的智慧 A|窮地の智慧 A|8
+|减少敌方单体充能|∅|||||||||
+|解除自身弱化状态|∅|||||||||
+|获得暴击星|10|11|12|13|14|15|16|17|18|20
+}}
+
+===职阶技能===
+{{职阶技能|复仇者|复仇者|A|自身受到伤害时NP获得量提升(20%)+除自身以外的己方全体<包括替补>弱化状态耐性下降【负面效果】(10%)|忘却补正|忘却补正|B|自身的暴击威力提升(8%)|自我回复（魔力）|自我回复（魔力）|D|付与自身每回合获取NP状态(3%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|凶骨|10}}{{材料消耗|八连双晶|10}}
+|1->2={{材料消耗|蛇之宝玉|10}}{{材料消耗|禁断书页|10}}
+|2->3={{材料消耗|虚影之尘|10}}{{材料消耗|无间齿轮|10}}
+|3->4={{材料消耗|凤凰羽毛|10}}{{材料消耗|蛮神心脏|10}}
+|总计={{材料消耗|虚影之尘|10}}{{材料消耗|凶骨|10}}{{材料消耗|凤凰羽毛|10}}{{材料消耗|蛇之宝玉|10}}{{材料消耗|无间齿轮|10}}{{材料消耗|禁断书页|10}}{{材料消耗|八连双晶|10}}{{材料消耗|蛮神心脏|10}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|英雄之证|10}}
+|2->3={{材料消耗|世界树之种|10}}
+|3->4={{材料消耗|龙之牙|12}}
+|4->5={{材料消耗|鬼魂提灯|12}}
+|5->6={{材料消耗|陨蹄铁|12}}
+|6->7={{材料消耗|人工生命体幼体|15}}
+|7->8={{材料消耗|混沌之爪|15}}
+|8->9={{材料消耗|龙之逆鳞|15}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|英雄之证|10}}{{材料消耗|龙之牙|12}}{{材料消耗|世界树之种|10}}{{材料消耗|鬼魂提灯|12}}{{材料消耗|陨蹄铁|12}}{{材料消耗|人工生命体幼体|15}}{{材料消耗|龙之逆鳞|15}}{{材料消耗|混沌之爪|15}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|英雄之证|30}}{{材料消耗|虚影之尘|10}}{{材料消耗|龙之牙|36}}{{材料消耗|凶骨|10}}{{材料消耗|凤凰羽毛|10}}{{材料消耗|世界树之种|30}}{{材料消耗|鬼魂提灯|36}}{{材料消耗|蛇之宝玉|10}}{{材料消耗|无间齿轮|10}}{{材料消耗|禁断书页|10}}{{材料消耗|陨蹄铁|36}}{{材料消耗|人工生命体幼体|45}}{{材料消耗|八连双晶|10}}{{材料消耗|龙之逆鳞|45}}{{材料消耗|混沌之爪|45}}{{材料消耗|蛮神心脏|10}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+
+===灵衣开放===
+{{参阅|灵衣一览|其他从者的灵衣相关信息}}
+{{灵衣开放素材
+|灵衣名称=モンテ･クリストセレクション<br>基督山特选
+|素材={{材料消耗|宵泣之铁桩|10}}{{材料消耗|追忆的贝壳|5}}{{材料消耗|血之泪石|5}}{{材料消耗|咒兽胆石|5}}
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+是世界上知名度最高的复仇者。
+以外号「岩窟王」或「基督山伯爵」广为人们所知。
+遭到恶毒阴谋的陷害，背上莫须有的罪名，
+被关进了地狱般的伊夫堡监狱。
+但拥有钢铁般坚强意志的他并没有绝望，
+最终获得了基督山小岛上的财宝，回归巴黎——
+将那些巴黎有权有势的人，
+也就是当年陷害自己的人拉向地狱。
+
+|详情日文=
+復讐者、として世界最高の知名度を有する人物。
+通称「巌窟王」もしくは「モンテ・クリスト伯爵」として知られる。
+悪辣な陰謀が導いた無実の罪によって地獄の如きイフの塔（シャトー・ディフ）に投獄されるも鋼の精神によって絶望せず、やがてモンテ・クリスト島の財宝を得てパリへと舞い降り──フランスに君臨する有力者の数々、すなわちかつて自分を陥れた人々を地獄へと引きずり落としたという。
+
+|资料1条件=
+|资料1=
+身高／体重：185cm·75kg
+出处：大仲马著『基督山伯爵』？
+地域：法国
+属性：混沌·恶　　　性别：男性
+口头禅是「——等待，并心怀希望吧」。
+
+|资料1日文=
+身長／体重：185cm・75kg
+出典：デュマ著『モンテ・クリスト伯』？
+地域：フランス
+属性：混沌・悪　　　性別：男性
+口癖は「──待て、しかして希望せよ」
+
+|资料2条件=
+|资料2=
+其激烈的人生，隐藏真实身份的复仇剧，
+对遭践踏被夺走的恋人梅尔塞苔丝的爱恋与执着，
+以及经历了苦恼与后悔，最终悔改的过程，
+获得了包括法国在内的世界各地人们的喝彩，
+并将他作为「世界上最有名的复仇者」记在心中。
+
+基督山伯爵虽然是大仲马所创作的故事，
+但根据现代的考证，发现被关押在伊夫堡监狱，
+指引爱德蒙的「法利亚神甫」是实际存在的人物……
+
+|资料2日文=
+その苛烈な生き様、正体を隠した復讐劇、踏みにじられ奪われた恋人メルセデスへの想いと愛執、そして苦悩と後悔から改心へと至る道程は、フランスのみならず世界中の人々に喝采され「世界で最も高名な復讐者」として記憶された。
+
+巌窟王の物語はアレクサンドル・デュマ・ペールによる創作とされるが、イフの塔に収監されたエドモンを導く「ファリア神父」の実在が現代では確認されており……
+
+|资料3条件=
+|资料3=
+真名是爱德蒙·唐泰斯，但他认为马赛的水手
+「爱德蒙·唐泰斯」和自己并非同一人物。
+因为「爱德蒙·唐泰斯」在巴黎完成激烈的复仇后，
+抛弃了自己的恶行……而作为从者现界的自己，
+将继续作为「复仇鬼的偶像」而存在。
+他表示既然如此，那自己就不是爱德蒙。
+
+|资料3日文=
+真名こそエドモン・ダンテスだが、マルセイユの海の男であった「エドモン・ダンテス」と自分は別人であると彼は認識している。
+なぜなら「エドモン・ダンテス」はパリに於ける凄絶な復讐劇の果てに悪性を捨てたが……サーヴァントとして現界した自分は「復讐鬼の偶像」で在り続けている。ならば自分はエドモンではない、と彼は言う。
+
+|资料4条件=
+|资料4=
+『基督山伯爵』
+阶级：C　种类：对人宝具
+有效范围：─　最大捕捉：1人
+Monte Cristo Mythologie。
+他是复仇的化身。不适应任何一个职阶，
+作为Extra职阶·Avenger现界的肉体，
+将其人生升华为宝具。用强韧肉体与魔力发动攻击。
+可以隐蔽自身能力与职阶，并展示虚假信息给对方。
+
+时常发动型的宝具。
+存在真名解放的效果，但本作中不会被使用。
+
+|资料4日文=
+『巌窟王』
+ランク：Ｃ　種別：対人宝具
+レンジ：─　最大捕捉：１人
+モンテ・クリスト・ミトロジー。
+彼は復讐の化身である。如何なるクラスにも当てはまらず、エクストラクラス・アヴェンジャーとして現界した肉体は、その生きざまを昇華した宝具と化した。
+強靭な肉体と魔力による攻撃。自らのステータスやクラスを隠蔽、偽の情報を見せることも可能。
+
+常時発動型の宝具。真名解放の効果も存在するが、本作では使用されない。
+
+|资料5条件=
+|资料5=
+『虎啊，煌煌燎燃』
+阶级：A　种类：对人／对军宝具
+有效范围：1～20　最大捕捉：1～100人
+Enfer Chateau d'If。
+在地狱般的伊夫堡监狱内培养出来的
+钢铁般坚韧的意志力成为宝具的存在。
+不止囚禁肉体的牢笼，
+基督山伯爵甚至能逃脱时间，空间等无形的监狱。
+超高速思考，并强行反应在肉体上，
+得以主观实现媲美「时间停止」的超高速行动。
+
+在本作中，表现为通过超高速移动造成「分身」，
+进行同时攻击的形式。
+
+|资料5日文=
+『虎よ、煌々と燃え盛れ』
+ランク：Ａ　種別：対人／対軍宝具
+レンジ：１～２０　最大捕捉：１～１００人
+アンフェル・シャトー・ディフ。
+地獄の如きシャトー・ディフで培われた鋼の精神力が宝具と化したもの。肉体はおろか、時間、空間という無形の牢獄さえをも巌窟王は脱する。
+超高速思考を行い、それを無理矢理に肉体に反映することで、主観的には「時間停止」を行使しているにも等しい超高速行動を実現するのである。
+
+本作に於いては、高速移動に伴う「分身」による同時複数攻撃といった形となる。
+
+|资料6条件=
+通关 [[岩窟王/从者任务#幕间物语1|噩梦，亦或是恩仇的呼声]]后开放
+
+|资料6=
+吾名为基督山伯爵。
+只是一名不知爱为何物，不知情为何物，
+只用憎恨与复仇熊熊燃烧自身的怨念与黑炎，
+将一切化为灰烬的残暴的Avenger。
+这世界无宠姬（海黛），那此身将永为复仇之鬼——
+
+|资料6日文=
+我が名は巌窟王（モンテ・クリスト）。
+愛を知らず、情を知らず、憎悪と復讐のみによって自らを煌々と燃え盛る怨念の黒炎と定め、すべてを灰燼に帰すまで荒ぶるアヴェンジャーに他ならない。
+この世界に寵姫（エデ）はおらず、ならばこの身は永劫の復讐鬼で在り続けるまで──
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=
+哈哈哈的从者。
+一直守护着御主的迷之从者。如果弄错了对他的称呼的话他会很生气，但冷静下来听的话，应该很快就会平息下来。拿手好戏是暗黑光线。
+
+|日文=
+クハハサーヴァント
+いつもマスターのことを見守っている謎のサーヴァント。呼び方を間違えるとけっこう怒るが、落ち着いて話を聞いていればやがて鎮まるはず。得意技は暗黒光線。
+}}
+
+==羁绊点数==
+{{羁绊点数|6000|24000|15000|2500|2500|160000|440000|330000|350000|375000|5}}
+
+==相关礼装==
+{{参阅|岩窟王/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|岩窟王|yy}}
+{{参阅|岩窟王/情人节剧情语音|该从者情人节剧情的语音}}
+{{:岩窟王/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=岩窟王头像1.png
+|图标2=岩窟王头像2.png
+|图标3=岩窟王头像3.png
+|灵衣1=基督山特选
+|灵衣1图标=伯爵灵衣头像.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=爱德蒙初始模型.png
+|模型2=爱德蒙一破模型.png
+|模型3=爱德蒙满破模型.png
+|模型1新=爱德蒙初始新模型.png
+|模型2新=爱德蒙一破新模型.png
+|模型3新=爱德蒙满破新模型.png
+|灵衣1=基督山特选
+|灵衣1模型=伯爵灵衣模型.png
+}}
+{{color|red|※请注意，{{PAGENAME}}在国服已经改变战斗模型}}
+
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+伊夫堡（查看源代码）刚冲泡的咖啡（查看源代码）岩窟王/成长曲线（查看源代码）岩窟王/未来Pick Up情况（查看源代码）岩窟王/语音（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Ruby（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:灵衣开放素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:语音表格/注释（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至岩窟王。
+ 
+						取自“http://fgo.wiki/w/岩窟王”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E5%B2%A9%E7%AA%9F%E7%8E%8B","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E5%B2%A9%E7%AA%9F%E7%8E%8B","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E5%B2%A9%E7%AA%9F%E7%8E%8B&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/919
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":116});});
+
+

@@ -1,0 +1,1151 @@
+﻿
+
+
+查看“伊什塔尔”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"伊什塔尔","wgTitle":"伊什塔尔","wgCurRevisionId":287710,"wgRevisionId":0,"wgArticleId":746,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"伊什塔尔","wgRelevantArticleId":746,"wgRequestId":"5a092b8b7bfc0de88792979a","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0lsxqe2",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+ type="text/css"/* 这里放置的CSS将应用于所有皮肤的侧边栏 */
+.skin-vector .mw-body {
+	margin-left: 11em!important;
+	padding: 1.25em 1.5em 1.5em 1.5em!important
+}
+
+.skin-vector #mw-panel {
+	padding-left: 0!important;
+	width: 10.5em!important
+}
+
+div#MenuSidebar {
+	margin-bottom: 5rem;
+	position: absolute;
+	top: 200px;
+	width: 100%
+}
+
+div#MenuSidebar a.external {
+	background: 0;
+	padding-right: auto
+}
+
+div#MenuSidebar>:first-child {
+	margin-top: 0;
+	border-top: 2px solid #f4c430
+}
+
+div#MenuSidebar>:first-child>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul {
+	list-style: none none;
+	width: 100%;
+	margin: 0
+}
+
+div#MenuSidebar ul {
+	position: relative;
+	font-size: .9rem
+}
+
+div#MenuSidebar>ul>li ul {
+	display: block;
+	opacity: 0;
+	pointer-events: none;
+	visibility: hidden;
+	transition: .2s all ease-in-out
+}
+
+div#MenuSidebar>ul ul {
+	list-style: none none;
+	position: absolute;
+	left: 100%;
+	width: 100%;
+	top: 0;
+	margin: 0;
+	z-index: 1;
+	background-color: #333;
+	box-shadow: -1px 2px 10px 0 rgba(0, 0, 0, 0.4), -1px -2px 10px 0 rgba(0, 0, 0, 0.4)
+}
+
+div#MenuSidebar ul li:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>p {
+	padding: 8px 10px;
+	margin: 0;
+	cursor: default;
+	margin-top: 8px
+}
+
+div#MenuSidebar>ul li:hover>ul {
+	display: block;
+	opacity: 1;
+	pointer-events: auto;
+	visibility: visible
+}
+
+div#MenuSidebar li {
+	position: relative;
+	margin: 0;
+	box-shadow: inset 0 1px rgba(244, 196, 48, 0.5);
+	transition: .15s all ease-in;
+	z-index: 1
+}
+
+div#MenuSidebar li b,
+div#MenuSidebar li a {
+	padding: 5px 0;
+	padding-left: 18px;
+	display: block;
+	width: auto;
+	height: 100%;
+	font-weight: normal
+}
+
+div#MenuSidebar a {
+	transition: all .15s ease-in;
+	color: #eaeaea
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	color: #000;
+	background-color: #f4c430;
+	text-decoration: none!important
+}
+
+div#MenuSidebar b {
+	cursor: default
+}
+
+div#MenuSidebar li.child>a::after,
+div#MenuSidebar li.child>b::after {
+	float: right;
+	content: "\f0da";
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	display: inherit;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 100%;
+	font-size: 1rem;
+	padding-top: 2%;
+	margin-right: 3px
+}
+
+div#MenuSidebar a.selflink:hover {
+	background-color: inherit;
+	color: #f4c430
+}
+
+div#MenuSidebar>ul>li:last-child>a,
+div#MenuSidebar>ul>li:last-child>b {
+	border-bottom-right-radius: 5px
+}
+
+div#MenuSidebar a.selflink::before {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	border-top: 6px solid transparent;
+	border-bottom: 6px solid transparent;
+	border-left: 6px solid #f4c430
+}
+
+div#MenuSidebar {
+	background-color: rgba(255, 255, 255, 0);
+	box-shadow: none;
+	top: 170px
+}
+
+div#MenuSidebar>ul {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.16), 0 2px 4px rgba(0, 0, 0, 0.23);
+	border-bottom-right-radius: 4px;
+	margin-top: -1px;
+	margin-bottom: 6px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: inset 0 1px #85c1f7;
+	margin-left: 0
+}
+
+div#MenuSidebar>ul ul {
+	background-color: hsla(0, 0%, 100%, 0.9);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+	border-radius: 4px;
+	width: unset!important;
+	z-index: 2
+}
+
+div#MenuSidebar>ul ul li {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul>li>ul {
+	width: 150%;
+	font-size: 100%
+}
+
+div#MenuSidebar>ul>li>ul ul {
+	font-size: 100%
+}
+
+div#MenuSidebar a,
+div#MenuSidebar b {
+	color: #333;
+	text-decoration: none!important
+}
+
+div#MenuSidebar>p {
+	border-top: 0;
+	border-bottom: 2px solid #4487df;
+	color: #4487df;
+	padding: 8px 10px 6px;
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.16), 0 0 4px rgba(0, 0, 0, 0.23);
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:first-child,
+div#MenuSidebar>:not(p)+ul {
+	border-top: 0;
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:not(p)+ul>:first-child {
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>ul>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul ul a,
+div#MenuSidebar>ul ul b {
+	padding: 5px 18px 5px 10px;
+	white-space: nowrap
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding-left: 18px
+}
+
+div#MenuSidebar li li.child>a::after,
+div#MenuSidebar li li.child>b::after {
+	float: unset;
+	position: absolute;
+	right: 0;
+	bottom: 5px
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	background-color: rgba(205, 235, 252, 0.4)
+}
+
+div#MenuSidebar a.selflink,
+div#MenuSidebar b.selflink {
+	font-weight: normal;
+	color: #333;
+	background-image: linear-gradient(90deg, #4487df 4px, transparent 4px)
+}
+
+div#MenuSidebar a.selflink:hover,
+div#MenuSidebar b.selflink:hover {
+	background-color: inherit;
+	color: #333
+}
+
+.skin-vector #left-navigation,
+.skin-vector #content {
+	margin-left: 10.5em
+}
+
+div#MenuSidebar>ul,
+div#MenuSidebar>p {
+	box-shadow: none;
+	border-radius: 0!important;
+	background-color: unset;
+	margin: 0
+}
+
+div#MenuSidebar>p {
+	font-weight: normal;
+	padding: 8px 10px 3px 10px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: none
+}
+
+div#MenuSidebar>p::after {
+	height: 4px;
+	display: block;
+	width: 100%;
+	position: absolute;
+	bottom: -8px;
+	left: 5px;
+	border-radius: 25px;
+	content: "";
+	background-image: linear-gradient(90deg, #4487df, transparent 95%)
+}
+
+div#MenuSidebar>p {
+	color: #4487df;
+	position: relative;
+	padding-left: 15px!important;
+	margin-top: 0!important;
+	margin-bottom: 8px!important;
+	border: 0!important
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding: 2px 0;
+	padding-left: 8px;
+	margin-top: 2px;
+	margin-left: 10px;
+	margin-right: 0;
+	border-radius: 5px 0 0 5px;
+	transition: .3s all ease;
+	color: #555
+}
+
+div#MenuSidebar>ul>:first-child>a,
+div#MenuSidebar>ul>:first-child>b {
+	margin-top: 5px
+}
+
+div#MenuSidebar>ul>li>a:HOVER,
+div#MenuSidebar>ul>li>b:HOVER {
+	background-color: rgba(34, 170, 255, 0.2);
+	color: black
+}
+
+div#MenuSidebar>ul>li>a.selflink {
+	background-color: rgba(34, 170, 255, 0.2)!important;
+	color: black!important
+}
+
+div#MenuSidebar>ul {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: 0;
+	background-image: none
+}
+
+div#MenuSidebar {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	border-radius: none!important;
+	padding-top: 40px;
+	box-shadow: none!important
+}
+
+div#MenuSidebar>ul>li.child>a::after,
+div#MenuSidebar>ul>li.child>b::after {
+	margin-right: 10px!important;
+	color: inherit!important;
+	padding-top: 1%!important;
+}
+
+div#MenuSidebar>ul>li>ul {
+	top: -4px
+}
+
+a.feedlink {
+	padding-left: 16px!important;
+}
+
+/* 为复制短链接增加一个图标 */
+#MenuSidebar #wgCopyURL-url-copy-sidebar::after {
+  content: "\f0c1";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-size: 70%;
+  margin-left: .4em;
+  color: var(--darkblue);
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“伊什塔尔”的源代码 
+←伊什塔尔
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{相关从者|伊什塔尔|伊什塔尔(Rider)|宇宙伊什塔尔}}{{review|user=Seniorious|time=2018年6月7日}}
+
+==基础数值==
+{{基础数值
+|背景颜色=#FFF3C9
+|文字颜色=#4A67AE
+|稀有度=5
+|获取途径=限定
+|序号=142
+|中文名=伊什塔尔
+|日文名=イシュタル
+|英文名=Ishtar
+|中文战斗名=伊什塔尔
+|日文战斗名=イシュタル
+|中文卡面名=伊什塔尔
+|日文卡面名=イシュタル
+|英文卡面名=Ishtar
+|声优=植田佳奈
+|画师=MORII SHIZUKI
+|属性1=秩序
+|属性2=善
+|性别=女性
+|身高=159cm
+|体重=47kg
+|隐藏属性=天
+|职阶=Archer
+|筋力=B
+|耐久=B
+|敏捷=B
+|魔力=EX
+|幸运=A
+|宝具=A++
+|基础ATK=1893
+|基础HP=2048
+|满级ATK=12252
+|满级HP=13965
+|90级ATK=12252
+|90级HP=13965
+|100级ATK=13412
+|100级HP=15299
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.45%
+|A卡np率=0.45%
+|B卡np率=0.45%
+|EX卡np率=0.45%
+|宝具np率=0.45%
+|受击np率=3%
+|Q卡hit数=4
+|A卡hit数=4
+|B卡hit数=1
+|EX卡hit数=7
+|宝具卡hit数=3
+|Q卡伤害分布=10,20,30,40
+|A卡伤害分布=10,20,30,40
+|B卡伤害分布=100
+|EX卡伤害分布=3,7,10,14,17,21,28
+|宝具卡伤害分布=16,33,51
+|出星率=8.0%
+|即死率=22.5%
+|暴击权重=153
+|特性1=神性
+|特性2=天地从者
+|特性2备注=(拟似从者)
+|特性3=人科
+|特性4=活在当下的人类
+|人型=是
+|被EA特攻=是
+|天地拟似=1
+|昵称=弓凛，伊什塔凛
+|立绘1=第１阶段
+|文件1=伊什塔尔灵基再临I
+|立绘2=第２阶段
+|文件2=伊什塔尔灵基再临II
+|立绘3=第３阶段
+|文件3=伊什塔尔灵基再临III
+|立绘4=第４阶段
+|文件4=伊什塔尔灵基再临IV
+|立绘5=愚人节
+|文件5=伊什塔尔愚人节}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+强化前=
+{{宝具
+|中文名=山脉震撼明星之薪
+|国服上标=An Gal Ta Kigal She
+|日文名=山脈震撼す明星の薪
+|日服上标=アンガルタ・キガルシュ
+|卡色=Buster
+|类型=全体
+|阶级=A++
+|种类=对山宝具
+|效果A=自身Buster指令卡性能提升(1回合)<Over Charge时效果提升>
+|数值A1=20%|数值A2=30%|数值A3=40%|数值A4=50%|数值A5=60%
+|效果B=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值B1=300%|数值B2=400%|数值B3=450%|数值B4=475%|数值B5=500%
+}}
+|-|
+强化后=通关「[[伊什塔尔/从者任务#幕间物语2|伊什塔尔回归]]」后强化。<br>
+''（开放条件：通关[[终局特异点 冠位时间神殿 所罗门/关卡配置|终局特异点]]，灵基再临第3阶段，羁绊等级达到Lv.3。需通关幕间物语「[[伊什塔尔/从者任务#幕间物语1|十一塔尔]]」。开放时间：[[幕间物语活动 第10弹]]。）''
+{{宝具
+|中文名=山脉震撼明星之薪
+|国服上标=An Gal Ta Kigal She
+|日文名=山脈震撼す明星の薪
+|日服上标=アンガルタ・キガルシュ
+|卡色=Buster
+|类型=全体
+|阶级=EX
+|种类=对山宝具
+|效果A=自身Buster指令卡性能提升(1回合)<Over Charge时效果提升><!--自身のBusterカード性能をアップ(1ターン)<Over Chargeで効果アップ>-->
+|数值A1=20%|数值A2=30%|数值A3=40%|数值A4=50%|数值A5=60%
+|效果B=对敌方全体发动强大的攻击<宝具升级效果提升><!--敵全体に強力な攻撃[g][o]▲[/o][/g]<宝具升级效果提升>-->
+|数值B1=400%|数值B2=500%|数值B3=550%|数值B4=575%|数值B5=600%
+|效果C=获得大量暴击星<!--スターを大量獲得[g][o]▲[/o][/g]-->
+|数值C1=20
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|加攻|美之显现 B|美の顕現 B|7
+|己方全体的攻击力提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|暴击威力提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|充能|闪耀的大王冠 A|輝ける大王冠 A|8
+|付与自身各种随机效果|∅|||||||||
+|80%概率付与无敌状态(1回合)|∅|||||||||
+|80%概率付与无敌贯通状态(1回合)|∅|||||||||
+|NP增加|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|秒表buff|魔力放出（宝石） A+|魔力放出（宝石） A+|5
+|付与自身1回合后攻击力提升的状态(1回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|A|自身的弱化状态耐性提升(20%)|单独行动|单独行动|A|自身的暴击威力提升(10%)|女神的神核|女神的神核|B|付与自身伤害附加状态(225)＆弱化状态耐性提升(22.5%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|弓阶银棋|5}}
+|1->2={{材料消耗|弓阶银棋|12}}{{材料消耗|八连双晶|8}}
+|2->3={{材料消耗|弓阶金像|5}}{{材料消耗|凤凰羽毛|8}}{{材料消耗|智慧之圣甲虫像|2}}
+|3->4={{材料消耗|弓阶金像|12}}{{材料消耗|智慧之圣甲虫像|4}}{{材料消耗|血之泪石|8}}
+|总计={{材料消耗|弓阶银棋|17}}{{材料消耗|弓阶金像|17}}{{材料消耗|凤凰羽毛|8}}{{材料消耗|八连双晶|8}}{{材料消耗|血之泪石|8}}{{材料消耗|智慧之圣甲虫像|6}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|弓之辉石|5}}
+|2->3={{材料消耗|弓之辉石|12}}
+|3->4={{材料消耗|弓之魔石|5}}
+|4->5={{材料消耗|弓之魔石|12}}{{材料消耗|凤凰羽毛|4}}
+|5->6={{材料消耗|弓之秘石|5}}{{材料消耗|凤凰羽毛|8}}
+|6->7={{材料消耗|弓之秘石|12}}{{材料消耗|八连双晶|5}}
+|7->8={{材料消耗|八连双晶|10}}{{材料消耗|蛇之宝玉|5}}
+|8->9={{材料消耗|蛇之宝玉|15}}{{材料消耗|封魔之灯|15}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|弓之辉石|17}}{{材料消耗|弓之魔石|17}}{{材料消耗|弓之秘石|17}}{{材料消耗|凤凰羽毛|12}}{{材料消耗|蛇之宝玉|20}}{{材料消耗|八连双晶|15}}{{材料消耗|封魔之灯|15}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|弓阶银棋|17}}{{材料消耗|弓阶金像|17}}{{材料消耗|弓之辉石|51}}{{材料消耗|弓之魔石|51}}{{材料消耗|弓之秘石|51}}{{材料消耗|凤凰羽毛|44}}{{材料消耗|蛇之宝玉|60}}{{材料消耗|八连双晶|53}}{{材料消耗|血之泪石|8}}{{材料消耗|封魔之灯|45}}{{材料消耗|智慧之圣甲虫像|6}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+美索不达米亚神话中美、丰收与战斗的女神。
+传说是最被诸神们溺爱，
+不对，是最受诸神们宠爱的女神。
+她的外形并不是伊什塔尔女神的，
+而是附身在与其波长相近的人类身上的拟似从者状态。
+嘴上虽说守护人类是女神的职责，
+但实际却是会笑眯眯地表示
+「好啦，来看看人类究竟能活下去，
+　还是会灭亡呢？」
+这种意义的守护。
+正可谓金星的（红色）恶魔。
+
+|详情日文=
+メソポタミア神話における美と豊穣、そして
+戦の女神。神々にもっとも甘やかされた、
+もとい、愛された女神とも言われる。
+この姿はイシュタル女神としてのものではなく、
+彼女に波長の近い人間を依り代にした
+疑似サーヴァント状態。
+女神らしく人間を見守るのが役割と語るが、
+「さあて、人間は生き延びるのかしら、
+　それとも滅亡するのかしら？」
+とニマニマ笑いながら見守る、という意味。
+まさに金星の（赤い）悪魔。
+
+|资料1条件=
+|资料1=
+身高／体重：159cm·47kg
+出处：古代美索不达米亚神话
+地域：美索不达米亚
+属性：秩序·善　　　性别：女性
+「原本的我应该更有魅力才对，
+　但这躯体也不赖呢。」
+
+|资料1日文=
+身長／体重：159cm・47kg
+出典：古代メソポタミア神話
+地域：メソポタミア
+属性：秩序・善　　　性別：女性
+「元の私はもっとグラマラスなんだけど、
+　この体も悪くないわね」
+
+|资料2条件=
+|资料2=
+苏美尔神名乃是伊南娜，
+从名字角度来说，这个更古老。
+伊什塔尔是阿卡德神名。
+乃金星女神，
+是司掌给人类带来繁荣的丰收的女神，
+也是司掌战斗与破坏的女神，
+还将可怕的神兽『天之公牛』送去乌鲁克市，
+总之是个会给人添麻烦的女神。
+
+以多情著称，据说无论对象是人类还是诸神，
+只要是中意的对象，就会全力献殷勤。
+另一方面，一旦对方不顺着自己的心意，
+就会表现出恶魔般的残忍。
+据说她之所以将神兽放到地上，
+也是因为乌鲁克之王吉尔伽美什没有回应自己的诱惑。
+
+|资料2日文=
+シュメル神名ではイナンナといい、名としては
+こちらの方が古い。イシュタルはアッカド神名。
+金星の女神であり、
+人に繁栄をもたらす豊穣を司る女神であり、
+戦いと破壊を司る女神でもあり、
+『天の牡牛』という恐るべき神獣をウルク市へ
+送り込んだ、とにかく傍迷惑な女神。
+
+愛が多かったのも有名で、
+人間であれ神々であれ、気に入った相手は全力で
+モーションをかけたという。
+一方、自分の意に染まらない者には悪魔の如き
+残忍さを見せたとも。
+神獣を地上にもたらした理由も、ウルクの英雄王
+ギルガメッシュが自分の誘惑に応えなかったから、
+と言われる。
+
+|资料3条件=
+|资料3=
+『山脉震撼明星之薪』
+阶级：A++　种类：对山宝具
+An Gal Ta Kigal She。
+在苏美尔神话中，伊什塔尔做过的
+最具「破坏性」，最「残忍」的行为——
+就是凭一句“只是看不顺眼而已”，
+就蹂躏了诸神之王都敬畏的灵峰艾比夫山，
+让整座山死绝这个传说化为的宝具。
+美索不达米亚神话曰，伊什塔尔闯入艾比夫山，
+每走一步就提升其神威，最后甚至一把抓住山脉之巅，
+用枪刺入地脉的心脏部分，令艾比夫山脉彻底崩溃。
+
+根据这个传说，在使用宝具时，她会先瞬移到金星，
+使用管理者的权限，将金星的概念收入手中，
+并作为概念行星塞入马安娜的弹仓中发射，
+完成这种连神都会感到恐惧的行为。
+别称为Jebel Hamrin Breaker。
+
+|资料3日文=
+『山脈震撼す明星の薪』
+ランク：Ａ＋＋　種別：対山宝具
+さんみゃくふるわす　みょうじょうのまき。
+アンガルタ・キガルシュ。
+シュメル神話においてイシュタルが行った最も
+「破壊的で」「残忍な」行為―――
+神々の王さえ恐れ、敬った霊峰エビフ山を
+“ただ気にくわないから”と蹂躙し、死滅させた
+逸話を宝具にしたもの。
+メソポタミア神話曰く、イシュタルはエビフ山に
+分け入り、一歩ごとにその神威を増し、最後には
+山脈の頂を鷲づかみにし、その地脈の心臓部に
+槍を突き刺し、エビフ山脈を崩壊させたという。
+
+この逸話を元に、宝具使用の際は金星にワープ、
+管理者権限で金星の概念を手中に収め、
+概念惑星としてマアンナの弾倉に詰めて放つ、
+という神をも恐れぬ行為をやってのける。
+またの名をジュベル・ハムリン・ブレイカー。
+
+|资料4条件=
+|资料4=
+魔力放出（宝石）：A+
+将过剩的魔力附加在武器上来增加攻击力。
+原本伊什塔尔自如的神气可以称得上万能，
+但由于附体对象的影响，不知为何，
+变得只能在宝石中积蓄魔力了。
+虽然是强大的魔力放出技能，
+但由于需要注入宝石并释放这个工程，
+所以使用的时候稍微有些麻烦。
+
+美之显现：EX→B
+作为美之女神的可怕魅力。
+能吸引他人的能力。虽然处于附体于他人的状态，
+但也已经超越人的领域了。
+原本是以强大诱惑为主体的复合技能
+（充能吸收、诅咒、技能封印），
+但由于被附体之人的强烈要求，
+因此去除了向对手施加的束缚效果，
+实质只剩下领袖气质单体技能了。
+（从原本的EX阶级降到了B阶级。）
+
+|资料4日文=
+○魔力放出（宝石）：Ａ＋
+ありあまる魔力を武器に付加させ攻撃力を増す。
+本来、イシュタルの神気は自由自在でほとんど
+万能なのだが、憑依体の影響か、なぜか宝石に
+しか魔力を蓄積する事ができなくなっている。
+強力な魔力放出スキルではあるが、宝石に込めて
+から放つ、という工程が必要なため、使いどころ
+がやや難しい。
+
+○美の顕現：ＥＸ→Ｂ
+美の女神としての恐るべきカリスマ性。
+他者を惹き付ける力。憑依しているだけの
+状態ながら、既に人の領域を超えている。
+本来は強力な誘惑を主体とした複合スキル
+（ゲージ吸収、呪い、スキル封印）となるはずが、
+憑依された人間の強い意向によって相手への
+束縛効果が外されて、実質的にはカリスマ単体の
+スキルになっている。
+（本来ならEXランクだが、Ｂに下がっている）
+
+|资料5条件=
+|资料5=
+以巨大的弓，也就是飞船『天舟马安娜』为主武装。
+马安娜是驰骋于美索不达米亚世界的神之舟，
+也是连接地球与金星的星间转移门（Gate），
+但由于本人是拟似从者，所以传送功能基本被封印。
+伊什塔尔也能运用枪，但这次贯彻了Archer职阶。
+虽说是美索不达米亚的神，
+但给人一种从金星攻打地球的侵略者的印象。
+biubiu。
+
+|资料5日文=
+巨大な弓であり飛行船である『天舟マアンナ』を
+主武装とする。
+マアンナはメソポタミア世界を駆ける
+神の舟であり、地球と金星を結ぶ星間転移門（ゲート）でもあるが、疑似サーヴァントであるため、
+基本、ワープ機能は封じられている。
+イシュタルは槍も扱うが、今回はアーチャーに
+徹している。メソポタミアの神と言いながら、
+イメージは金星から地球を攻めに飛来した
+インベーダーのそれである。ピピュン。
+
+|资料6条件=
+[[第七特异点 绝对魔兽战线 巴比伦尼亚/关卡配置|第七特异点]]通关且羁绊Lv.5时开放
+
+|资料6=
+在『FateGO』中，作为附体于人类的拟似从者现界。
+伊什塔尔的个性很强硬，言行丝毫不尊重附体对象的人类，但其性格其实也深受附体对象的人类影响。
+伊什塔尔慈悲且残忍，但由于附体对象的人类人格偏向于善，所以残忍被遏制在深处，只有善的部分表现在外。
+
+对伊什塔尔来说，御主就是『很有调侃价值的人类』。
+她虽然觉得自己比较伟大，但由于受附体对象性格的影响，所以绝不会看不起人类。
+她归根结底还是将对方视为『有调侃价值的玩具』，秉持着亲爱与友情去对待。
+不过随着羁绊的加深，在加上原本就挺会照顾人以及重情义的缘故（容易投入感情），所以会从『有调侃价值的玩具』转化为『一定要守护其前行道路的重要的契约者』。
+
+|资料6日文=
+『FGO』に於いては人間に憑依した
+疑似サーヴァントとして現界した。
+イシュタルは我が強いため、憑依先の人間を尊重
+する事なく振る舞うが、その性格は憑依した人間
+のものに大きく影響を受けている。
+慈悲深くもあるが残忍でもあるイシュタルだが、
+憑依先の人間の人格が善よりなため、残忍さは
+奥に引っ込み、善い部分が前に出るようになった。
+
+イシュタルにとって、マスターとは
+『からかい甲斐のある人間』だ。
+彼女は自分の方が偉いと思っているものの、
+憑依体の性格がベースにあるため、決して人間を
+見下したりはしない。
+あくまで『からかい甲斐のある玩具』として、
+親愛と友情をもって接する。
+しかし絆が深まるともともとの面倒見の良さと
+情の弱さ（感情移入してしまう）がたたり、
+『からかい甲斐のある玩具』から『行き先を
+見守るにたる、大切な契約者』になってしまう。
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=女神从者
+喜欢看到别人困扰的样子，但是看到真正有困难的人还是放不下心的傲娇女神。有着把闪闪发光的东西带回巢里的习性。
+
+
+|日文=
+めがみサーヴァント
+人が困っているところを見るのが好きだが困っている人を見ると放っておけないツンデレ女神。キラキラしたものを巣に持ち帰る習性がある。
+}}
+
+==羁绊点数==
+{{羁绊点数|3500|8500|7000|6000|2500|292500|360000|340000|320000|315000|5}}
+
+==相关礼装==
+{{参阅|伊什塔尔/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|伊什塔尔|yy}}
+{{参阅|伊什塔尔/情人节剧情语音|该从者情人节剧情的语音}}
+{{:伊什塔尔/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=伊什塔尔初始头像.png
+|图标2=伊什塔尔一破头像.png
+|图标3=伊什塔尔三破头像.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=伊什塔尔初始模型.png
+|模型2=伊什塔尔一破模型.png
+|模型3=伊什塔尔三破模型.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+[[分类:拟似从者]]
+该页面使用的模板：
+
+七头战锤希塔（查看源代码）伊什塔尔/成长曲线（查看源代码）伊什塔尔/未来Pick Up情况（查看源代码）伊什塔尔/语音（查看源代码）宝石切割之星（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者小图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:相关从者（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至伊什塔尔。
+ 
+						取自“http://fgo.wiki/w/伊什塔尔”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+英灵图鉴礼装图鉴指令纹章图鉴游戏数据基础各类信息汇总新人御主Q＆A抽卡模拟器 
+
+
+
+热门
+
+
+国服：冥界的圣诞快乐日服：魔伊联动复刻★5(SSR)埃列什基伽勒★4(SR)美游·艾德费尔特 
+
+
+
+扩展
+
+
+关卡配置活动一览卡池一览道具一览灵衣一览敌人一览技能一览状态一览御主装备音乐鉴赏声优一览画师一览登场人物关卡特性相关数据计算器 
+
+
+
+趣味
+
+
+FGO相关表情包FGO名人录FGO黑话·梗·成句游戏卫星一览趣味游戏 
+
+
+
+常用
+
+
+首页最近更改随机页面SE.RA.PH模板一览编辑指南贡献分数页面短链接如何支持我们收支一览点我反馈 
+
+
+
+工具
+
+
+链入页面相关更改特殊页面页面信息 
+
+
+window.toolbox=document.querySelector("#p-tb ul").innerHTML;var a=document.querySelectorAll("#mw-panel > *");for (var i=0;i<a.length;i++){if(a[i].id!="p-logo"){a[i].parentNode.removeChild(a[i])}}首页
+复制短链接https://fgo.wiki/id/746
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：『Fate/Requiem』棋盘游戏默示录
+国服：淑女·莱妮丝事件簿
+
+新增从者
+★4(SR) 鬼女红叶(Berserker)
+★5(SSR) 旅行者(Foreigner)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+事件簿联动活动推荐召唤
+
+日服
+FR联动推荐召唤
+FR联动开幕前夕推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+Bigfun社区-FGO版块
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具document.querySelector("#MSToolbox").innerHTML=window.toolbox;childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")};childlist = document.querySelectorAll("#MenuSidebar > ul#MSToolbox > li");for(var i=0;i<childlist.length;i++){if(childlist[i].innerHTML === ""){childlist[i].parentNode.removeChild(childlist[i])}};
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+    var commentStyle = document.createElement("style");
+    commentStyle.type = "text/css";
+    commentStyle.innerHTML = ".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+    commentStyle.id = "addCommentStyle";
+    document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+ 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":140});});
+
+

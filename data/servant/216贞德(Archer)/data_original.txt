@@ -1,0 +1,617 @@
+﻿
+
+
+查看“贞德(Archer)”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"贞德(Archer)","wgTitle":"贞德(Archer)","wgCurRevisionId":279737,"wgRevisionId":0,"wgArticleId":23840,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"贞德(Archer)","wgRelevantArticleId":23840,"wgRequestId":"b9ffb7950ceb668b85b4ccc9","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“贞德(Archer)”的源代码 
+←贞德(Archer)
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{相关从者|贞德|贞德〔Alter〕|贞德·Alter·Santa·Lily|贞德(Archer)|贞德〔Alter〕(Berserker)}}
+
+==基础数值==
+{{基础数值
+|稀有度=5
+|获取途径=限定
+|序号=216
+|中文名=贞德
+|日文名=ジャンヌ・ダルク
+|英文名=Jeanne d'Arc
+|中文战斗名=贞德
+|日文战斗名=ジャンヌ
+|中文卡面名=贞德
+|日文卡面名=ジャンヌ・ダルク
+|英文卡面名=Jeanne d'Arc
+|声优=坂本真绫
+|画师=武内崇
+|属性1=秩序
+|属性2=夏
+|性别=女性
+|身高=159cm
+|体重=44kg
+|隐藏属性=人
+|职阶=Archer
+|筋力=C
+|耐久=A
+|敏捷=B+
+|魔力=C
+|幸运=A
+|宝具=A
+|基础ATK=1626
+|基础HP=2309
+|满级ATK=10525
+|满级HP=15743
+|90级ATK=10525
+|90级HP=15743
+|100级ATK=11521
+|100级HP=17247
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.68%
+|A卡np率=0.68%
+|B卡np率=0.68%
+|EX卡np率=0.68%
+|宝具np率=0.68%
+|受击np率=3%
+|Q卡hit数=4
+|A卡hit数=2
+|B卡hit数=2
+|EX卡hit数=5
+|宝具卡hit数=4
+|Q卡伤害分布=10,20,30,40
+|A卡伤害分布=33,67
+|B卡伤害分布=33,67
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=10,20,30,40
+|出星率=8.0%
+|即死率=36.0%
+|暴击权重=153
+|特性1=阿尔托莉雅脸
+|特性2=人科
+|人型=是
+|被EA特攻=是
+|昵称=鲸贞姑，贞环转
+|立绘1=第１阶段
+|文件1=贞德(Archer)立绘 初始
+|立绘2=第２阶段
+|文件2=贞德(Archer)立绘 1破
+|立绘3=第３阶段
+|文件3=贞德(Archer)立绘 3破
+|立绘4=第４阶段
+|文件4=贞德(Archer)立绘 满破
+|立绘5=愚人节
+|文件5=贞德(Archer)愚人节卡面
+}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{参阅|音乐鉴赏/宝具背景音乐合集#贞德(Archer)|该从者的宝具背景音乐}}
+{{宝具
+|中文名=丰收之海啊，伴随着喜悦
+|国服上标=Des Oceans d'Allegresse
+|日文名=豊穣たる大海よ、歓喜と共に
+|日服上标=デ・オセアン・ダレグレス
+|卡色=Arts
+|类型=全体
+|阶级=A+
+|种类=对军宝具
+|效果A=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值A1=450%|数值A2=600%|数值A3=675%|数值A4=712.5%|数值A5=750%
+|效果B=付与自身每回合获得暴击星的状态(3回合)<OverCharge时效果提升>
+|数值B1=10|数值B2=15|数值B3=20|数值B4=25|数值B5=30
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|蓝放|享受无尽夏日！ A|エンドレス・エンジョイ・サマー！ A|7
+|自身的Arts指令卡性能提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|付与自身无敌状态(2次·3回合)|∅|||||||||
+}} 
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|充能|水边圣女（海豚） A+|水辺の聖女（ドルフィン） A+|8
+|自身NP增加|20%|22%|24%|26%|28%|30%|32%|34%|36%|40%
+|自身宝具威力提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|仅在〔水边〕场地上时，自身的暴击威力提升(3回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+}} 
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|加攻|从者鼓舞！ B|サーヴァント・チア！ B|7
+|己方全体的攻击力提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|除自身以外己方全体{{特性|善}}特性的攻击力提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|B|自身的弱化状态耐性提升(17.5%)|单独行动|单独行动（名流）|EX|自身的暴击威力提升(10%)&仅在〔水边〕场地上时，付与自身每回合获得NP的状态(3%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|弓阶银棋|5}}
+|1->2={{材料消耗|弓阶银棋|12}}{{材料消耗|永远结冰|8}}
+|2->3={{材料消耗|弓阶金像|5}}{{材料消耗|追忆的贝壳|10}}{{材料消耗|极光之钢|5}}
+|3->4={{材料消耗|弓阶金像|12}}{{材料消耗|极光之钢|10}}{{材料消耗|智慧之圣甲虫像|5}}
+|总计={{材料消耗|弓阶银棋|17}}{{材料消耗|弓阶金像|17}}{{材料消耗|追忆的贝壳|10}}{{材料消耗|永远结冰|8}}{{材料消耗|极光之钢|15}}{{材料消耗|智慧之圣甲虫像|5}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|弓之辉石|5}}
+|2->3={{材料消耗|弓之辉石|12}}
+|3->4={{材料消耗|弓之魔石|5}}
+|4->5={{材料消耗|弓之魔石|12}}{{材料消耗|追忆的贝壳|5}}
+|5->6={{材料消耗|弓之秘石|5}}{{材料消耗|追忆的贝壳|10}}
+|6->7={{材料消耗|弓之秘石|12}}{{材料消耗|永远结冰|5}}
+|7->8={{材料消耗|永远结冰|10}}{{材料消耗|凤凰羽毛|5}}
+|8->9={{材料消耗|凤凰羽毛|15}}{{材料消耗|奇奇神酒|10}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|弓之辉石|17}}{{材料消耗|弓之魔石|17}}{{材料消耗|弓之秘石|17}}{{材料消耗|凤凰羽毛|20}}{{材料消耗|追忆的贝壳|15}}{{材料消耗|永远结冰|15}}{{材料消耗|奇奇神酒|10}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|弓阶银棋|17}}{{材料消耗|弓阶金像|17}}{{材料消耗|弓之辉石|51}}{{材料消耗|弓之魔石|51}}{{材料消耗|弓之秘石|51}}{{材料消耗|凤凰羽毛|60}}{{材料消耗|追忆的贝壳|55}}{{材料消耗|永远结冰|53}}{{材料消耗|极光之钢|15}}{{材料消耗|智慧之圣甲虫像|5}}{{材料消耗|奇奇神酒|30}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+降临于盛夏时节的圣女。
+海豚界的明星，蓄势待发神·圣·登·场。
+将神圣的御旗换成泳圈，
+现在，前所未有的奇幻即将展开——
+
+「嗯，说白了，这就是一场尽情享受泳装的狂欢！
+　别再考虑那些死板的问题了，
+　让我们痛快地度过这个夏日吧！」
+
+|详情日文=
+それは常夏に舞い降りた聖女。
+イルカ界のスタァ、満を持しての聖・登・場。
+聖なる御旗を輪（リング）に替えて、
+いま、かつてないファンタジアが展開される―――
+
+「はい、率直に言って水着で浮かれ放題です！
+　堅苦しいことは抜きにして、
+　この一夏を痛快に過ごしましょう！」
+
+|资料1条件=
+|资料1=
+身高／体重：159cm·44kg
+出处：史实
+地域：法国
+属性：秩序·夏　　　性别：女性
+当然班长的气质并没有消失，但毕竟是夏天，兴奋愉快的心情一目了然。
+在第二再临时，甚至还戴上了眼镜进入教师模式（自称）什么的。
+
+|资料1日文=
+身長／体重：159cm・44kg
+出典：史実
+地域：フランス
+属性：秩序・夏　　　性別：女性
+もちろん委員長気質は消えていないのだが、いかんせん夏なので目に見えて浮かれ中。
+第二再臨の際、眼鏡をかけるのは教師モード（自称）だとか。
+
+|资料2条件=
+|资料2=
+尽管这次换上了泳装，但本人似乎觉得并没有什么不一样。
+当然，这错得太离谱了。
+不再尊崇善行，而是改为尊崇夏日，自始至终轻飘飘漫不经心，因夏天而兴奋的感觉明显全开。
+另外，她似乎认为与其说泳装是为了打扮自己，还不如说是用来享受夏天的道具更合适。
+
+但是，当她的灵基进入最终阶段时，职阶就会从『海边的海豚姐姐』转换为『降临于常夏的圣女』。成为将主的佑护转化为光轮（halo），为所欲为的高机动射击圣女。
+
+|资料2日文=
+今回、水着になったものの本人としてはさして違ったことはない、と思っている。
+もちろん、滅茶苦茶違う。
+善性ではなく夏を尊び、終始ふわっふわした能天気さは、明らかに夏に浮かれている感全開である。
+なお、水着は自分を装うというより、
+あくまで夏を楽しむためのもの、という考えが強い。
+
+しかし、その霊基も最終段階に入ると『浜辺のイルカのお姉さん』から『常夏に舞い降りた聖女』へとクラスチェンジ。主の加護を光の輪（ハイロゥ）に変え、やりたい放題の高機動射撃聖女と化す。
+
+|资料3条件=
+|资料3=
+能将海豚作为使魔操控。
+名字叫莉丝，服从贞德的命令，在地上阔步在空中飞翔。
+智商也很高，能停留在视野的右侧角落寸步不离地维持出现状态。
+很想知道让你消失的方法。
+另外，两位的相遇是始于贞德帮助了陷入困境的海豚这种极为简单而轻飘飘的Girl Meets Dolphin。
+
+|资料3日文=
+使い魔としてイルカを操ることができる。
+名前はリースといい、ジャンヌの命に従い、地上を闊歩し空を飛ぶ。
+知能も高く、視界の右隅から決してつかず離れず出現し続けることもできる。
+おまえを消す方法を知りたい。
+なお、その出会いは困っていたイルカをジャンヌが助けた、というシンプルかつふわっふわしたガールミーツドルフィンである。
+
+|资料4条件=
+|资料4=
+享受无尽夏日！：A
+Endless Enjoy Summer，缩写为EES。
+是认为应该全身心享受永不会结束夏日的这份干劲。
+
+水边圣女（海豚）：A+
+转变为Archer职阶之后，不知为何受到了海豚们的喜爱。海豚会向与贞德为敌的存在表现敌意并发动攻击。
+
+从者鼓舞！：B
+即便不再是Ruler职阶，这种鼓舞精神依然未变。她会边说让我们一起努力吧，边握住对方的手，导致他人产生误会。
+本人似乎是打算鼓舞来着。
+
+|资料4日文=
+○エンドレス・エンジョイ・サマー！：Ａ
+略してＥＥＳ。
+終わらない夏を全力で楽しむべし、という心意気。
+
+○水辺の聖女（ドルフィン）：Ａ＋
+アーチャークラスとなったことで、なぜかイルカが懐くようになった。イルカはジャンヌに敵対する者に牙を剥いて襲い掛かっていく。
+
+○サーヴァント・チア！：Ｂ
+ルーラークラスでなくなっても、その応援精神は変わらない。一緒にがんばりましょう、と言いつつぎゅっと手を握り締め、他人を勘違いさせる。
+本人的には応援のつもり。
+
+|资料5条件=
+|资料5=
+『丰收之海啊，伴随着喜悦』
+阶级：A+　种类：对军宝具　
+有效范围：1～20　最大捕捉：100人
+
+Des Oceans d'Allegresse
+通过向大海献上祈祷，从而召唤幻兽。
+大概是与幻兽有缘吧，只要是置身海洋中的存在，多半都能召唤出来，并作为力量使用。
+最压轴的部分就是蓝鲸。感觉会被那东西压死。其中说不定甚至还能召唤出巨齿鲨。
+
+|资料5日文=
+『豊穣たる大海よ、歓喜と共に』
+ランク：Ａ＋　種別：対軍宝具　
+レンジ：１～２０　最大捕捉：１００人
+
+デ・オセアン・ダレグレス。
+海に祈りを捧げたことによる、幻獣召喚。
+幻獣に縁があるのか、海に纏わるものなら大抵呼び出し、力を行使することができる。
+圧巻はシロナガスクジラ。なんか押し潰されて死ぬ。その内メガロドンとかも呼べるかもしれない。
+
+|资料6条件=
+羁绊达到Lv.5后开放
+
+|资料6=
+与玛丽·安托瓦内特一起组成了社团『st.奥尔良』。
+这两位似乎打算画恋爱轻喜剧的漫画，但莫名在
+「无论读到哪里都有爆炸场景」、
+「与其说有恋爱的酸甜感，不如说简直就像饱和的糖水」、
+「为了得到联系方式，居然用大炮轰手机的做法令人无法理解」等方面大受好评。
+
+|资料6日文=
+マリー・アントワネットと共にサークル
+『st.オルレアン』を結成。
+本人たちとしてはラブコメ漫画を描いている
+つもりだが
+「どこを読んでも爆破シーンがある」
+「甘酸っぱいというより飽和した砂糖水みたい」
+「連絡先を聞き出すためにスマホに大砲を撃ち込む理由がわからない」
+と、別の意味で評判だった模様。
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+せいじょサーヴァント
+夏のビーチで開放的な気分になったジャンヌ（長女）。海の生き物たちを自在にあやつり武器として発射してくるぞ。若干狂化が入っている気がする。
+}}
+
+==羁绊点数==
+{{羁绊点数|1500|2250|3000|3750|4500|245000|280000|300000|330000|436000|5}}
+
+==相关礼装==
+{{参阅|贞德(Archer)/相关礼装|从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|贞德(Archer)|yy}}
+{{参阅|贞德(Archer)/情人节剧情语音|该从者情人节剧情的语音}}
+{{:贞德(Archer)/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=Servant216正面1.png
+|图标2=Servant216正面2.png
+|图标3=Servant216正面3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=英灵模型216_0破.png
+|模型2=英灵模型216_1破.png
+|模型3=英灵模型216_3破.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+[[分类:泳装系从者]]
+该页面使用的模板：
+
+海洋天使（查看源代码）白海豚之梦（查看源代码）贞德(Archer)/成长曲线（查看源代码）贞德(Archer)/未来Pick Up情况（查看源代码）贞德(Archer)/语音（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者小图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:特性（查看源代码）（受保护）模板:相关从者（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:语音表格/注释（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至贞德(Archer)。
+ 
+						取自“http://fgo.wiki/w/贞德(Archer)”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E8%B4%9E%E5%BE%B7(Archer)","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E8%B4%9E%E5%BE%B7(Archer)","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E8%B4%9E%E5%BE%B7(Archer)&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/23840
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":129});});
+
+

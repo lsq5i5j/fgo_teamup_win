@@ -1,0 +1,640 @@
+﻿
+
+
+查看“茨木童子(Lancer)”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"茨木童子(Lancer)","wgTitle":"茨木童子(Lancer)","wgCurRevisionId":278513,"wgRevisionId":0,"wgArticleId":23849,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"茨木童子(Lancer)","wgRelevantArticleId":23849,"wgRequestId":"79ef595bc54afd002d680f42","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“茨木童子(Lancer)”的源代码 
+←茨木童子(Lancer)
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{相关从者|茨木童子|茨木童子(Lancer)}}
+
+==基础数值==
+{{基础数值
+|稀有度=4
+|获取途径=限定
+|序号=217
+|中文名=茨木童子
+|日文名=茨木童子
+|英文名=Ibaraki-Douji
+|中文战斗名=茨木童子
+|日文战斗名=茨木童子
+|中文卡面名=茨木童子
+|日文卡面名=茨木童子
+|英文卡面名=Ibaraki-Douji
+|声优=东山奈央
+|画师=左
+|属性1=混沌
+|属性2=恶
+|性别=女性
+|身高=147cm
+|体重=50kg
+|隐藏属性=地
+|职阶=Lancer
+|筋力=B+
+|耐久=A
+|敏捷=D+
+|魔力=D
+|幸运=B
+|宝具=B
+|基础ATK=1522
+|基础HP=1976
+|满级ATK=9133
+|满级HP=12354
+|90级ATK=10091
+|90级HP=13661
+|100级ATK=11058
+|100级HP=14979
+|第一张卡=Quick
+|第二张卡=Quick
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=1.06%
+|A卡np率=1.06%
+|B卡np率=1.06%
+|EX卡np率=1.06%
+|宝具np率=1.06%
+|受击np率=4%
+|Q卡hit数=4
+|A卡hit数=2
+|B卡hit数=4
+|EX卡hit数=5
+|宝具卡hit数=3
+|Q卡伤害分布=10,20,30,40
+|A卡伤害分布=33,67
+|B卡伤害分布=10,20,30,40
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=16,33,51
+|出星率=11.7%
+|即死率=36.0%
+|暴击权重=90
+|特性1=天地从者
+|特性2=魔性
+|人型=是
+|被EA特攻=是
+|昵称=枪茨木，水鬼，河童
+|立绘1=第１阶段
+|文件1=茨木童子(Lancer)0破
+|立绘2=第２阶段
+|文件2=茨木童子(Lancer)1破
+|立绘3=第３阶段
+|文件3=茨木童子(Lancer)3破
+|立绘4=第４阶段
+|文件4=茨木童子(Lancer)满破
+|立绘5=愚人节
+|文件5=茨木童子(Lancer)愚人节卡面
+}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{宝具
+|中文名=愚神礼赞·一条归桥
+|国服上标=Encomium Moriae
+|日文名=愚神礼讃・一条戻橋
+|日服上标=エンコミウム・モリエ
+|卡色=Buster
+|类型=单体
+|阶级=B++
+|种类=对结界宝具/对军宝具
+|效果A=对敌方单体发动超强大的无视防御力攻击<宝具升级效果提升>
+|数值A1=600%|数值A2=800%|数值A3=900%|数值A4=950%|数值A5=1000%
+|效果B=大量获得暴击星<Over Charge时效果提升>
+|数值B1=30|数值B2=35|数值B3=40|数值B4=45|数值B5=50
+|效果C=自身暴击星掉落率下降(3回合)【负面效果】
+|数值C1=50%
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|加攻|鬼种之魔（水） B|鬼種の魔（水） B|8
+|己方全体的攻击力提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|自身宝具威力提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|NP获得量提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|弱化解除|吾还不想回去！ B++|吾はまだ帰らぬ！ B++|7
+|解除自身的弱化状态|∅|||||||||
+|付与自身最大HP提升效果(3回合)|1000|1100|1200|1300|1400|1500|1600|1700|1800|2000
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|集星|夏日问题少女 A|サマータイムトラブルガール A|6
+|自身的暴击星集中度提升(1回合)|300%|320%|340%|360%|380%|400%|420%|440%|460%|500%
+|暴击威力提升(1回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+|有概率弱化耐性提升(1回合)(100%概率)或者弱化耐性下降(1回合)(500%概率)【负面效果】<br>(出现提升和下降的可能性相同)|30%|||||||||
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|C|自身的弱化状态耐性少量提升(15%)|狂化|狂化|D|自身的Buster指令卡性能小幅提升(4%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=4
+|0->1={{材料消耗|枪阶银棋|4}}
+|1->2={{材料消耗|枪阶银棋|10}}{{材料消耗|凶骨|18}}
+|2->3={{材料消耗|枪阶金像|4}}{{材料消耗|封魔之灯|5}}{{材料消耗|黑兽脂|3}}
+|3->4={{材料消耗|枪阶金像|10}}{{材料消耗|黑兽脂|5}}{{材料消耗|奇奇神酒|4}}
+|总计={{材料消耗|枪阶银棋|14}}{{材料消耗|枪阶金像|14}}{{材料消耗|凶骨|18}}{{材料消耗|黑兽脂|8}}{{材料消耗|封魔之灯|5}}{{材料消耗|奇奇神酒|4}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=4
+|1->2={{材料消耗|枪之辉石|4}}
+|2->3={{材料消耗|枪之辉石|10}}
+|3->4={{材料消耗|枪之魔石|4}}
+|4->5={{材料消耗|枪之魔石|10}}{{材料消耗|封魔之灯|3}}
+|5->6={{材料消耗|枪之秘石|4}}{{材料消耗|封魔之灯|5}}
+|6->7={{材料消耗|枪之秘石|10}}{{材料消耗|凶骨|12}}
+|7->8={{材料消耗|凶骨|24}}{{材料消耗|振荡火药|15}}
+|8->9={{材料消耗|振荡火药|45}}{{材料消耗|追忆的贝壳|20}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|枪之辉石|14}}{{材料消耗|枪之魔石|14}}{{材料消耗|枪之秘石|14}}{{材料消耗|凶骨|36}}{{材料消耗|振荡火药|60}}{{材料消耗|追忆的贝壳|20}}{{材料消耗|封魔之灯|8}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|枪阶银棋|14}}{{材料消耗|枪阶金像|14}}{{材料消耗|枪之辉石|42}}{{材料消耗|枪之魔石|42}}{{材料消耗|枪之秘石|42}}{{材料消耗|凶骨|126}}{{材料消耗|振荡火药|180}}{{材料消耗|追忆的贝壳|60}}{{材料消耗|黑兽脂|8}}{{材料消耗|封魔之灯|29}}{{材料消耗|奇奇神酒|4}}{{材料消耗|传承结晶|3}}
+|稀有度=4
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+夏天来了。
+说到夏天，就会联想到祭典。
+说起祭典，就会想到那热闹、充满了快乐的夜市上，有好多好吃的东西。
+原来如此，偶尔这样也不赖嘛。
+
+……回过神来时，已经换上了夏装，改变了职阶。
+基于种种原因，宝具也变化了。大概变了。
+
+尽管我不懂其中的原理，但总之现在何不好好享受这个灵基呢！
+茨木童子就要全身心地享受夏日。
+
+|详情日文=
+夏がきた。
+夏といえば夏祭り。
+祭りといえば、華やかで、愉しみに満ちて、夜店にはおいしいものがいっぱい。
+なるほどソレもたまには悪くない。
+
+……気付けば夏の装いにクラスチェンジしていた。
+色々あって宝具も変わった。たぶん変わった。
+
+理屈はよく分からないが、ともかく今のこの霊基を存分に味わおうではないか！
+茨木童子は夏の日々を全身で愉しむのである。
+
+|资料1条件=
+|资料1=
+身高／体重：147cm·50kg
+出处：御伽草子等
+地域：日本
+属性：混沌·恶　　　性别：女性
+总之打算多吃一点。
+
+|资料1日文=
+身長／体重：147cm・50kg
+出典：御伽草子など
+地域：日本
+属性：混沌・悪　　　性別：女性
+とりあえずたくさん食べようと考えている。
+
+|资料2条件=
+|资料2=
+相对来说看起来还是往常的茨木童子。
+本人似乎也不打算有什么改变。
+在外人看来，也就是『心情多少有些变好了』程度罢了，但如果当面指出，毫无疑问会遭到她的敌视，然而奇妙的是，酒吞童子如果说，
+「你看上去既兴奋又扭捏呐，
+　哎呀，像个幼童般可爱。
+　你就那么喜欢海吗？」
+茨木就不会反抗。
+
+|资料2日文=
+比較的いつも通りの茨木童子に見える。
+本人的にもそれほど変わったつもりはない模様。
+端から見れば『多少機嫌がよくなっている』かどうか程度のものであり、それを指摘しようものならまず間違いなく噛み付かれるのだろうが、これが不思議と酒呑童子にかかれば
+「ずいぶんうきうきして、もじもじして、
+　まあ、童みたいで可愛らしいなぁ。
+　そないに海好きやったん？」
+となり、茨木も噛み付かない。
+
+|资料3条件=
+|资料3=
+鬼种之魔（水）：B
+基于鬼之异能及魔性显现的技能变质而成的存在。
+魔力放出的性质也成了『水』。
+这不成了河童了吗？　茨木也感到很奇怪。
+是因为灵基发生了变化吗？
+不，等一下。这么说来，夏天来临前不久，骨头还是别的什么似乎曾经被酒吞童子嘎吱嘎吱地摆弄过一阵，自那之后，身体的状态好像就发生了变化……
+不管怎么说，只要是酒吞给的，就不可能有什么坏处！
+茨木笑眯眯地内心想到。真好。
+
+|资料3日文=
+○鬼種の魔（水）：Ｂ
+鬼の異能、魔性を現すスキルが変質したもの。
+魔力放出の性質も『水』となっている。
+それはもう河童なのでは？　茨木は訝しんだ。
+霊基が変わったせいだろうか？
+いや待て。そういえば夏の少し前、酒呑童子に骨か何かをゴキリメキメキと弄くられたような気がしないでもなく、あれ以降なんだか体の調子が変わったような気が……
+なんであれ、酒呑のくれたモノであれば悪くはなかろう！
+とにっこり笑って思う茨木である。よかったね。
+
+|资料4条件=
+|资料4=
+狂化：D
+令筋力与耐久力的属性阶级提升，但会夺走理性。
+是灵基变更后也残留下来的Berserker时的职阶技能，但由于与鬼的种族特性相合，所以破例可以控制。
+控制状态下存在理性，也能冷静地谈话。
+
+吾还不想回去！：B++
+由重整旗鼓技能出人意料地进化而成的技能。
+尽管天色已黄昏，但还不想回住宿的地方，还想继续在海滩边玩耍。
+就算天色暗下来也想玩。
+但是，如果大家都回去了的话，那也只能回去了。因为一个人玩也不怎么有意思……
+该技能就是茨木这种闷闷不乐心情的表现。
+
+|资料4日文=
+○狂化：Ｄ
+筋力と耐久力のパラメーターをランクアップさせるが、理性を奪われる。
+霊基が変わっても残ってしまったバーサーカー時のクラス別スキルだが、鬼としての種族特性とも合わさったモノであるため、例外的に制御が可能。
+制御中は理性が存在し、落ち着いて会話もできる。
+
+○吾はまだ帰らぬ！：Ｂ＋＋
+仕切り直しスキルがまさかの進化を遂げてしまったスキル。
+夕暮れになってしまったけれど、まだ宿には戻りたくないし、もっと浜辺で遊んでいたい。
+暗くなっても遊びたい。
+でも、皆が帰るなら帰るより他にない。ひとりで遊ぶのはあまり楽しくない……。
+そんなやるせない茨木の気持ちが顕れている。
+
+|资料5条件=
+|资料5=
+『愚神礼赞·一条归桥』
+阶级：B++　种类：对结界宝具／对军宝具
+有效范围：1～40　最大捕捉：100人
+
+Encomium Moriae
+和风的读法应该是「Gusinreisan Ichijoumodoribashi」。
+另外，原本的宝具名应该是「打破斋戒·一条归桥」 。
+是无视对象的防御效果或结界狠狠砸过去的Lancer茨木童子的全力攻击。
+由于回想起罗生门……不对，而是一条归桥上发生的事，怒火中烧激发血脉，从而瞬间击碎对象的魔术防御。据说生前就是使用这个力量打破了可恶的纲的斋戒，夺回了自己被砍下的手臂。
+
+另外在本作中，茨木童子在罗生门输给了渡边纲，在一条归桥也输了。可以说是两次连续输给了渡边纲。
+
+|资料5日文=
+『愚神礼讃・一条戻橋』
+ランク：Ｂ＋＋　種別：対結界宝具／対軍宝具
+レンジ：１～４０　最大捕捉：１００人
+
+エンコミウム・モリエ。
+和風読みであれば「ぐしんらいさん・いちじょうもどりばし」。
+また、本来の宝具名は「物忌破り・一条戻橋」 。
+対象の防御効果や結界の類を無視して叩き込まれる、ランサー茨木童子の全力攻撃。
+羅生門での出来事……ではなく、一条戻橋での出来事を思い出しながら怒り心頭になることで血脈を励起させ、対象の魔術的防御をたちまち砕く。生前はこの力によって憎き綱の物忌を破り、切り落とされた自身の腕を取り戻したという。
+
+なお、本作に於ける茨木童子は羅生門で渡辺綱に負け、一条戻橋でも負けている。二度連続で渡辺綱に負けている。
+
+|资料6条件=
+羁绊达到Lv.5后开放
+
+|资料6=
+真名解放时，本人其实是想像身为Berserker时那样，全力打出平安火箭拳，也就是丛原火，
+但不知为何五把枪同时展开，化作『宛若巨大的五指』，握紧巨拳，揍出一击上勾拳。
+将中招的敌人打上高高的天空，化作夏日夜空中的灿烂烟花，华丽地散去。
+巨大的五指啊…………。
+
+「这五把枪该不会……
+　就是吾之五指吧？」
+
+另外，真名「愚神礼赞·一条归桥」和读音都是贞德·Alter想出来的。
+
+|资料6日文=
+真名解放時、本人としてはバーサーカー時のように全力の平安ロケットパンチ、すなわち叢原火（そうげんび）を撃ち込んでいるつもりなのだが、
+なぜだか五槍が同時展開して『まるで巨大な五指のように』なって巨拳を握り、アッパーカットが放たれる。
+喰らった敵は遥か上空に打ち上げられ、夏の夜空に輝く花火がごとく華やかに輝きを散らす。
+巨大な五指が…………。
+
+「もしかしてこの五槍、
+　吾の五指そのものなのでは？」
+
+なお、真名「愚神礼讃・一条戻橋」とその読み方はジャンヌ・ダルク・オルタに依頼して考えてもらったものとのこと。
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+おにサーヴァント
+かわいい水着姿で夏を満喫する茨木童子。普段よりは無邪気で素直なので手懐けやすいかも。おいしいものをいっぱい買ってあげたくなるぞ。
+}}
+
+==羁绊点数==
+{{羁绊点数|2000|3000|4000|5000|6000|210000|230000|270000|350000|400000|4}}
+
+==相关礼装==
+{{参阅|茨木童子(Lancer)/相关礼装|从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|茨木童子(Lancer)|yy}}
+{{参阅|茨木童子(Lancer)/情人节剧情语音|该从者情人节剧情的语音}}
+{{:茨木童子(Lancer)/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=#f7f7b4
+|文字颜色=black
+|图标1=Servant217正面1.png
+|图标2=Servant217正面2.png
+|图标3=Servant217正面3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=#f7f7b4
+|文字颜色=black
+|模型1=英灵模型217_0破.png
+|模型2=英灵模型217_1破.png
+|模型3=英灵模型217_3破.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+[[分类:泳装系从者]]
+该页面使用的模板：
+
+大江山大烟花（查看源代码）棉花糖（查看源代码）茨木童子(Lancer)/成长曲线（查看源代码）茨木童子(Lancer)/未来Pick Up情况（查看源代码）茨木童子(Lancer)/语音（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者小图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:相关从者（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至茨木童子(Lancer)。
+ 
+						取自“http://fgo.wiki/w/茨木童子(Lancer)”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E8%8C%A8%E6%9C%A8%E7%AB%A5%E5%AD%90(Lancer)","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E8%8C%A8%E6%9C%A8%E7%AB%A5%E5%AD%90(Lancer)","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E8%8C%A8%E6%9C%A8%E7%AB%A5%E5%AD%90(Lancer)&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/23849
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":138});});
+
+

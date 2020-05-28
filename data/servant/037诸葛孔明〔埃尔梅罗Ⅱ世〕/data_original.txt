@@ -1,0 +1,1024 @@
+﻿
+
+
+查看“诸葛孔明〔埃尔梅罗Ⅱ世〕”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"诸葛孔明〔埃尔梅罗Ⅱ世〕","wgTitle":"诸葛孔明〔埃尔梅罗Ⅱ世〕","wgCurRevisionId":287704,"wgRevisionId":0,"wgArticleId":550,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"诸葛孔明〔埃尔梅罗Ⅱ世〕","wgRelevantArticleId":550,"wgRequestId":"c7bc2a9f61b12a09f28db1ee","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0lsxqe2",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+ type="text/css"/* 这里放置的CSS将应用于所有皮肤的侧边栏 */
+.skin-vector .mw-body {
+	margin-left: 11em!important;
+	padding: 1.25em 1.5em 1.5em 1.5em!important
+}
+
+.skin-vector #mw-panel {
+	padding-left: 0!important;
+	width: 10.5em!important
+}
+
+div#MenuSidebar {
+	margin-bottom: 5rem;
+	position: absolute;
+	top: 200px;
+	width: 100%
+}
+
+div#MenuSidebar a.external {
+	background: 0;
+	padding-right: auto
+}
+
+div#MenuSidebar>:first-child {
+	margin-top: 0;
+	border-top: 2px solid #f4c430
+}
+
+div#MenuSidebar>:first-child>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul {
+	list-style: none none;
+	width: 100%;
+	margin: 0
+}
+
+div#MenuSidebar ul {
+	position: relative;
+	font-size: .9rem
+}
+
+div#MenuSidebar>ul>li ul {
+	display: block;
+	opacity: 0;
+	pointer-events: none;
+	visibility: hidden;
+	transition: .2s all ease-in-out
+}
+
+div#MenuSidebar>ul ul {
+	list-style: none none;
+	position: absolute;
+	left: 100%;
+	width: 100%;
+	top: 0;
+	margin: 0;
+	z-index: 1;
+	background-color: #333;
+	box-shadow: -1px 2px 10px 0 rgba(0, 0, 0, 0.4), -1px -2px 10px 0 rgba(0, 0, 0, 0.4)
+}
+
+div#MenuSidebar ul li:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>p {
+	padding: 8px 10px;
+	margin: 0;
+	cursor: default;
+	margin-top: 8px
+}
+
+div#MenuSidebar>ul li:hover>ul {
+	display: block;
+	opacity: 1;
+	pointer-events: auto;
+	visibility: visible
+}
+
+div#MenuSidebar li {
+	position: relative;
+	margin: 0;
+	box-shadow: inset 0 1px rgba(244, 196, 48, 0.5);
+	transition: .15s all ease-in;
+	z-index: 1
+}
+
+div#MenuSidebar li b,
+div#MenuSidebar li a {
+	padding: 5px 0;
+	padding-left: 18px;
+	display: block;
+	width: auto;
+	height: 100%;
+	font-weight: normal
+}
+
+div#MenuSidebar a {
+	transition: all .15s ease-in;
+	color: #eaeaea
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	color: #000;
+	background-color: #f4c430;
+	text-decoration: none!important
+}
+
+div#MenuSidebar b {
+	cursor: default
+}
+
+div#MenuSidebar li.child>a::after,
+div#MenuSidebar li.child>b::after {
+	float: right;
+	content: "\f0da";
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	display: inherit;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 100%;
+	font-size: 1rem;
+	padding-top: 2%;
+	margin-right: 3px
+}
+
+div#MenuSidebar a.selflink:hover {
+	background-color: inherit;
+	color: #f4c430
+}
+
+div#MenuSidebar>ul>li:last-child>a,
+div#MenuSidebar>ul>li:last-child>b {
+	border-bottom-right-radius: 5px
+}
+
+div#MenuSidebar a.selflink::before {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	border-top: 6px solid transparent;
+	border-bottom: 6px solid transparent;
+	border-left: 6px solid #f4c430
+}
+
+div#MenuSidebar {
+	background-color: rgba(255, 255, 255, 0);
+	box-shadow: none;
+	top: 170px
+}
+
+div#MenuSidebar>ul {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.16), 0 2px 4px rgba(0, 0, 0, 0.23);
+	border-bottom-right-radius: 4px;
+	margin-top: -1px;
+	margin-bottom: 6px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: inset 0 1px #85c1f7;
+	margin-left: 0
+}
+
+div#MenuSidebar>ul ul {
+	background-color: hsla(0, 0%, 100%, 0.9);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+	border-radius: 4px;
+	width: unset!important;
+	z-index: 2
+}
+
+div#MenuSidebar>ul ul li {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul>li>ul {
+	width: 150%;
+	font-size: 100%
+}
+
+div#MenuSidebar>ul>li>ul ul {
+	font-size: 100%
+}
+
+div#MenuSidebar a,
+div#MenuSidebar b {
+	color: #333;
+	text-decoration: none!important
+}
+
+div#MenuSidebar>p {
+	border-top: 0;
+	border-bottom: 2px solid #4487df;
+	color: #4487df;
+	padding: 8px 10px 6px;
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.16), 0 0 4px rgba(0, 0, 0, 0.23);
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:first-child,
+div#MenuSidebar>:not(p)+ul {
+	border-top: 0;
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:not(p)+ul>:first-child {
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>ul>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul ul a,
+div#MenuSidebar>ul ul b {
+	padding: 5px 18px 5px 10px;
+	white-space: nowrap
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding-left: 18px
+}
+
+div#MenuSidebar li li.child>a::after,
+div#MenuSidebar li li.child>b::after {
+	float: unset;
+	position: absolute;
+	right: 0;
+	bottom: 5px
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	background-color: rgba(205, 235, 252, 0.4)
+}
+
+div#MenuSidebar a.selflink,
+div#MenuSidebar b.selflink {
+	font-weight: normal;
+	color: #333;
+	background-image: linear-gradient(90deg, #4487df 4px, transparent 4px)
+}
+
+div#MenuSidebar a.selflink:hover,
+div#MenuSidebar b.selflink:hover {
+	background-color: inherit;
+	color: #333
+}
+
+.skin-vector #left-navigation,
+.skin-vector #content {
+	margin-left: 10.5em
+}
+
+div#MenuSidebar>ul,
+div#MenuSidebar>p {
+	box-shadow: none;
+	border-radius: 0!important;
+	background-color: unset;
+	margin: 0
+}
+
+div#MenuSidebar>p {
+	font-weight: normal;
+	padding: 8px 10px 3px 10px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: none
+}
+
+div#MenuSidebar>p::after {
+	height: 4px;
+	display: block;
+	width: 100%;
+	position: absolute;
+	bottom: -8px;
+	left: 5px;
+	border-radius: 25px;
+	content: "";
+	background-image: linear-gradient(90deg, #4487df, transparent 95%)
+}
+
+div#MenuSidebar>p {
+	color: #4487df;
+	position: relative;
+	padding-left: 15px!important;
+	margin-top: 0!important;
+	margin-bottom: 8px!important;
+	border: 0!important
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding: 2px 0;
+	padding-left: 8px;
+	margin-top: 2px;
+	margin-left: 10px;
+	margin-right: 0;
+	border-radius: 5px 0 0 5px;
+	transition: .3s all ease;
+	color: #555
+}
+
+div#MenuSidebar>ul>:first-child>a,
+div#MenuSidebar>ul>:first-child>b {
+	margin-top: 5px
+}
+
+div#MenuSidebar>ul>li>a:HOVER,
+div#MenuSidebar>ul>li>b:HOVER {
+	background-color: rgba(34, 170, 255, 0.2);
+	color: black
+}
+
+div#MenuSidebar>ul>li>a.selflink {
+	background-color: rgba(34, 170, 255, 0.2)!important;
+	color: black!important
+}
+
+div#MenuSidebar>ul {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: 0;
+	background-image: none
+}
+
+div#MenuSidebar {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	border-radius: none!important;
+	padding-top: 40px;
+	box-shadow: none!important
+}
+
+div#MenuSidebar>ul>li.child>a::after,
+div#MenuSidebar>ul>li.child>b::after {
+	margin-right: 10px!important;
+	color: inherit!important;
+	padding-top: 1%!important;
+}
+
+div#MenuSidebar>ul>li>ul {
+	top: -4px
+}
+
+a.feedlink {
+	padding-left: 16px!important;
+}
+
+/* 为复制短链接增加一个图标 */
+#MenuSidebar #wgCopyURL-url-copy-sidebar::after {
+  content: "\f0c1";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-size: 70%;
+  margin-left: .4em;
+  color: var(--darkblue);
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“诸葛孔明〔埃尔梅罗Ⅱ世〕”的源代码 
+←诸葛孔明〔埃尔梅罗Ⅱ世〕
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}
+[[分类:未复查的从者条目]]
+
+==基础数值==
+{{基础数值
+|背景颜色=RGB(129,45,45)
+|文字颜色=RGB(248,232,194)
+|稀有度=5
+|获取途径=常驻
+|序号=37
+|中文名=诸葛孔明〔埃尔梅罗Ⅱ世〕
+|日文名=諸葛孔明〔エルメロイⅡ世〕
+|英文名=Zhuge Liang (Lord El-Melloi II)
+|中文战斗名=诸葛孔明
+|日文战斗名=諸葛孔明
+|中文卡面名=诸葛孔明
+|日文卡面名=諸葛孔明
+|英文卡面名=Zhuge Liang
+|声优=浪川大辅
+|画师=武内崇
+|属性1=中立
+|属性2=善
+|性别=男性
+|身高=186cm
+|体重=68kg
+|隐藏属性=人
+|职阶=Caster
+|筋力=E
+|耐久=E
+|敏捷=D
+|魔力=A+
+|幸运=B+
+|宝具=A
+|基础ATK=1637
+|基础HP=2091
+|满级ATK=10598
+|满级HP=14259
+|90级ATK=10598
+|90级HP=14259
+|100级ATK=11601
+|100级HP=15621
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Arts
+|第五张卡=Buster
+|Q卡np率=1.64%
+|A卡np率=1.64%
+|B卡np率=1.64%
+|EX卡np率=1.64%
+|宝具np率=1.64%
+|受击np率=3%
+|Q卡hit数=2
+|A卡hit数=1
+|B卡hit数=1
+|EX卡hit数=3
+|宝具卡hit数=—
+|Q卡伤害分布=33,67
+|A卡伤害分布=100
+|B卡伤害分布=100
+|EX卡伤害分布=12,25,63
+|宝具卡伤害分布=
+|出星率=10.8%
+|即死率=34.5%
+|暴击权重=50
+|特性1=所爱之人
+|特性2=人科
+|特性3=活在当下的人类
+|人型=是
+|被EA特攻=是
+|昵称=孔老师，村夫,孔日天,王妃（男），韦伯，隆中响指王，二世
+|立绘1=第１阶段
+|文件1=诸葛孔明卡面Ⅰ
+|立绘2=第２阶段
+|文件2=诸葛孔明卡面Ⅱ
+|立绘3=第３阶段
+|文件3=诸葛孔明卡面Ⅲ
+|立绘4=第４阶段
+|文件4=诸葛孔明卡面Ⅳ
+|立绘5=愚人节
+|文件5=诸葛孔明愚人节
+}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+强化后=通关幕间物语「[[诸葛孔明〔埃尔梅罗Ⅱ世〕/从者任务#幕间物语3|再临的真相]]」后强化。
+<br>''（开放条件：通关第三特异点，达到灵基再临第4阶段，达到羁绊Lv.5。需通关幕间物语「[[诸葛孔明〔埃尔梅罗Ⅱ世〕/从者任务#幕间物语2|无边之海]]」。开放时间：[[第三特异点 封锁终局四海 俄刻阿诺斯|第三特异点]]公开。）''
+{{宝具
+|中文名=石兵八阵
+|国服上标=无还之阵
+|日文名=石兵八陣
+|日服上标=かえらずのじん
+|卡色=Arts
+|类型=辅助
+|阶级=C
+|种类=对军宝具
+|效果A=敌方全体充能减少
+|数值A1=∅
+|效果B=中概率付与晕眩(1回合)<Over Charge时效果提升>
+|数值B1=50%|数值B2=57.5%|数值B3=65%|数值B4=72.5%|数值B5=80%
+|效果C=(150%概率)付与诅咒状态(6回合)
+|数值C1=1000
+|效果D=(150%概率)防御力大幅下降(3回合)<宝具升级效果提升>
+|数值D1=30%|数值D2=40%|数值D3=45%|数值D4=47.5%|数值D5=50%
+}}
+|-|
+强化前=
+{{宝具
+|中文名=石兵八阵
+|国服上标=无还之阵
+|日文名=石兵八陣
+|日服上标=かえらずのじん
+|卡色=Arts
+|类型=辅助
+|阶级=C-
+|种类=对军宝具
+|效果A=敌方全体充能减少
+|数值A1=∅
+|效果B=中概率付与晕眩(1回合)<Over Charge时效果提升>
+|数值B1=50%|数值B2=57.5%|数值B3=65%|数值B4=72.5%|数值B5=80%
+|效果C=(150%概率)付与诅咒状态(3回合)
+|数值C1=500
+|效果D=(150%概率)防御力下降(3回合)<宝具升级效果提升>
+|数值D1=10%|数值D2=15%|数值D3=20%|数值D4=25%|数值D5=30%
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|暴击威力提升|鉴识眼 A|鑑識眼 A|7
+|己方单体的暴击威力提升(3回合)|20%|23%|26%|29%|32%|35%|38%|41%|44%|50%
+|增加NP|30%|||||||||
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|加防|军师的忠言 A+|軍師の忠言 A+|8
+|己方全体的防御力提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|付与被伤害减免状态(3回合)|200|230|260|290|320|350|380|410|440|500
+|NP少量增加|10%|||||||||
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|加攻|军师的指挥 A+|軍師の指揮 A+|8
+|己方全体的攻击力提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|付与伤害附加状态(3回合)|200|230|260|290|320|350|380|410|440|500
+|NP少量增加|10%|||||||||
+}}
+
+===职阶技能===
+{{职阶技能|阵地建造|阵地建造|A|自身的Arts指令卡性能提升(10%)|道具作成|道具作成|B|自身的弱化状态成功率提升(8%)
+}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|术阶银棋|5}}
+|1->2={{材料消耗|术阶银棋|12}}{{材料消耗|虚影之尘|15}}
+|2->3={{材料消耗|术阶金像|5}}{{材料消耗|禁断书页|10}}{{材料消耗|无间齿轮|5}}
+|3->4={{材料消耗|术阶金像|12}}{{材料消耗|无间齿轮|10}}{{材料消耗|凤凰羽毛|10}}
+|总计={{材料消耗|术阶银棋|17}}{{材料消耗|术阶金像|17}}{{材料消耗|虚影之尘|15}}{{材料消耗|凤凰羽毛|10}}{{材料消耗|无间齿轮|15}}{{材料消耗|禁断书页|10}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|术之辉石|5}}
+|2->3={{材料消耗|术之辉石|12}}
+|3->4={{材料消耗|术之魔石|5}}
+|4->5={{材料消耗|术之魔石|12}}{{材料消耗|禁断书页|5}}
+|5->6={{材料消耗|术之秘石|5}}{{材料消耗|禁断书页|10}}
+|6->7={{材料消耗|术之秘石|12}}{{材料消耗|虚影之尘|10}}
+|7->8={{材料消耗|虚影之尘|20}}{{材料消耗|蛮神心脏|3}}
+|8->9={{材料消耗|蛮神心脏|8}}{{材料消耗|凤凰羽毛|20}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|术之辉石|17}}{{材料消耗|术之魔石|17}}{{材料消耗|术之秘石|17}}{{材料消耗|虚影之尘|30}}{{材料消耗|凤凰羽毛|20}}{{材料消耗|禁断书页|15}}{{材料消耗|蛮神心脏|11}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|术阶银棋|17}}{{材料消耗|术阶金像|17}}{{材料消耗|术之辉石|51}}{{材料消耗|术之魔石|51}}{{材料消耗|术之秘石|51}}{{材料消耗|虚影之尘|105}}{{材料消耗|凤凰羽毛|70}}{{材料消耗|无间齿轮|15}}{{材料消耗|禁断书页|55}}{{材料消耗|蛮神心脏|33}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+君主·埃尔梅罗Ⅱ世，
+他个人的能力与历史本不足以使其成为从者。
+然而在这次的圣杯战争中，基于极为特殊的情况，
+他作为中国英灵诸葛孔明的附体容器被成功召唤。
+
+|详情日文=
+ロード・エルメロイⅡ世は本来サーヴァントに至れるような器、歴史を持っている訳ではない。
+しかし此度の聖杯戦争の極めて特殊な事情が絡み、中国の英霊である諸葛孔明の依り代となることで召喚を成功された。
+
+|资料1条件=
+|资料1=
+身高／体重：186cm·68kg
+出处：『三国演义』
+地域：中国
+属性：中立·善　　性别：男性
+合理主义的怪物。
+
+|资料1日文=
+身長／体重：186cm・68kg
+出典：『三国志演義』
+地域：中国
+属性：中立・善　　性別：男性
+合理主義の怪物。
+
+|资料2条件=
+|资料2=
+诸葛孔明作为中国的三国时代优秀的政治家、
+军事家而闻名于世。据说本为弱小国家的蜀国，
+之所以能长期抵抗强大的魏国，多半是依仗他的力量。
+
+|资料2日文=
+諸葛孔明は中国は三国時代に優れた政治家、軍人として広く知られており、弱小国である蜀が長きに渡り大国である魏に抵抗できたのも、彼の力に依るところが大きいと伝えられている。
+
+|资料3条件=
+|资料3=
+严格来说该从者并非埃尔梅罗Ⅱ世，也不是诸葛孔明。
+两者的力量混合后，发挥出了超越一般从者的力量。
+此外，思考与情感则是以作为容器的埃尔梅罗Ⅱ世为准。
+
+|资料3日文=
+このサーヴァントは厳密にはエルメロイⅡ世でもなく、諸葛孔明でもない。両者の力が混ざり合い、本来のサーヴァントではない力を発揮している。また、思考や感情は依り代であるエルメロイⅡ世に準じている。
+
+|资料4条件=
+|资料4=
+鉴识眼：A
+固有技能。这能力出自埃尔梅罗Ⅱ世，而并非孔明。
+一种更为集中的人类观察技术。观察力得以进一步提升，
+尤其精于看透观察对象将来会以怎样的形式起到用处。
+
+|资料4日文=
+○鑑識眼：Ａ
+固有スキル。諸葛孔明ではなく、エルメロイⅡ世に起因する能力。人間観察を更に狭くした技術。対象となる人間が将来的にどのような形で有用性を獲得するかの目利きに極めて優れている。
+
+|资料5条件=
+|资料5=
+『石兵八阵』
+阶级：C　种类：对军宝具
+传说中，诸葛孔明曾在自军战败撤退时布下的奇阵。
+此阵以巨大岩石构成，
+能令入侵者陷入迷途，置之于死地。
+
+|资料5日文=
+『石兵八陣（かえらずのじん）』
+ランク：Ｃ　種別：対軍宝具
+諸葛孔明が自軍の敗走が決まった際に仕掛けておいた
+伝説上の陣形。巨岩で構成されたその陣は侵入した者たちを迷わせ、死に追いやる。
+
+|资料6条件=
+通关 [[诸葛孔明〔埃尔梅罗Ⅱ世〕/从者任务#幕间物语1|英灵附体]]后开放
+
+|资料6=
+拟似从者……因某种理由无法成为从者的英灵，
+会借用人类的身体作为容器，以被召唤到现世。
+除君主·埃尔梅罗Ⅱ世外，已确认还有数名拟似从者。
+
+|资料6日文=
+疑似サーヴァント……何らかの理由でサーヴァントに
+なれない英霊が、人間の体を器にすることで現世に召喚されたもの。ロード・エルメロイⅡ世以外にも、何体かの疑似サーヴァントが確認されている。
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=
+上班从者
+被诸葛孔明强塞了很多工作的可怜大叔。要恨就恨自己的性能吧。一不注意就会变成小孩。
+
+
+|日文=
+はたらきサーヴァント
+諸葛孔明に仕事を押しつけられた可哀想なおじさん。恨むのならその性能を恨むんだな。目を離すと子供になっている。
+}}
+
+==羁绊点数==
+{{羁绊点数|5000|15000|10000|2000|18000|150000|430000|340000|320000|405000|5
+}}
+
+==相关礼装==
+{{参阅|诸葛孔明〔埃尔梅罗Ⅱ世〕/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|诸葛孔明〔埃尔梅罗Ⅱ世〕|yy}}
+{{参阅|诸葛孔明〔埃尔梅罗Ⅱ世〕/情人节剧情语音|该从者情人节剧情的语音}}
+{{:诸葛孔明〔埃尔梅罗Ⅱ世〕/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=Servant037正面1.png
+|图标2=Servant037正面2.png
+|图标3=Servant037正面3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=英灵模型037_0破旧.png
+|模型2=英灵模型037_1破旧.png
+|模型3=英灵模型037_3破旧.png
+|模型1新=英灵模型037_0破.png
+|模型2新=英灵模型037_1破.png
+|模型3新=英灵模型037_3破.png
+}}
+
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+[[分类:拟似从者]]
+该页面使用的模板：
+
+王之遗物（查看源代码）诸葛孔明〔埃尔梅罗Ⅱ世〕/成长曲线（查看源代码）诸葛孔明〔埃尔梅罗Ⅱ世〕/未来Pick Up情况（查看源代码）诸葛孔明〔埃尔梅罗Ⅱ世〕/语音（查看源代码）雪茄与葡萄酒（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:未来Pick Up3情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至诸葛孔明〔埃尔梅罗Ⅱ世〕。
+ 
+						取自“http://fgo.wiki/w/诸葛孔明〔埃尔梅罗Ⅱ世〕”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+英灵图鉴礼装图鉴指令纹章图鉴游戏数据基础各类信息汇总新人御主Q＆A抽卡模拟器 
+
+
+
+热门
+
+
+国服：冥界的圣诞快乐日服：魔伊联动复刻★5(SSR)埃列什基伽勒★4(SR)美游·艾德费尔特 
+
+
+
+扩展
+
+
+关卡配置活动一览卡池一览道具一览灵衣一览敌人一览技能一览状态一览御主装备音乐鉴赏声优一览画师一览登场人物关卡特性相关数据计算器 
+
+
+
+趣味
+
+
+FGO相关表情包FGO名人录FGO黑话·梗·成句游戏卫星一览趣味游戏 
+
+
+
+常用
+
+
+首页最近更改随机页面SE.RA.PH模板一览编辑指南贡献分数页面短链接如何支持我们收支一览点我反馈 
+
+
+
+工具
+
+
+链入页面相关更改特殊页面页面信息 
+
+
+window.toolbox=document.querySelector("#p-tb ul").innerHTML;var a=document.querySelectorAll("#mw-panel > *");for (var i=0;i<a.length;i++){if(a[i].id!="p-logo"){a[i].parentNode.removeChild(a[i])}}首页
+复制短链接https://fgo.wiki/id/550
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：『Fate/Requiem』棋盘游戏默示录
+国服：淑女·莱妮丝事件簿
+
+新增从者
+★4(SR) 鬼女红叶(Berserker)
+★5(SSR) 旅行者(Foreigner)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+事件簿联动活动推荐召唤
+
+日服
+FR联动推荐召唤
+FR联动开幕前夕推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+Bigfun社区-FGO版块
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具document.querySelector("#MSToolbox").innerHTML=window.toolbox;childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")};childlist = document.querySelectorAll("#MenuSidebar > ul#MSToolbox > li");for(var i=0;i<childlist.length;i++){if(childlist[i].innerHTML === ""){childlist[i].parentNode.removeChild(childlist[i])}};
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+    var commentStyle = document.createElement("style");
+    commentStyle.type = "text/css";
+    commentStyle.innerHTML = ".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+    commentStyle.id = "addCommentStyle";
+    document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+ 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":121});});
+
+

@@ -1,0 +1,667 @@
+﻿
+
+
+查看“谜之女主角X”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"谜之女主角X","wgTitle":"谜之女主角X","wgCurRevisionId":279624,"wgRevisionId":0,"wgArticleId":910,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"谜之女主角X","wgRelevantArticleId":910,"wgRequestId":"b76fe325801d58e736435eca","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“谜之女主角X”的源代码 
+←谜之女主角X
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{相关从者|谜之女主角X|谜之女主角X〔Alter〕|谜之女主角XX}}[[分类:未复查的从者条目]]
+
+==基础数值==
+{{基础数值
+|背景颜色=#1c6ed1
+|文字颜色=#ecd289
+|稀有度=5
+|获取途径=限定
+|序号=86
+|中文名=谜之女主角X
+|日文名=謎のヒロインX
+|英文名=Mysterious Heroine X
+|中文战斗名=女主角X
+|日文战斗名=ヒロインX
+|中文卡面名=谜之女主角X
+|日文卡面名=謎のヒロインX
+|英文卡面名=Mysterious Heroine X
+|声优=川澄绫子
+|画师=BUNBUN
+|属性1=混沌
+|属性2=善
+|性别=女性
+|身高=154cm
+|体重=42kg
+|隐藏属性=星
+|职阶=Assassin
+|筋力=B
+|耐久=C
+|敏捷=A+
+|魔力=B
+|幸运=D
+|宝具=A++
+|基础ATK=1817
+|基础HP=1862
+|满级ATK=11761
+|满级HP=12696
+|90级ATK=11761
+|90级HP=12696
+|100级ATK=12874
+|100级HP=13909
+|第一张卡=Quick
+|第二张卡=Quick
+|第三张卡=Arts
+|第四张卡=Arts
+|第五张卡=Buster
+|Q卡np率=0.81%
+|A卡np率=0.81%
+|B卡np率=0.81%
+|EX卡np率=0.81%
+|宝具np率=0.81%
+|受击np率=4%
+|Q卡hit数=4
+|A卡hit数=2
+|B卡hit数=1
+|EX卡hit数=4
+|宝具卡hit数=12
+|Q卡伤害分布=10,20,30,40
+|A卡伤害分布=33,67
+|B卡伤害分布=100
+|EX卡伤害分布=9,18,27,46
+|宝具卡伤害分布=5,7,5,7,5,7,5,7,5,7,5,35
+|出星率=25.6%
+|即死率=38.5%
+|暴击权重=98
+|特性1=骑乘
+|特性2=龙
+|特性3=阿尔托莉雅脸
+|特性4=亚瑟
+|特性5=王
+|特性6=人科
+|人型=是
+|被EA特攻=否
+|昵称=X毛，AX
+|立绘1=第１阶段
+|文件1=谜之女主角X-卡面1
+|立绘2=第２阶段
+|文件2=谜之女主角X-卡面2
+|立绘3=第３阶段
+|文件3=谜之女主角X-卡面3
+|立绘4=第４阶段
+|文件4=谜之女主角X-卡面4
+|立绘5=谜之女主角Z
+|文件5=谜之女主角X灵衣1
+|立绘6=愚人节
+|文件6=谜之女主角X-卡面愚人节}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+强化后=通关幕间物语「[[谜之女主角X/从者任务#幕间物语3|SABER SLAYER 觉醒篇]]」后强化。<br>
+''（开放条件：通关第四特异点，达到灵基再临第3阶段，达到羁绊Lv.5。需通关幕间物语「[[谜之女主角X/从者任务#幕间物语2|SABER SLAYER 激斗篇]]」。开放时间：[[Saber Wars ～Lily的宇宙武者修行～]]。）''
+{{宝具
+|中文名=无铭胜利剑
+|国服上标=Himitsu Calibur
+|日文名=無銘勝利剣
+|日服上标=ひみつかりばー
+|卡色=Quick
+|类型=单体
+|阶级=EX
+|种类=对人宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=1600%|数值A2=2000%|数值A3=2200%|数值A4=2300%|数值A5=2400%
+|效果B={{特性|阿尔托莉雅脸|特攻=yes}}特攻<Over Charge时特攻威力提升>
+|数值B1=150%|数值B2=162.5%|数值B3=175%|数值B4=187.5%|数值B5=200%
+}}
+|-|
+强化前=
+{{宝具
+|中文名=无铭胜利剑
+|国服上标=Himitsu Calibur
+|日文名=無銘勝利剣
+|日服上标=ひみつかりばー
+|卡色=Quick
+|类型=单体
+|阶级=A+
+|种类=对人宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=1200%|数值A2=1600%|数值A3=1800%|数值A4=1900%|数值A5=2000%
+|效果B={{特性|阿尔托莉雅脸|特攻=yes}}特攻<Over Charge时特攻威力提升>
+|数值B1=150%|数值B2=162.5%|数值B3=175%|数值B4=187.5%|数值B5=200%
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+<tabber>
+强化前=
+{{持有技能|眩晕|支援炮击 EX|支援砲撃 EX|10
+|1回合后以中概率付与敌方全体眩晕状态(1回合)
+|60%|62%|64%|66%|68%|70%|72%|74%|76%|80%
+}}
+|-|
+强化后=
+通关「[[谜之女主角X/从者任务#强化任务2|强化关卡 谜之女主角X 2]]」后强化。<br>	
+''（开放条件：通关「强化关卡 谜之女主角X」。开放时间：[[从者强化任务 第11弹～4th Anniversary～特别篇]]。）''
+{{持有技能|眩晕|支援炮击XEX EX|支援砲撃XEX EX|9
+|敌方全体的防御力下降(3回合)
+|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|1回合后以中概率付与敌方全体眩晕状态(1回合)
+|60%|62%|64%|66%|68%|70%|72%|74%|76%|80%
+}}
+</tabber>
+'''技能2（灵基再临第1阶段开放）'''
+<tabber>
+强化后=
+通关「[[谜之女主角X/从者任务#强化任务1|强化关卡 谜之女主角X]]」后强化。<br>
+''（开放条件：达到灵基再临第4阶段。开放时间：[[从者强化任务 第7弹]]。）''
+{{持有技能|无敌|Saber之星 C++|セイバーの星 C++|7
+|付与自身无敌状态(1回合)|∅|||||||||
+|获得大量暴击星|10|11|12|13|14|15|16|17|18|20
+}}
+|-|
+强化前=
+{{持有技能|出星|直觉 C+|直感 C+|7
+|大量获得暴击星|4|5|6|7|8|9|10|11|12|14
+}}
+</tabber>
+'''技能3（灵基再临第3阶段开放）'''
+<tabber>
+强化前=
+{{持有技能|掉星率增加|银河流星剑 C|銀河流星剣 C|8
+|自身攻击{{特性|Saber|link=Saber}}时的暴击星掉落率超幅提升(3回合)|50%|55%|60%|65%|70%|75%|80%|85%|90%|100%
+|付与{{特性|Saber|link=Saber}}特攻状态(3回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+}}
+|-|
+强化后=
+通关「[[谜之女主角X/从者任务#幕间物语4|遇难者X的回归]]」后强化。<br>
+''（开放时间：[[Saber Wars 2 ～前往初始的宇宙～]]。）''
+{{持有技能|掉星率增加|银河流星剑XEX A|銀河流星剣XEX A|8
+|自身攻击{{特性|Saber|link=Saber}}时的暴击星掉落率超幅提升(3回合)|50%|55%|60%|65%|70%|75%|80%|85%|90%|100%
+|付与{{特性|Saber|link=Saber}}特攻状态(3回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+|攻击力提升(3回合)
+|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+</tabber>
+
+===职阶技能===
+{{职阶技能|掉星率增加|宇宙反应器|A|自身的暴击星掉落率提升(10%)|骑乘|骑乘|EX|自身的Quick指令卡性能提升(12%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|杀阶银棋|5}}
+|1->2={{材料消耗|杀阶银棋|12}}{{材料消耗|龙之牙|18}}
+|2->3={{材料消耗|杀阶金像|5}}{{材料消耗|凤凰羽毛|8}}{{材料消耗|龙之逆鳞|2}}
+|3->4={{材料消耗|杀阶金像|12}}{{材料消耗|龙之逆鳞|4}}{{材料消耗|英雄之证|36}}
+|总计={{材料消耗|杀阶银棋|17}}{{材料消耗|杀阶金像|17}}{{材料消耗|英雄之证|36}}{{材料消耗|龙之牙|18}}{{材料消耗|凤凰羽毛|8}}{{材料消耗|龙之逆鳞|6}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|杀之辉石|5}}
+|2->3={{材料消耗|杀之辉石|12}}
+|3->4={{材料消耗|杀之魔石|5}}
+|4->5={{材料消耗|杀之魔石|12}}{{材料消耗|凤凰羽毛|4}}
+|5->6={{材料消耗|杀之秘石|5}}{{材料消耗|凤凰羽毛|8}}
+|6->7={{材料消耗|杀之秘石|12}}{{材料消耗|龙之牙|12}}
+|7->8={{材料消耗|龙之牙|24}}{{材料消耗|虚影之尘|12}}
+|8->9={{材料消耗|虚影之尘|36}}{{材料消耗|八连双晶|24}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|杀之辉石|17}}{{材料消耗|杀之魔石|17}}{{材料消耗|杀之秘石|17}}{{材料消耗|虚影之尘|48}}{{材料消耗|龙之牙|36}}{{材料消耗|凤凰羽毛|12}}{{材料消耗|八连双晶|24}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|杀阶银棋|17}}{{材料消耗|杀阶金像|17}}{{材料消耗|杀之辉石|51}}{{材料消耗|杀之魔石|51}}{{材料消耗|杀之秘石|51}}{{材料消耗|英雄之证|36}}{{材料消耗|虚影之尘|144}}{{材料消耗|龙之牙|126}}{{材料消耗|凤凰羽毛|44}}{{材料消耗|八连双晶|72}}{{材料消耗|龙之逆鳞|6}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+===灵衣开放===
+{{参阅|灵衣一览|其他从者的灵衣相关信息}}
+{{灵衣开放素材
+|灵衣名称=簡易霊衣：謎のヒロインZ<br />简易灵衣：谜之女主角Z
+|素材={{材料消耗|英雄之证|10}}{{材料消耗|极光之钢|5}}{{材料消耗|晓光炉心|5}}{{材料消耗|龙之逆鳞|5}}
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+从被称为从者宇宙的神秘时空来访的异乡之人。
+自称Saber职阶的决定版，
+身为一名骑士，
+光明正大地发动暗算的对Saber用决战兵器。
+
+代号·A-X。
+
+|详情日文=
+サーヴァント・ユニヴァースと呼ばれる
+謎の時空から来訪したストレンジャー。
+自らをセイバークラスの決定版と名乗り、
+騎士として正々堂々と闇討ちを行う
+対セイバー用決戦兵器。
+
+コードネーム・Ａ－Ｘ。
+
+|资料1条件=
+|资料1=
+身高／体重：154cm·42kg
+出处：2013年愚人节
+地域：从者界
+属性：混沌·善　　　性别：女性
+用神秘魔剑『无铭胜利剑』把敌人都杀掉吧。
+
+|资料1日文=
+身長／体重：154cm・42kg
+出典：2013年エイプリルフール
+地域：サーヴァント・ユニヴァース
+属性：混沌・善　　　性別：女性
+なぞのまけん『ひみつかりばー』でてきをみなごろしにするぞ。
+
+|资料2条件=
+|资料2=
+「阿尔托莉雅种族就像是宇宙的癌。
+　必须有人去切除才行。
+　必须有人去做。」
+
+面露苦涩的表情，女主X背井离乡。
+驾驶着爱机金色神驹Ⅱ号在星海驰骋。
+
+|资料2日文=
+「アルトリア種は宇宙のガンのようなもの。
+　誰かが刈り取らねばならないのです。
+　誰かが」
+
+苦渋に満ちた表情でそう残し、ヒロインXは故郷を後にした。愛機ドゥ・スタリオンⅡ号は今日も星の海を駆ける。
+
+|资料3条件=
+|资料3=
+其外形与一般从者截然不同，
+身着休闲运动风的服装。
+蓝色的围巾是勇气的标志，
+帽子是为了隐藏其呆毛真身。
+但戳出来了，戳出来了，彻底戳出来了。
+
+|资料3日文=
+その姿はおおよそサーヴァントらしからぬラフ＆スポーティな服装。青いマフラーは勇気の印、帽子はその正体とアホ毛を隠すためのものである。突き出てる突き出てるめっちゃ突き出てる。
+
+|资料4条件=
+|资料4=
+作为对Saber决战兵器，
+只知一味打倒所有Saber的她，
+赌上这把圣剑，宁将此身化为修罗模式，
+然而她唯独对Saber Lily敞开了心怀。
+
+|资料4日文=
+対セイバー用決戦兵器として、並み居るセイバーをひたすら打倒する我はこの一聖剣に賭ける修羅モードであるが、唯一セイバーリリィに対しては心を開いた。
+
+|资料5条件=
+|资料5=
+在来到这里之前，她曾拯救了古代王朝的危机，
+解决了人类统一工会的内斗，
+赶走了从其他宇宙到来的侵略者。
+但这些事对她而言都是小菜一碟。
+这都是些鸡毛蒜皮的事，所以她根本没记在心上。
+
+为了达成悲愿，她将继续挥舞无铭胜利剑。
+另外黄金大帝宇宙吉尔伽美斯是无论如何都要干掉的。
+
+|资料5日文=
+こちらにやってくるまでは古代王朝の危機を救ったり人類統合組合の内ゲバを解決したり他ユニヴァースからの侵略者たちを蹴散らしたりしていたが、そんなものは彼女にとって朝食前のデザートのようなもの。どうでもいい事なので覚えていないらしい。
+
+真の悲願達成まで、彼女は今日もひみつかりばーを振るい続ける。あと黄金大帝コスモギルガメスは何があっても斬り捨てる。
+
+|资料6条件=
+通关 [[谜之女主角X/从者任务#幕间物语1|SABER SLAYER 黎明篇]]后开放
+
+|资料6=
+她的真实身份是阿尔托莉雅·潘德拉贡，
+这个事实是不能告诉任何人的。
+
+这完美的扮装虽说应该能骗过所有人，
+但为了避免剧透，请你务必要守口如瓶。
+也是为了本人的名誉……！
+
+|资料6日文=
+誰にも打ち明けられないが、
+その正体はアルトリア・ペンドラゴン。
+
+完璧な変装に誰もが騙されたと思うが、
+ネタバレになるのでどうか黙していてほしい。
+本人の名誉のためにも……！
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+アルトリアサーヴァント
+数あるサーヴァントの中でも最も元ネタが分からない。アルトリア種を根絶やしにするためにアルトリア遺伝子から作られた哀しき殺戮兵器。
+}}
+
+==羁绊点数==
+{{羁绊点数|3500|8500|7000|6000|2500|292500|360000|340000|320000|315000|5}}
+
+==相关礼装==
+{{参阅|谜之女主角X/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|谜之女主角X|yy}}
+{{参阅|谜之女主角X/情人节剧情语音|该从者情人节剧情的语音}}
+{{:谜之女主角X/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=谜之女主角X头像1.png
+|图标2=谜之女主角X头像2.png
+|图标3=谜之女主角X头像3.png
+|灵衣1=谜之女主角Z
+|灵衣1图标=谜之女主角X_status_灵衣.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=谜之女主角X模型1.png
+|模型2=谜之女主角X模型2.png
+|模型3=谜之女主角X模型3.png
+|模型1新=谜之女主角X新模型1.png
+|模型2新=谜之女主角X新模型2.png
+|模型3新=谜之女主角X新模型3.png
+|灵衣1=谜之女主角Z
+|灵衣1模型=谜之女主角X灵衣.png
+}}
+
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==其他==
+===武器===
+{| class="wikitable" style="text-align:center;width:825px"
+![[文件:谜之女主角X武器1.png|252x252px]]||[[文件:谜之女主角X武器2.png|252x252px]]
+|- style="background:navy; color:white"
+|colspan="3"|无铭胜利剑
+|}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+歼灭清单（查看源代码）谜之女主角X/成长曲线（查看源代码）谜之女主角X/未来Pick Up情况（查看源代码）谜之女主角X/语音（查看源代码）金色神驹巧克力（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者小图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:灵衣开放素材（查看源代码）模板:特性（查看源代码）（受保护）模板:相关从者（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:语音表格/注释（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至谜之女主角X。
+ 
+						取自“http://fgo.wiki/w/谜之女主角X”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E8%B0%9C%E4%B9%8B%E5%A5%B3%E4%B8%BB%E8%A7%92X","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E8%B0%9C%E4%B9%8B%E5%A5%B3%E4%B8%BB%E8%A7%92X","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E8%B0%9C%E4%B9%8B%E5%A5%B3%E4%B8%BB%E8%A7%92X&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/910
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+国服：幕间物语活动 第8弹
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":136});});
+
+

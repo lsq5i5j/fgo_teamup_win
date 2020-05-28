@@ -1,0 +1,278 @@
+﻿
+
+
+查看“阿尔托莉雅·潘德拉贡(Archer)/成长曲线”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"阿尔托莉雅·潘德拉贡(Archer)/成长曲线","wgTitle":"阿尔托莉雅·潘德拉贡(Archer)/成长曲线","wgCurRevisionId":50476,"wgRevisionId":0,"wgArticleId":17689,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"阿尔托莉雅·潘德拉贡(Archer)/成长曲线","wgRelevantArticleId":17689,"wgRequestId":"3b95f0d9eb28087a82e1a818","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“阿尔托莉雅·潘德拉贡(Archer)/成长曲线”的源代码 
+←阿尔托莉雅·潘德拉贡(Archer)/成长曲线
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{成长曲线|数据=
+{"lv": 1, "HP": 2134, "ATK": 1742},{"lv": 2, "HP": 2270, "ATK": 1846},{"lv": 3, "HP": 2407, "ATK": 1951},{"lv": 4, "HP": 2543, "ATK": 2056},{"lv": 5, "HP": 2680, "ATK": 2161},{"lv": 6, "HP": 2829, "ATK": 2275},{"lv": 7, "HP": 2966, "ATK": 2380},{"lv": 8, "HP": 3102, "ATK": 2485},{"lv": 9, "HP": 3239, "ATK": 2590},{"lv": 10, "HP": 3388, "ATK": 2704},{"lv": 11, "HP": 3524, "ATK": 2809},{"lv": 12, "HP": 3661, "ATK": 2914},{"lv": 13, "HP": 3798, "ATK": 3019},{"lv": 14, "HP": 3947, "ATK": 3133},{"lv": 15, "HP": 4083, "ATK": 3238},{"lv": 16, "HP": 4220, "ATK": 3343},{"lv": 17, "HP": 4357, "ATK": 3448},{"lv": 18, "HP": 4506, "ATK": 3562},{"lv": 19, "HP": 4642, "ATK": 3667},{"lv": 20, "HP": 4779, "ATK": 3772},{"lv": 21, "HP": 4915, "ATK": 3877},{"lv": 22, "HP": 5052, "ATK": 3982},{"lv": 23, "HP": 5201, "ATK": 4096},{"lv": 24, "HP": 5338, "ATK": 4201},{"lv": 25, "HP": 5474, "ATK": 4306},{"lv": 26, "HP": 5611, "ATK": 4411},{"lv": 27, "HP": 5760, "ATK": 4525},{"lv": 28, "HP": 5896, "ATK": 4630},{"lv": 29, "HP": 6033, "ATK": 4735},{"lv": 30, "HP": 6170, "ATK": 4840},{"lv": 31, "HP": 6319, "ATK": 4954},{"lv": 32, "HP": 6455, "ATK": 5059},{"lv": 33, "HP": 6592, "ATK": 5164},{"lv": 34, "HP": 6729, "ATK": 5269},{"lv": 35, "HP": 6878, "ATK": 5383},{"lv": 36, "HP": 7014, "ATK": 5488},{"lv": 37, "HP": 7151, "ATK": 5593},{"lv": 38, "HP": 7287, "ATK": 5698},{"lv": 39, "HP": 7424, "ATK": 5803},{"lv": 40, "HP": 7573, "ATK": 5917},{"lv": 41, "HP": 7710, "ATK": 6022},{"lv": 42, "HP": 7846, "ATK": 6127},{"lv": 43, "HP": 7983, "ATK": 6232},{"lv": 44, "HP": 8132, "ATK": 6346},{"lv": 45, "HP": 8268, "ATK": 6451},{"lv": 46, "HP": 8405, "ATK": 6556},{"lv": 47, "HP": 8542, "ATK": 6661},{"lv": 48, "HP": 8691, "ATK": 6775},{"lv": 49, "HP": 8827, "ATK": 6880},{"lv": 50, "HP": 8964, "ATK": 6985},{"lv": 51, "HP": 9101, "ATK": 7090},{"lv": 52, "HP": 9250, "ATK": 7204},{"lv": 53, "HP": 9386, "ATK": 7309},{"lv": 54, "HP": 9523, "ATK": 7414},{"lv": 55, "HP": 9659, "ATK": 7519},{"lv": 56, "HP": 9796, "ATK": 7624},{"lv": 57, "HP": 9945, "ATK": 7738},{"lv": 58, "HP": 10082, "ATK": 7843},{"lv": 59, "HP": 10218, "ATK": 7948},{"lv": 60, "HP": 10355, "ATK": 8053},{"lv": 61, "HP": 10504, "ATK": 8167},{"lv": 62, "HP": 10641, "ATK": 8272},{"lv": 63, "HP": 10777, "ATK": 8377},{"lv": 64, "HP": 10914, "ATK": 8482},{"lv": 65, "HP": 11063, "ATK": 8596},{"lv": 66, "HP": 11199, "ATK": 8701},{"lv": 67, "HP": 11336, "ATK": 8806},{"lv": 68, "HP": 11473, "ATK": 8911},{"lv": 69, "HP": 11622, "ATK": 9025},{"lv": 70, "HP": 11758, "ATK": 9130},{"lv": 71, "HP": 11895, "ATK": 9235},{"lv": 72, "HP": 12031, "ATK": 9340},{"lv": 73, "HP": 12168, "ATK": 9445},{"lv": 74, "HP": 12317, "ATK": 9559},{"lv": 75, "HP": 12454, "ATK": 9664},{"lv": 76, "HP": 12590, "ATK": 9769},{"lv": 77, "HP": 12727, "ATK": 9874},{"lv": 78, "HP": 12876, "ATK": 9988},{"lv": 79, "HP": 13013, "ATK": 10093},{"lv": 80, "HP": 13149, "ATK": 10198},{"lv": 81, "HP": 13286, "ATK": 10303},{"lv": 82, "HP": 13435, "ATK": 10417},{"lv": 83, "HP": 13571, "ATK": 10522},{"lv": 84, "HP": 13708, "ATK": 10627},{"lv": 85, "HP": 13845, "ATK": 10732},{"lv": 86, "HP": 13994, "ATK": 10846},{"lv": 87, "HP": 14130, "ATK": 10951},{"lv": 88, "HP": 14267, "ATK": 11056},{"lv": 89, "HP": 14403, "ATK": 11161},{"lv": 90, "HP": 14553, "ATK": 11276},{"lv": 91, "HP": 14689, "ATK": 11380},{"lv": 92, "HP": 14826, "ATK": 11485},{"lv": 93, "HP": 14962, "ATK": 11590},{"lv": 94, "HP": 15099, "ATK": 11695},{"lv": 95, "HP": 15248, "ATK": 11809},{"lv": 96, "HP": 15385, "ATK": 11914},{"lv": 97, "HP": 15521, "ATK": 12019},{"lv": 98, "HP": 15658, "ATK": 12124},{"lv": 99, "HP": 15807, "ATK": 12238},{"lv": 100, "HP": 15943, "ATK": 12343}
+}}
+该页面使用的模板：
+
+模板:成长曲线（查看源代码）返回至阿尔托莉雅·潘德拉贡(Archer)/成长曲线。
+ 
+						取自“http://fgo.wiki/w/阿尔托莉雅·潘德拉贡(Archer)/成长曲线”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Archer)\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Archer)\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Archer)\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/17689
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95});});
+
+

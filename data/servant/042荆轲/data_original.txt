@@ -1,0 +1,597 @@
+﻿
+
+
+查看“荆轲”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"荆轲","wgTitle":"荆轲","wgCurRevisionId":279583,"wgRevisionId":0,"wgArticleId":3493,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"荆轲","wgRelevantArticleId":3493,"wgRequestId":"45afdf3bff31fc924bdbb865","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“荆轲”的源代码 
+←荆轲
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}[[分类:未复查的从者条目]]
+
+==基础数值==
+{{基础数值
+|背景颜色=#F1F7F4
+|文字颜色=RGB(63,73,65)
+|稀有度=3
+|获取途径=常驻
+|序号=42
+|中文名=荆轲
+|日文名=荊軻
+|英文名=Jing Ke
+|中文战斗名=荆轲
+|日文战斗名=荊軻
+|中文卡面名=荆轲
+|日文卡面名=荊軻
+|英文卡面名=Jing Ke
+|声优=田中敦子
+|画师=高桥庆太郎
+|属性1=混沌
+|属性2=善
+|性别=女性
+|身高=159cm
+|体重=48kg
+|隐藏属性=人
+|职阶=Assassin
+|筋力=D
+|耐久=E
+|敏捷=A
+|魔力=E
+|幸运=D
+|宝具=B
+|基础ATK=1338
+|基础HP=1492
+|满级ATK=7207
+|满级HP=8293
+|90级ATK=8903
+|90级HP=10258
+|100级ATK=9754
+|100级HP=11244
+|第一张卡=Quick
+|第二张卡=Quick
+|第三张卡=Quick
+|第四张卡=Arts
+|第五张卡=Buster
+|Q卡np率=1.05%
+|A卡np率=1.05%
+|B卡np率=1.05%
+|EX卡np率=1.05%
+|宝具np率=1.05%
+|受击np率=4%
+|Q卡hit数=2
+|A卡hit数=2
+|B卡hit数=1
+|EX卡hit数=3
+|宝具卡hit数=1
+|Q卡伤害分布=33,67
+|A卡伤害分布=33,67
+|B卡伤害分布=100
+|EX卡伤害分布=16,33,51
+|宝具卡伤害分布=100
+|出星率=25.2%
+|即死率=55.0%
+|暴击权重=98
+|特性1=人科
+|人型=是
+|被EA特攻=是
+|昵称=
+|立绘1=第１阶段
+|文件1=荆轲1
+|立绘2=第２阶段
+|文件2=荆轲2
+|立绘3=第３阶段
+|文件3=荆轲3
+|立绘4=第４阶段
+|文件4=荆轲4
+|立绘5=愚人节
+|文件5=荆轲5}}
+*Lostbelt No.3实装后模组更改，Extra指令卡伤害分布由(12,25,63)变为(16,33,51)。
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+强化后=通关「[[荆轲/从者任务#强化任务2|强化关卡 荆轲 2]]」后强化。<br>''（开放条件：达到灵基再临第4阶段。需通关「[[荆轲/从者任务#强化任务1|强化关卡 荆轲]]」。开放时间：[[从者强化任务 第7弹]]。）''
+{{宝具
+|中文名=不归匕首
+|国服上标=只为刺杀而存
+|日文名=不還匕首
+|日服上标=ただ、あやめるのみ
+|卡色=Quick
+|类型=单体
+|阶级=B+
+|种类=对人宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=1600%|数值A2=2000%|数值A3=2200%|数值A4=2300%|数值A5=2400%
+|效果B=中概率即死效果<Over Charge时效果提升>
+|数值B1=50%|数值B2=62.5%|数值B3=75%|数值B4=87.5%|数值B5=100%
+|效果C=获得大量暴击星<Over Charge时效果提升>
+|对象C=获得暴击星
+|数值C1=20|数值C2=25|数值C3=30|数值C4=35|数值C5=40
+|效果D=自身HP减少1000【负面效果】
+|数值D1=∅
+}}
+|-|
+强化前={{宝具
+|中文名=不归匕首
+|国服上标=只为刺杀而存
+|日文名=不還匕首
+|日服上标=ただ、あやめるのみ
+|卡色=Quick
+|类型=单体
+|阶级=B
+|种类=对人宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=1200%|数值A2=1600%|数值A3=1800%|数值A4=1900%|数值A5=2000%
+|效果B=中概率即死效果<Over Charge时效果提升>
+|数值B1=50%|数值B2=62.5%|数值B3=75%|数值B4=87.5%|数值B5=100%
+|效果C=获得大量暴击星<Over Charge时效果提升>
+|对象C=获得暴击星
+|数值C1=15|数值C2=20|数值C3=25|数值C4=30|数值C5=35
+|效果D=自身HP减少1000【负面效果】
+|数值D1=∅
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|集星|抑制 A|抑制 A|7
+|付与自身暴击星集中状态(3回合)|200%|||||||||
+|大量获得暴击星|5|6|7|8|9|10|11|12|13|15
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|掉星率增加|计划 B|プランニング B|7
+|自身的暴击星掉落率提升(3回合)|10%|12%|14%|16%|18%|20%|22%|24%|26%|30%
+}}
+'''技能3（灵基再临第4阶段开放）'''<br>
+通关「[[荆轲/从者任务#强化任务1|强化关卡 荆轲]]」后开放。<br>
+''（开放条件：达到灵基再临第4阶段。开放时间：[[从者强化任务 第2弹]]。）''
+{{持有技能|绿放|旁若无人 A|傍若無人 A|7
+|自身的Quick指令卡性能提升(1回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|暴击威力提升(1回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+}}
+
+===职阶技能===
+{{职阶技能|气息遮断|气息遮断|B|自身的暴击星掉落率提升(8%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=3
+|0->1={{材料消耗|杀阶银棋|4}}
+|1->2={{材料消耗|杀阶银棋|8}}{{材料消耗|凶骨|15}}
+|2->3={{材料消耗|杀阶金像|4}}{{材料消耗|八连双晶|7}}{{材料消耗|鬼魂提灯|4}}
+|3->4={{材料消耗|杀阶金像|8}}{{材料消耗|鬼魂提灯|7}}{{材料消耗|虚影之尘|16}}
+|总计={{材料消耗|杀阶银棋|12}}{{材料消耗|杀阶金像|12}}{{材料消耗|虚影之尘|16}}{{材料消耗|凶骨|15}}{{材料消耗|鬼魂提灯|11}}{{材料消耗|八连双晶|7}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=3
+|1->2={{材料消耗|杀之辉石|4}}
+|2->3={{材料消耗|杀之辉石|8}}
+|3->4={{材料消耗|杀之魔石|4}}
+|4->5={{材料消耗|杀之魔石|8}}{{材料消耗|八连双晶|4}}
+|5->6={{材料消耗|杀之秘石|4}}{{材料消耗|八连双晶|7}}
+|6->7={{材料消耗|杀之秘石|8}}{{材料消耗|凶骨|10}}
+|7->8={{材料消耗|凶骨|20}}{{材料消耗|凤凰羽毛|4}}
+|8->9={{材料消耗|凤凰羽毛|10}}{{材料消耗|虚影之尘|32}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|杀之辉石|12}}{{材料消耗|杀之魔石|12}}{{材料消耗|杀之秘石|12}}{{材料消耗|虚影之尘|32}}{{材料消耗|凶骨|30}}{{材料消耗|凤凰羽毛|14}}{{材料消耗|八连双晶|11}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|杀阶银棋|12}}{{材料消耗|杀阶金像|12}}{{材料消耗|杀之辉石|36}}{{材料消耗|杀之魔石|36}}{{材料消耗|杀之秘石|36}}{{材料消耗|虚影之尘|112}}{{材料消耗|凶骨|105}}{{材料消耗|凤凰羽毛|42}}{{材料消耗|鬼魂提灯|11}}{{材料消耗|八连双晶|40}}{{材料消耗|传承结晶|3}}
+|稀有度=3
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+——十步杀一人。
+刺客荆轲企图暗杀秦始皇，但最终功亏一篑。
+若是没有外部因素的阻碍，
+或许本应是一名足以改写中国历史的人物。
+
+|详情日文=
+――残り十歩、必ず殺す。
+荊軻は始皇帝暗殺を企み、あと一歩のところで果たせなかった刺客である。
+対外的な理由での邪魔さえなければ、中国の歴史を塗り替えたかもしれない人物だ。
+
+|资料1条件=
+|资料1=
+身高／体重：159cm·48kg
+出处：史实
+地域：中国
+属性：混沌·善　　性别：女性
+在史实的记述中是名男性。
+
+|资料1日文=
+身長／体重：159cm・48kg
+出典：史実
+地域：中国
+属性：混沌・善　　性別：女性
+史実では男性として伝えられている。
+
+|资料2条件=
+|资料2=
+荆轲并非以暗杀为生，
+她是个爱读书，爱剑术，
+爱与好友交流，更爱美酒的豪爽人物。
+燕国太子丹委托她暗杀秦始皇，
+她也爽快地答应了下来。
+为了暗杀行事谨慎的皇帝，她安排了详尽的计划。
+
+|资料2日文=
+荊軻は暗殺を生業としていた訳ではなく、読書と剣術、賢友との語らい、そして何より酒を愛した快人物であった。燕国の太子、丹より始皇帝暗殺の依頼を受けた荊軻は快く引き受け、用心深い皇帝を暗殺するために計画を練りに練った。
+
+|资料3条件=
+|资料3=
+搞定献给秦始皇的礼物，以及淬了毒的暗杀用匕首，
+就在即将出发前，
+只差等待愿意舍命随她前往暗杀的朋友，
+太子丹见荆轲迟迟不动，
+竟开始怀疑她是不是「胆小怕事了」。
+
+|资料3日文=
+始皇帝に捧げる手土産を持ち、暗殺用に毒を焼き入れた短刀を手に入れ、計画実行まで後少しと迫った頃、暗殺の助手として命を捨てる友を待っている荊軻に、丹は「臆病風に吹かれたのではないか」と疑念を抱いてしまう。
+
+|资料4条件=
+|资料4=
+遭到怀疑的荆轲无奈只能选择太子推荐的男性当助手，
+踏上了赴秦之旅。然而这名本应帮助她刺杀的男性，
+却因恐惧而动弹不得，荆轲只得孤身一人暗杀秦始皇，
+然而或许是因为秦始皇的帝运之故，
+在最后关头被其逃脱。
+
+|资料4日文=
+疑念を抱かれた荊軻は、やむなく太子が推薦した男を助手として秦へと旅立った。だが暗殺の際に助力となるはずの男が恐怖で動けなくなり、荊軻は単独での暗殺に挑むが始皇帝の幸運の為せる技か、間一髪のところで取り逃がしてしまう。
+
+|资料5条件=
+|资料5=
+传说觉悟到自己之死的荆轲出口讥讽秦始皇，
+遭到了杀害。身为一名暗杀者，
+荆轲未能完成暗杀就已命丧黄泉。
+但明知自己无法活着回来，
+却依然爽快地接下任务的荆轲，
+不愧为名震天下的侠义人物吧。
+
+|资料5日文=
+覚悟を決めた荊軻は始皇帝を嘲りながら殺されたと伝わっている。暗殺者でありながら、暗殺を果たすことなく露と消えた荊軻。だが生きて戻れぬことを知りながら快く頼みを引き受けた荊軻は、まさに天下の義侠とも呼べる人物である。
+
+|资料6条件=
+通关 [[荆轲/从者任务#幕间物语1|风萧萧易水寒]]后开放
+
+|资料6=
+风萧萧兮易水寒
+壮士一去兮不复还
+　　　　　　　　——荆轲诀别时留下的诗
+
+|资料6日文=
+風蕭蕭として易水寒し
+壮士　ひとたび去ってまた還らず
+　　　　　　　　――荊軻が別れの際に残した詩
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+しかくサーヴァント
+いつも酔っ払っているので、楽しそうなサーヴァント。お酒さえあれば、勝手に成長するので便利。傍若無人モードになると、周囲の誰彼構わず絡んでくるから要注意だ。
+}}
+
+==羁绊点数==
+{{羁绊点数|2000|3000|4000|5000|6000|190000|208000|252000|310000|360000|3}}
+
+==相关礼装==
+{{参阅|荆轲/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|荆轲|yy}}
+{{参阅|荆轲/情人节剧情语音|该从者情人节剧情的语音}}
+{{:荆轲/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=Servant042正面1.png
+|图标2=Servant042正面2.png
+|图标3=Servant042正面3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=英灵模型042_0破.png
+|模型2=英灵模型042_1破.png
+|模型3=英灵模型042_3破.png
+|模型1新=英灵模型042_0破新.png
+|模型2新=英灵模型042_1破新.png
+|模型3新=英灵模型042_3破新.png
+}}
+{{color|red|※请注意，{{PAGENAME}}在国服已经改变战斗模型}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+九宾之礼（查看源代码）苦味匕首巧克力（查看源代码）荆轲/成长曲线（查看源代码）荆轲/未来Pick Up情况（查看源代码）荆轲/语音（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至荆轲。
+ 
+						取自“http://fgo.wiki/w/荆轲”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E8%8D%86%E8%BD%B2","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E8%8D%86%E8%BD%B2","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E8%8D%86%E8%BD%B2&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/3493
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":139});});
+
+

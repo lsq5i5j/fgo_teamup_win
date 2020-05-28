@@ -1,0 +1,633 @@
+﻿
+
+
+查看“米德拉什的Caster”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"米德拉什的Caster","wgTitle":"米德拉什的Caster","wgCurRevisionId":279716,"wgRevisionId":0,"wgArticleId":3460,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"米德拉什的Caster","wgRelevantArticleId":3460,"wgRequestId":"45260d8a217e3963cc92377c","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“米德拉什的Caster”的源代码 
+←米德拉什的Caster
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}[[分类:未复查的从者条目]]
+
+==基础数值==
+{{基础数值
+|稀有度=4
+|获取途径=剧情
+|序号=194
+|中文名=示巴女王
+|日文名=シバの女王
+|英文名=Queen of Sheba
+|中文战斗名=示巴女王
+|日文战斗名=シバの女王
+|中文卡面名={{黑幕|示巴女王}}
+|日文卡面名={{黑幕|シバの女王}}
+|英文卡面名={{黑幕|Queen of Sheba}}
+|真名解放=yes
+|中文名2=米德拉什的Caster
+|日文名2=ミドラーシュのキャスター
+|英文名2=Caster of Midrash
+|声优=佐藤聪美
+|画师=Katou Itsuwa
+|属性1=中立
+|属性2=善
+|性别=女性
+|身高=173cm
+|体重=59kg
+|隐藏属性=人
+|职阶=Caster
+|筋力=D
+|耐久=C
+|敏捷=D
+|魔力=A
+|幸运=A
+|宝具=B
+|基础ATK=1438
+|基础HP=1940
+|满级ATK=8629
+|满级HP=12127
+|90级ATK=9535
+|90级HP=13410
+|100级ATK=10448
+|100级HP=14704
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.81%
+|A卡np率=0.81%
+|B卡np率=0.81%
+|EX卡np率=0.81%
+|宝具np率=0.81%
+|受击np率=3%
+|Q卡hit数=4
+|A卡hit数=3
+|B卡hit数=4
+|EX卡hit数=5
+|宝具卡hit数=5
+|Q卡伤害分布=10,20,30,40
+|A卡伤害分布=16,33,51
+|B卡伤害分布=10,20,30,40
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=6,13,20,26,35
+|出星率=10.8%
+|即死率=36.0%
+|暴击权重=51
+|特性1=王
+|特性2=人科
+|人型=是
+|被EA特攻=是
+|昵称=
+|立绘1=第１阶段
+|文件1=示巴女王立绘1
+|立绘2=第２阶段
+|文件2=示巴女王立绘2
+|立绘3=第３阶段
+|文件3=示巴女王立绘3
+|立绘4=第４阶段
+|文件4=示巴女王立绘4
+|立绘5=愚人节
+|文件5=示巴女王立绘f}}
+注：通关[[亚种特异点Ⅳ 禁忌降临庭园 塞勒姆/关卡配置#第4节|亚种特异点Ⅳ 塞勒姆 第4节 第三结]]后真名判明。
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{宝具
+|中文名=三道谜语
+|国服上标=Three Enigmas
+|日文名=三つの謎かけ
+|日服上标=スリー・エニグマズ
+|卡色=Arts
+|类型=单体
+|阶级=B
+|种类=对人宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=900%|数值A2=1200%|数值A3=1350%|数值A4=1425%|数值A5=1500%
+|效果B=防御力下降(3回合)<Over Charge时效果提升>
+|数值B1=10%|数值B2=15%|数值B3=20%|数值B4=25%|数值B5=30%
+|效果C=攻击力下降(3回合)<Over Charge时效果提升>
+|数值C1=10%|数值C2=15%|数值C3=20%|数值C4=25%|数值C5=30%
+|效果D=HP回复量下降(3回合)<Over Charge时效果提升>
+|数值D1=30%|数值D2=40%|数值D3=50%|数值D4=60%|数值D5=70%
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|加攻|领袖气质 B-|カリスマ B-|7
+|己方全体的攻击力提升(3回合)|8.9%|9.8%|10.7%|11.6%|12.5%|13.4%|14.3%|15.2%|16.1%|17.8% 
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|暴击威力提升|精灵之目 A|精霊の目 A|7
+|自身的暴击威力提升(1回合)|50%|55%|60%|65%|70%|75%|80%|85%|90%|100%
+|付与无敌贯通状态(1回合)|∅|||||||||
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|红蓝放|魔神的睿智 A|魔神の叡智 A|8
+|己方全体的Arts指令卡性能提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|Buster指令卡性能提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|获得暴击星|10|||||||||
+}}
+
+===职阶技能===
+{{职阶技能|阵地建造|阵地建造|C|自身的Arts指令卡性能小幅提升(6%)|对魔力|对魔力|A|自身的弱化状态耐性提升(20%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=4
+|0->1={{材料消耗|术阶银棋|4}}
+|1->2={{材料消耗|术阶银棋|10}}{{材料消耗|凤凰羽毛|5}}
+|2->3={{材料消耗|术阶金像|4}}{{材料消耗|宵泣之铁桩|24}}{{材料消耗|蛇之宝玉|4}}
+|3->4={{材料消耗|术阶金像|10}}{{材料消耗|蛇之宝玉|7}}{{材料消耗|封魔之灯|6}}
+|总计={{材料消耗|术阶银棋|14}}{{材料消耗|术阶金像|14}}{{材料消耗|宵泣之铁桩|24}}{{材料消耗|凤凰羽毛|5}}{{材料消耗|蛇之宝玉|11}}{{材料消耗|封魔之灯|6}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=4
+|1->2={{材料消耗|术之辉石|4}}
+|2->3={{材料消耗|术之辉石|10}}
+|3->4={{材料消耗|术之魔石|4}}
+|4->5={{材料消耗|术之魔石|10}}{{材料消耗|宵泣之铁桩|12}}
+|5->6={{材料消耗|术之秘石|4}}{{材料消耗|宵泣之铁桩|24}}
+|6->7={{材料消耗|术之秘石|10}}{{材料消耗|凤凰羽毛|4}}
+|7->8={{材料消耗|凤凰羽毛|7}}{{材料消耗|愚者之锁|15}}
+|8->9={{材料消耗|愚者之锁|45}}{{材料消耗|智慧之圣甲虫像|8}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|术之辉石|14}}{{材料消耗|术之魔石|14}}{{材料消耗|术之秘石|14}}{{材料消耗|愚者之锁|60}}{{材料消耗|宵泣之铁桩|36}}{{材料消耗|凤凰羽毛|11}}{{材料消耗|智慧之圣甲虫像|8}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|术阶银棋|14}}{{材料消耗|术阶金像|14}}{{材料消耗|术之辉石|42}}{{材料消耗|术之魔石|42}}{{材料消耗|术之秘石|42}}{{材料消耗|愚者之锁|180}}{{材料消耗|宵泣之铁桩|132}}{{材料消耗|凤凰羽毛|38}}{{材料消耗|蛇之宝玉|11}}{{材料消耗|封魔之灯|6}}{{材料消耗|智慧之圣甲虫像|24}}{{材料消耗|传承结晶|3}}
+|稀有度=4
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+所有人都对其大名有所耳闻的传说中的女王。
+其真面目至今仍充满了谜团的神秘人物。
+超越了时代与幻想，她出现在我们迦勒底亚斯的面前。
+
+为了完成一个
+难以忘怀的约定——
+
+|详情日文=
+誰もが一度は名前を耳にしている伝説の女王。
+その実態はいまだ謎に包まれる神秘的な人物。
+時代と幻想を超えて彼女は我々カルデアスの前に姿を現した。
+
+決して忘れがたき、
+一つの約束を果たすために―――。
+
+|资料1条件=
+通关 三之结且羁绊达到Lv.1后开放
+
+|资料1=
+身高／体重：173cm·59kg
+出处：旧约圣经、新约圣经等
+地域：东非、阿拉伯半岛西南部
+属性：中立·善　　性别：女性
+耳朵与尾巴都很滑溜蓬松。
+
+|资料1日文=
+身長／体重：173cm・59kg
+出典：旧約聖書、新約聖書ほか
+地域：東アフリカ、アラビア半島南西部
+属性：中立・善　　性別：女性
+耳もしっぽも、スベスベのモフモフです。
+
+|资料2条件=
+通关 三之结且羁绊达到Lv.2后开放
+
+|资料2=
+在『旧约圣经（列王传）』、『新约圣经』等中有登场。
+据说她是统治位于耶路撒冷南方「示巴王国」的
+谜团众多的女王。但是，
+没有发现任何能证明女王与其王国真实存在的证据。
+
+作为王国候选地之一的东非埃塞俄比亚中，
+还流传着女王与所罗门王结合，
+并成为初代皇帝之母的壮丽建国神话。
+
+|资料2日文=
+『旧約聖書（列王記）』『新約聖書』などに登場。
+エルサレムの南方にある「シバ王国」を統治したとされる謎多き女王。しかし、女王と王国の実在を示す確かな証拠は一切発見されていない。
+
+王国候補地の一つである東アフリカのエチオピアでは、女王はソロモン王と結ばれ、初代皇帝の母となった、とする壮麗な建国神話が残されている。
+
+|资料3条件=
+通关 三之结且羁绊达到Lv.3后开放
+
+|资料3=
+『三道谜语』
+阶级：B　种类：对人宝具
+Three Enigmas
+侍奉女王的三胞胎灵鬼（镇尼）出现，
+向敌人出困难的谜题（物理）。
+三个灵鬼的名字分别为「Ahat」、「Shtayim」、
+「Shalosh」。
+
+女王曾为了向著名贤者所罗门求教，
+带着大量进贡品造访了耶路撒冷。
+她向所罗门出了三道谜语，但都逐一被对方看透，
+女王也为耶路撒冷的繁荣感到钦佩不已。
+女王与所罗门王互赠礼物，随后踏上了归程。
+
+|资料3日文=
+『三つの謎掛け』
+ランク：Ｂ　種別：対人宝具
+スリー・エニグマズ。
+女王に仕える三つ子の霊鬼（ジン）が現れ、敵に難題を問いかける（物理）。
+三体の霊鬼の名前はそれぞれ「エハッド」
+「シュタイム」「シャロッシュ」。
+
+ある時、女王は、名高き賢者ソロモンの知恵を授かろうと、大量の献上品をたずさえてエルサレムを訪れた。ソロモンを試す三つの謎掛けはことごとく看破され、エルサレムの繁栄ぶりに女王は感服する。女王とソロモン王は互いに贈り物を交わし、そして再び帰路についた。
+
+|资料4条件=
+通关 三之结且羁绊达到Lv.4后开放
+
+|资料4=
+精灵之目：A
+在周围形成能进行公正严格交易的结界。
+不仅能对物品进行鉴定，
+在战斗中也不会放过敌人可疑的举动。
+
+魔神的睿智：A
+足以用谜题挑战所罗门王程度的，
+得天独厚且经过磨练的才能与智慧。
+
+领袖气质：B-
+不断让无数后世之人为之倾倒的示巴王国传说中的女王。
+
+|资料4日文=
+○精霊の目：Ａ
+公正厳重な取引が行われる結界を周囲に形成する。物品の鑑定のみならず、戦闘中の敵の疑わしい挙動も見逃さない。
+
+○魔神の叡智：Ａ
+ソロモン王に謎掛けを挑むほどに恵まれ研ぎ澄まされた才覚と知恵。
+
+○カリスマ：Ｂ－
+後世の人々を惹きつけて止まぬシバ王国の伝説的な女王。
+
+|资料5条件=
+通关 三之结且羁绊达到Lv.5后开放
+
+|资料5=
+尽管是如海市蜃楼般不确定的存在，不，
+或许正因为如此，示巴女王才留下了丝毫不逊于所罗门王
+那威严身姿的「绝世美女」的评价与众多传承。
+没错，确实是个美女无疑，但为何总是充斥着一股
+令人遗憾的氛围呢……不，这问题显而易见。
+无论何时都将财源广进放在第一位。贪婪地追求一切，
+不允许任何浪费。有关金银财宝赚钱的门路才是流淌于
+她身心的血液与生机。但心中必须记住，
+她表现出的那副姿态有可能是展望未来的虚伪演技。
+
+|资料5日文=
+蜃気楼のような不確かな存在でありながら、否、それゆえなのか、シバの女王はソロモン王の威厳ある姿にもひけをとらぬ「絶世の美女であった」と多くの伝承に残されている。
+そう、確かに美女には違いないがどこか残念な雰囲気が漂うのは何故だろう……いや勿論わかりきっている。まずはとにかく商売繁盛。全てにがめつく無意味な浪費は許さない。金銀財宝コネ儲け話、それらこそ彼女の身心を巡る血と息吹だ。それでも尚、彼女の見せるポーズが遙か未来を見据えた演技、まやかしである可能性も心に留めおくべきだろう。
+
+|资料6条件=
+通关 [[米德拉什的Caster/从者任务#幕间物语1|难于穿针引线]]后开放
+
+|资料6=
+另外「她是一位拥有非人形态的存在」这种传说
+也在各地流传。
+阿拉伯传说「女王拥有毛发浓密的脚与驴蹄」。
+法国南部则传说「双脚能像鹅一样划水」。诸如此类。
+
+最夸张的评价是「她乃灵鬼女性与人类男性结合
+并诞下的女孩」的这个传说。
+甚至令人觉得女王或许犹如能折射光线的透镜，
+拥有变化自如，展现多彩身姿的能力。
+
+|资料6日文=
+また他に「人間離れした身様の持ち主であった」という伝説も各地に残る。
+いわくアラビアでは「女王は毛深い脚とロバの蹄を持っていた」。南仏では「足にガチョウのような水かきがあった」など。
+
+極めつけは「霊鬼の女と人間の男との間に産まれた娘」とする逸話である。
+女王には、あたかも光を屈折させるレンズのごとく、多彩な姿を見せる変幻自在の力が備わっていたとも思われる。
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=
+守财奴从者。
+喜欢算账的毛茸茸兽耳女王。拥有不会放过一切商机的远见。听说有重要的人在而来到迦勒底，但却没有找到的样子。
+
+|日文=
+しゅせんどサーヴァント
+金勘定が大好きなモフモフケモミミ女王。あらゆるビジネスチャンスを見逃さない先見の明がある。大切な人がカルデアにいると聞いて来たが見当たらないようだ。
+}}
+
+==羁绊点数==
+{{羁绊点数|4000|12000|3000|13000|3000|155000|340000|310000|360000|330000|4}}
+
+==相关礼装==
+{{参阅|米德拉什的Caster/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+
+{{参阅三|米德拉什的Caster|yy}}
+{{参阅|米德拉什的Caster/情人节剧情语音|该从者情人节剧情的语音}}
+{{:米德拉什的Caster/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=Servant194正面1.png
+|图标2=Servant194正面2.png
+|图标3=Servant194正面3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=示巴女王初始模型.png
+|模型2=示巴女王一破模型.png
+|模型3=示巴女王三破模型.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+献给所罗门王的贡品（查看源代码）米德拉什的Caster/成长曲线（查看源代码）米德拉什的Caster/未来Pick Up情况（查看源代码）米德拉什的Caster/语音（查看源代码）节制、谎言与苦甜（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:语音表格/注释（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至米德拉什的Caster。
+ 
+						取自“http://fgo.wiki/w/米德拉什的Caster”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E7%B1%B3%E5%BE%B7%E6%8B%89%E4%BB%80%E7%9A%84Caster","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E7%B1%B3%E5%BE%B7%E6%8B%89%E4%BB%80%E7%9A%84Caster","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E7%B1%B3%E5%BE%B7%E6%8B%89%E4%BB%80%E7%9A%84Caster&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/3460
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119});});
+
+

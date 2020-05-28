@@ -1,0 +1,278 @@
+﻿
+
+
+查看“高文/成长曲线”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"高文/成长曲线","wgTitle":"高文/成长曲线","wgCurRevisionId":50466,"wgRevisionId":0,"wgArticleId":17684,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"高文/成长曲线","wgRelevantArticleId":17684,"wgRequestId":"91e453e80e84513572482460","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“高文/成长曲线”的源代码 
+←高文/成长曲线
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{成长曲线|数据=
+{"lv": 1, "HP": 1827, "ATK": 1695},{"lv": 2, "HP": 1942, "ATK": 1796},{"lv": 3, "HP": 2066, "ATK": 1906},{"lv": 4, "HP": 2181, "ATK": 2008},{"lv": 5, "HP": 2306, "ATK": 2118},{"lv": 6, "HP": 2431, "ATK": 2229},{"lv": 7, "HP": 2546, "ATK": 2330},{"lv": 8, "HP": 2671, "ATK": 2441},{"lv": 9, "HP": 2795, "ATK": 2551},{"lv": 10, "HP": 2910, "ATK": 2653},{"lv": 11, "HP": 3035, "ATK": 2763},{"lv": 12, "HP": 3160, "ATK": 2873},{"lv": 13, "HP": 3275, "ATK": 2975},{"lv": 14, "HP": 3400, "ATK": 3085},{"lv": 15, "HP": 3524, "ATK": 3195},{"lv": 16, "HP": 3639, "ATK": 3297},{"lv": 17, "HP": 3764, "ATK": 3407},{"lv": 18, "HP": 3889, "ATK": 3517},{"lv": 19, "HP": 4004, "ATK": 3619},{"lv": 20, "HP": 4129, "ATK": 3729},{"lv": 21, "HP": 4253, "ATK": 3839},{"lv": 22, "HP": 4368, "ATK": 3941},{"lv": 23, "HP": 4493, "ATK": 4051},{"lv": 24, "HP": 4618, "ATK": 4162},{"lv": 25, "HP": 4733, "ATK": 4263},{"lv": 26, "HP": 4858, "ATK": 4374},{"lv": 27, "HP": 4982, "ATK": 4484},{"lv": 28, "HP": 5097, "ATK": 4585},{"lv": 29, "HP": 5222, "ATK": 4696},{"lv": 30, "HP": 5347, "ATK": 4806},{"lv": 31, "HP": 5462, "ATK": 4908},{"lv": 32, "HP": 5587, "ATK": 5018},{"lv": 33, "HP": 5711, "ATK": 5128},{"lv": 34, "HP": 5826, "ATK": 5230},{"lv": 35, "HP": 5951, "ATK": 5340},{"lv": 36, "HP": 6076, "ATK": 5450},{"lv": 37, "HP": 6191, "ATK": 5552},{"lv": 38, "HP": 6316, "ATK": 5662},{"lv": 39, "HP": 6440, "ATK": 5772},{"lv": 40, "HP": 6555, "ATK": 5874},{"lv": 41, "HP": 6680, "ATK": 5984},{"lv": 42, "HP": 6795, "ATK": 6086},{"lv": 43, "HP": 6920, "ATK": 6196},{"lv": 44, "HP": 7045, "ATK": 6307},{"lv": 45, "HP": 7160, "ATK": 6408},{"lv": 46, "HP": 7284, "ATK": 6518},{"lv": 47, "HP": 7409, "ATK": 6629},{"lv": 48, "HP": 7524, "ATK": 6730},{"lv": 49, "HP": 7649, "ATK": 6841},{"lv": 50, "HP": 7774, "ATK": 6951},{"lv": 51, "HP": 7889, "ATK": 7053},{"lv": 52, "HP": 8013, "ATK": 7163},{"lv": 53, "HP": 8138, "ATK": 7273},{"lv": 54, "HP": 8253, "ATK": 7375},{"lv": 55, "HP": 8378, "ATK": 7485},{"lv": 56, "HP": 8503, "ATK": 7595},{"lv": 57, "HP": 8618, "ATK": 7697},{"lv": 58, "HP": 8742, "ATK": 7807},{"lv": 59, "HP": 8867, "ATK": 7917},{"lv": 60, "HP": 8982, "ATK": 8019},{"lv": 61, "HP": 9107, "ATK": 8129},{"lv": 62, "HP": 9232, "ATK": 8240},{"lv": 63, "HP": 9347, "ATK": 8341},{"lv": 64, "HP": 9471, "ATK": 8451},{"lv": 65, "HP": 9596, "ATK": 8562},{"lv": 66, "HP": 9711, "ATK": 8663},{"lv": 67, "HP": 9836, "ATK": 8774},{"lv": 68, "HP": 9961, "ATK": 8884},{"lv": 69, "HP": 10076, "ATK": 8986},{"lv": 70, "HP": 10200, "ATK": 9096},{"lv": 71, "HP": 10325, "ATK": 9206},{"lv": 72, "HP": 10440, "ATK": 9308},{"lv": 73, "HP": 10565, "ATK": 9418},{"lv": 74, "HP": 10690, "ATK": 9528},{"lv": 75, "HP": 10805, "ATK": 9630},{"lv": 76, "HP": 10929, "ATK": 9740},{"lv": 77, "HP": 11054, "ATK": 9850},{"lv": 78, "HP": 11169, "ATK": 9952},{"lv": 79, "HP": 11294, "ATK": 10062},{"lv": 80, "HP": 11419, "ATK": 10173},{"lv": 81, "HP": 11534, "ATK": 10274},{"lv": 82, "HP": 11658, "ATK": 10384},{"lv": 83, "HP": 11773, "ATK": 10486},{"lv": 84, "HP": 11898, "ATK": 10596},{"lv": 85, "HP": 12023, "ATK": 10707},{"lv": 86, "HP": 12138, "ATK": 10808},{"lv": 87, "HP": 12263, "ATK": 10919},{"lv": 88, "HP": 12387, "ATK": 11029},{"lv": 89, "HP": 12502, "ATK": 11131},{"lv": 90, "HP": 12627, "ATK": 11241},{"lv": 91, "HP": 12752, "ATK": 11351},{"lv": 92, "HP": 12867, "ATK": 11453},{"lv": 93, "HP": 12992, "ATK": 11563},{"lv": 94, "HP": 13116, "ATK": 11673},{"lv": 95, "HP": 13231, "ATK": 11775},{"lv": 96, "HP": 13356, "ATK": 11885},{"lv": 97, "HP": 13481, "ATK": 11995},{"lv": 98, "HP": 13596, "ATK": 12097},{"lv": 99, "HP": 13721, "ATK": 12207},{"lv": 100, "HP": 13845, "ATK": 12317}
+}}
+该页面使用的模板：
+
+模板:成长曲线（查看源代码）返回至高文/成长曲线。
+ 
+						取自“http://fgo.wiki/w/高文/成长曲线”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E9%AB%98%E6%96%87\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E9%AB%98%E6%96%87\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E9%AB%98%E6%96%87\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/17684
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105});});
+
+

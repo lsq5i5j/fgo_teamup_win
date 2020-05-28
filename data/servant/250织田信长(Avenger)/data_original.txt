@@ -1,0 +1,690 @@
+﻿
+
+
+查看“织田信长(Avenger)”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"织田信长(Avenger)","wgTitle":"织田信长(Avenger)","wgCurRevisionId":285045,"wgRevisionId":0,"wgArticleId":43055,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"织田信长(Avenger)","wgRelevantArticleId":43055,"wgRequestId":"b8536d5e0a86a925938640d6","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@1md9gpc",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+Mooncell提示：国服将于1小时16分钟后开始维护。
+$(document).ready(
+	function(){
+		checkTime();
+		var i=window.setInterval(
+			function(){
+				if(new Date().getSeconds()==0){
+					window.clearInterval(i);
+					window.setInterval(checkTime(),60000);
+				}
+			},1000)
+	}
+);
+function checkTime(){
+	var a=document.getElementsByClassName('TLDcontainer');
+	if(a.length==0){return};
+	var ct=new Date().getTime()/1000;
+	for(var i=0;i<a.length;i++){
+		var s=a[i].getAttribute('data-time').split(',');
+		if(parseInt(s[0],10)<ct&&ct<parseInt(s[1],10)){
+			if(a[i].style.display!='inline'){
+				a[i].style.display='inline';
+			}
+		}else{
+			if(a[i].style.display!='none'){
+				a[i].style.display='none';
+			}					
+		}
+	}
+}
+
+
+
+查看“织田信长(Avenger)”的源代码 
+←织田信长(Avenger)
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{相关从者|织田信长|织田信长(Berserker)|织田信长(Avenger)}}[[分类:未复查的从者条目]]
+
+==基础数值==
+{{基础数值
+|稀有度=5
+|获取途径=限定
+|序号=250
+|中文名=织田信长
+|日文名=織田信長
+|英文名=Oda Nobunaga
+|中文名2=织田吉法师
+|日文名2=織田吉法師
+|英文名2=Oda Kipposhi
+|中文名3=魔王信长
+|日文名3=魔王信長
+|英文名3=Demon King Nobunaga
+|中文战斗名=魔王信长
+|日文战斗名=魔王信長
+|中文卡面名=织田信长
+|日文卡面名=織田信長
+|英文卡面名=Oda Nobunaga
+|中文卡面名2=织田吉法师
+|日文卡面名2=織田吉法師
+|英文卡面名2=Oda Kipposhi
+|中文卡面名3=魔王信长
+|日文卡面名3=魔王信長
+|英文卡面名3=Demon King Nobunaga
+|中文卡面名4=魔王信长
+|日文卡面名4=魔王信長
+|英文卡面名4=Demon King Nobunaga
+|声优=钉宫理惠
+|画师=pako
+|属性1=混沌
+|属性2=中庸
+|性别=其他
+|身高=随形态变化
+|体重=随形态变化
+|隐藏属性=地
+|职阶=Avenger
+|筋力=B
+|耐久=C
+|敏捷=C
+|魔力=B
+|幸运=B
+|宝具=A-
+|基础ATK=1953
+|基础HP=1724
+|满级ATK=12641
+|满级HP=11761
+|90级ATK=12641
+|90级HP=11761
+|100级ATK=13838
+|100级HP=12885
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Buster
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.49%
+|A卡np率=0.49%
+|B卡np率=0.49%
+|EX卡np率=0.49%
+|宝具np率=0.49%
+|受击np率=5%
+|Q卡hit数=4
+|A卡hit数=4
+|B卡hit数=6
+|EX卡hit数=5
+|宝具卡hit数=6
+|Q卡伤害分布=10,20,30,40
+|A卡伤害分布=10,20,30,40
+|B卡伤害分布=4,9,14,19,23,31
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=4,9,14,19,23,31
+|出星率=5.9%
+|即死率=7.0%
+|暴击权重=30
+|特性1=天地从者
+|特性2=王
+|特性3=人科
+|人型=是
+|被EA特攻=是
+|昵称=
+|立绘1=第１阶段
+|文件1=织田信长(Avenger)初始
+|立绘2=第２阶段
+|文件2=织田信长(Avenger)一破
+|立绘3=第３阶段
+|文件3=织田信长(Avenger)三破
+|立绘4=第４阶段
+|文件4=织田信长(Avenger)满破
+|立绘5=愚人节
+|文件5=织田信长(Avenger)愚人节卡面
+}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{参阅|音乐鉴赏/宝具背景音乐合集#织田信长(Avenger)|该从者的宝具背景音乐}}
+{{宝具
+|中文名=波旬变生·三千大千天魔王
+|国服上标=Hajunhenjou Sanzendaisentenmaou
+|日文名=波旬変生・三千大千天魔王
+|日服上标=はじゅんへんじょう・さんぜんだいせんてんまおう
+|卡色=Buster
+|类型=全体
+|阶级=A-
+|种类=对神宝具
+|效果A=解除敌方全体{{特性|神性}}特性对象的防御强化状态
+|数值A1=∅
+|效果B=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值B1=300%|数值B2=400%|数值B3=450%|数值B4=475%|数值B5=500%
+|效果C=对{{特性|神性|特攻=yes}}特攻<Over Charge时特攻威力提升>
+|数值C1=150%|数值C2=162.5%|数值C3=175%|数值C4=187.5%|数值C5=200%
+|效果D=付与灼伤状态(5回合)
+|数值D1=1000
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|加攻|无可奈何 A-|是非もなし A-|7
+|付与自身攻击力每回合提升状态(3回合)<br>第一回合提升|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|后续每回合额外提升|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|付与使场地具有〔燃烧〕特性的状态(3回合)|∅|||||||||
+|付与灼伤状态(3回合)【负面效果】|1000|||||||||
+}}
+'''技能2（灵基再临第1阶段开放）'''
+<tabber>
+强化前=
+{{持有技能|无敌|如梦似幻 B|夢幻の如く B|8
+|付与自身无敌状态(1回合)|∅|||||||||
+|强化解除耐性提升(1回合)|50%|55%|60%|65%|70%|75%|80%|85%|90%|100%
+}}
+|-|
+强化后=通关「[[织田信长(Avenger)/从者任务#强化任务|强化关卡 魔王信长]]」后强化。<br>
+''（开放条件：达到灵基再临第4阶段。开放时间：[[复刻：ALL信长总进击 唠唠叨叨最终本能寺2019 轻量版]]。）''
+{{持有技能|无敌|如梦似幻 B++|夢幻の如く B++|8
+|付与自身无敌状态(1回合)|∅|||||||||
+|强化解除耐性提升(1回合)
+|50%|55%|60%|65%|70%|75%|80%|85%|90%|100%
+|在有〔燃烧〕的场地上时付与对{{特性|天|〔拥有天之力的敌人〕|特攻=yes}}的特攻状态(3回合)<!--〔炎上〕しているフィールドで〔天の力を持つ敵〕特攻状態を付与(3ターン)[g][o]▲[/o][/g]-->
+|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+}}
+</tabber>
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|回合出星|第六天魔王 EX|第六天魔王 EX|7
+|付与自身每回合获得暴击星状态(3回合)|5|6|6|7|7|8|8|9|9|10
+|NP增加|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+
+===职阶技能===
+{{职阶技能|复仇者|复仇者|B-|自身受到伤害时NP获得量提升(17.5%)＋除自身以外的己方全体<包括替补>弱化状态耐性下降【负面效果】(7.5%)|忘却补正|忘却补正|E|自身的暴击威力少量提升(2%)|自我回复（魔力）|自我回复（魔力）|C|付与自身每回合获取NP状态(3.3%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|凶骨|10}}{{材料消耗|虚影之尘|10}}
+|1->2={{材料消耗|鬼魂提灯|10}}{{材料消耗|无间齿轮|10}}
+|2->3={{材料消耗|黑兽脂|10}}{{材料消耗|血之泪石|10}}
+|3->4={{材料消耗|咒兽胆石|10}}{{材料消耗|奇奇神酒|10}}
+|总计={{材料消耗|虚影之尘|10}}{{材料消耗|凶骨|10}}{{材料消耗|鬼魂提灯|10}}{{材料消耗|无间齿轮|10}}{{材料消耗|血之泪石|10}}{{材料消耗|黑兽脂|10}}{{材料消耗|咒兽胆石|10}}{{材料消耗|奇奇神酒|10}}
+}}
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|陨蹄铁|10}}
+|2->3={{材料消耗|愚者之锁|10}}
+|3->4={{材料消耗|封魔之灯|12}}
+|4->5={{材料消耗|魔术髓液|12}}
+|5->6={{材料消耗|枯淡勾玉|12}}
+|6->7={{材料消耗|振荡火药|15}}
+|7->8={{材料消耗|闲古铃|15}}
+|8->9={{材料消耗|晓光炉心|15}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|愚者之锁|10}}{{材料消耗|魔术髓液|12}}{{材料消耗|振荡火药|15}}{{材料消耗|陨蹄铁|10}}{{材料消耗|枯淡勾玉|12}}{{材料消耗|闲古铃|15}}{{材料消耗|封魔之灯|12}}{{材料消耗|晓光炉心|15}}{{材料消耗|传承结晶|1}}
+}}
+
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|虚影之尘|10}}{{材料消耗|凶骨|10}}{{材料消耗|愚者之锁|30}}{{材料消耗|魔术髓液|36}}{{材料消耗|振荡火药|45}}{{材料消耗|鬼魂提灯|10}}{{材料消耗|无间齿轮|10}}{{材料消耗|陨蹄铁|30}}{{材料消耗|枯淡勾玉|36}}{{材料消耗|闲古铃|45}}{{材料消耗|血之泪石|10}}{{材料消耗|黑兽脂|10}}{{材料消耗|封魔之灯|36}}{{材料消耗|咒兽胆石|10}}{{材料消耗|奇奇神酒|10}}{{材料消耗|晓光炉心|45}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=第六天魔王·织田信长。具有可以称作是集过去、现在、未来之中信长一切可能性为一体的灵基。
+虽说该英灵是只有在某种特殊的空间中才可能显现的极为特殊的英灵，但不知何故如今现界于此处。
+
+|详情日文=
+第六天魔王・織田信長。過去、現在、未来におけるあらゆる信長の可能性の集合体ともいえる霊基を持つ。
+ある特殊な空間でのみ顕現可能とされていた極めて特異な英霊であるが、どういうわけかいまここに現界を果たしている。
+
+|资料1条件=
+羁绊达到Lv.1后开放
+
+|资料1=
+身高／体重：154cm·43kg（会根据形态而变化）
+出处：史实
+地域：日本
+属性：混沌·中庸　　　性别：？
+「顺带一提下一个我大概是165cm，最最巨大的我可是有180cm左右。简直是模特啊！」
+
+|资料1日文=
+身長／体重：154cm・43kg（形態に応じて変化）
+出典：史実
+地域：日本
+属性：混沌・中庸　　　性別：？
+「ちなみに次のわしは165cmぐらい、一番でかいわしは180cmくらいある。モデルか！」
+
+|资料2条件=
+羁绊达到Lv.2后开放
+
+|资料2=
+织田信长。与原本的信长的灵基形态最接近的信长。这种说法严格来讲并不算正确，但为方便起见还是这样评价。
+
+虽然以Avenger的职阶被召唤，但从状态上来说和作为Archer时被召唤时非常接近。
+
+然而，信长作为神佛众生之敌，无数民众的恐惧与怨恨之罪业皆承载于其身，即使身为英灵，仅凭『原先只是普通人类』的灵基也无法完全包容，继续进行再临的话便能开启信长更多的可能性。
+尽管众多的可能性这一说法听上去十分美好，但于尽头等待着的则是因扩散而导致意义消失的结果。对于此事，信长虽然已有察觉，却未曾吐露过。
+
+获得了新武器，神秘的究极火绳枪和魔王加特林机枪。有没有觉得能够旋转连射的火绳枪这种东西超级愉快帅气的啊，这个？
+
+「嘛，不管怎么说，不觉得我在其中也是最可爱最Cute的那个吗？　话说最大只的那个我是不是有点可怕了啊？」
+
+|资料2日文=
+織田信長。本来の信長の霊基に最も近しい形の信長。という言い方も厳密には正しくはないが、便宜上そのように評する。
+
+アヴェンジャークラスの召喚であるが、状態としてはアーチャー時での召喚に近しい。
+だが神仏衆生の敵としてその身に宿す数多の民衆の恐怖と怨嗟の業は、いかに英霊といえど『元はただの人間』である霊基には収まりきらず、再臨を重ねるごとにさらなる信長の可能性を啓いてしまった。
+数多の可能性と言えば聞こえはいいが、その果てに待つものは拡散による意味消失である事を、信長自身、気づいてはいるが口にはしない。
+
+新武装として謎のウルトラ火縄銃、魔王ガトリング砲なるものを獲得している。回転して連射できる火縄とか超絶愉快かっこよくない、これ？
+
+「まあ、なんやかんやと、中でもわしが一番かわいくてキュートなわしじゃと思うんじゃが？　というか一番でかいわし怖くない？」
+
+|资料3条件=
+羁绊达到Lv.3后开放
+
+|资料3=
+织田吉法师。吉法师是织田信长的幼名。
+因为他小时候有很多奇异的行为，所以周围的人都这么称呼他。
+
+这副凛然的武者身姿能让人联想起即便是在信长的生涯中，也是最破天荒且最危险的尾张的大笨蛋时期。从这副身躯上迸出的霸气与热血，如实展现了信长作为开辟时代的风云儿的灵基。
+
+顺便提一下，腰间别着的是桶狭间之战时从今川义元那里缴获的宗三左文字。
+
+「实际上这个时候的我还并没有自称是吉法师。不过说起除了我之外还有其他信长的愉快之处，这样子比较容易理解吧？　哇哈哈哈哈哈！」
+
+|资料3日文=
+織田吉法師。吉法師とは織田信長の幼名である。
+幼少時から奇天烈な行いが多く、周囲からはうつけと呼ばれた。
+
+信長の生涯の中でも最も破天荒かつ危うい尾張のうつけ時代を彷彿とさせる凛々しい若武者姿。その体から立ち上る覇気と迸る熱き血潮は、まさに時代を切り開いた風雲児信長としての霊基を如実に表している。
+
+ちなみに腰に差しているのは桶狭間の戦いで今川義元から分捕った宗三左文字。
+
+「実際にはこの頃の俺は吉法師を名乗っちゃいないがな。とはいえこういう俺以外にも信長がいる愉快なとこだと、こっちの方が分かりやすいだろ？　わははははは！」
+
+|资料4条件=
+羁绊达到Lv.4后开放
+
+|资料4=
+○无可奈何：A-
+以燃尽己身作为代价，可以放出强大魔力的双刃剑。那是对火焰中消失的自己的裁定，或是……。
+
+○如梦似幻：B
+魔王信长因为其强大的力量与异样的性质，一直承受着来自世界的修正力。其存在是虚幻的，灵基本身也处在朦胧的状态。
+
+○第六天魔王：EX
+根据生前的印象，过去的存在方式之后被扭曲了的怪物。持有者的能力与姿态皆会发生变动。与「无辜的怪物」似是而非的技能。
+表现了已经与所谓佛法中的第六天魔王作为不同存在而成立的第六天魔王·织田信长的存在方式的技能。
+
+|资料4日文=
+○是非もなし：Ａ－
+強大な魔力の放出と引き換えに、己が身を燃やし逝くという諸刃の剣。それは焔の中に消えた己が身への裁定か、あるいは……。
+
+○夢幻の如く：Ｂ
+強大な力と有り様の異質さゆえに常に世界からの修正力を受け続けている魔王信長の存在は虚ろであり、その霊基自体も朧な状態である。
+
+○第六天魔王：ＥＸ
+生前のイメージによって、後に過去の在り方を捻じ曲げられた怪物。所有者は能力や姿が変貌してしまう。「無辜の怪物」とは似て非なるスキル。
+いわゆる仏法における第六天魔王とはもはや別個の存在として確立した第六天魔王・織田信長としての在り方を示すスキル。
+
+|资料5条件=
+羁绊达到Lv.5后开放
+
+|资料5=
+『波旬变生·三千大千天魔王』
+阶级：A-　种类：对神宝具　
+有效范围：1～99　最大捕捉：1000人
+
+Hajunhenjou Sanzendaisentenmaou。
+这是被寄予了过去现在未来中众生对信长的恐惧和敬畏，甚至超越了第六天魔王的异形的姿态。会将自己变生为毁灭一切神佛的真魔王「三千大千天魔王」。也是将神秘燃烧殆尽的红莲之反英雄「魔王信长」的终点。
+
+由于这个形态不可能存在于原来的历史之中，其存在极不稳定，只能进行短时间的显现。
+
+|资料5日文=
+『波旬変生・三千大千天魔王』
+ランク：Ａ－　種別：対神宝具
+レンジ：１～９９　最大捕捉：１０００人
+
+はじゅんへんじょう・さんぜんだいせんてんまおう。
+過去現在未来において信長に注ぎ込まれた数多の衆生の恐怖と畏敬をその身に宿す、第六天魔王すら超えた異形の姿。あらゆる神仏を毀（こわ）す真の魔王「三千大千天魔王」へと己を変生させる。神秘を焼き尽くす紅蓮の反英雄「魔王信長」の終末点。
+
+この形態は本来の歴史には存在しえないため、存在そのものが不安定であり、短時間での顕現にとどまっている。
+
+|资料6条件=
+羁绊达到Lv.5后开放
+
+|资料6=
+魔王信长。与一切信长的可能性差距最大、最接近深渊的信长。
+自称第六天魔王的她，被对所有时代信长的恐惧和敬畏之心烧焦，变生为空虚而强大、理应称作真魔王的存在。
+
+然而本质上，其外表展示的并非否定神佛，而是「人类的可能性属于人类自己，神佛只可尊崇，绝不可仰赖。话说回来，我怎么可能会成佛呢！」这一信长的信念。
+反英雄魔王信长的存在类似于无辜的怪物。但她身为神佛之敌，将生的残酷强加给众生，最终其存在更接近被称为佛法之伴的天魔。
+
+「吾即为魔王信长——超越化天而变生的神佛众生之敌」
+
+此外，要注意这位『魔王信长』并非究极信长。就算她是诞生于『信长』这一传奇的最强形态之一，但也并不能说是『究极』，甚至称得上是距离『真理』最遥远的存在——即为熊熊燃烧于彼岸的、化为人形的火焰。
+
+
+|资料6日文=
+魔王信長。あらゆる信長の可能性から最も遠く、最も深淵に近しい信長。
+第六天魔王を自称し、あらゆる時代の信長に対する恐怖と畏敬の念に焼き焦がれたその体は虚ろにして強大、真の魔王ともいうべき存在に変生している。
+
+しかし根源的には神仏を否定するものではなく「人の可能性は人のもの、神仏は尊びこそすれ頼むものではない、つーか御仏になんぞなってたまるか」という信長の信念を示す姿。
+いわゆる無辜の怪物的なものであるが、神仏の敵となり苛烈な生を衆生に強いる反英雄としての魔王信長の在り方は、最終的には仏法の味方となるともいわれる天魔の在り方に近しい。
+
+「我は魔王信長―――化天を超え変生せし神仏衆生の敵なり」
+
+また、注意点としてこの『魔王信長』は究極の信長、という訳ではない。『信長』という物語が生んだ最も強い姿の一つではあるが、だからといって『究極』ではなく、むしろ『真理』から最も遠くに顕れたもの―――彼岸にて燃えさかる、ヒトの形をした炎なのである。
+
+}}
+
+===愚人节===
+{{愚人节资料
+|侵权复核=1
+|中文=
+魔王从者
+所有的信合为一体的究极信。每次灵基再临，信都会发生变化的一品三回味的信。最终再临信是相当冷酷严肃的信。
+|日文=
+まおうサーヴァント
+すべてのノッブがひとつになった究極のノッブ。霊基再臨のたびにノッブが変わる一粒で三度おいしいノッブ。最終再臨ノッブはかなりクールでシリアスなノッブだ。
+}}
+
+==羁绊点数==
+{{羁绊点数|6000|24000|15000|2500|2500|230000|250000|300000|380000|438000|5}}
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|{{PAGENAME}}|yy}}
+{{参阅|{{PAGENAME}}/情人节剧情语音|该从者情人节剧情的语音}}
+{{:{{PAGENAME}}/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=魔王信长_status_1.png
+|图标2=魔王信长_status_2.png
+|图标3=魔王信长_status_3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=魔王信长_model_1.png
+|模型2=魔王信长_model_2.png
+|模型3=魔王信长_model_3.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+傻瓜葫芦（查看源代码）无劫的彼方（查看源代码）柿饼（查看源代码）织田信长(Avenger)/成长曲线（查看源代码）织田信长(Avenger)/未来Pick Up情况（查看源代码）织田信长(Avenger)/语音（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:从者图标（查看源代码）模板:从者小图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:特性（查看源代码）（受保护）模板:相关从者（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至织田信长(Avenger)。
+ 
+						取自“http://fgo.wiki/w/织田信长(Avenger)”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF(Avenger)","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF(Avenger)","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF(Avenger)&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/43055
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+国服：复刻：唠唠叨叨帝都圣杯奇谭 轻量版
+日服：复刻：ALL信长总进击 唠唠叨叨最终本能寺2019 轻量版
+日服：2000万下载突破纪念活动
+
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+1600万下载纪念推荐召唤
+大奥推荐召唤2
+
+日服
+复刻唠唠叨叨最终本能寺2019推荐召唤
+2000万下载纪念推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+Bigfun社区-FGO版块
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+    var commentStyle = document.createElement("style");
+    commentStyle.type = "text/css";
+    commentStyle.innerHTML = ".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+    commentStyle.id = "addCommentStyle";
+    document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":192});});
+
+

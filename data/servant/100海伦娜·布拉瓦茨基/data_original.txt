@@ -1,0 +1,617 @@
+﻿
+
+
+查看“海伦娜·布拉瓦茨基”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"海伦娜·布拉瓦茨基","wgTitle":"海伦娜·布拉瓦茨基","wgCurRevisionId":280442,"wgRevisionId":0,"wgArticleId":3530,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"海伦娜·布拉瓦茨基","wgRelevantArticleId":3530,"wgRequestId":"3adddc1926a06fd7356e700d","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“海伦娜·布拉瓦茨基”的源代码 
+←海伦娜·布拉瓦茨基
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{相关从者|海伦娜·布拉瓦茨基|海伦娜·布拉瓦茨基(Archer)}}[[分类:未复查的从者条目]]
+
+==基础数值==
+{{基础数值
+|背景颜色=#f5cceb
+|稀有度=4
+|获取途径=常驻
+|序号=100
+|中文名=海伦娜·布拉瓦茨基
+|日文名=エレナ・ブラヴァツキー
+|英文名=Helena Blavatsky
+|中文战斗名=布拉瓦茨基
+|日文战斗名=ブラヴァツキー
+|中文卡面名=海伦娜·布拉瓦茨基
+|日文卡面名=エレナ・ブラヴァツキー
+|英文卡面名=Helena Blavatsky
+|声优=金元寿子
+|画师=MATSURYU
+|属性1=混沌
+|属性2=善
+|性别=女性
+|身高=145cm
+|体重=38kg
+|隐藏属性=人
+|职阶=Caster
+|筋力=E
+|耐久=E
+|敏捷=D
+|魔力=A
+|幸运=A
+|宝具=A
+|基础ATK=1438
+|基础HP=1901
+|满级ATK=8629
+|满级HP=11882
+|90级ATK=9535
+|90级HP=13139
+|100级ATK=10448
+|100级HP=14407
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Arts
+|第五张卡=Buster
+|Q卡np率=0.45%
+|A卡np率=0.45%
+|B卡np率=0.45%
+|EX卡np率=0.45%
+|宝具np率=0.45%
+|受击np率=3%
+|Q卡hit数=6
+|A卡hit数=3
+|B卡hit数=1
+|EX卡hit数=3
+|宝具卡hit数=3
+|Q卡伤害分布=4,9,14,19,23,31
+|A卡伤害分布=16,33,51
+|B卡伤害分布=100
+|EX卡伤害分布=12,25,63
+|宝具卡伤害分布=16,33,51
+|出星率=10.7%
+|即死率=36.0%
+|暴击权重=51
+|特性1=人科
+|人型=是
+|被EA特攻=是
+|昵称=海伦娜，海妈，外星萝莉
+|立绘1=第１阶段
+|文件1=海伦娜灵基再临Ⅰ
+|立绘2=第２阶段
+|文件2=海伦娜灵基再临Ⅱ
+|立绘3=第３阶段
+|文件3=海伦娜灵基再临Ⅲ
+|立绘4=第４阶段
+|文件4=海伦娜灵基再临Ⅳ
+|立绘5=愚人节
+|文件5=海伦娜愚人节}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+强化后=通关幕间物语「[[海伦娜·布拉瓦茨基/从者任务#幕间物语|她眼中的世界]]」后强化。
+<br>''（开放条件：通关第六特异点，达到灵基再临第2阶段，达到羁绊Lv.3。开放时间：[[900万下载突破纪念活动]]。）''
+{{宝具
+|中文名=金星神·火炎天主
+|国服上标=Sanat Kumara
+|日文名=金星神・火炎天主
+|日服上标=サナト・クマラ
+|卡色=Arts
+|类型=全体
+|阶级=A+
+|种类=对军宝具
+|效果A=对敌方全体发动强大的无视防御力攻击<宝具升级效果提升>
+|数值A1=600%|数值A2=750%|数值A3=825%|数值A4=862.5%|数值A5=900%
+|效果B=防御力下降(3回合)<Over Charge时效果提升>
+|数值B1=10%|数值B2=20%|数值B3=30%|数值B4=40%|数值B5=50%
+|效果C=暴击发生率下降(3回合)<Over Charge时效果提升>
+|数值C1=10%|数值C2=20%|数值C3=30%|数值C4=40%|数值C5=50%
+|效果D=弱化状态耐性下降(3回合)<Over Charge时效果提升>
+|数值D1=10%|数值D2=20%|数值D3=30%|数值D4=40%|数值D5=50%
+}}
+|-|
+强化前=
+{{宝具
+|中文名=金星神·火炎天主
+|国服上标=Sanat Kumara
+|日文名=金星神・火炎天主
+|日服上标=サナト・クマラ
+|卡色=Arts
+|类型=全体
+|阶级=A
+|种类=对军宝具
+|效果A=对敌方全体发动强大的攻击<宝具升级效果提升>
+|数值A1=450%|数值A2=600%|数值A3=675%|数值A4=712.5%|数值A5=750%
+|效果B=防御力下降(3回合)<Over Charge时效果提升>
+|数值B1=10%|数值B2=20%|数值B3=30%|数值B4=40%|数值B5=50%
+|效果C=暴击发生率下降(3回合)<Over Charge时效果提升>
+|数值C1=10%|数值C2=20%|数值C3=30%|数值C4=40%|数值C5=50%
+|效果D=弱化状态耐性下降(3回合)<Over Charge时效果提升>
+|数值D1=10%|数值D2=20%|数值D3=30%|数值D4=40%|数值D5=50%
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|充能|魔力同调 C|魔力同調 C|9
+|己方全体的NP增加|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|回合出星|伟大之魂 A|マハトマ A|10
+|付与自身每回合获得暴击星状态(5回合)|5|||||||||
+|宝具威力概率提升50%(1回合)|60%|62%|64%|66%|68%|70%|72%|74%|76%|80%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|三色魔放|探求未知 B|未知への探求 B|9
+|己方全体的Quick指令卡性能提升(3回合)|15%|15.5%|16%|16.5%|17%|17.5%|18%|18.5%|19%|20%
+|Arts指令卡性能提升(3回合)|15%|15.5%|16%|16.5%|17%|17.5%|18%|18.5%|19%|20%
+|Buster指令卡性能提升(3回合)|15%|15.5%|16%|16.5%|17%|17.5%|18%|18.5%|19%|20%
+}}
+
+===职阶技能===
+{{职阶技能|阵地建造|阵地建造|A|自身的Arts指令卡性能提升(10%)|道具作成|道具作成|B|自身的弱化状态成功率提升(8%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=4
+|0->1={{材料消耗|术阶银棋|4}}
+|1->2={{材料消耗|术阶银棋|10}}{{材料消耗|虚影之尘|12}}
+|2->3={{材料消耗|术阶金像|4}}{{材料消耗|鬼魂提灯|8}}{{材料消耗|人工生命体幼体|4}}
+|3->4={{材料消耗|术阶金像|10}}{{材料消耗|人工生命体幼体|8}}{{材料消耗|禁断书页|10}}
+|总计={{材料消耗|术阶银棋|14}}{{材料消耗|术阶金像|14}}{{材料消耗|虚影之尘|12}}{{材料消耗|鬼魂提灯|8}}{{材料消耗|禁断书页|10}}{{材料消耗|人工生命体幼体|12}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=4
+|1->2={{材料消耗|术之辉石|4}}
+|2->3={{材料消耗|术之辉石|10}}
+|3->4={{材料消耗|术之魔石|4}}
+|4->5={{材料消耗|术之魔石|10}}{{材料消耗|鬼魂提灯|4}}
+|5->6={{材料消耗|术之秘石|4}}{{材料消耗|鬼魂提灯|8}}
+|6->7={{材料消耗|术之秘石|10}}{{材料消耗|虚影之尘|8}}
+|7->8={{材料消耗|虚影之尘|16}}{{材料消耗|黑兽脂|3}}
+|8->9={{材料消耗|黑兽脂|9}}{{材料消耗|凤凰羽毛|16}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|术之辉石|14}}{{材料消耗|术之魔石|14}}{{材料消耗|术之秘石|14}}{{材料消耗|虚影之尘|24}}{{材料消耗|凤凰羽毛|16}}{{材料消耗|鬼魂提灯|12}}{{材料消耗|黑兽脂|12}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|术阶银棋|14}}{{材料消耗|术阶金像|14}}{{材料消耗|术之辉石|42}}{{材料消耗|术之魔石|42}}{{材料消耗|术之秘石|42}}{{材料消耗|虚影之尘|84}}{{材料消耗|凤凰羽毛|48}}{{材料消耗|鬼魂提灯|44}}{{材料消耗|禁断书页|10}}{{材料消耗|人工生命体幼体|12}}{{材料消耗|黑兽脂|36}}{{材料消耗|传承结晶|3}}
+|稀有度=4
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+十九世纪的女性神秘学者，神智学的创始人。
+年纪轻轻就与俄罗斯贵族结婚，但很快便离家，
+为魔术世界带来繁荣。俗称布拉瓦茨基夫人。
+坚信雷姆利亚大陆的存在，投身于神秘主义，
+{{修正|人们认为她曾|原文=|原因=5|name=fix1}}接触高次元的存在「Mahatma（伟大灵魂）」，
+以及其集合体「Hierarchy」，获得了大量的睿智。
+也就是说，也许她{{修正|曾目击|原文=盯上了|原因=4|name=fix2}}抵达根源的可能性。
+
+|详情日文=
+十九世紀の女性オカルティスト、神智学の祖。
+若くしてロシア貴族と結婚するも即座に出奔して魔術世界を華やかに生きた。
+通称はブラヴァツキー夫人。
+レムリア大陸の実在を信じて神秘主義に没頭し、高次の存在「マハトマ」やその集合体「ハイアラキ」と接触し、多くの叡智を得たとされる。
+ともすれば、彼女は根源への可能性を目にしたのかもしれない。
+
+|资料1条件=
+|资料1=
+身高／体重：145cm·38kg
+出处：史实
+地域：欧洲
+属性：混沌·善　　　性别：女性
+喜欢的国家是印度。
+讨厌的团体是SPR（英国心灵现象研究会）。
+
+|资料1日文=
+身長／体重：145cm・38kg
+出典：史実
+地域：欧州
+属性：混沌・善　　　性別：女性
+好きな国はインド。嫌いな団体はSPR（英国の心霊現象研究会）。
+
+|资料2条件=
+|资料2=
+通过突然变异诞生的天才魔术师。
+她将抵达根源的先人们称为「Mahatma」，
+「Hierarchy」，将其规定（假定）为高次元的存在。
+海伦娜表示自己总能感受到他们的信息，
+但其他人若想要感受到这些，
+必须拥有与她相同的才能（特殊魔术回路）才行吧。
+
+雷姆利亚大陆和Mahatma实际都不存在，
+她「只是个解释了自创的世界的天才」的可能性也很高。
+
+|资料2日文=
+突然変異として生まれ落ちた天才魔術師。
+根源へと到達した先達を彼女は「マハトマ」「ハイアラキ」と称し、高次の存在だと規定（想定）した。
+エレナ自身はいつも彼らのメッセージを感じていたと言うが、他者が同じものを感じ取るには彼女と同じ才能（特殊な魔術回路）が必要となるだろう。
+
+レムリア大陸もマハトマも実在せず、彼女が「独自の世界解釈を行う、ただの天才」である可能性は高い。
+
+|资料3条件=
+|资料3=
+作为从者存在的她能操控以神智学为基干的，
+自古到近为数众多的魔术，是个全能型Caster。
+她也尝试着操控过古代埃及魔术，
+以及圣堂教会的洗礼咏唱，
+但貌似她还是不太擅长古代的魔术。
+
+|资料3日文=
+サーヴァントとしての彼女は、神智学の元となった数多の古代から近現代までの魔術を操るオールラウンダーなキャスターとして現界する。
+古代エジプト魔術や聖堂教会の洗礼詠唱までをも操ってみせるが、やはり古代のモノはあまり得意ではない模様。
+
+|资料4条件=
+|资料4=
+道具作成：B
+制作带有魔力的器具。
+现界的布拉瓦茨基以过去自己的助手，
+「奥尔科特上校」为参考样本，
+制作了复数台自动人偶，用来当便利的杂役来使用。
+顺便说一句，这东西不太擅长战斗。
+
+|资料4日文=
+○道具作成：Ｂ
+魔力を帯びた器具を作成する。
+現界したブラヴァツキーはかつて自分に仕えた片腕たる「オルコット大佐」に似せた小型の自動人形を必ず複数体作成し、小間使い代わりにあれこれ便利に使っている。ちなみに、あまり戦闘には向かない。
+
+|资料5条件=
+|资料5=
+『金星神·火炎天主』
+阶级：A　种类：对军宝具
+有效范围：1～50　最大捕捉：150人
+Sanat Kumara。
+让飞行物出现，对四周发动攻击。
+她表示「这是在短时间内“重现”由金星来到地球的
+神性，也就是地球创造神之一的Sanat Kumara
+（护法魔王尊）力量的神智学的奥义！」，
+但飞行物的真实身份至今不明。
+
+|资料5日文=
+『金星神・火炎天主』
+ランク：Ａ　種別：対軍宝具
+レンジ：１～５０　最大捕捉：１５０人
+サナト・クマラ。
+飛行物体が姿を顕して周囲を攻撃する。
+「金星より地球へ飛来したとされる神性、地球創造神の一柱たるサナト・クマラ（護法魔王尊）の力を一時的に“再現”する神智学の奥義！」と彼女は宣うものの、飛行物体の正体は不明である。
+
+|资料6条件=
+通关 [[海伦娜·布拉瓦茨基/从者任务#幕间物语1|她眼中的世界]]后开放
+
+|资料6=
+她似乎有很多愿望希望圣杯能够实现。
+尽管她表示根本无法缩减到一个，
+但实际情况不明。
+……您的不明要素还真多呢，布拉瓦茨基小姐。
+「你难道不觉得神秘的女性比较好吗？　
+不，真理只有一个，人类虽可求而不可知，
+但Mahatma知晓一切！」
+
+|资料6日文=
+彼女が聖杯へとかける願いは多いらしい。
+ひとつに絞り切れていない、と彼女は言うが、
+実際どうなのかは不明。
+……不明ばかりですねブラヴァツキーさん。
+「謎多き女っていいと思わない？　じゃなくて、真理なんてただひとつだし、人にはうかがい知れないし、すべてはマハトマがご存知よ！」
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+オカルトサーヴァント
+オカルトに傾倒し、ＵＦＯや心霊現象などを信じているマニアックな女の子。お母さんのような包容力があり、つい甘えたくなるぞ。
+}}
+
+==羁绊点数==
+{{羁绊点数|2500|3750|5000|6250|10000|232500|240000|270500|309500|410000|4}}	
+
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|海伦娜·布拉瓦茨基|yy}}
+{{参阅|海伦娜·布拉瓦茨基/情人节剧情语音|该从者情人节剧情的语音}}
+{{:海伦娜·布拉瓦茨基/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|图标1=海伦娜初始头像.png
+|图标2=海伦娜一破头像.png
+|图标3=海伦娜三破头像.png
+}}
+===战斗形象===
+{{战斗形象
+|模型1=海伦娜初始模型.png
+|模型2=海伦娜一破模型.png
+|模型3=海伦娜三破模型.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+UFO（查看源代码）海伦娜·布拉瓦茨基/成长曲线（查看源代码）海伦娜·布拉瓦茨基/未来Pick Up情况（查看源代码）海伦娜·布拉瓦茨基/语音（查看源代码）被隐藏的女神（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者小图标（查看源代码）模板:从者相关礼装（查看源代码）模板:修正（查看源代码）模板:再临阶段图标（查看源代码）模板:分类（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:特性（查看源代码）（受保护）模板:相关从者（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:语音表格/注释（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至海伦娜·布拉瓦茨基。
+ 
+						取自“http://fgo.wiki/w/海伦娜·布拉瓦茨基”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E6%B5%B7%E4%BC%A6%E5%A8%9C%C2%B7%E5%B8%83%E6%8B%89%E7%93%A6%E8%8C%A8%E5%9F%BA","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E6%B5%B7%E4%BC%A6%E5%A8%9C%C2%B7%E5%B8%83%E6%8B%89%E7%93%A6%E8%8C%A8%E5%9F%BA","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E6%B5%B7%E4%BC%A6%E5%A8%9C%C2%B7%E5%B8%83%E6%8B%89%E7%93%A6%E8%8C%A8%E5%9F%BA&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/3530
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+国服：幕间物语活动 第8弹
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":118});});
+
+

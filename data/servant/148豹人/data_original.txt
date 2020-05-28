@@ -1,0 +1,1065 @@
+﻿
+
+
+查看“豹人”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"豹人","wgTitle":"豹人","wgCurRevisionId":287711,"wgRevisionId":0,"wgArticleId":3596,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"豹人","wgRelevantArticleId":3596,"wgRequestId":"24de58dd63059537896a4e66","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0lsxqe2",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+ type="text/css"/* 这里放置的CSS将应用于所有皮肤的侧边栏 */
+.skin-vector .mw-body {
+	margin-left: 11em!important;
+	padding: 1.25em 1.5em 1.5em 1.5em!important
+}
+
+.skin-vector #mw-panel {
+	padding-left: 0!important;
+	width: 10.5em!important
+}
+
+div#MenuSidebar {
+	margin-bottom: 5rem;
+	position: absolute;
+	top: 200px;
+	width: 100%
+}
+
+div#MenuSidebar a.external {
+	background: 0;
+	padding-right: auto
+}
+
+div#MenuSidebar>:first-child {
+	margin-top: 0;
+	border-top: 2px solid #f4c430
+}
+
+div#MenuSidebar>:first-child>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul {
+	list-style: none none;
+	width: 100%;
+	margin: 0
+}
+
+div#MenuSidebar ul {
+	position: relative;
+	font-size: .9rem
+}
+
+div#MenuSidebar>ul>li ul {
+	display: block;
+	opacity: 0;
+	pointer-events: none;
+	visibility: hidden;
+	transition: .2s all ease-in-out
+}
+
+div#MenuSidebar>ul ul {
+	list-style: none none;
+	position: absolute;
+	left: 100%;
+	width: 100%;
+	top: 0;
+	margin: 0;
+	z-index: 1;
+	background-color: #333;
+	box-shadow: -1px 2px 10px 0 rgba(0, 0, 0, 0.4), -1px -2px 10px 0 rgba(0, 0, 0, 0.4)
+}
+
+div#MenuSidebar ul li:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>p {
+	padding: 8px 10px;
+	margin: 0;
+	cursor: default;
+	margin-top: 8px
+}
+
+div#MenuSidebar>ul li:hover>ul {
+	display: block;
+	opacity: 1;
+	pointer-events: auto;
+	visibility: visible
+}
+
+div#MenuSidebar li {
+	position: relative;
+	margin: 0;
+	box-shadow: inset 0 1px rgba(244, 196, 48, 0.5);
+	transition: .15s all ease-in;
+	z-index: 1
+}
+
+div#MenuSidebar li b,
+div#MenuSidebar li a {
+	padding: 5px 0;
+	padding-left: 18px;
+	display: block;
+	width: auto;
+	height: 100%;
+	font-weight: normal
+}
+
+div#MenuSidebar a {
+	transition: all .15s ease-in;
+	color: #eaeaea
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	color: #000;
+	background-color: #f4c430;
+	text-decoration: none!important
+}
+
+div#MenuSidebar b {
+	cursor: default
+}
+
+div#MenuSidebar li.child>a::after,
+div#MenuSidebar li.child>b::after {
+	float: right;
+	content: "\f0da";
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	display: inherit;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 100%;
+	font-size: 1rem;
+	padding-top: 2%;
+	margin-right: 3px
+}
+
+div#MenuSidebar a.selflink:hover {
+	background-color: inherit;
+	color: #f4c430
+}
+
+div#MenuSidebar>ul>li:last-child>a,
+div#MenuSidebar>ul>li:last-child>b {
+	border-bottom-right-radius: 5px
+}
+
+div#MenuSidebar a.selflink::before {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	border-top: 6px solid transparent;
+	border-bottom: 6px solid transparent;
+	border-left: 6px solid #f4c430
+}
+
+div#MenuSidebar {
+	background-color: rgba(255, 255, 255, 0);
+	box-shadow: none;
+	top: 170px
+}
+
+div#MenuSidebar>ul {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.16), 0 2px 4px rgba(0, 0, 0, 0.23);
+	border-bottom-right-radius: 4px;
+	margin-top: -1px;
+	margin-bottom: 6px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: inset 0 1px #85c1f7;
+	margin-left: 0
+}
+
+div#MenuSidebar>ul ul {
+	background-color: hsla(0, 0%, 100%, 0.9);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+	border-radius: 4px;
+	width: unset!important;
+	z-index: 2
+}
+
+div#MenuSidebar>ul ul li {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul>li>ul {
+	width: 150%;
+	font-size: 100%
+}
+
+div#MenuSidebar>ul>li>ul ul {
+	font-size: 100%
+}
+
+div#MenuSidebar a,
+div#MenuSidebar b {
+	color: #333;
+	text-decoration: none!important
+}
+
+div#MenuSidebar>p {
+	border-top: 0;
+	border-bottom: 2px solid #4487df;
+	color: #4487df;
+	padding: 8px 10px 6px;
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.16), 0 0 4px rgba(0, 0, 0, 0.23);
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:first-child,
+div#MenuSidebar>:not(p)+ul {
+	border-top: 0;
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:not(p)+ul>:first-child {
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>ul>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul ul a,
+div#MenuSidebar>ul ul b {
+	padding: 5px 18px 5px 10px;
+	white-space: nowrap
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding-left: 18px
+}
+
+div#MenuSidebar li li.child>a::after,
+div#MenuSidebar li li.child>b::after {
+	float: unset;
+	position: absolute;
+	right: 0;
+	bottom: 5px
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	background-color: rgba(205, 235, 252, 0.4)
+}
+
+div#MenuSidebar a.selflink,
+div#MenuSidebar b.selflink {
+	font-weight: normal;
+	color: #333;
+	background-image: linear-gradient(90deg, #4487df 4px, transparent 4px)
+}
+
+div#MenuSidebar a.selflink:hover,
+div#MenuSidebar b.selflink:hover {
+	background-color: inherit;
+	color: #333
+}
+
+.skin-vector #left-navigation,
+.skin-vector #content {
+	margin-left: 10.5em
+}
+
+div#MenuSidebar>ul,
+div#MenuSidebar>p {
+	box-shadow: none;
+	border-radius: 0!important;
+	background-color: unset;
+	margin: 0
+}
+
+div#MenuSidebar>p {
+	font-weight: normal;
+	padding: 8px 10px 3px 10px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: none
+}
+
+div#MenuSidebar>p::after {
+	height: 4px;
+	display: block;
+	width: 100%;
+	position: absolute;
+	bottom: -8px;
+	left: 5px;
+	border-radius: 25px;
+	content: "";
+	background-image: linear-gradient(90deg, #4487df, transparent 95%)
+}
+
+div#MenuSidebar>p {
+	color: #4487df;
+	position: relative;
+	padding-left: 15px!important;
+	margin-top: 0!important;
+	margin-bottom: 8px!important;
+	border: 0!important
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding: 2px 0;
+	padding-left: 8px;
+	margin-top: 2px;
+	margin-left: 10px;
+	margin-right: 0;
+	border-radius: 5px 0 0 5px;
+	transition: .3s all ease;
+	color: #555
+}
+
+div#MenuSidebar>ul>:first-child>a,
+div#MenuSidebar>ul>:first-child>b {
+	margin-top: 5px
+}
+
+div#MenuSidebar>ul>li>a:HOVER,
+div#MenuSidebar>ul>li>b:HOVER {
+	background-color: rgba(34, 170, 255, 0.2);
+	color: black
+}
+
+div#MenuSidebar>ul>li>a.selflink {
+	background-color: rgba(34, 170, 255, 0.2)!important;
+	color: black!important
+}
+
+div#MenuSidebar>ul {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: 0;
+	background-image: none
+}
+
+div#MenuSidebar {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	border-radius: none!important;
+	padding-top: 40px;
+	box-shadow: none!important
+}
+
+div#MenuSidebar>ul>li.child>a::after,
+div#MenuSidebar>ul>li.child>b::after {
+	margin-right: 10px!important;
+	color: inherit!important;
+	padding-top: 1%!important;
+}
+
+div#MenuSidebar>ul>li>ul {
+	top: -4px
+}
+
+a.feedlink {
+	padding-left: 16px!important;
+}
+
+/* 为复制短链接增加一个图标 */
+#MenuSidebar #wgCopyURL-url-copy-sidebar::after {
+  content: "\f0c1";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-size: 70%;
+  margin-left: .4em;
+  color: var(--darkblue);
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“豹人”的源代码 
+←豹人
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}
+
+==基础数值==
+{{基础数值
+|稀有度=3
+|获取途径=剧情
+|序号=148
+|中文名=豹人
+|日文名=ジャガーマン
+|英文名=Jaguar Warrior
+|中文战斗名=豹人
+|日文战斗名=ジャガーマン
+|中文卡面名=豹人
+|日文卡面名=ジャガーマン
+|英文卡面名=Jaguar Warrior <!--FGOM V-->
+|声优=伊藤美纪
+|画师=AOTUKI TAKAO
+|属性1=混沌
+|属性2=中庸
+|性别=女性
+|身高=165㎝
+|体重=??kg
+|隐藏属性=地
+|职阶=Lancer
+|筋力=C
+|耐久=C
+|敏捷=B
+|魔力=E
+|幸运=B
+|宝具=B
+|基础ATK=1304
+|基础HP=1726
+|满级ATK=7022
+|满级HP=9593
+|90级ATK=8674
+|90级HP=11866
+|100级ATK=9503
+|100级HP=13007
+|第一张卡=Quick
+|第二张卡=Quick
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=1.05%
+|A卡np率=1.05%
+|B卡np率=1.05%
+|EX卡np率=1.05%
+|宝具np率=1.05%
+|受击np率=4%
+|Q卡hit数=2
+|A卡hit数=2
+|B卡hit数=4
+|EX卡hit数=6
+|宝具卡hit数=2
+|Q卡伤害分布=33,67
+|A卡伤害分布=33,67
+|B卡伤害分布=10,20,30,40
+|EX卡伤害分布=4,9,14,19,23,31
+|宝具卡伤害分布=33,67
+|出星率=12.0%
+|即死率=40.0%
+|暴击权重=90
+|特性1=神性
+|特性1备注=<ref>「冥界的圣诞快乐」活动新增，国服在2018.10.23更新1.31.0客户端时实装。</ref>
+|特性2=猛兽
+|特性3=天地从者
+|特性3备注=(拟似从者)
+|特性4=人科
+|特性5=活在当下的人类
+|人型=是
+|被EA特攻=是
+|天地拟似=1
+|昵称=老虎，大河，藤姐，大河老师
+|立绘1=第１阶段
+|文件1=豹人卡面1
+|立绘2=第２阶段
+|文件2=豹人卡面2
+|立绘3=第３阶段
+|文件3=豹人卡面3
+|立绘4=第４阶段
+|文件4=豹人卡面4
+|立绘5=愚人节
+|文件5=豹人愚人节}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{宝具
+|中文名=无可逃脱死亡钩爪
+|国服上标=Great Death Claw
+|日文名=逃れ得ぬ死の鉤爪
+|日服上标=グレート・デス・クロー
+|卡色=Buster
+|类型=单体
+|阶级=B
+|种类=对人宝具
+|效果A=付与自身必中状态(1回合)
+|数值A1=∅
+|效果B=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值B1=600%|数值B2=800%|数值B3=900%|数值B4=950%|数值B5=1000%
+|效果C=弱化耐性下降(3回合)<Over Charge时效果提升>
+|数值C1=10%|数值C2=20%|数值C3=30%|数值C4=40%|数值C5=50%
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|红放|豹之拳 A|ジャガー・パンチ A|12
+|自身Buster指令卡性能提升(3回合)|10%|12%|14%|16%|18%|20%|22%|24%|26%|30%
+|精神异常耐性提升(3回合)|20%|22%|24%|26%|28%|30%|32%|34%|36%|40%
+|付与回避状态(2次)|∅|||||||||
+|获得大量暴击星|5|6|7|8|9|10|11|12|13|15
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|加攻|豹之踢 B|ジャガー・キック B|7
+|自身攻击力提升(2回合)|10%|12%|14%|16%|18%|20%|22%|24%|26%|30%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|暴击威力提升|豹之眼 A+|ジャガー・アイ A+|8
+|自身暴击威力提升(3回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+|仅在[森林]场地上时，自身暴击星掉落率提升(3回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+|仅在[森林]场地上时，暴击星集中度提升(3回合)|300%|330%|360%|390%|420%|450%|480%|510%|540%|600%
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|A|自身的弱化状态耐性提升(20%)|狂化|狂化|E|自身的Buster指令卡性能小幅提升(2%)|神性|神性|A|付与自身伤害附加状态(200)}}
+※「'''神性 A'''」为日服于限时活动「冥界的圣诞快乐」时，为还原设定而新增的技能。<br>
+国服在2018年10月24日(周三) 17:00更新1.36.0版本客户端时实装。
+{{review|content=宝具&技能|user=Seniorious|time=2018年6月7日}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=3
+|0->1={{材料消耗|枪阶银棋|4}}
+|1->2={{材料消耗|枪阶银棋|8}}{{材料消耗|世界树之种|6}}
+|2->3={{材料消耗|枪阶金像|4}}{{材料消耗|混沌之爪|4}}{{材料消耗|黑兽脂|2}}
+|3->4={{材料消耗|枪阶金像|8}}{{材料消耗|黑兽脂|4}}{{材料消耗|起源的胎毛|5}}
+|总计={{材料消耗|枪阶银棋|12}}{{材料消耗|枪阶金像|12}}{{材料消耗|世界树之种|6}}{{材料消耗|混沌之爪|4}}{{材料消耗|黑兽脂|6}}{{材料消耗|起源的胎毛|5}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=3
+|1->2={{材料消耗|枪之辉石|4}}
+|2->3={{材料消耗|枪之辉石|8}}
+|3->4={{材料消耗|枪之魔石|4}}
+|4->5={{材料消耗|枪之魔石|8}}{{材料消耗|混沌之爪|2}}
+|5->6={{材料消耗|枪之秘石|4}}{{材料消耗|混沌之爪|4}}
+|6->7={{材料消耗|枪之秘石|8}}{{材料消耗|世界树之种|4}}
+|7->8={{材料消耗|世界树之种|8}}{{材料消耗|咒兽胆石|2}}
+|8->9={{材料消耗|咒兽胆石|5}}{{材料消耗|战马的幼角|10}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|枪之辉石|12}}{{材料消耗|枪之魔石|12}}{{材料消耗|枪之秘石|12}}{{材料消耗|世界树之种|12}}{{材料消耗|混沌之爪|6}}{{材料消耗|战马的幼角|10}}{{材料消耗|咒兽胆石|7}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|枪阶银棋|12}}{{材料消耗|枪阶金像|12}}{{材料消耗|枪之辉石|36}}{{材料消耗|枪之魔石|36}}{{材料消耗|枪之秘石|36}}{{材料消耗|世界树之种|42}}{{材料消耗|混沌之爪|22}}{{材料消耗|战马的幼角|30}}{{材料消耗|黑兽脂|6}}{{材料消耗|起源的胎毛|5}}{{材料消耗|咒兽胆石|21}}{{材料消耗|传承结晶|3}}
+|稀有度=3
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+中南美传说中的古代神灵之一。
+豹子是「战斗」与「死亡」的象征，
+是永世在中南美各时代文明被崇拜的存在，
+据说过去时常会在地上现身。
+在前古典时期的奥尔梅克文明中，
+祭祀着豹神、人类与豹的混血……
+之类的『豹人类（豹人／半豹人）』的像。
+
+|详情日文=
+中南米に伝わる古き神霊の一柱。
+ジャガーとはすなわち「戦い」と「死」を象徴し、
+各時代の中南米文明で永く崇められる存在であり、
+過去にはたびたび地上に姿を見せたという。
+先古典期のオルメカ文明ではジャガー神、
+人間とジャガーの混血……
+『ジャガー人間（ジャガーマン／ウェアジャガー）』像などの形で祀られた。
+
+|资料1条件=
+|资料1=
+身高／体重：165cm·？？kg
+出处：中南美各时代的神话
+地域：中南美
+属性：混沌·中庸　　性别：女性
+属性不是附体对象人类的，而是豹人本身的。
+性别是附体对象人类的。
+
+|资料1日文=
+身長／体重：165㎝・??kg
+出典：中南米各時代の神話
+地域：中南米
+属性：混沌・中庸　　性別：女性
+属性は憑依先の人間ではなくジャガーマンのもの。
+性別は憑依先の人間のもの。
+
+|资料2条件=
+|资料2=
+中南美神话中被称为纳瓦尔（Nahual）的灵性存在、
+影子，或是超自然守护灵般的存在常被提及。
+阿兹特克文明中被崇拜的主神之一
+特斯卡特利波卡也具备纳瓦尔，
+据说那就是令人恐惧的豹子纳瓦尔。
+
+本作的豹人虽具备古代神灵的性质，但也融合了
+继承自身系谱的特斯卡特利波卡的纳瓦尔的一面。
+
+|资料2日文=
+中南米神話においてはナワルと呼ばれる霊的存在、
+影、超自然的な守護霊の存在がしばしば語られる。
+アステカ文明で崇められる主神の一柱
+テスカトリポカもナワルを有しており、これは
+恐るべきジャガーのナワルであるという。
+
+本作のジャガーマンは古き神霊としての性質を
+有しながら、自らの系譜を引くテスカトリポカの
+ナワルとしての側面が習合している。
+
+|资料3条件=
+|资料3=
+拟似从者。
+豹子纳瓦尔通过附在特定人类身上，
+作为分灵实现现界。
+自古以来，据说拥有豹子纳瓦尔的人类
+都会拥有超自然的力量。
+纳瓦尔传说一直流传到了现代。
+
+另外，附体的选择基准是在于圣杯有缘的人中间，
+选择最具野性力量以及野性宿命的人。
+
+|资料3日文=
+疑似サーヴァント。
+ジャガーのナワルが特定の人間を依り代とする
+ことで分霊としての現界を果たしている。
+古来、ジャガーのナワルを得た人間は超自然的な
+力を有するという。
+現代でもナワル譚は語られている。
+
+なお、依り代の選考基準は聖杯に縁ある人間の
+中で最も野性の力、そして野性の宿命を帯びた
+者が選ばれる。
+
+|资料4条件=
+|资料4=
+豹之拳：A
+正式技能名：豹子的佑护
+豹子之拳就是破坏力。
+豹子神灵赋予的佑护。
+不会感受到恐惧与疼痛。
+是结合了勇猛技能与直觉技能效果的复合技能。
+
+|资料4日文=
+○ジャガー・パンチ：Ａ
+正式スキル名：ジャガーの加護
+ジャガーパンチは破壊力。
+ジャガーの神霊によって与えられた加護。
+恐れや痛みを感じることがない。
+勇猛スキル、直感スキルの効果を含む複合スキル。
+
+|资料5条件=
+|资料5=
+豹之踢：B
+正式技能名：怪力
+豹子之踢也是破坏力。
+总之自己无论如何先得活下来。
+充满了这种坚强意志，以及令人感到希望的技能。
+
+豹之眼：A+
+正式技能名：昏暗密林之颚
+豹之眼就是光炮之力。
+处于「森林」场地时，会追加各种加成效果判定。
+
+|资料5日文=
+○ジャガー・キック：Ｂ
+正式スキル名：怪力
+ジャガーキックも破壊力。
+とにかく自分だけはなんとしても生き残る。
+そんな強い意志、そしてウィルを感じるスキル。
+
+○ジャガー・アイ：Ａ＋
+正式スキル名：暗き密林の顎
+ジャガーアイならビーム力。　
+「森」のフィールドにいる場合、
+各種判定にプラス効果が加わる。
+
+|资料6条件=
+羁绊达到Lv.5后开放
+
+|资料6=
+为何会尝试现界这点上不明确。
+究竟是跟着魁札尔·科亚特尔一起来的，
+还是带着玩耍的心情来的，
+亦或是特斯卡特利波卡正打算出来的时候，
+抢在那位前面跑来……等等可能性，令人兴趣盎然。
+
+卖点在于由于是神灵系从者中最下级的存在，
+所以不怎么费消耗点。
+怎么看都是附体对象的人格占了主体，
+但这件事万万不能指出。
+
+|资料6日文=
+なぜ現界を試みたのかは不明。
+ケツァル・コアトルにつられてやってきた、
+遊び気分でやってきた、
+テスカトリポカが出てくるところを抜け駆けして
+やってきた、等々、興味はつきない。
+
+神霊系サーヴァントの中では下級に属する為、
+コストがかからないのがセールスポイント。
+どう見ても憑依体の人格がメインになっているが、
+そこを指摘してはいけない。
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=
+藤村从者
+该从者就是野性的化身。自由又自在。偶尔会紧紧盯着卫宫。也包括暗杀者的卫宫和Alter的卫宫。
+
+|日文=
+ふじむらサーヴァント
+野生そのものであるサーヴァント。自由オブ自由。時折じっとエミヤのことを見つめている。アサシンの方のエミヤのことも、オルタの方のエミヤのことも。
+}}
+
+==羁绊点数==
+{{羁绊点数|3000|6125|6125|6125|6125|242500|250000|260000|270000|315000|3}}
+
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|豹人|yy}}
+{{参阅|豹人/情人节剧情语音|该从者情人节剧情的语音}}
+{{:豹人/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=Servant148正面1.png
+|图标2=Servant148正面2.png
+|图标3=Servant148正面3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=英灵模型148_0破.png
+|模型2=英灵模型148_1破.png
+|模型3=英灵模型148_3破.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+[[分类:拟似从者]]
+该页面使用的模板：
+
+原初之火（查看源代码）可可果（查看源代码）豹人/成长曲线（查看源代码）豹人/未来Pick Up情况（查看源代码）豹人/语音（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至豹人。
+ 
+						取自“http://fgo.wiki/w/豹人”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+英灵图鉴礼装图鉴指令纹章图鉴游戏数据基础各类信息汇总新人御主Q＆A抽卡模拟器 
+
+
+
+热门
+
+
+国服：冥界的圣诞快乐日服：魔伊联动复刻★5(SSR)埃列什基伽勒★4(SR)美游·艾德费尔特 
+
+
+
+扩展
+
+
+关卡配置活动一览卡池一览道具一览灵衣一览敌人一览技能一览状态一览御主装备音乐鉴赏声优一览画师一览登场人物关卡特性相关数据计算器 
+
+
+
+趣味
+
+
+FGO相关表情包FGO名人录FGO黑话·梗·成句游戏卫星一览趣味游戏 
+
+
+
+常用
+
+
+首页最近更改随机页面SE.RA.PH模板一览编辑指南贡献分数页面短链接如何支持我们收支一览点我反馈 
+
+
+
+工具
+
+
+链入页面相关更改特殊页面页面信息 
+
+
+window.toolbox=document.querySelector("#p-tb ul").innerHTML;var a=document.querySelectorAll("#mw-panel > *");for (var i=0;i<a.length;i++){if(a[i].id!="p-logo"){a[i].parentNode.removeChild(a[i])}}首页
+复制短链接https://fgo.wiki/id/3596
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：『Fate/Requiem』棋盘游戏默示录
+国服：淑女·莱妮丝事件簿
+
+新增从者
+★4(SR) 鬼女红叶(Berserker)
+★5(SSR) 旅行者(Foreigner)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+事件簿联动活动推荐召唤
+
+日服
+FR联动推荐召唤
+FR联动开幕前夕推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+Bigfun社区-FGO版块
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具document.querySelector("#MSToolbox").innerHTML=window.toolbox;childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")};childlist = document.querySelectorAll("#MenuSidebar > ul#MSToolbox > li");for(var i=0;i<childlist.length;i++){if(childlist[i].innerHTML === ""){childlist[i].parentNode.removeChild(childlist[i])}};
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+    var commentStyle = document.createElement("style");
+    commentStyle.type = "text/css";
+    commentStyle.innerHTML = ".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+    commentStyle.id = "addCommentStyle";
+    document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+ 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":127});});
+
+

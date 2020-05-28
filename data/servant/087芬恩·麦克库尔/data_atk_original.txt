@@ -1,0 +1,278 @@
+﻿
+
+
+查看“芬恩·麦克库尔/成长曲线”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"芬恩·麦克库尔/成长曲线","wgTitle":"芬恩·麦克库尔/成长曲线","wgCurRevisionId":50388,"wgRevisionId":0,"wgArticleId":17647,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"芬恩·麦克库尔/成长曲线","wgRelevantArticleId":17647,"wgRequestId":"736187b310e32d7c25a05f31","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“芬恩·麦克库尔/成长曲线”的源代码 
+←芬恩·麦克库尔/成长曲线
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{成长曲线|数据=
+{"lv": 1, "HP": 2040, "ATK": 1488},{"lv": 2, "HP": 2243, "ATK": 1629},{"lv": 3, "HP": 2457, "ATK": 1778},{"lv": 4, "HP": 2671, "ATK": 1927},{"lv": 5, "HP": 2886, "ATK": 2075},{"lv": 6, "HP": 3089, "ATK": 2217},{"lv": 7, "HP": 3303, "ATK": 2366},{"lv": 8, "HP": 3507, "ATK": 2507},{"lv": 9, "HP": 3710, "ATK": 2648},{"lv": 10, "HP": 3914, "ATK": 2790},{"lv": 11, "HP": 4107, "ATK": 2924},{"lv": 12, "HP": 4299, "ATK": 3058},{"lv": 13, "HP": 4492, "ATK": 3192},{"lv": 14, "HP": 4685, "ATK": 3326},{"lv": 15, "HP": 4867, "ATK": 3452},{"lv": 16, "HP": 5038, "ATK": 3571},{"lv": 17, "HP": 5220, "ATK": 3698},{"lv": 18, "HP": 5381, "ATK": 3809},{"lv": 19, "HP": 5552, "ATK": 3928},{"lv": 20, "HP": 5702, "ATK": 4033},{"lv": 21, "HP": 5863, "ATK": 4144},{"lv": 22, "HP": 6002, "ATK": 4241},{"lv": 23, "HP": 6141, "ATK": 4338},{"lv": 24, "HP": 6281, "ATK": 4435},{"lv": 25, "HP": 6398, "ATK": 4516},{"lv": 26, "HP": 6527, "ATK": 4606},{"lv": 27, "HP": 6634, "ATK": 4680},{"lv": 28, "HP": 6741, "ATK": 4755},{"lv": 29, "HP": 6838, "ATK": 4822},{"lv": 30, "HP": 6934, "ATK": 4888},{"lv": 31, "HP": 7009, "ATK": 4941},{"lv": 32, "HP": 7084, "ATK": 4993},{"lv": 33, "HP": 7148, "ATK": 5037},{"lv": 34, "HP": 7212, "ATK": 5082},{"lv": 35, "HP": 7266, "ATK": 5119},{"lv": 36, "HP": 7309, "ATK": 5149},{"lv": 37, "HP": 7341, "ATK": 5171},{"lv": 38, "HP": 7362, "ATK": 5186},{"lv": 39, "HP": 7384, "ATK": 5201},{"lv": 40, "HP": 7395, "ATK": 5209},{"lv": 41, "HP": 7405, "ATK": 5216},{"lv": 42, "HP": 7416, "ATK": 5223},{"lv": 43, "HP": 7427, "ATK": 5231},{"lv": 44, "HP": 7437, "ATK": 5238},{"lv": 45, "HP": 7469, "ATK": 5261},{"lv": 46, "HP": 7512, "ATK": 5290},{"lv": 47, "HP": 7566, "ATK": 5328},{"lv": 48, "HP": 7630, "ATK": 5372},{"lv": 49, "HP": 7694, "ATK": 5417},{"lv": 50, "HP": 7769, "ATK": 5469},{"lv": 51, "HP": 7844, "ATK": 5521},{"lv": 52, "HP": 7941, "ATK": 5588},{"lv": 53, "HP": 8037, "ATK": 5655},{"lv": 54, "HP": 8144, "ATK": 5729},{"lv": 55, "HP": 8251, "ATK": 5804},{"lv": 56, "HP": 8380, "ATK": 5893},{"lv": 57, "HP": 8498, "ATK": 5975},{"lv": 58, "HP": 8637, "ATK": 6072},{"lv": 59, "HP": 8776, "ATK": 6169},{"lv": 60, "HP": 8915, "ATK": 6265},{"lv": 61, "HP": 9076, "ATK": 6377},{"lv": 62, "HP": 9226, "ATK": 6481},{"lv": 63, "HP": 9397, "ATK": 6600},{"lv": 64, "HP": 9558, "ATK": 6712},{"lv": 65, "HP": 9740, "ATK": 6838},{"lv": 66, "HP": 9911, "ATK": 6957},{"lv": 67, "HP": 10093, "ATK": 7084},{"lv": 68, "HP": 10286, "ATK": 7218},{"lv": 69, "HP": 10479, "ATK": 7352},{"lv": 70, "HP": 10672, "ATK": 7486},{"lv": 71, "HP": 10865, "ATK": 7620},{"lv": 72, "HP": 11068, "ATK": 7761},{"lv": 73, "HP": 11272, "ATK": 7903},{"lv": 74, "HP": 11475, "ATK": 8044},{"lv": 75, "HP": 11689, "ATK": 8193},{"lv": 76, "HP": 11893, "ATK": 8334},{"lv": 77, "HP": 12107, "ATK": 8483},{"lv": 78, "HP": 12321, "ATK": 8632},{"lv": 79, "HP": 12535, "ATK": 8781},{"lv": 80, "HP": 12750, "ATK": 8930},{"lv": 81, "HP": 12878, "ATK": 9019},{"lv": 82, "HP": 13017, "ATK": 9116},{"lv": 83, "HP": 13146, "ATK": 9205},{"lv": 84, "HP": 13285, "ATK": 9302},{"lv": 85, "HP": 13424, "ATK": 9398},{"lv": 86, "HP": 13553, "ATK": 9488},{"lv": 87, "HP": 13692, "ATK": 9584},{"lv": 88, "HP": 13831, "ATK": 9681},{"lv": 89, "HP": 13960, "ATK": 9770},{"lv": 90, "HP": 14099, "ATK": 9867},{"lv": 91, "HP": 14238, "ATK": 9964},{"lv": 92, "HP": 14367, "ATK": 10053},{"lv": 93, "HP": 14506, "ATK": 10150},{"lv": 94, "HP": 14645, "ATK": 10247},{"lv": 95, "HP": 14774, "ATK": 10336},{"lv": 96, "HP": 14913, "ATK": 10433},{"lv": 97, "HP": 15052, "ATK": 10530},{"lv": 98, "HP": 15181, "ATK": 10619},{"lv": 99, "HP": 15320, "ATK": 10716},{"lv": 100, "HP": 15459, "ATK": 10812}
+}}
+该页面使用的模板：
+
+模板:成长曲线（查看源代码）返回至芬恩·麦克库尔/成长曲线。
+ 
+						取自“http://fgo.wiki/w/芬恩·麦克库尔/成长曲线”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E8%8A%AC%E6%81%A9%C2%B7%E9%BA%A6%E5%85%8B%E5%BA%93%E5%B0%94\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E8%8A%AC%E6%81%A9%C2%B7%E9%BA%A6%E5%85%8B%E5%BA%93%E5%B0%94\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E8%8A%AC%E6%81%A9%C2%B7%E9%BA%A6%E5%85%8B%E5%BA%93%E5%B0%94\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/17647
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102});});
+
+

@@ -1,0 +1,1120 @@
+﻿
+
+
+查看“美游·艾德费尔特”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"美游·艾德费尔特","wgTitle":"美游·艾德费尔特","wgCurRevisionId":287732,"wgRevisionId":0,"wgArticleId":33472,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"美游·艾德费尔特","wgRelevantArticleId":33472,"wgRequestId":"551a3c2237420153e645e434","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0lsxqe2",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+ type="text/css"/* 这里放置的CSS将应用于所有皮肤的侧边栏 */
+.skin-vector .mw-body {
+	margin-left: 11em!important;
+	padding: 1.25em 1.5em 1.5em 1.5em!important
+}
+
+.skin-vector #mw-panel {
+	padding-left: 0!important;
+	width: 10.5em!important
+}
+
+div#MenuSidebar {
+	margin-bottom: 5rem;
+	position: absolute;
+	top: 200px;
+	width: 100%
+}
+
+div#MenuSidebar a.external {
+	background: 0;
+	padding-right: auto
+}
+
+div#MenuSidebar>:first-child {
+	margin-top: 0;
+	border-top: 2px solid #f4c430
+}
+
+div#MenuSidebar>:first-child>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul {
+	list-style: none none;
+	width: 100%;
+	margin: 0
+}
+
+div#MenuSidebar ul {
+	position: relative;
+	font-size: .9rem
+}
+
+div#MenuSidebar>ul>li ul {
+	display: block;
+	opacity: 0;
+	pointer-events: none;
+	visibility: hidden;
+	transition: .2s all ease-in-out
+}
+
+div#MenuSidebar>ul ul {
+	list-style: none none;
+	position: absolute;
+	left: 100%;
+	width: 100%;
+	top: 0;
+	margin: 0;
+	z-index: 1;
+	background-color: #333;
+	box-shadow: -1px 2px 10px 0 rgba(0, 0, 0, 0.4), -1px -2px 10px 0 rgba(0, 0, 0, 0.4)
+}
+
+div#MenuSidebar ul li:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>p {
+	padding: 8px 10px;
+	margin: 0;
+	cursor: default;
+	margin-top: 8px
+}
+
+div#MenuSidebar>ul li:hover>ul {
+	display: block;
+	opacity: 1;
+	pointer-events: auto;
+	visibility: visible
+}
+
+div#MenuSidebar li {
+	position: relative;
+	margin: 0;
+	box-shadow: inset 0 1px rgba(244, 196, 48, 0.5);
+	transition: .15s all ease-in;
+	z-index: 1
+}
+
+div#MenuSidebar li b,
+div#MenuSidebar li a {
+	padding: 5px 0;
+	padding-left: 18px;
+	display: block;
+	width: auto;
+	height: 100%;
+	font-weight: normal
+}
+
+div#MenuSidebar a {
+	transition: all .15s ease-in;
+	color: #eaeaea
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	color: #000;
+	background-color: #f4c430;
+	text-decoration: none!important
+}
+
+div#MenuSidebar b {
+	cursor: default
+}
+
+div#MenuSidebar li.child>a::after,
+div#MenuSidebar li.child>b::after {
+	float: right;
+	content: "\f0da";
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	display: inherit;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 100%;
+	font-size: 1rem;
+	padding-top: 2%;
+	margin-right: 3px
+}
+
+div#MenuSidebar a.selflink:hover {
+	background-color: inherit;
+	color: #f4c430
+}
+
+div#MenuSidebar>ul>li:last-child>a,
+div#MenuSidebar>ul>li:last-child>b {
+	border-bottom-right-radius: 5px
+}
+
+div#MenuSidebar a.selflink::before {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	border-top: 6px solid transparent;
+	border-bottom: 6px solid transparent;
+	border-left: 6px solid #f4c430
+}
+
+div#MenuSidebar {
+	background-color: rgba(255, 255, 255, 0);
+	box-shadow: none;
+	top: 170px
+}
+
+div#MenuSidebar>ul {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.16), 0 2px 4px rgba(0, 0, 0, 0.23);
+	border-bottom-right-radius: 4px;
+	margin-top: -1px;
+	margin-bottom: 6px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: inset 0 1px #85c1f7;
+	margin-left: 0
+}
+
+div#MenuSidebar>ul ul {
+	background-color: hsla(0, 0%, 100%, 0.9);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+	border-radius: 4px;
+	width: unset!important;
+	z-index: 2
+}
+
+div#MenuSidebar>ul ul li {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul>li>ul {
+	width: 150%;
+	font-size: 100%
+}
+
+div#MenuSidebar>ul>li>ul ul {
+	font-size: 100%
+}
+
+div#MenuSidebar a,
+div#MenuSidebar b {
+	color: #333;
+	text-decoration: none!important
+}
+
+div#MenuSidebar>p {
+	border-top: 0;
+	border-bottom: 2px solid #4487df;
+	color: #4487df;
+	padding: 8px 10px 6px;
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.16), 0 0 4px rgba(0, 0, 0, 0.23);
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:first-child,
+div#MenuSidebar>:not(p)+ul {
+	border-top: 0;
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:not(p)+ul>:first-child {
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>ul>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul ul a,
+div#MenuSidebar>ul ul b {
+	padding: 5px 18px 5px 10px;
+	white-space: nowrap
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding-left: 18px
+}
+
+div#MenuSidebar li li.child>a::after,
+div#MenuSidebar li li.child>b::after {
+	float: unset;
+	position: absolute;
+	right: 0;
+	bottom: 5px
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	background-color: rgba(205, 235, 252, 0.4)
+}
+
+div#MenuSidebar a.selflink,
+div#MenuSidebar b.selflink {
+	font-weight: normal;
+	color: #333;
+	background-image: linear-gradient(90deg, #4487df 4px, transparent 4px)
+}
+
+div#MenuSidebar a.selflink:hover,
+div#MenuSidebar b.selflink:hover {
+	background-color: inherit;
+	color: #333
+}
+
+.skin-vector #left-navigation,
+.skin-vector #content {
+	margin-left: 10.5em
+}
+
+div#MenuSidebar>ul,
+div#MenuSidebar>p {
+	box-shadow: none;
+	border-radius: 0!important;
+	background-color: unset;
+	margin: 0
+}
+
+div#MenuSidebar>p {
+	font-weight: normal;
+	padding: 8px 10px 3px 10px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: none
+}
+
+div#MenuSidebar>p::after {
+	height: 4px;
+	display: block;
+	width: 100%;
+	position: absolute;
+	bottom: -8px;
+	left: 5px;
+	border-radius: 25px;
+	content: "";
+	background-image: linear-gradient(90deg, #4487df, transparent 95%)
+}
+
+div#MenuSidebar>p {
+	color: #4487df;
+	position: relative;
+	padding-left: 15px!important;
+	margin-top: 0!important;
+	margin-bottom: 8px!important;
+	border: 0!important
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding: 2px 0;
+	padding-left: 8px;
+	margin-top: 2px;
+	margin-left: 10px;
+	margin-right: 0;
+	border-radius: 5px 0 0 5px;
+	transition: .3s all ease;
+	color: #555
+}
+
+div#MenuSidebar>ul>:first-child>a,
+div#MenuSidebar>ul>:first-child>b {
+	margin-top: 5px
+}
+
+div#MenuSidebar>ul>li>a:HOVER,
+div#MenuSidebar>ul>li>b:HOVER {
+	background-color: rgba(34, 170, 255, 0.2);
+	color: black
+}
+
+div#MenuSidebar>ul>li>a.selflink {
+	background-color: rgba(34, 170, 255, 0.2)!important;
+	color: black!important
+}
+
+div#MenuSidebar>ul {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: 0;
+	background-image: none
+}
+
+div#MenuSidebar {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	border-radius: none!important;
+	padding-top: 40px;
+	box-shadow: none!important
+}
+
+div#MenuSidebar>ul>li.child>a::after,
+div#MenuSidebar>ul>li.child>b::after {
+	margin-right: 10px!important;
+	color: inherit!important;
+	padding-top: 1%!important;
+}
+
+div#MenuSidebar>ul>li>ul {
+	top: -4px
+}
+
+a.feedlink {
+	padding-left: 16px!important;
+}
+
+/* 为复制短链接增加一个图标 */
+#MenuSidebar #wgCopyURL-url-copy-sidebar::after {
+  content: "\f0c1";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-size: 70%;
+  margin-left: .4em;
+  color: var(--darkblue);
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“美游·艾德费尔特”的源代码 
+←美游·艾德费尔特
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}[[分类:未复查的从者条目]]
+
+==基础数值==
+{{基础数值
+|背景颜色=#F4EBFF
+|文字颜色=#534F95
+|稀有度=4
+|获取途径=限定
+|序号=236
+|中文名=美游·艾德费尔特
+|日文名=美遊・エーデルフェルト
+|英文名=Miyu Edelfelt
+|中文战斗名=美游
+|日文战斗名=美遊
+|中文卡面名=美游·艾德费尔特
+|日文卡面名=美遊・エーデルフェルト
+|英文卡面名=Miyu Edelfelt
+|中文卡面名2=美游·艾德费尔特
+|日文卡面名2=美遊・エーデルフェルト
+|英文卡面名2=Miyu Edelfelt
+|中文卡面名3=朔月美游
+|日文卡面名3=朔月美遊
+|英文卡面名3=Sakatsuki Miyu
+|中文卡面名4=朔月美游
+|日文卡面名4=朔月美遊
+|英文卡面名4=Sakatsuki Miyu
+|声优=名塚佳织
+|声优对应角色=美游
+|声优2=嘉数由美
+|声优2对应角色=蓝宝石
+|画师=HIROYAMA HIROSHI
+|属性1=秩序
+|属性2=善
+|性别=女性
+|身高=134cm
+|体重=30kg
+|隐藏属性=人
+|职阶=Caster
+|筋力=E
+|耐久=D
+|敏捷=C
+|魔力=A
+|幸运=C
+|宝具=A
+|基础ATK=1438
+|基础HP=1920
+|满级ATK=8629
+|满级HP=12005
+|90级ATK=9535
+|90级HP=13275
+|100级ATK=10448
+|100级HP=14556
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Arts
+|第五张卡=Buster
+|Q卡np率=0.81%
+|A卡np率=0.81%
+|B卡np率=0.81%
+|EX卡np率=0.81%
+|宝具np率=0.81%
+|受击np率=3%
+|Q卡hit数=3
+|A卡hit数=2
+|B卡hit数=3
+|EX卡hit数=4
+|宝具卡hit数=—
+|Q卡伤害分布=16,33,51
+|A卡伤害分布=33,67
+|B卡伤害分布=16,33,51
+|EX卡伤害分布=10,20,30,40
+|出星率=10.9%
+|即死率=36.0%
+|暴击权重=49
+|特性1=人科
+|特性2=活在当下的人类
+|人型=是
+|被EA特攻=是
+|昵称=
+|立绘1=第１阶段
+|文件1=美游3
+|立绘2=第２阶段
+|文件2=美游4
+|立绘3=第３阶段
+|文件3=美游1
+|立绘4=第４阶段
+|文件4=美游22
+|立绘5=愚人节
+|文件5=美游·艾德费尔特愚人节卡面
+}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{参阅|音乐鉴赏/宝具背景音乐合集#美游·艾德费尔特|该从者的宝具背景音乐}}
+{{宝具
+|中文名=照耀星天的地之朔月
+|国服上标=向星星许愿
+|日文名=星天を照らせ地の朔月
+|日服上标=ほしにねがいを
+|卡色=Arts
+|类型=辅助
+|阶级=EX
+|种类=对人～对界宝具
+|效果A=付与自身〔朔月的加护〕状态，每回合结束时发动效果(3回合)
+|数值A1=∅
+|效果B=朔月的加护：己方全体增加NP
+|数值B1=10%
+|效果C=朔月的加护：回复HP<宝具升级效果提升>
+|数值C1=500|数值C2=750|数值C3=875|数值C4=937|数值C5=1000
+|效果D=朔月的加护：己方获得暴击星<Over Charge时效果提升>
+|数值D1=5|数值D2=10|数值D3=15|数值D4=20|数值D5=25
+|效果E=自身HP减少（不会减至1以下）【负面效果】
+|数值E1=3000
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|蓝放|愉快型魔术礼装（妹） A|愉快型魔術礼装（妹） A|7
+|自身的Arts指令卡性能提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|暴击威力提升(3次·3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|毅力|少女的志气 B|少女の意地 B|8
+|付与自身毅力状态(1次·3回合)|1000|1100|1200|1300|1400|1500|1600|1700|1800|2000
+|弱化无效状态(1次·3回合)|∅|||||||||
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|充能|神稚儿的愿望 EX|神稚児の願い EX|8
+|己方单体增加NP|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|强化成功率提升(3回合)|20%|22%|24%|26%|28%|30%|32%|34%|36%|40%
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|B|自身的弱化状态耐性提升(17.5%)|回合充能|无限的魔力供给|B|付与自身每回合获得NP的状态(4%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=4
+|0->1={{材料消耗|术阶银棋|4}}
+|1->2={{材料消耗|术阶银棋|10}}{{材料消耗|英雄之证|18}}
+|2->3={{材料消耗|术阶金像|4}}{{材料消耗|虚影之尘|16}}{{材料消耗|精灵根|2}}
+|3->4={{材料消耗|术阶金像|10}}{{材料消耗|精灵根|4}}{{材料消耗|凤凰羽毛|8}}
+|总计={{材料消耗|术阶银棋|14}}{{材料消耗|术阶金像|14}}{{材料消耗|英雄之证|18}}{{材料消耗|虚影之尘|16}}{{材料消耗|凤凰羽毛|8}}{{材料消耗|精灵根|6}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=4
+|1->2={{材料消耗|术之辉石|4}}
+|2->3={{材料消耗|术之辉石|10}}
+|3->4={{材料消耗|术之魔石|4}}
+|4->5={{材料消耗|术之魔石|10}}{{材料消耗|虚影之尘|8}}
+|5->6={{材料消耗|术之秘石|4}}{{材料消耗|虚影之尘|16}}
+|6->7={{材料消耗|术之秘石|10}}{{材料消耗|英雄之证|12}}
+|7->8={{材料消耗|英雄之证|24}}{{材料消耗|起源的胎毛|3}}
+|8->9={{材料消耗|起源的胎毛|9}}{{材料消耗|追忆的贝壳|20}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|术之辉石|14}}{{材料消耗|术之魔石|14}}{{材料消耗|术之秘石|14}}{{材料消耗|英雄之证|36}}{{材料消耗|虚影之尘|24}}{{材料消耗|追忆的贝壳|20}}{{材料消耗|起源的胎毛|12}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|术阶银棋|14}}{{材料消耗|术阶金像|14}}{{材料消耗|术之辉石|42}}{{材料消耗|术之魔石|42}}{{材料消耗|术之秘石|42}}{{材料消耗|英雄之证|126}}{{材料消耗|虚影之尘|88}}{{材料消耗|凤凰羽毛|8}}{{材料消耗|追忆的贝壳|60}}{{材料消耗|精灵根|6}}{{材料消耗|起源的胎毛|36}}{{材料消耗|传承结晶|3}}
+|稀有度=4
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+与伊莉雅、克洛伊一起就读于穗群原学园小学部5年1班的小学生。
+与万华镜魔法杖的魔法蓝宝石签订了契约，成了，无奈成了第二魔法少女。
+无依无靠的她不知为何被露维亚带了回去，并得到了艾德费尔特的姓氏，
+过上了女仆的生活。
+
+尽管在物理与数学方面具备大学级的知识，
+但与他人的沟通能力甚至不如幼儿园儿童。
+而这样的她交上的第一位朋友，
+就是伊莉雅。
+不知是否由于无法区分友情与爱情，
+美游因突然失去了与人的距离感而感到不知所措，但伊莉雅依然对她报以友爱之情。
+在重复的日常与非日常中，两人不知不觉成了知心好友。
+
+顺便一提，克洛伊似乎相当于争夺伊莉雅的对手。
+
+|详情日文=
+イリヤ、クロエとともに、
+穂群原学園小等部５年１組に通う小学生。
+カレイドステッキのマジカルサファイアと契約し、第二の魔法少女となる。なってしまう。
+なぜか身寄りのない彼女は、
+ルヴィアに拾われエーデルフェルト姓を得て、
+メイド暮らしをしている。
+
+物理や数学は大学レベルの知識がある反面、
+他人とのコミュニケーション能力は園児以下。
+そんな彼女に初めてできた友達が、
+イリヤである。
+友情と愛情の区別がつかないのか何なのか、
+突然距離感ゼロになった美遊に戸惑いつつも親愛の情を返すイリヤ。
+日常と非日常を繰り返す内、いつしか二人は無二の親友となっていた。
+
+ちなみにクロエは、イリヤを取り合うライバル的な存在らしい。
+
+|资料1条件=
+|资料1=
+身高／体重：134cm·30kg
+出处：Fate/kaleid liner 魔法少女☆伊莉雅
+地域：日本·冬木市
+属性：秩序·善　　　性别：女性
+无论是在日常还是在战斗中，都喜欢合理性。
+「你好初次见面穿刺死棘之枪。」
+
+|资料1日文=
+身長／体重：134cm・30kg
+出典：Fate/kaleid liner プリズマ☆イリヤ
+地域：日本・冬木市
+属性：秩序・善　　　性別：女性
+日常においても戦闘においても合理性を好む。
+「こんにちは初めましてゲイ・ボルク」
+
+|资料2条件=
+|资料2=
+从言行中可看出她那与年龄不符的高度智慧，
+但另一方面，她却非常缺乏世间的常识。
+尽管知识丰富，却几乎没有实际体验，
+仿佛是在与世隔绝的环境中长大的。
+
+少女绝对不会提及过去。
+但与某人相似的那双眼瞳中，
+充斥着深深的哀愁、孤独，以及——
+某种神性的残渣。
+
+|资料2日文=
+言動からは年に見合わぬ深い知性が窺えるが、
+一方で世間の常識には極めて疎い。
+知識量の割に実体験はほとんどないらしく、
+まるで俗世から隔絶された環境で育てられたかのよう。
+
+少女は、決して過去を語らない。
+だが誰かに似たその瞳は、
+深い哀しみと孤独と―――
+何らかの神性の名残を湛えていた。
+
+|资料3条件=
+|资料3=
+其真正的身份，是从与伊莉雅所在世界不同的平行世界而来的神之稚儿。
+
+是自天正年代起便在冬木之地扎根的历史悠久的家族，诞生于朔月的女孩生来便拥有无差别实现他人愿望的性质。
+女孩被认定为神稚儿，
+在她年龄到7岁性质消失之前，
+始终被关在结界内避人耳目地抚养长大。
+
+历代朔月们无一例外，
+抛弃私欲，始终纯粹地祈祷着孩子们的幸福。
+身为一个人，身为父母理所当然的行为
+延续了500年的事实，
+才可谓超越神稚儿的奇迹。
+然而——
+
+在当代的神稚儿——美游迎来7岁生日之前，
+遭到发生于冬木市的来路不明『侵蚀事故』的牵连，朔月家土崩瓦解。
+被独自留在残垣断壁中的美游，最终被寻找奇迹的切嗣与士郎保护了起来。
+
+|资料3日文=
+その正体は、イリヤとは異なる平行世界からやってきた神の稚児。
+
+冬木の地で天正から続く旧家、朔月（さかつき）に生まれた女児は、人の願いを無差別に叶える性質を持って生まれる。
+女児は神稚児と見なされ、
+その性質が失われる７歳まで
+結界内で誰の目にも触れぬよう育てられる。
+
+歴代の朔月達はただ一つの例外もなく、
+我欲を捨て、純粋に子の幸せだけを願い続けた。
+人として、親としてごく当たり前のあり方を
+５００年続けられたことこそが、
+神稚児に勝る奇跡であった。
+だが―――。
+
+当代の神稚児、美遊が数えで７歳を迎える直前、
+冬木市に起こった正体不明の『侵食事故』に巻き込まれ、朔月家は崩壊。
+瓦礫の山に一人残された美遊は、奇跡を探していた切嗣と士郎に保護されることとなる。
+
+|资料4条件=
+|资料4=
+愉快型魔术礼装（妹）：A
+奇怪魔术杖中的妹妹。
+和情绪总是很兴奋的姐姐比起来，比较沉着冷静。但或许是处于人工天然精灵的本性吧，喜欢折腾主人、引发滑稽可笑事态的麻烦劲和姐姐几乎没什么差别。
+
+另外，她契约者的装束和比其姐姐的比起来，似乎有比较暴露的倾向。
+
+|资料4日文=
+○愉快型魔術礼装（妹）：Ａ
+ヘンテコステッキの妹の方。
+ハイテンションな姉に比べ、落ち着いていて理性的。が、やはり人工天然精霊の性か、マスターを振り回し、面白おかしい事態を引き起こしてしまうやっかいさは、あんまり変わらないのであった。
+
+なお、契約者のコスチュームはなぜか姉に比べてやや露出が多くなる傾向がある。
+
+|资料5条件=
+|资料5=
+『照耀星天的地之朔月』
+阶级：EX　种类：对人～对界宝具
+
+向星星许愿。
+通过暂时控制神稚儿无差别实现他人愿望的性质，来实现限定的愿望。
+由于这是通过将焦点集中在「想要守护人理」这一御主愿望从而成立的宝具，
+因此信任关系比什么都重要。
+
+她的哥哥曾说过，藏于心中的小小感情，
+不该向月亮，而是向星星许愿。
+汇聚起愿望闪耀光辉的地上之月，
+向着虚空的远方投射光芒。
+
+|资料5日文=
+『星天を照らせ地の朔月』
+ランク：ＥＸ　種別：対人～対界宝具
+
+ほしにねがいを。
+人の願いを無差別に叶えてしまう神稚児の性質を一時的に制御し、限定的に願望を実現させる。
+「人理を守りたい」というマスターの願いのみに
+焦点をあてることで成り立つ宝具であるため、
+何よりも信頼関係が大事となる。
+
+内に秘めたささやかな思いは、
+月ではなく星に願うのだと彼女の兄は言った。
+願いを束ねて輝く地上の月は、
+虚空の彼方に光を投げる。
+
+|资料6条件=
+羁绊达到Lv.5后开放
+
+|资料6=
+她没能作为普通的少女生活。
+只为了实现人们愿望的容器。
+极高的智慧准确地理解了其中包含的意义与内涵，
+甚至到达了自己不过是道具附带的无用人格这一彻悟的境界。
+而拯救了她的，
+则是只想成为美游兄长的士郎。
+
+「愿美游能幸福。」
+
+这是哥哥为妹妹献上的小小祈祷。
+这祈祷，最终以别离的形式得以实现。
+
+少女终于学会了靠自己的双脚站立。
+尽管赤脚触碰到的地面十分冰冷——
+但哥哥的感情超越了世界，
+至今仍在温暖美游的内心。
+
+|资料6日文=
+彼女は、普通の少女としては生きられなかった。
+人の願いを叶えるだけの器。
+高い知性は、その意味と意義を正しく理解し、
+自分は道具に付随した不要な人格でしかないのだ
+という諦観に至る。
+そんな彼女を救ったのは、
+ただただ美遊の兄であろうとした士郎であった。
+
+「美遊が幸せになりますように」
+
+兄から妹へ捧げた、小さな祈り。
+その願いの結果は、
+別離となって実現されることになる。
+
+少女は、ようやく自分の足で立つことを覚えた。
+素足で触れた地面は冷たかったけれど―――
+兄の思いは世界を超えて
+今も美遊の胸を温め続けている。
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=
+魔法从者
+终于光临的第三位魔法少女。无法在空中飞行。惹人怜爱，但总有种背负沉重设定的感觉。似乎感觉到了对伊莉雅强得过分的友情呢。
+
+|日文=
+マジカルサーヴァント
+やっと来てくれた第３の魔法少女。空は飛べない。可憐だがなにか重い設定を抱えてそうな影があるぞ。イリヤに対して行き過ぎた友情を感じているようだ。
+}}
+
+==羁绊点数==
+{{羁绊点数|4000|12000|3000|13000|3000|185000|280000|290000|300000|395000|4}}
+
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|{{PAGENAME}}|yy}}
+{{参阅|{{PAGENAME}}/情人节剧情语音|该从者情人节剧情的语音}}
+{{:{{PAGENAME}}/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=#80CBC4
+|文字颜色=black
+|图标1=美游_icon_1.png
+|图标2=美游_icon_2.png
+|图标3=美游_icon_3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=#80CBC4
+|文字颜色=black
+|模型1=美游_model_1.png
+|模型2=美游_model_2.png
+|模型3=美游_model_3.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+少女的可可三拼（查看源代码）母亲的回忆（查看源代码）美游·艾德费尔特/成长曲线（查看源代码）美游·艾德费尔特/未来Pick Up情况（查看源代码）美游·艾德费尔特/语音（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至美游·艾德费尔特。
+ 
+						取自“http://fgo.wiki/w/美游·艾德费尔特”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+英灵图鉴礼装图鉴指令纹章图鉴游戏数据基础各类信息汇总新人御主Q＆A抽卡模拟器 
+
+
+
+热门
+
+
+国服：冥界的圣诞快乐日服：魔伊联动复刻★5(SSR)埃列什基伽勒★4(SR)美游·艾德费尔特 
+
+
+
+扩展
+
+
+关卡配置活动一览卡池一览道具一览灵衣一览敌人一览技能一览状态一览御主装备音乐鉴赏声优一览画师一览登场人物关卡特性相关数据计算器 
+
+
+
+趣味
+
+
+FGO相关表情包FGO名人录FGO黑话·梗·成句游戏卫星一览趣味游戏 
+
+
+
+常用
+
+
+首页最近更改随机页面SE.RA.PH模板一览编辑指南贡献分数页面短链接如何支持我们收支一览点我反馈 
+
+
+
+工具
+
+
+链入页面相关更改特殊页面页面信息 
+
+
+window.toolbox=document.querySelector("#p-tb ul").innerHTML;var a=document.querySelectorAll("#mw-panel > *");for (var i=0;i<a.length;i++){if(a[i].id!="p-logo"){a[i].parentNode.removeChild(a[i])}}首页
+复制短链接https://fgo.wiki/id/33472
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：『Fate/Requiem』棋盘游戏默示录
+国服：淑女·莱妮丝事件簿
+
+新增从者
+★4(SR) 鬼女红叶(Berserker)
+★5(SSR) 旅行者(Foreigner)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+事件簿联动活动推荐召唤
+
+日服
+FR联动推荐召唤
+FR联动开幕前夕推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+Bigfun社区-FGO版块
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具document.querySelector("#MSToolbox").innerHTML=window.toolbox;childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")};childlist = document.querySelectorAll("#MenuSidebar > ul#MSToolbox > li");for(var i=0;i<childlist.length;i++){if(childlist[i].innerHTML === ""){childlist[i].parentNode.removeChild(childlist[i])}};
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+    var commentStyle = document.createElement("style");
+    commentStyle.type = "text/css";
+    commentStyle.innerHTML = ".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+    commentStyle.id = "addCommentStyle";
+    document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+ 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":138});});
+
+

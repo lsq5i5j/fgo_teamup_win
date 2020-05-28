@@ -1,0 +1,1043 @@
+﻿
+
+
+查看“浅上藤乃”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"浅上藤乃","wgTitle":"浅上藤乃","wgCurRevisionId":287715,"wgRevisionId":0,"wgArticleId":883,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"浅上藤乃","wgRelevantArticleId":883,"wgRequestId":"bccfb315199ffe94dfa5128a","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0lsxqe2",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+ type="text/css"/* 这里放置的CSS将应用于所有皮肤的侧边栏 */
+.skin-vector .mw-body {
+	margin-left: 11em!important;
+	padding: 1.25em 1.5em 1.5em 1.5em!important
+}
+
+.skin-vector #mw-panel {
+	padding-left: 0!important;
+	width: 10.5em!important
+}
+
+div#MenuSidebar {
+	margin-bottom: 5rem;
+	position: absolute;
+	top: 200px;
+	width: 100%
+}
+
+div#MenuSidebar a.external {
+	background: 0;
+	padding-right: auto
+}
+
+div#MenuSidebar>:first-child {
+	margin-top: 0;
+	border-top: 2px solid #f4c430
+}
+
+div#MenuSidebar>:first-child>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul {
+	list-style: none none;
+	width: 100%;
+	margin: 0
+}
+
+div#MenuSidebar ul {
+	position: relative;
+	font-size: .9rem
+}
+
+div#MenuSidebar>ul>li ul {
+	display: block;
+	opacity: 0;
+	pointer-events: none;
+	visibility: hidden;
+	transition: .2s all ease-in-out
+}
+
+div#MenuSidebar>ul ul {
+	list-style: none none;
+	position: absolute;
+	left: 100%;
+	width: 100%;
+	top: 0;
+	margin: 0;
+	z-index: 1;
+	background-color: #333;
+	box-shadow: -1px 2px 10px 0 rgba(0, 0, 0, 0.4), -1px -2px 10px 0 rgba(0, 0, 0, 0.4)
+}
+
+div#MenuSidebar ul li:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>p {
+	padding: 8px 10px;
+	margin: 0;
+	cursor: default;
+	margin-top: 8px
+}
+
+div#MenuSidebar>ul li:hover>ul {
+	display: block;
+	opacity: 1;
+	pointer-events: auto;
+	visibility: visible
+}
+
+div#MenuSidebar li {
+	position: relative;
+	margin: 0;
+	box-shadow: inset 0 1px rgba(244, 196, 48, 0.5);
+	transition: .15s all ease-in;
+	z-index: 1
+}
+
+div#MenuSidebar li b,
+div#MenuSidebar li a {
+	padding: 5px 0;
+	padding-left: 18px;
+	display: block;
+	width: auto;
+	height: 100%;
+	font-weight: normal
+}
+
+div#MenuSidebar a {
+	transition: all .15s ease-in;
+	color: #eaeaea
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	color: #000;
+	background-color: #f4c430;
+	text-decoration: none!important
+}
+
+div#MenuSidebar b {
+	cursor: default
+}
+
+div#MenuSidebar li.child>a::after,
+div#MenuSidebar li.child>b::after {
+	float: right;
+	content: "\f0da";
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	display: inherit;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 100%;
+	font-size: 1rem;
+	padding-top: 2%;
+	margin-right: 3px
+}
+
+div#MenuSidebar a.selflink:hover {
+	background-color: inherit;
+	color: #f4c430
+}
+
+div#MenuSidebar>ul>li:last-child>a,
+div#MenuSidebar>ul>li:last-child>b {
+	border-bottom-right-radius: 5px
+}
+
+div#MenuSidebar a.selflink::before {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	border-top: 6px solid transparent;
+	border-bottom: 6px solid transparent;
+	border-left: 6px solid #f4c430
+}
+
+div#MenuSidebar {
+	background-color: rgba(255, 255, 255, 0);
+	box-shadow: none;
+	top: 170px
+}
+
+div#MenuSidebar>ul {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.16), 0 2px 4px rgba(0, 0, 0, 0.23);
+	border-bottom-right-radius: 4px;
+	margin-top: -1px;
+	margin-bottom: 6px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: inset 0 1px #85c1f7;
+	margin-left: 0
+}
+
+div#MenuSidebar>ul ul {
+	background-color: hsla(0, 0%, 100%, 0.9);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+	border-radius: 4px;
+	width: unset!important;
+	z-index: 2
+}
+
+div#MenuSidebar>ul ul li {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul>li>ul {
+	width: 150%;
+	font-size: 100%
+}
+
+div#MenuSidebar>ul>li>ul ul {
+	font-size: 100%
+}
+
+div#MenuSidebar a,
+div#MenuSidebar b {
+	color: #333;
+	text-decoration: none!important
+}
+
+div#MenuSidebar>p {
+	border-top: 0;
+	border-bottom: 2px solid #4487df;
+	color: #4487df;
+	padding: 8px 10px 6px;
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.16), 0 0 4px rgba(0, 0, 0, 0.23);
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:first-child,
+div#MenuSidebar>:not(p)+ul {
+	border-top: 0;
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:not(p)+ul>:first-child {
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>ul>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul ul a,
+div#MenuSidebar>ul ul b {
+	padding: 5px 18px 5px 10px;
+	white-space: nowrap
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding-left: 18px
+}
+
+div#MenuSidebar li li.child>a::after,
+div#MenuSidebar li li.child>b::after {
+	float: unset;
+	position: absolute;
+	right: 0;
+	bottom: 5px
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	background-color: rgba(205, 235, 252, 0.4)
+}
+
+div#MenuSidebar a.selflink,
+div#MenuSidebar b.selflink {
+	font-weight: normal;
+	color: #333;
+	background-image: linear-gradient(90deg, #4487df 4px, transparent 4px)
+}
+
+div#MenuSidebar a.selflink:hover,
+div#MenuSidebar b.selflink:hover {
+	background-color: inherit;
+	color: #333
+}
+
+.skin-vector #left-navigation,
+.skin-vector #content {
+	margin-left: 10.5em
+}
+
+div#MenuSidebar>ul,
+div#MenuSidebar>p {
+	box-shadow: none;
+	border-radius: 0!important;
+	background-color: unset;
+	margin: 0
+}
+
+div#MenuSidebar>p {
+	font-weight: normal;
+	padding: 8px 10px 3px 10px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: none
+}
+
+div#MenuSidebar>p::after {
+	height: 4px;
+	display: block;
+	width: 100%;
+	position: absolute;
+	bottom: -8px;
+	left: 5px;
+	border-radius: 25px;
+	content: "";
+	background-image: linear-gradient(90deg, #4487df, transparent 95%)
+}
+
+div#MenuSidebar>p {
+	color: #4487df;
+	position: relative;
+	padding-left: 15px!important;
+	margin-top: 0!important;
+	margin-bottom: 8px!important;
+	border: 0!important
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding: 2px 0;
+	padding-left: 8px;
+	margin-top: 2px;
+	margin-left: 10px;
+	margin-right: 0;
+	border-radius: 5px 0 0 5px;
+	transition: .3s all ease;
+	color: #555
+}
+
+div#MenuSidebar>ul>:first-child>a,
+div#MenuSidebar>ul>:first-child>b {
+	margin-top: 5px
+}
+
+div#MenuSidebar>ul>li>a:HOVER,
+div#MenuSidebar>ul>li>b:HOVER {
+	background-color: rgba(34, 170, 255, 0.2);
+	color: black
+}
+
+div#MenuSidebar>ul>li>a.selflink {
+	background-color: rgba(34, 170, 255, 0.2)!important;
+	color: black!important
+}
+
+div#MenuSidebar>ul {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: 0;
+	background-image: none
+}
+
+div#MenuSidebar {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	border-radius: none!important;
+	padding-top: 40px;
+	box-shadow: none!important
+}
+
+div#MenuSidebar>ul>li.child>a::after,
+div#MenuSidebar>ul>li.child>b::after {
+	margin-right: 10px!important;
+	color: inherit!important;
+	padding-top: 1%!important;
+}
+
+div#MenuSidebar>ul>li>ul {
+	top: -4px
+}
+
+a.feedlink {
+	padding-left: 16px!important;
+}
+
+/* 为复制短链接增加一个图标 */
+#MenuSidebar #wgCopyURL-url-copy-sidebar::after {
+  content: "\f0c1";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-size: 70%;
+  margin-left: .4em;
+  color: var(--darkblue);
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“浅上藤乃”的源代码 
+←浅上藤乃
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{review|user=Rafom|time=2019.1.6}}
+==基础数值==
+{{基础数值
+|背景颜色=rgb(83,83,133)
+|文字颜色=rgba(255,255,255,0.8)
+|稀有度=4
+|获取途径=限定
+|序号=200
+|中文名=浅上藤乃
+|日文名=浅上藤乃
+|英文名=Asagami Fujino
+|中文战斗名=浅上藤乃
+|日文战斗名=浅上藤乃
+|中文卡面名=浅上藤乃
+|日文卡面名=浅上藤乃
+|英文卡面名=Asagami Fujino
+|声优=能登麻美子
+|画师=武内崇
+|属性1=秩序
+|属性2=恶
+|性别=女性
+|身高=157cm
+|体重=51kg
+|隐藏属性=人
+|职阶=Archer
+|筋力=E
+|耐久=B
+|敏捷=D
+|魔力=A
+|幸运=C
+|宝具=EX
+|基础ATK=1716
+|基础HP=1764
+|满级ATK=10299
+|满级HP=11025
+|90级ATK=11380
+|90级HP=12191
+|100级ATK=12470
+|100级HP=13368
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.59%
+|A卡np率=0.59%
+|B卡np率=0.59%
+|EX卡np率=0.59%
+|宝具np率=0.59%
+|受击np率=3%
+|Q卡hit数=3
+|A卡hit数=3
+|B卡hit数=3
+|EX卡hit数=5
+|宝具卡hit数=3
+|Q卡伤害分布=16,33,51
+|A卡伤害分布=16,33,51
+|B卡伤害分布=16,33,51
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=16,33,51
+|出星率=7.9%
+|即死率=27.0%
+|暴击权重=148
+|特性1=人科
+|特性2=活在当下的人类
+|人型=是
+|被EA特攻=否
+|昵称=藤乃
+|立绘1=第１阶段
+|文件1=200-浅上藤乃-1-v2
+|立绘2=第２阶段
+|文件2=200-浅上藤乃-2-v2
+|立绘3=第３阶段
+|文件3=200-浅上藤乃-3-v2
+|立绘4=第４阶段
+|文件4=200-浅上藤乃-4
+|立绘5=愚人节
+|文件5=200-浅上藤乃-0
+}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{参阅|音乐鉴赏/宝具背景音乐合集#浅上藤乃|该从者的宝具背景音乐}}
+{{宝具
+|中文名=唯识·歪曲之魔眼
+|国服上标=Yuishiki Waikyoku no Magan
+|日文名=唯識·歪曲の魔眼
+|日服上标=ゆいしき・わいきょくのまがん
+|卡色=Buster
+|类型=单体
+|阶级=EX
+|种类=对界宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=600%|数值A2=800%|数值A3=900%|数值A4=950%|数值A5=1000%
+|效果B=付与强化无效状态(1次·3回合)
+|数值B1=∅
+|效果C=攻击力下降(3回合)<Over Charge时效果提升>
+|数值C1=10%|数值C2=15%|数值C3=20%|数值C4=25%|数值C5=30%
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|红放|歪曲之魔眼 EX|歪曲の魔眼 EX|7
+|自身的Buster指令卡性能提升(3回合)|20%|21.5%|23%|24.5%|26%|27.5%|29%|30.5%|32%|35%
+|付与自身无视防御状态(3回合)|∅|||||||||
+|NP获得量提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|必中|千里眼（暗） C|千里眼（闇） C|7
+|付与自身必中状态(3回合)|∅|||||||||
+|获得暴击星|5|6|7|8|9|10|11|12|13|15
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|加防|痛觉残留 A|痛覚残留 A|7
+|付与自身最大HP减少2000的状态(3回合)【负面效果】|∅|||||||||
+|伤害减免状态(3回合)|1000|1100|1200|1300|1400|1500|1600|1700|1800|2000
+|毅力状态(1次·3回合)|1|||||||||
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|D|自身的弱化状态耐性少量提升(12.5%)|单独行动|单独行动|A+|自身的暴击威力提升(11%)|阵地建造|阵地建造|B|自身的Arts指令卡性能提升(8%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=4
+|0->1={{材料消耗|弓阶银棋|4}}
+|1->2={{材料消耗|弓阶银棋|10}}{{材料消耗|凶骨|18}}
+|2->3={{材料消耗|弓阶金像|4}}{{材料消耗|虚影之尘|16}}{{材料消耗|咒兽胆石|2}}
+|3->4={{材料消耗|弓阶金像|10}}{{材料消耗|咒兽胆石|4}}{{材料消耗|血之泪石|6}}
+|总计={{材料消耗|弓阶银棋|14}}{{材料消耗|弓阶金像|14}}{{材料消耗|虚影之尘|16}}{{材料消耗|凶骨|18}}{{材料消耗|血之泪石|6}}{{材料消耗|咒兽胆石|6}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=4
+|1->2={{材料消耗|弓之辉石|4}}
+|2->3={{材料消耗|弓之辉石|10}}
+|3->4={{材料消耗|弓之魔石|4}}
+|4->5={{材料消耗|弓之魔石|10}}{{材料消耗|虚影之尘|8}}
+|5->6={{材料消耗|弓之秘石|4}}{{材料消耗|虚影之尘|16}}
+|6->7={{材料消耗|弓之秘石|10}}{{材料消耗|凶骨|12}}
+|7->8={{材料消耗|凶骨|24}}{{材料消耗|宵泣之铁桩|15}}
+|8->9={{材料消耗|宵泣之铁桩|45}}{{材料消耗|魔术髓液|60}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|弓之辉石|14}}{{材料消耗|弓之魔石|14}}{{材料消耗|弓之秘石|14}}{{材料消耗|虚影之尘|24}}{{材料消耗|凶骨|36}}{{材料消耗|魔术髓液|60}}{{材料消耗|宵泣之铁桩|60}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|弓阶银棋|14}}{{材料消耗|弓阶金像|14}}{{材料消耗|弓之辉石|42}}{{材料消耗|弓之魔石|42}}{{材料消耗|弓之秘石|42}}{{材料消耗|虚影之尘|88}}{{材料消耗|凶骨|126}}{{材料消耗|魔术髓液|180}}{{材料消耗|宵泣之铁桩|180}}{{材料消耗|血之泪石|6}}{{材料消耗|咒兽胆石|6}}{{材料消耗|传承结晶|3}}
+|稀有度=4
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+在变异特异点·境界式发现的少女。
+
+刻板为特色的女校制服、谦虚有礼的措辞、果断的行动力。这一切明明极为普通，却能感受到些许立场错位的不安定感。是能够无视硬度、构造、规模，扭曲所有映射于视野中存在的“歪曲之魔眼”的持有者。
+浅上这个姓氏古代写作浅神，据说是能与神（异能）沟通的巫女家系。
+
+|详情日文=
+変異特異点・境界式にて発見された少女。
+
+厳格な趣きの女学院の制服、慎み深い言葉づかい、果断すぎる行動力。すべてが日常的でありながら、どこか立ち位置のズレた危うさを感じさせる。
+視界に映るものであれば、硬度・構造・規模を無視してねじ曲げる“歪曲の魔眼”の保持者。
+浅上という名字は古くは浅神と書き、神（異能）に通じる巫女の家系だったという。
+
+|资料1条件=
+|资料1=
+身高／体重：157cm·51kg
+出处：空之境界
+地域：日本
+属性：秩序·恶　　性别：女性
+是个会令人联想到日本人偶的美人。举止略显阴沉，但依然透露着一股清秀感。
+
+|资料1日文=
+身長／体重：157cm・51kg
+出典：空の境界
+地域：日本
+属性：秩序・悪　　性別：女性
+日本人形を思わせる美人。陰のある立ち振る舞いは、しかし、滲むような清楚さがある。
+
+|资料2条件=
+|资料2=
+无痛症——五感中触觉麻痹，生来不知痛觉为何的少女。
+由于不知疼痛，无法对他人感同身受，因此受到人们的孤立。
+自幼就极为聪慧的藤乃为保护自己，隐瞒了自己无痛症的事实，向周围表现出“自己是个普通人类”的样子，同时也欺瞒了自己的内心。
+联动活动『复刻版:空之境界/the Garden of Order -Revival-』的追加从者。在剧情中不会登场。作为客座嘉宾特别参战。
+
+|资料2日文=
+無痛症―――五感のうち触覚が麻痺しており、
+痛覚を知らずに生きてきた少女。
+痛みを知らない為、他人の気持ちに共感する事ができず、人々の輪から孤立していた。
+幼い頃から知性の高かった藤乃は、自分を守るために“自分は普通の人間である”とまわりに知らしめるために無痛症である事を隠し、また、自分の心も偽ってきた。
+コラボイベント『復刻版:空の境界/the Garden of Order -Revival-』の追加サーヴァント。シナリオで登場する事はない。ゲストとしてのスペシャル参戦。
+
+|资料3条件=
+|资料3=
+歪曲之魔眼：EX
+在被称为魔眼的异能中也属于最上级的存在。
+异能中的异能，稀少品中的稀少品。
+无论无机还是有机，所有“作为物质存在的东西”都可被视为一张打印图像，通过扭曲图像，来无视对方的强度、规模进行扭曲与切断。
+
+痛觉残留：A
+分明已治愈，却依然反复的死之痛楚。人类的证明。浅神一族为封印少女的异能，将其触觉封了起来。
+
+单独行动：A+
+并非喜欢孤独，但有下意识独自乱晃的坏习惯。擅长跟踪之类的。魔力耗尽的本人理应非常痛苦，但因为痛觉很迟钝，以至于完全没发现。
+
+|资料3日文=
+○歪曲の魔眼：ＥＸ
+魔眼と呼称される異能の中でも最上級のもの。
+異能の中の異能、希少品の中の希少品。無機・有機問わず、“物質として存在するもの”を一枚のプリント映像として捉え、これをねじる事で対象の強度・規模を問わずに捻り、切断する。
+
+○痛覚残留：Ａ
+完治したというのに繰り返す死の痛み。人間の証明。浅神の一族は少女の異能を封じる為、その触覚を閉じ込めた。
+
+○単独行動：Ａ＋
+孤独を好む訳ではないが、なんとなくひとりでぶらつく悪癖がある。尾行とか得意。魔力切れを起こして本人はとても辛い筈なのだが、痛覚が薄いため気付いていない。
+
+|资料4条件=
+|资料4=
+『唯识·歪曲之魔眼』
+阶级：EX　种类：对界宝具　有效范围：1～9999
+Yuishiki Waikyoku no Magan
+于夏日降临的怀念之物。
+通过与千里眼（Clairvoyance）并发，从而脱离人类视野的视野——
+把从神之俯瞰视角进行“确认”对象进行扭曲的超远距离物理崩溃。
+
+被封锁的痛苦决堤而出画着螺旋。
+——这种崩溃犹如痛哭的女人。
+
+|资料4日文=
+『唯識・歪曲の魔眼』
+ランク：ＥＸ　種別：対界宝具　レンジ：１～9999
+ゆいしき・わいきょくのまがん。
+夏に降る懐（なつかし）の。
+千里眼（クレアボイアンス）を併発した事により、人間の視界から外れた視界―――
+神の視点である俯瞰の視点から対象を“視認”し、ねじ曲げる超遠距離物理崩壊。
+
+封鎖されていた痛みは堰を切って螺旋を描く。
+―――その崩落は泣き崩れる女のように。
+
+|资料5条件=
+|资料5=
+不到二十岁的少女。性格温和内向。
+是贤妻良母型谦和的女性形象。
+尽管不喜欢男性暴力的一面，但同时认为这种孩子气非常可爱。
+因此，对完全理性的人怀有一种异于爱情的憧憬（恋慕的情感）。
+
+是个注重常识，尊重对手的才女，但本质却是个彻头彻尾的悲观主义者与现实主义者，所以有时也会说出毫不留情的意见。忍耐力很强，可一旦失去控制，在将对手逼入绝路前（事态解决为止）决不会收手，犹如失控的货运卡车。
+在这方面，和判断不留情面的式很相似。
+
+行为、语气、性格都很女性化，但爱好却和少女相去甚远。喜欢观看恐怖电影等可以独自偷偷享受的阴暗的东西。
+本人到最后都没有意识到，但她具备潜在的嗜虐性质。之所以一旦被逼入绝境，就会变得残酷、冷酷、恶趣味就是因为这个原因。
+
+|资料5日文=
+十代後半の少女。温和で受け身な性格。
+夫の影踏まずタイプの控えめな女性像。
+男性の暴力的なところは苦手だが、同時にそんな子供らしい一面を愛らしいとも思っている。
+なので、完全な理性の人に対しては愛情より憧れ（恋の感情）を抱くようだ。
+
+常識を重んじ相手を立てる才女だが、根底は徹底した悲観主義者かつリアリストなので時に辛辣な意見を口にする事も。忍耐強いが、一度たがが外れると相手を追い詰めるまで（事態を解決するまで）止まらない、暴走ダンプカーでもある。
+このあたり、決断に容赦のない式と似ている。
+
+女性的な仕草、口調、性格ではあるが、趣味は少女趣味からかけ離れたもの。ホラー映画鑑賞など、ひとりでこっそりと楽しむ暗いものを好む。
+本人は最期まで自覚する事はないが、潜在的な加虐性質。追い詰められると途端に残酷・冷酷・悪趣味になるのはこのため。
+
+|资料6条件=
+羁绊达到Lv.5后开放
+
+|资料6=
+藤乃所在的时代由于人理烧却化为了灰烬。
+她也同样被烧尽了，但世界的抑止力却没有放过她的特异性。
+阿赖耶识采用她的异能作为颠覆人理烧却的战力之一，她才会作为暂定从者被召唤到了迦勒底。
+对她来说，现在的自己不过是个『梦』。
+和式一样，见证了燃尽前的景象，倘若无法颠覆人理烧却，就会消失的一夜幻梦。
+一般的感性下或许早就混乱，并陷入恐慌了，但藤乃淡然地接受了这样的异常。
+她明确理解作为从者被召唤而来的自己的立场，并在自己力所能及范围内努力帮助御主。
+
+|资料6日文=
+藤乃のいた時代は人理焼却によって灰になった。
+彼女も同様に燃え尽きたが、その特異性を世界の抑止力は見逃さなかった。
+アラヤ識は人理焼却を覆す為の戦力の一つとして彼女の異能を採用し、彼女は仮初めのサーヴァントとしてカルデアに召喚される事になった。
+彼女にとって今の自分は『夢』にすぎない。
+式同様、燃え尽きる直前に見ている、人理焼却を覆さなければ消えるだけの一夜の幻だ。
+普通の感性なら混乱し、パニックに陥るところだが、藤乃はこの異常をすんなりと受け入れた。
+サーヴァントとして呼ばれた自分の立場をきっちりと理解し、自分にできる範囲でマスターの力になろうと努めるだろう。
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=
+魔眼从者
+有着与漂亮的面容不相称的强大魔眼的，很有教养的大小姐。有点吓人。像是在初始的街道附近也会进行复仇的隐藏BOSS一样的存在。 虽然一直很痛苦地捂着肚子，但因为只是姿势而已所以请不用在意。
+
+|日文=
+まがんサーヴァント
+顔に似合わずとても強力な魔眼を持つ育ちのいいお嬢様。ちょっと怖い。始まりの街付近でもエンカウントしてしまう隠しボスのようなもの。いつも辛そうにお腹をおさえているがあくまでポーズなので気にしなくていいぞ。
+}}
+
+==羁绊点数==
+{{羁绊点数|3000|6125|6125|6125|6125|262500|290000|300500|309500|315000|4}}
+
+==相关礼装==
+{{参阅|浅上藤乃/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|浅上藤乃|yy}}
+{{参阅|浅上藤乃/情人节剧情语音|该从者情人节剧情的语音}}
+{{:浅上藤乃/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=浅上藤乃初始头像.png
+|图标2=浅上藤乃一破头像.png
+|图标3=浅上藤乃满破头像.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=浅上藤乃初始模型.png
+|模型2=浅上藤乃一破模型.png
+|模型3=浅上藤乃满破模型.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+夏雨（查看源代码）浅上藤乃/成长曲线（查看源代码）浅上藤乃/未来Pick Up情况（查看源代码）浅上藤乃/语音（查看源代码）雨中大桥（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至浅上藤乃。
+ 
+						取自“http://fgo.wiki/w/浅上藤乃”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+英灵图鉴礼装图鉴指令纹章图鉴游戏数据基础各类信息汇总新人御主Q＆A抽卡模拟器 
+
+
+
+热门
+
+
+国服：冥界的圣诞快乐日服：魔伊联动复刻★5(SSR)埃列什基伽勒★4(SR)美游·艾德费尔特 
+
+
+
+扩展
+
+
+关卡配置活动一览卡池一览道具一览灵衣一览敌人一览技能一览状态一览御主装备音乐鉴赏声优一览画师一览登场人物关卡特性相关数据计算器 
+
+
+
+趣味
+
+
+FGO相关表情包FGO名人录FGO黑话·梗·成句游戏卫星一览趣味游戏 
+
+
+
+常用
+
+
+首页最近更改随机页面SE.RA.PH模板一览编辑指南贡献分数页面短链接如何支持我们收支一览点我反馈 
+
+
+
+工具
+
+
+链入页面相关更改特殊页面页面信息 
+
+
+window.toolbox=document.querySelector("#p-tb ul").innerHTML;var a=document.querySelectorAll("#mw-panel > *");for (var i=0;i<a.length;i++){if(a[i].id!="p-logo"){a[i].parentNode.removeChild(a[i])}}首页
+复制短链接https://fgo.wiki/id/883
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：『Fate/Requiem』棋盘游戏默示录
+国服：淑女·莱妮丝事件簿
+
+新增从者
+★4(SR) 鬼女红叶(Berserker)
+★5(SSR) 旅行者(Foreigner)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+事件簿联动活动推荐召唤
+
+日服
+FR联动推荐召唤
+FR联动开幕前夕推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+Bigfun社区-FGO版块
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具document.querySelector("#MSToolbox").innerHTML=window.toolbox;childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")};childlist = document.querySelectorAll("#MenuSidebar > ul#MSToolbox > li");for(var i=0;i<childlist.length;i++){if(childlist[i].innerHTML === ""){childlist[i].parentNode.removeChild(childlist[i])}};
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+    var commentStyle = document.createElement("style");
+    commentStyle.type = "text/css";
+    commentStyle.innerHTML = ".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+    commentStyle.id = "addCommentStyle";
+    document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+ 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124});});
+
+

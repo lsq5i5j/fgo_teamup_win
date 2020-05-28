@@ -1,0 +1,278 @@
+﻿
+
+
+查看“不夜城的Caster/成长曲线”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"不夜城的Caster/成长曲线","wgTitle":"不夜城的Caster/成长曲线","wgCurRevisionId":50548,"wgRevisionId":0,"wgArticleId":17725,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"不夜城的Caster/成长曲线","wgRelevantArticleId":17725,"wgRequestId":"4226bf228ee29434acfd7820","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“不夜城的Caster/成长曲线”的源代码 
+←不夜城的Caster/成长曲线
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{成长曲线|数据=
+{"lv": 1, "HP": 2324, "ATK": 1423},{"lv": 2, "HP": 2391, "ATK": 1461},{"lv": 3, "HP": 2472, "ATK": 1508},{"lv": 4, "HP": 2567, "ATK": 1563},{"lv": 5, "HP": 2648, "ATK": 1609},{"lv": 6, "HP": 2743, "ATK": 1664},{"lv": 7, "HP": 2851, "ATK": 1726},{"lv": 8, "HP": 2946, "ATK": 1781},{"lv": 9, "HP": 3054, "ATK": 1843},{"lv": 10, "HP": 3175, "ATK": 1913},{"lv": 11, "HP": 3284, "ATK": 1976},{"lv": 12, "HP": 3405, "ATK": 2046},{"lv": 13, "HP": 3527, "ATK": 2116},{"lv": 14, "HP": 3649, "ATK": 2186},{"lv": 15, "HP": 3784, "ATK": 2264},{"lv": 16, "HP": 3919, "ATK": 2342},{"lv": 17, "HP": 4054, "ATK": 2419},{"lv": 18, "HP": 4203, "ATK": 2505},{"lv": 19, "HP": 4338, "ATK": 2583},{"lv": 20, "HP": 4487, "ATK": 2669},{"lv": 21, "HP": 4649, "ATK": 2762},{"lv": 22, "HP": 4798, "ATK": 2848},{"lv": 23, "HP": 4960, "ATK": 2941},{"lv": 24, "HP": 5123, "ATK": 3035},{"lv": 25, "HP": 5285, "ATK": 3128},{"lv": 26, "HP": 5447, "ATK": 3222},{"lv": 27, "HP": 5623, "ATK": 3323},{"lv": 28, "HP": 5785, "ATK": 3416},{"lv": 29, "HP": 5961, "ATK": 3518},{"lv": 30, "HP": 6137, "ATK": 3619},{"lv": 31, "HP": 6326, "ATK": 3728},{"lv": 32, "HP": 6502, "ATK": 3829},{"lv": 33, "HP": 6691, "ATK": 3938},{"lv": 34, "HP": 6867, "ATK": 4040},{"lv": 35, "HP": 7056, "ATK": 4149},{"lv": 36, "HP": 7246, "ATK": 4258},{"lv": 37, "HP": 7435, "ATK": 4367},{"lv": 38, "HP": 7624, "ATK": 4476},{"lv": 39, "HP": 7813, "ATK": 4585},{"lv": 40, "HP": 8003, "ATK": 4694},{"lv": 41, "HP": 8206, "ATK": 4811},{"lv": 42, "HP": 8395, "ATK": 4920},{"lv": 43, "HP": 8584, "ATK": 5029},{"lv": 44, "HP": 8787, "ATK": 5146},{"lv": 45, "HP": 8976, "ATK": 5255},{"lv": 46, "HP": 9179, "ATK": 5372},{"lv": 47, "HP": 9368, "ATK": 5481},{"lv": 48, "HP": 9571, "ATK": 5597},{"lv": 49, "HP": 9761, "ATK": 5706},{"lv": 50, "HP": 9950, "ATK": 5815},{"lv": 51, "HP": 10153, "ATK": 5932},{"lv": 52, "HP": 10342, "ATK": 6041},{"lv": 53, "HP": 10531, "ATK": 6150},{"lv": 54, "HP": 10721, "ATK": 6259},{"lv": 55, "HP": 10910, "ATK": 6369},{"lv": 56, "HP": 11099, "ATK": 6478},{"lv": 57, "HP": 11289, "ATK": 6587},{"lv": 58, "HP": 11464, "ATK": 6688},{"lv": 59, "HP": 11654, "ATK": 6797},{"lv": 60, "HP": 11829, "ATK": 6898},{"lv": 61, "HP": 12019, "ATK": 7007},{"lv": 62, "HP": 12195, "ATK": 7108},{"lv": 63, "HP": 12370, "ATK": 7210},{"lv": 64, "HP": 12533, "ATK": 7303},{"lv": 65, "HP": 12708, "ATK": 7404},{"lv": 66, "HP": 12871, "ATK": 7498},{"lv": 67, "HP": 13033, "ATK": 7591},{"lv": 68, "HP": 13195, "ATK": 7685},{"lv": 69, "HP": 13357, "ATK": 7778},{"lv": 70, "HP": 13506, "ATK": 7864},{"lv": 71, "HP": 13668, "ATK": 7957},{"lv": 72, "HP": 13817, "ATK": 8043},{"lv": 73, "HP": 13952, "ATK": 8121},{"lv": 74, "HP": 14101, "ATK": 8207},{"lv": 75, "HP": 14236, "ATK": 8285},{"lv": 76, "HP": 14372, "ATK": 8362},{"lv": 77, "HP": 14507, "ATK": 8440},{"lv": 78, "HP": 14629, "ATK": 8510},{"lv": 79, "HP": 14750, "ATK": 8581},{"lv": 80, "HP": 14872, "ATK": 8651},{"lv": 81, "HP": 14980, "ATK": 8713},{"lv": 82, "HP": 15102, "ATK": 8783},{"lv": 83, "HP": 15210, "ATK": 8845},{"lv": 84, "HP": 15305, "ATK": 8900},{"lv": 85, "HP": 15413, "ATK": 8962},{"lv": 86, "HP": 15507, "ATK": 9017},{"lv": 87, "HP": 15589, "ATK": 9064},{"lv": 88, "HP": 15683, "ATK": 9118},{"lv": 89, "HP": 15764, "ATK": 9165},{"lv": 90, "HP": 15846, "ATK": 9212},{"lv": 91, "HP": 15994, "ATK": 9297},{"lv": 92, "HP": 16143, "ATK": 9383},{"lv": 93, "HP": 16292, "ATK": 9469},{"lv": 94, "HP": 16440, "ATK": 9554},{"lv": 95, "HP": 16603, "ATK": 9648},{"lv": 96, "HP": 16751, "ATK": 9733},{"lv": 97, "HP": 16900, "ATK": 9819},{"lv": 98, "HP": 17049, "ATK": 9905},{"lv": 99, "HP": 17211, "ATK": 9998},{"lv": 100, "HP": 17360, "ATK": 10084}
+}}
+该页面使用的模板：
+
+模板:成长曲线（查看源代码）返回至不夜城的Caster/成长曲线。
+ 
+						取自“http://fgo.wiki/w/不夜城的Caster/成长曲线”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%9A%84Caster\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%9A%84Caster\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%9A%84Caster\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/17725
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89});});
+
+

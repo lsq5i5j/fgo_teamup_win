@@ -1,0 +1,657 @@
+﻿
+
+
+查看“不夜城的Assassin”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"不夜城的Assassin","wgTitle":"不夜城的Assassin","wgCurRevisionId":279694,"wgRevisionId":0,"wgArticleId":3574,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"不夜城的Assassin","wgRelevantArticleId":3574,"wgRequestId":"61b16f1eba73d6271046879f","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“不夜城的Assassin”的源代码 
+←不夜城的Assassin
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{review|user=vk950313|time=2018.7.9}}
+
+==基础数值==
+{{基础数值
+|背景颜色=#deccff
+|稀有度=4
+|获取途径=常驻
+|序号=170
+|中文名=武则天
+|日文名=武則天
+|英文名=Wu Zetian
+|中文战斗名=武则天
+|日文战斗名=武則天
+|中文卡面名={{黑幕|武则天}}
+|日文卡面名={{黑幕|武則天}}
+|英文卡面名={{黑幕|Wu Zetian}}
+|真名解放=yes
+|声优=井泽诗织
+|画师=原田雄一
+|属性1=秩序
+|属性2=恶
+|性别=女性
+|身高=138cm
+|体重=35kg
+|隐藏属性=人
+|职阶=Assassin
+|筋力=D
+|耐久=E
+|敏捷=A
+|魔力=B
+|幸运=A
+|宝具=B
+|基础ATK=1496
+|基础HP=1750
+|满级ATK=8981
+|满级HP=10942
+|90级ATK=9924
+|90级HP=12100
+|100级ATK=10874
+|100级HP=13267
+|第一张卡=Quick
+|第二张卡=Quick
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.87%
+|A卡np率=0.87%
+|B卡np率=0.87%
+|EX卡np率=0.87%
+|宝具np率=0.87%
+|受击np率=4%
+|Q卡hit数=3
+|A卡hit数=3
+|B卡hit数=3
+|EX卡hit数=3
+|宝具卡hit数=4
+|Q卡伤害分布=16,33,51
+|A卡伤害分布=16,33,51
+|B卡伤害分布=16,33,51
+|EX卡伤害分布=16,33,51
+|宝具卡伤害分布=10,20,30,40
+|出星率=25.5%
+|即死率=38.5%
+|暴击权重=102
+|特性1=王
+|特性2=人科
+|人型=是
+|被EA特攻=是
+|昵称= 
+|立绘1=第１阶段
+|文件1=武则天卡面1
+|立绘2=第２阶段
+|文件2=武则天卡面2
+|立绘3=第３阶段
+|文件3=武则天卡面3
+|立绘4=第４阶段
+|文件4=武则天卡面4
+|立绘5=愚人节
+|文件5=武则天愚人节}}
+注：通关[[亚种特异点Ⅱ 传承地底世界 雅戈泰/关卡配置#第8节|亚种特异点Ⅱ 雅戈泰 第8节 光辉的要塞都市]]后真名判明。
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+<tabber>
+真名解放前={{宝具
+|中文名=？？？
+|国服上标=
+|日文名=？？？
+|日服上标=
+|卡色=Quick
+|类型=单体
+|阶级=？
+|种类=？
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=1200%|数值A2=1600%|数值A3=1800%|数值A4=1900%|数值A5=2000%
+|效果B=付与毒状态(3回合)
+|数值B1=1000
+|效果C=自身暴击威力提升(3回合)<Over Charge时效果提升>
+|数值C1=50%|数值C2=62.5%|数值C3=75%|数值C4=87.5%|数值C5=100%
+}}
+|-|
+真名解放后=通关[[亚种特异点Ⅱ 传承地底世界 雅戈泰/关卡配置#第8节|亚种特异点Ⅱ 雅戈泰 第8节 光辉的要塞都市]]后真名解放。
+{{宝具
+|中文名=告密罗织经
+|国服上标=Kokumitsu Rashokukei
+|日文名=告密羅織経
+|日服上标=こくみつらしょくけい
+|卡色=Quick
+|类型=单体
+|阶级=B
+|种类=对人宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=1200%|数值A2=1600%|数值A3=1800%|数值A4=1900%|数值A5=2000%
+|效果B=付与毒状态(3回合)
+|数值B1=1000
+|效果C=自身暴击威力提升(3回合)<Over Charge时效果提升>
+|数值C1=50%|数值C2=62.5%|数值C3=75%|数值C4=87.5%|数值C5=100%
+}}
+|-|
+真名解放、强化后=通关「[[不夜城的Assassin/从者任务#幕间物语2|女帝＋]]」后强化。<br>''（开放条件：通关亚种特异点Ⅱ，灵基再临达到第3阶段，羁绊等级达到Lv.5。需通关「[[不夜城的Assassin/从者任务#幕间物语1|女帝VS]]」。开放时间：[[幕间物语活动 第9弹]]。）''
+{{宝具
+|中文名=告密罗织经
+|国服上标=Kokumitsu Rashokukei
+|日文名=告密羅織経
+|日服上标=こくみつらしょくけい
+|卡色=Quick
+|类型=单体
+|阶级=B+
+|种类=对人宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=1600%|数值A2=2000%|数值A3=2200%|数值A4=2300%|数值A5=2400%
+|效果B=强化状态解除
+|数值B1=∅
+|效果C=付与毒状态(3回合)
+|数值C1=1000
+|效果D=自身暴击威力提升(3回合)<Over Charge时效果提升>
+|数值D1=50%|数值D2=62.5%|数值D3=75%|数值D4=87.5%|数值D5=100%
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|降防|拷问技术 A|拷問技術 A|7
+|敌方单体的防御力下降(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|回血|皇帝特权 B|皇帝特権 B|7
+|付与自身各种随机效果|∅|||||||||
+|60%概率自身攻击力提升(3回合)|18%|20%|22%|24%|26%|28%|30%|32%|34%|38%
+|60%概率自身防御力提升(3回合)|18%|20%|22%|24%|26%|28%|30%|32%|34%|38%
+|HP回复|800|1000|1200|1400|1600|1800|2000|2200|2400|2800
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|加攻|女帝的魅力 A|女帝のカリスマ A|7
+|己方全体的攻击力提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+|除自身以外的己方全体Quick指令卡性能提升(3回合)|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+
+===职阶技能===
+{{职阶技能|气息遮断|气息遮断|D|自身的暴击星掉落率少量提升(4%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=4
+|0->1={{材料消耗|杀阶银棋|4}}
+|1->2={{材料消耗|杀阶银棋|10}}{{材料消耗|万死的毒针|15}}
+|2->3={{材料消耗|杀阶金像|4}}{{材料消耗|愚者之锁|24}}{{材料消耗|黑兽脂|3}}
+|3->4={{材料消耗|杀阶金像|10}}{{材料消耗|黑兽脂|5}}{{材料消耗|咒兽胆石|4}}
+|总计={{材料消耗|杀阶银棋|14}}{{材料消耗|杀阶金像|14}}{{材料消耗|愚者之锁|24}}{{材料消耗|万死的毒针|15}}{{材料消耗|黑兽脂|8}}{{材料消耗|咒兽胆石|4}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=4
+|1->2={{材料消耗|杀之辉石|4}}
+|2->3={{材料消耗|杀之辉石|10}}
+|3->4={{材料消耗|杀之魔石|4}}
+|4->5={{材料消耗|杀之魔石|10}}{{材料消耗|愚者之锁|12}}
+|5->6={{材料消耗|杀之秘石|4}}{{材料消耗|愚者之锁|24}}
+|6->7={{材料消耗|杀之秘石|10}}{{材料消耗|万死的毒针|10}}
+|7->8={{材料消耗|万死的毒针|20}}{{材料消耗|奇奇神酒|2}}
+|8->9={{材料消耗|奇奇神酒|6}}{{材料消耗|魔术髓液|60}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|杀之辉石|14}}{{材料消耗|杀之魔石|14}}{{材料消耗|杀之秘石|14}}{{材料消耗|愚者之锁|36}}{{材料消耗|万死的毒针|30}}{{材料消耗|魔术髓液|60}}{{材料消耗|奇奇神酒|8}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|杀阶银棋|14}}{{材料消耗|杀阶金像|14}}{{材料消耗|杀之辉石|42}}{{材料消耗|杀之魔石|42}}{{材料消耗|杀之秘石|42}}{{材料消耗|愚者之锁|132}}{{材料消耗|万死的毒针|105}}{{材料消耗|魔术髓液|180}}{{材料消耗|黑兽脂|8}}{{材料消耗|咒兽胆石|4}}{{材料消耗|奇奇神酒|24}}{{材料消耗|传承结晶|3}}
+|稀有度=4
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+对他人的态度骄傲自大，举动极端任性妄为。
+彻头彻尾喜欢豪华铺张的童女。
+
+「唔呵呵～，朕当然应该比任何人都要奢华闪耀吧～？　……这个暂且不论，不准你放肆地称呼朕为童女。
+你这蠢货！」
+
+|详情日文=
+人への態度は傲岸不遜、振る舞いは得手勝手の限り。根本的に派手好きな童女。
+
+「くっふっふー、妾が誰よりもごーじゃすでぴかぴかなのは当然であろうー？　……それはそれとして、妾を気安く童女呼ばわりとは。おっろかものーぅ！」
+
+|资料1条件=
+真名解放 且 羁绊达到Lv.1后开放
+
+|资料1=
+身高／体重：138cm·35kg
+出处：史实
+地域：中国
+属性：秩序·恶　　性别：女性
+优先顺口的话，自称「武则天」。
+这是基于死后谥号「则天大圣皇后」而来的。
+她本人则好像喜欢登上皇位时的尊号「圣神皇帝」。
+
+|资料1日文=
+身長／体重：138cm・35kg
+出典：史実
+地域：中国
+属性：秩序・悪　　性別：女性
+通りの良さを優先して「武則天」と名乗っている。
+それは死後の諡「則天大聖皇后」に基づくもの。
+彼女自身としては、初めて帝位についた際の「聖神皇帝」の肩書きがお気に入りのようだ。
+
+|资料2条件=
+真名解放 且 羁绊达到Lv.2后开放
+
+|资料2=
+中国史上唯一的女帝。
+起初是唐朝第二代皇帝太宗后宫中的妃子之一，
+但与太宗儿子高宗私通，在太宗死后成了高宗的妃子。
+而武氏虽然生下了高宗的孩子——
+那幼小的生命之火在嗷嗷待哺的婴儿时期就熄灭了。
+
+|资料2日文=
+中国史上唯一の女帝。
+はじめは唐の二代皇帝太宗の後宮、妾の一人であったが、太宗の息子高宗と通じ、太宗の死後高宗の妾にもなる。そして武氏は高宗の子を産むが――
+その小さな命の火はほんの乳飲み子のうちに消えた。
+
+|资料3条件=
+真名解放 且 羁绊达到Lv.3后开放
+
+|资料3=
+据说武氏指认王皇后为杀害自己孩子的犯人，
+并让她与宠妃萧氏失势，自己坐上了高宗皇后的宝座。
+据说当时，武氏斩下了两人的手足，并扔进酒缸中处刑。
+由于一连串的事，甚至有人猜测或许正是武氏杀了自己的孩子，并将罪名嫁祸给皇后——
+但真相不得而知。
+
+|资料3日文=
+武氏はその子を殺した犯人として王皇后を追及し、寵姫・簫氏とともに失脚させ、自らが高宗の皇后の座についたと言われている。
+その際、武氏は二人の手足を切り取ったうえで酒壺に投げ込み処刑したとか。
+この流れから、武氏が自ら子を殺して皇后に罪をなすりつけたのではないかと考える者もいたが――
+真実は、定かではない。
+
+|资料4条件=
+真名解放 且 羁绊达到Lv.4后开放
+
+|资料4=
+成为了皇后，掌握了实权的她
+陆续杀害（暗杀）了碍事的亲人与政敌。
+高宗死后，将国号易为「周」。
+终于自己登上了皇帝的宝座，自称「圣神皇帝」。
+据说她在统治国家的时候，奖励密告，施行恐怖政治。
+名为「酷吏」的官吏实施的残忍拷问
+令民众由衷感到恐惧——
+
+|资料4日文=
+皇后として実権を握った彼女は、邪魔な親族・政敵を次々と殺害（暗殺）。
+高宗の死後、国号を「周」と変え。ついに自ら帝位につき、「聖神皇帝」を名乗ることになる。
+彼女は国を治めるにあたり、密告を奨励する恐怖政治を敷いた。「酷吏」と呼ばれる役人達による残虐な拷問を、民草は心から恐れたという――
+
+|资料5条件=
+真名解放 且 羁绊达到Lv.5后开放
+
+|资料5=
+『告密罗织经』
+阶级：B　种类：对人宝具
+Kokumitsu Rashokukei
+据说告密罗织经是在她统治的时代著作而成的
+酷吏（拷问官）们的指导书。也就是如何罗织罪名，
+造就罪人的拷问与审问的学习手册。
+
+这宝具等同于「她能自由创造罪人」这一国家法则的
+体现。也就是说，当她展开这宝具的时候，
+她将成为任何人的「拷问的实施者」，
+而对手则不由分说地成为「被拷问之人」。
+
+原本应该能用多种多样的拷问方法处罚不守规矩的人，
+但最近，她将过去用于陷害政敌的酒缸与毒进行了
+拷问向的改造，并经常使用。
+
+|资料5日文=
+『告密羅織経』
+ランク：Ｂ　種別：対人宝具
+こくみつらしょくけい。
+告密羅織経とは、彼女の統治時代に記されたと言われる、酷吏（拷問官）達の指導書。言わば罪人を作り上げるための、拷問と尋問のハウツー本であった。
+
+この宝具は「彼女は自由に罪人を生み出せる」という国家的法則の体現に等しい。すなわち、彼女がこの宝具を展開したとき、彼女は誰に対しても「拷問するもの」となり、相対するものは問答無用で「拷問されるもの」となる。
+
+本来ならば多種多様の拷問方法で不届き者を罰する事ができるのだが、最近は、かつて政敵を害した酒壺と毒を拷問用にアレンジしたものをよく使っているようだ。
+
+|资料6条件=
+[[亚种特异点Ⅱ 传承地底世界 雅戈泰/关卡配置|亚种特异点Ⅱ]]通关 且 羁绊Lv.5后开放
+
+|资料6=
+出人意料的是武则天相当迷信。
+虽然她喜欢变更年号、称号或是城市的名字，但这么做
+不仅是因为她喜欢新事物，同样是因为为了好彩头。
+此外，据说她相信了被自己杀害的萧氏死去时喊出的
+「愿阿武为老鼠，吾作猫儿，生生扼其喉」这一诅咒，
+从此以后，宫中严禁饲养猫。
+再加上还有人说因为她害怕出现幽灵，
+甚至将国家的首都从长安迁至洛阳——
+
+「啊……喂！　别在这种地方偷偷记录朕的弱点，
+太卑鄙了，不对，这内容本身就是假的，
+朕根本就不怕什么猫或是幽灵啊，
+哎，总之必须好好惩罚！」
+
+|资料6日文=
+武則天は意外にも迷信深かった。
+元号や称号、街の名前などを変更するのを好んだが、それは新しいもの好きであると同時に縁起を担ぐ意味もあった。
+また彼女は自身が殺した簫氏が死の間際に発した「貴様は鼠に生まれ変わる。私は猫となって貴様を噛み殺すだろう」という呪いを信じ、以後、宮中で猫を飼う事を固く禁じたという。
+さらには幽霊が出る事に怯え、国家の拠点を長安から洛陽に移したとも―――
+
+「こ、こらーっ！　このようなところでコッソリ妾の弱点を記そうとは卑怯な、いや、その内容はウソなのであって別に猫や幽霊が怖いわけではないのだが、
+ええいとにかくオシオキじゃー！」
+
+}}
+
+===愚人节===
+{{愚人节资料
+|中文=
+
+
+|日文=
+こうていサーヴァント
+拷問と処刑と密告が大好きな皇帝幼女。一人称が妾で自分では一人前のつもりで実はスキが多く尊大だが意外とちょろい等、百点満点のパーフェクトのじゃロリ娘。
+}}
+
+==羁绊点数==
+{{羁绊点数|2000|3000|4000|5000|6000|210000|230000|270000|350000|400000|4}}
+
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|不夜城的Assassin|yy}}
+{{参阅|不夜城的Assassin/情人节剧情语音|该从者情人节剧情的语音}}
+{{:不夜城的Assassin/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|图标1=武则天初始头像.png
+|图标2=武则天一破头像.png
+|图标3=武则天三破头像.png
+}}
+===战斗形象===
+{{战斗形象
+|模型1=武则天初始模型.png
+|模型2=武则天一破模型.png
+|模型3=武则天三破模型.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+不夜城的Assassin/成长曲线（查看源代码）不夜城的Assassin/未来Pick Up情况（查看源代码）不夜城的Assassin/语音（查看源代码）洛阳的宫殿（查看源代码）高贵的壶巧克力（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:未来Pick Up2情况（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至不夜城的Assassin。
+ 
+						取自“http://fgo.wiki/w/不夜城的Assassin”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%9A%84Assassin","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%9A%84Assassin","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%9A%84Assassin&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/3574
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":141});});
+
+

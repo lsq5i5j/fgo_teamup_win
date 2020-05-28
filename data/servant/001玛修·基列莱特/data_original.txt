@@ -1,0 +1,1299 @@
+﻿
+
+
+查看“玛修·基列莱特”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"玛修·基列莱特","wgTitle":"玛修·基列莱特","wgCurRevisionId":287703,"wgRevisionId":0,"wgArticleId":190,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"玛修·基列莱特","wgRelevantArticleId":190,"wgRequestId":"577dd318c188694d149dfe48","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0lsxqe2",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+ type="text/css"/* 这里放置的CSS将应用于所有皮肤的侧边栏 */
+.skin-vector .mw-body {
+	margin-left: 11em!important;
+	padding: 1.25em 1.5em 1.5em 1.5em!important
+}
+
+.skin-vector #mw-panel {
+	padding-left: 0!important;
+	width: 10.5em!important
+}
+
+div#MenuSidebar {
+	margin-bottom: 5rem;
+	position: absolute;
+	top: 200px;
+	width: 100%
+}
+
+div#MenuSidebar a.external {
+	background: 0;
+	padding-right: auto
+}
+
+div#MenuSidebar>:first-child {
+	margin-top: 0;
+	border-top: 2px solid #f4c430
+}
+
+div#MenuSidebar>:first-child>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul {
+	list-style: none none;
+	width: 100%;
+	margin: 0
+}
+
+div#MenuSidebar ul {
+	position: relative;
+	font-size: .9rem
+}
+
+div#MenuSidebar>ul>li ul {
+	display: block;
+	opacity: 0;
+	pointer-events: none;
+	visibility: hidden;
+	transition: .2s all ease-in-out
+}
+
+div#MenuSidebar>ul ul {
+	list-style: none none;
+	position: absolute;
+	left: 100%;
+	width: 100%;
+	top: 0;
+	margin: 0;
+	z-index: 1;
+	background-color: #333;
+	box-shadow: -1px 2px 10px 0 rgba(0, 0, 0, 0.4), -1px -2px 10px 0 rgba(0, 0, 0, 0.4)
+}
+
+div#MenuSidebar ul li:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>p {
+	padding: 8px 10px;
+	margin: 0;
+	cursor: default;
+	margin-top: 8px
+}
+
+div#MenuSidebar>ul li:hover>ul {
+	display: block;
+	opacity: 1;
+	pointer-events: auto;
+	visibility: visible
+}
+
+div#MenuSidebar li {
+	position: relative;
+	margin: 0;
+	box-shadow: inset 0 1px rgba(244, 196, 48, 0.5);
+	transition: .15s all ease-in;
+	z-index: 1
+}
+
+div#MenuSidebar li b,
+div#MenuSidebar li a {
+	padding: 5px 0;
+	padding-left: 18px;
+	display: block;
+	width: auto;
+	height: 100%;
+	font-weight: normal
+}
+
+div#MenuSidebar a {
+	transition: all .15s ease-in;
+	color: #eaeaea
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	color: #000;
+	background-color: #f4c430;
+	text-decoration: none!important
+}
+
+div#MenuSidebar b {
+	cursor: default
+}
+
+div#MenuSidebar li.child>a::after,
+div#MenuSidebar li.child>b::after {
+	float: right;
+	content: "\f0da";
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	display: inherit;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 100%;
+	font-size: 1rem;
+	padding-top: 2%;
+	margin-right: 3px
+}
+
+div#MenuSidebar a.selflink:hover {
+	background-color: inherit;
+	color: #f4c430
+}
+
+div#MenuSidebar>ul>li:last-child>a,
+div#MenuSidebar>ul>li:last-child>b {
+	border-bottom-right-radius: 5px
+}
+
+div#MenuSidebar a.selflink::before {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	border-top: 6px solid transparent;
+	border-bottom: 6px solid transparent;
+	border-left: 6px solid #f4c430
+}
+
+div#MenuSidebar {
+	background-color: rgba(255, 255, 255, 0);
+	box-shadow: none;
+	top: 170px
+}
+
+div#MenuSidebar>ul {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.16), 0 2px 4px rgba(0, 0, 0, 0.23);
+	border-bottom-right-radius: 4px;
+	margin-top: -1px;
+	margin-bottom: 6px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: inset 0 1px #85c1f7;
+	margin-left: 0
+}
+
+div#MenuSidebar>ul ul {
+	background-color: hsla(0, 0%, 100%, 0.9);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+	border-radius: 4px;
+	width: unset!important;
+	z-index: 2
+}
+
+div#MenuSidebar>ul ul li {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul>li>ul {
+	width: 150%;
+	font-size: 100%
+}
+
+div#MenuSidebar>ul>li>ul ul {
+	font-size: 100%
+}
+
+div#MenuSidebar a,
+div#MenuSidebar b {
+	color: #333;
+	text-decoration: none!important
+}
+
+div#MenuSidebar>p {
+	border-top: 0;
+	border-bottom: 2px solid #4487df;
+	color: #4487df;
+	padding: 8px 10px 6px;
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.16), 0 0 4px rgba(0, 0, 0, 0.23);
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:first-child,
+div#MenuSidebar>:not(p)+ul {
+	border-top: 0;
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:not(p)+ul>:first-child {
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>ul>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul ul a,
+div#MenuSidebar>ul ul b {
+	padding: 5px 18px 5px 10px;
+	white-space: nowrap
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding-left: 18px
+}
+
+div#MenuSidebar li li.child>a::after,
+div#MenuSidebar li li.child>b::after {
+	float: unset;
+	position: absolute;
+	right: 0;
+	bottom: 5px
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	background-color: rgba(205, 235, 252, 0.4)
+}
+
+div#MenuSidebar a.selflink,
+div#MenuSidebar b.selflink {
+	font-weight: normal;
+	color: #333;
+	background-image: linear-gradient(90deg, #4487df 4px, transparent 4px)
+}
+
+div#MenuSidebar a.selflink:hover,
+div#MenuSidebar b.selflink:hover {
+	background-color: inherit;
+	color: #333
+}
+
+.skin-vector #left-navigation,
+.skin-vector #content {
+	margin-left: 10.5em
+}
+
+div#MenuSidebar>ul,
+div#MenuSidebar>p {
+	box-shadow: none;
+	border-radius: 0!important;
+	background-color: unset;
+	margin: 0
+}
+
+div#MenuSidebar>p {
+	font-weight: normal;
+	padding: 8px 10px 3px 10px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: none
+}
+
+div#MenuSidebar>p::after {
+	height: 4px;
+	display: block;
+	width: 100%;
+	position: absolute;
+	bottom: -8px;
+	left: 5px;
+	border-radius: 25px;
+	content: "";
+	background-image: linear-gradient(90deg, #4487df, transparent 95%)
+}
+
+div#MenuSidebar>p {
+	color: #4487df;
+	position: relative;
+	padding-left: 15px!important;
+	margin-top: 0!important;
+	margin-bottom: 8px!important;
+	border: 0!important
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding: 2px 0;
+	padding-left: 8px;
+	margin-top: 2px;
+	margin-left: 10px;
+	margin-right: 0;
+	border-radius: 5px 0 0 5px;
+	transition: .3s all ease;
+	color: #555
+}
+
+div#MenuSidebar>ul>:first-child>a,
+div#MenuSidebar>ul>:first-child>b {
+	margin-top: 5px
+}
+
+div#MenuSidebar>ul>li>a:HOVER,
+div#MenuSidebar>ul>li>b:HOVER {
+	background-color: rgba(34, 170, 255, 0.2);
+	color: black
+}
+
+div#MenuSidebar>ul>li>a.selflink {
+	background-color: rgba(34, 170, 255, 0.2)!important;
+	color: black!important
+}
+
+div#MenuSidebar>ul {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: 0;
+	background-image: none
+}
+
+div#MenuSidebar {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	border-radius: none!important;
+	padding-top: 40px;
+	box-shadow: none!important
+}
+
+div#MenuSidebar>ul>li.child>a::after,
+div#MenuSidebar>ul>li.child>b::after {
+	margin-right: 10px!important;
+	color: inherit!important;
+	padding-top: 1%!important;
+}
+
+div#MenuSidebar>ul>li>ul {
+	top: -4px
+}
+
+a.feedlink {
+	padding-left: 16px!important;
+}
+
+/* 为复制短链接增加一个图标 */
+#MenuSidebar #wgCopyURL-url-copy-sidebar::after {
+  content: "\f0c1";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-size: 70%;
+  margin-left: .4em;
+  color: var(--darkblue);
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“玛修·基列莱特”的源代码 
+←玛修·基列莱特
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{review|content=数值|id=1|user=克里斯丁|time=2018-06-10}}
+{{替换侧边栏底图|url=https://fgo.wiki/images/thumb//8/87/玛修_去底_性感写真.png/180px-玛修_去底_性感写真.png}}
+==基础数值==
+{{基础数值
+|背景颜色=#ECEBF8
+|文字颜色=#425389
+|稀有度=4
+|获取途径=初始获得
+|序号=1
+|中文名=玛修·基列莱特
+|日文名=マシュ・キリエライト
+|英文名=Mash Kyrielight
+|中文战斗名=玛修
+|日文战斗名=マシュ
+|中文卡面名=玛修·基列莱特
+|日文卡面名=マシュ・キリエライト
+|英文卡面名=Mash Kyrielight
+|声优=种田梨沙
+|声优新=高桥李依
+|画师=武内崇
+|属性1=秩序
+|属性2=善
+|性别=女性
+|身高=158cm
+|体重=46kg
+|隐藏属性=地
+|职阶=Shielder
+|筋力=C
+|耐久=A
+|敏捷=D
+|魔力=B
+|幸运=C
+|宝具=─
+|基础ATK=1455
+|基础HP=2060
+|满级ATK=8730
+|满级HP=12877
+|90级ATK=—
+|90级HP=—
+|100级ATK=—
+|100级HP=—
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=0.84%
+|A卡np率=0.84%
+|B卡np率=0.84%
+|EX卡np率=0.84%
+|宝具np率=0.84%
+|受击np率=3%
+|Q卡hit数=2
+|A卡hit数=2
+|B卡hit数=1
+|EX卡hit数=3
+|宝具卡hit数=—
+|Q卡伤害分布=25,75
+|A卡伤害分布=33,67
+|B卡伤害分布=100
+|EX卡伤害分布=12,25,63
+|宝具卡伤害分布=
+|出星率=9.9%
+|即死率=24.5%
+|暴击权重=99
+|特性1=骑乘
+|特性2=天地从者
+|特性2备注=(亚从者)
+|特性3=人科
+|特性4=活在当下的人类
+|人型=是
+|被EA特攻=是
+|天地拟似=1
+|昵称=盾娘，学妹，茄子
+|立绘1=第１阶段
+|文件1=玛修·基列莱特-卡面-1-v2
+|立绘2=第２阶段
+|文件2=玛修·基列莱特-卡面-2-v2
+|立绘3=第３阶段
+|文件3=玛修·基列莱特-卡面-3-v2
+|立绘4=第４阶段
+|文件4=玛修·基列莱特-卡面-4
+|立绘5=奥特瑙斯
+|文件5=玛修2.0
+|立绘6=奥特瑙斯（改进型）
+|文件6=玛修·基列莱特灵衣3
+|立绘7=常夏的泳装
+|文件7=玛修泳装
+|立绘8=愚人节
+|文件8=玛修·基列莱特-卡面-y
+|立绘9=愚人节（奥特瑙斯）
+|文件9=玛修·基列莱特-卡面-y(奥特瑙斯)
+}}
+{{cbox2|text=玛修·基列莱特的等级上限、ATK、HP数值会随主线剧情进展发生变化，以上表格提供的是通关全部主线剧情后的数值。下表按照剧情阶段列出了这些数值的变化情况。}}
+{| class="wikitable nomobile" style="text-align:center;width:825px;display:table;"
+! 条件 !!等级上限 !! 基础ATK !! 基础HP !! 满级ATK !! 满级HP 
+|-
+! 初始
+| 30 ||1261||1854||3583||5402
+|-
+! 通关第二特异点
+| 40 ||1261||1854||4385||6627
+|-
+! 通关第四特异点第4节(2/5)
+| 60 ||1261||1854||5989||9077
+|-
+! 通关第六特异点第15节(1/3)
+| 70 ||1455||2060||7815||11516
+|-
+! 通关第七特异点
+| 80 ||1455||2060||8730||12877
+|}
+{| class="wikitable nodesktop" style="text-align:center;width:825px;display:table;white-space:normal;"
+! style = "width:20%" | 等级上限
+! style = "width:20%" | 基础ATK
+! style = "width:20%" | 基础HP
+! style = "width:20%" | 满级ATK
+! style = "width:20%" | 满级HP
+|-
+! colspan="5" |初始
+|-
+| 30 ||1261||1854||3583||5402
+|-
+! colspan="5" |通关第二特异点
+|-
+| 40 ||1261||1854||4385||6627
+|-
+! colspan="5" |通关第四特异点第4节进行度2/5
+|-
+| 60 ||1261||1854||5989||9077
+|-
+! colspan="5" |通关第六特异点第15节(1/3)
+|-
+| 70 ||1455||2060||7815||11516
+|-
+! colspan="5" |通关第七特异点
+|-
+| 80 ||1455||2060||8730||12877
+|}
+注：通关 [[第六特异点_神圣圆桌领域_卡美洛/关卡配置#第15节|第六特异点 卡美洛 第15节 「神王奥斯曼狄斯」(1/3)]]（灵基再临第3阶段）之前，玛修的稀有度为3星。
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{参阅|音乐鉴赏/宝具背景音乐合集#玛修·基列莱特|该从者的宝具背景音乐}}
+<tabber>
+第1部真名解放前=通关 [[特异点F 燃烧污染都市 冬木/关卡配置#第8节|特异点F 冬木 第8节「玛修的特训」]](4/5) 后解放。
+{{宝具
+|中文名=假想宝具 拟似展开/人理之础
+|国服上标=Lord Chaldeas
+|日文名=仮想宝具 疑似展開／人理の礎
+|日服上标=ロード・カルデアス
+|卡色=Arts
+|类型=辅助
+|阶级=D
+|种类=对人宝具
+|效果A=己方全体的防御力提升(3回合)<Over Charge时效果提升>
+|数值A1=30%|数值A2=35%|数值A3=40%|数值A4=45%|数值A5=50%
+|效果B=付与被伤害减免状态(3回合)<宝具升级效果提升>
+|数值B1=100|数值B2=550|数值B3=775|数值B4=888|数值B5=1000
+}}
+|-|
+第1部真名解放后=通关 [[第六特异点_神圣圆桌领域_卡美洛/关卡配置#第17节|第六特异点 卡美洛 第17节「复制品」(4/5)]] 后强化。
+{{宝具
+|中文名=已然遥远的理想之城
+|国服上标=Lord Camelot
+|日文名=いまは遙か理想の城
+|日服上标=ロード・キャメロット
+|卡色=Arts
+|类型=辅助
+|阶级=B+++
+|种类=对恶宝具
+|效果A=己方全体的防御力提升(3回合)<Over Charge时效果提升>
+|数值A1=30%|数值A2=35%|数值A3=40%|数值A4=45%|数值A5=50%
+|效果B=付与被伤害减免状态(3回合)<宝具升级效果提升>
+|数值B1=100|数值B2=550|数值B3=775|数值B4=888|数值B5=1000
+|效果C=除自身以外的己方全体攻击力提升(3回合)
+|数值C1=30%
+}}
+|-|
+第2部灵衣=通关 [[Lostbelt No.1 永久冻土帝国 阿纳斯塔西娅/关卡配置#第21节|第2部 Lostbelt No.1 阿纳斯塔西娅 第21节「雷帝君临」]] 后开放，跟随灵衣切换。
+{{宝具
+|中文名=已然脆弱的梦想之城
+|国服上标=Mold Camelot
+|日文名=いまは脆き夢想の城
+|日服上标=モールド・キャメロット
+|卡色=Arts
+|类型=辅助
+|阶级=D
+|种类=对人宝具
+|效果A=己方全体的防御力提升(3回合)<Over Charge时效果提升>
+|数值A1=30%|数值A2=35%|数值A3=40%|数值A4=45%|数值A5=50%
+|效果B=付与被伤害减免状态(3次·5回合)<宝具升级效果提升>
+|数值B1=100|数值B2=550|数值B3=775|数值B4=888|数值B5=1000
+}}
+</tabber>
+{{cbox2|text=玛修·基列莱特的宝具等级会随主线剧情进展升级，以下为宝具升级所需主线进度。}}
+{| class="wikitable" style="text-align:center;width:825px;display:table;white-space:normal;"
+! 宝具等级!!条件 
+|-
+|Lv.1
+|通关 [[特异点F 燃烧污染都市 冬木/关卡配置#第8节|特异点F 第8节「玛修的特训」(4/5)]] 
+|-
+|Lv.2
+|通关 第1部 [[第六特异点_神圣圆桌领域_卡美洛/关卡配置#第17节|第六特异点『神圣圆桌领域 卡美洛』第17节「复制品」(4/5)]]
+|-
+|Lv.3
+|通关 第1部 [[终局特异点_冠位时间神殿_所罗门/关卡配置|终局特异点『冠位时间神殿 所罗门』]]
+|-
+|}
+
+==技能==
+===持有技能===
+{{复合标签
+|第1部技能|
+'''技能1（初期开放）'''
+<tabber>
+强化后=通关 [[第六特异点_神圣圆桌领域_卡美洛/关卡配置#第15节|第六特异点 卡美洛 第15节 「神王奥斯曼狄斯」(1/3)]]（灵基再临第3阶段）后强化。<br>
+{{持有技能|加防|荣光坚毅的雪花之壁|誉れ堅き雪花の壁|7
+|己方全体防御力提升(3回合)|15%|15.5%|16%|16.5%|17%|17.5%|18%|18.5%|19%|20%
+|付与被伤害减免状态(1次)|2000|||||||||
+}}
+|-|
+强化前={{持有技能|加防|现为脆弱的雪花之壁|今は脆き雪花の壁|7
+|己方全体的防御力提升(3回合)|10%|10.5%|11%|11.5%|12%|12.5%|13%|13.5%|14%|15%
+}}
+</tabber>
+'''技能2（初期开放）'''
+{{持有技能|无敌|时为朦胧的白垩之壁|時に煙る白亜の壁|9
+|为己方单体付与无敌状态(1回合)|∅|||||||||
+|增加NP|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+'''技能3（灵基再临第2阶段开放）'''
+
+通关 [[第四特异点_死界魔雾都市_伦敦/关卡配置#第4节|第四特异点 伦敦 第4节「一册书，一支笔」]](2/5)后开放。
+{{持有技能|目标集中|决意奋起之盾|奮い断つ決意の盾|8
+|付与自身目标集中状态(1回合)|100%|120%|140%|160%|180%|200%|220%|240%|260%|300%
+|大幅提升NP获得量(1回合)|200%|220%|240%|260%|280%|300%|320%|340%|360%|400%
+}}
+|第2部灵衣技能|通关 [[Lostbelt No.1 永久冻土帝国 阿纳斯塔西娅/关卡配置#第21节|第2部 Lostbelt No.1 阿纳斯塔西娅 第21节「雷帝君临」]] 后开放，跟随灵衣切换。<br>
+'''技能1（初期开放）'''
+<tabber>
+强化前={{持有技能|红放|掩体雷弹 A|バンカーボルト A|6
+|自身的Buster指令卡性能提升(1次·3回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+|Buster攻击的暴击威力提升(1次·3回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+}}
+|-|
+强化后=通关[[Lostbelt No.5 星间都市山脉 奥林匹斯/关卡配置#第7节|第2部 Lostbelt No.5 奥林匹斯 第7节 「汝，开垦星之丰壤(Ⅳ)」]]后强化。<br>
+{{持有技能|红放|逆说构造体 B|ブラックバレル B|6
+|自身的Buster指令卡性能提升(1次·3回合)|50%|55%|60%|65%|70%|75%|80%|85%|90%|100%
+|Buster攻击的暴击威力提升(1次·3回合)|50%|55%|60%|65%|70%|75%|80%|85%|90%|100%
+|付与无视防御状态(3回合)|∅|||||||||
+}}
+</tabber>
+'''技能2（初期开放）'''
+{{持有技能|目标集中|软银替身 D|アマルガムゴート D|7
+|付与自身目标集中状态(1回合)|300%|||||||||
+|增加NP|10%|11%|12%|13%|14%|15%|16%|17%|18%|20%
+}}
+'''技能3（灵基再临第2阶段开放）'''
+{{持有技能|无敌|悲壮奋起之盾|悲壮なる奮起の盾|9
+|付与自身无敌状态(1回合)|∅|||||||||
+|付与自身目标集中状态(1回合)|300%|||||||||
+|HP减少【负面效果】|2500|2300|2100|1900|1700|1500|1300|1100|900|500
+}}
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|A|自身的弱化状态耐性提升(20%)|骑乘|骑乘|C|自身的Quick指令卡性能小幅提升(6%)|羁绊获得量提升|占星的旅途||通关第二部主线关卡时，己方全体＜包括替补＞的羁绊获得量提升20%(作为助战时无效)<ref>需要通关[[Lostbelt No.1 永久冻土帝国 阿纳斯塔西娅/关卡配置#第21节|Lostbelt No.1 阿纳斯塔西娅 第21节「雷帝君临」]]。</ref>
+}}
+
+==素材需求==
+===灵基再临（从者进化）===
+玛修·基列莱特会随主线剧情进展自动进行灵基再临，以下为各个阶段的灵基再临所需主线进度。
+{| class="wikitable nomobile" style="width:825px"
+|-
+! style="width: 50px" |0→1
+| style="width: 340px" |通关 [[第二特异点_永续疯狂帝国_七丘之城/关卡配置#第15节|第二特异点]]
+! style="width: 50px" |2→3
+| style="width: 340px" |通关 [[第六特异点_神圣圆桌领域_卡美洛/关卡配置#第15节|第六特异点 第15节「神王奥斯曼狄斯（1/3）」]]
+|-
+!1→2
+|通关 [[第四特异点_死界魔雾都市_伦敦/关卡配置#第4节|第四特异点 第4节「一册书，一支笔」]] （2/5）
+!3→4
+|通关 [[第七特异点_绝对魔兽战线_巴比伦尼亚/关卡配置#第22节|第七特异点]]
+|}
+{| class="wikitable nodesktop" style="width:100%;display:table;white-space:normal;"
+|-
+! style="width: 20%" |0→1
+| style="width: 80%" |通关 [[第二特异点_永续疯狂帝国_七丘之城/关卡配置#第15节|第二特异点]]
+|-
+!1→2
+|通关 [[第四特异点_死界魔雾都市_伦敦/关卡配置#第4节|第四特异点 第4节「一册书，一支笔」]]（2/5）
+|-
+!2→3
+|通关 [[第六特异点_神圣圆桌领域_卡美洛/关卡配置#第15节|第六特异点 第15节「神王奥斯曼狄斯（1/3）」]]
+|-
+!3→4
+|通关 [[第七特异点_绝对魔兽战线_巴比伦尼亚/关卡配置#第22节|第七特异点]]
+|}
+
+===技能强化===
+{{技能升级素材
+|稀有度=3
+|1->2={{材料消耗|英雄之证|5}}
+|2->3={{材料消耗|龙之牙|5}}
+|3->4={{材料消耗|世界树之种|5}}
+|4->5={{材料消耗|八连双晶|5}}
+|5->6={{材料消耗|虚影之尘|5}}
+|6->7={{材料消耗|无间齿轮|5}}
+|7->8={{材料消耗|凤凰羽毛|5}}
+|8->9={{材料消耗|龙之逆鳞|5}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|英雄之证|5}}{{材料消耗|龙之牙|5}}{{材料消耗|虚影之尘|5}}{{材料消耗|世界树之种|5}}{{材料消耗|八连双晶|5}}{{材料消耗|凤凰羽毛|5}}{{材料消耗|无间齿轮|5}}{{材料消耗|龙之逆鳞|5}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计|
+{{材料消耗|英雄之证|15}}{{材料消耗|虚影之尘|15}}{{材料消耗|龙之牙|15}}{{材料消耗|凤凰羽毛|15}}{{材料消耗|世界树之种|15}}{{材料消耗|无间齿轮|15}}{{材料消耗|八连双晶|15}}{{材料消耗|龙之逆鳞|15}}{{材料消耗|传承结晶|3}}
+|QP=4080万
+}}
+===灵衣开放===
+{{参阅|灵衣一览|其他从者的灵衣相关信息}}
+{{灵衣开放素材
+|灵衣名称=常夏の水着<br>常夏的泳装
+|素材={{材料消耗|追忆的贝壳|5}}{{材料消耗|八连双晶|5}}{{材料消耗|大骑士勋章|5}}{{材料消耗|凤凰羽毛|5}}
+}}
+{| class="wikitable nomobile" style="width:825px;display:table;white-space:normal;"
+ ! style="width: 200px" |オルテナウス<br>奥特瑙斯
+ |通关 [[Lostbelt_No.1_永久冻土帝国_阿纳斯塔西娅/关卡配置#第21节|Lostbelt No.1 第21节 「雷帝君临」]] 后开放
+|}
+{| class="wikitable nodesktop" style="width:825px;display:table;white-space:normal;"
+ ! style="width: 30%" |オルテナウス<br>奥特瑙斯
+ |通关 [[Lostbelt_No.1_永久冻土帝国_阿纳斯塔西娅/关卡配置#第21节|Lostbelt No.1 第21节 「雷帝君临」]] 后开放
+|}
+{| class="wikitable nomobile" style="width:825px;display:table;white-space:normal;"
+ ! style="width: 200px" |簡易霊衣：オルテナウス（改修型）<br>简易灵衣：奥特瑙斯（改进型）
+ |通关 [[Lostbelt No.5 星间都市山脉 奥林匹斯/关卡配置#第7节|第2部 Lostbelt No.5 第7节 「汝，开垦星之丰壤（Ⅳ）」]] 后开放
+|}
+{| class="wikitable nodesktop" style="width:825px;display:table;white-space:normal;"
+ ! style="width: 30%" |簡易霊衣：オルテナウス（改修型）<br>简易灵衣：奥特瑙斯（改进型）
+ |通关 [[Lostbelt No.5 星间都市山脉 奥林匹斯/关卡配置#第7节|第2部 Lostbelt No.5 第7节 「汝，开垦星之丰壤（Ⅳ）」]] 后开放
+|}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+迦勒底局成员——玛修·基列莱特，
+与从者附体融合后的模样。
+被称为亚从者。
+
+|详情日文=
+カルデア局員、マシュ・キリエライトが
+サーヴァントと憑依融合した姿。
+デミ・サーヴァントと呼ばれる。
+
+|资料1条件=
+羁绊达到Lv.1后开放
+
+|资料1=
+身高／体重：158cm·46kg
+出处：Fate/Grand Order
+地域：迦勒底
+属性：秩序·善　　性别：女性
+
+|资料1日文=
+身長／体重：158cm・46kg
+出典：Fate/Grand Order
+地域：カルデア
+属性：秩序・善　　性別：女性
+
+|资料2条件=
+羁绊达到Lv.2后开放
+
+|资料2=
+假想宝具 拟似展开/人理之础
+阶级：D　种类：对人宝具
+Lord Chaldeas。
+不知附体英灵真名的情况下，玛修以本能展开的宝具。
+可以在前方展开强大的守护壁垒。
+之所以将宝具冠以迦勒底之名，
+或许因为玛修本质的愿望是能够“看到人类的未来”吧。
+
+'''通关「[[第六特异点_神圣圆桌领域_卡美洛/关卡配置#第17节|复制品(4/5)]]」后替换'''
+
+『已然遥远的理想之城』
+阶级：B+++　种类：对恶宝具
+Lord Camelot。
+英灵·加拉哈德拥有的宝具。
+使用白垩之城卡美洛的中心，
+圆桌骑士们围坐的圆桌作为盾的究极防守。
+其强度与使用者的精神力相呼应，
+只要心不屈服，城墙就绝不会崩塌。
+
+|资料2日文=
+仮想宝具 疑似展開／人理の礎
+ランク:Ｄ　種別:対人宝具
+ロード・カルデアス。
+憑依した英霊の真名が分からぬままマシュが本能に従って展開した宝具。前方に強力な守護障壁を展開する。
+カルデアスの名を冠しているのはマシュの根底に
+ある願いが、“人類の未来を見る”ものからだと思われる。
+
+'''[[第六特异点_神圣圆桌领域_卡美洛/关卡配置#第17节|レプリカ(4/5)]]をクリアすると開放'''
+
+『いまは遙か理想の城』
+ランク:Ｂ＋＋＋　種別:対悪宝具
+ロード・キャメロット。
+英霊・ギャラハッドが持つ宝具。
+白亜の城キャメロットの中心、円卓の騎士たちが
+座る円卓を盾として用いた究極の守り。
+その強度は使用者の精神力に比例し、心が折れなければその城壁も決して崩れはしないという。
+
+|资料3条件=
+羁绊达到Lv.3后开放
+
+|资料3=
+己阵防御：C
+守护己方或是己方阵营时发挥的实力。
+能突破防御极限值地削减我方遭到的伤害，
+但自身并不算在防御对象内。
+此外，阶级越高，守备范围越广。
+
+|资料3日文=
+自陣防御：Ｃ
+味方、ないし味方の陣営を守護する際に発揮される力。
+防御限界値以上のダメージ削減を発揮するが、
+自分はその対象には含まれない。
+また、ランクが高ければ高いほど守護範囲は広がっていく。
+
+|资料4条件=
+通关 [[第五特异点_北美神话大战_合众为一/关卡配置#第1节|立足大地，眺望星空]]后开放
+
+|资料4=
+附体继承：？
+Succeed Phantasm。
+亚从者持有的特殊技能。
+继承附体于自身的英灵所拥有的一个技能，
+升华为自身所用。玛修的该技能是『魔力防御』。
+与魔力放出属于同类型的技能，
+将魔力直接变换成防御力。
+若是拥有庞大魔力的英灵，
+想必可化身为守护一国的神圣壁垒吧。
+
+|资料4日文=
+憑依継承：？
+サクスィード・ファンタズム。
+デミ・サーヴァントが持つ特殊スキル。
+憑依した英霊が持つスキルを一つだけ継承し、
+自己流に昇華する。
+マシュの場合は『魔力防御』。
+魔力放出と同タイプのスキルで、魔力をそのまま防御力に変換する。
+膨大な魔力を持つ英霊であるなら、それは一国をも守護する聖なる壁となるだろう。
+
+|资料5条件=
+羁绊达到Lv.5后开放
+
+|资料5=
+玛修获得了附体于自己身上的英灵的真名。
+该骑士的名字是加拉哈德。
+是亚瑟王传说中的圆桌骑士之一。
+独自一人获得了圣杯并升天的圣者。
+迦勒底使用独自的方法成功召唤英灵，
+构筑其根干的，是成为加拉哈德召唤触媒的
+『英雄们聚集之所』——玛修所持有的用圆桌做成的盾。
+
+|资料5日文=
+マシュは自身に憑依した英霊の真名を獲得した。
+その騎士の名はギャラハッド。
+アーサー王伝説にある円卓の騎士のひとり。
+ただひとり聖杯を手に入れ、そして天に還した聖者。
+カルデアは独自の方法で英霊召還を成功させたが、
+その根幹をなすものがギャラハッド召還の触媒に
+なった『英雄たちが集う場所』―――
+マシュが持つ、円卓を利用した盾である。
+
+|资料6条件=
+羁绊达到Lv.5后开放
+
+|资料6=
+通过经历了七个特异点，克服了无数战斗，
+她已经完全是独立的人，
+完全成长为一位不再借用他人力量的从者。
+
+尚不知道真名的她使用的假想宝具，
+人理之础（Lord Chaldeas）。
+这是她“看到人类未来”这由衷愿望成形后的产物。
+
+……围绕人理烧却的战斗即将结束。
+她的旅途将画上怎样的句号。
+星之兽静静地见证着这雪花般的光景。
+
+|资料6日文=
+七つの特異点を越え、多くの戦いを乗り越えた事で
+彼女は歴としたひとりの人間、
+借り物ではないサーヴァントとして成長した。
+
+真名を知り得なかった彼女が使っていた仮想宝具、
+人理の礎（ロード・カルデアス）。
+それは“人類の未来を見る”という、
+彼女の根底にある願いがカタチになったものだった。
+
+……人理焼却を巡る戦いはじき終わる。
+彼女の旅はどのような結末を迎えるのか。
+その雪花のような光景を、
+星の獣は静かに見守り続けている。
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=
+茄子从者
+茄子色的身体看上去软软的，但其实很结实，可以抵抗住各种攻击。虽然看上去很正经，但不知不觉中就会开始考虑色色的事情。
+
+|日文=
+なすびサーヴァント
+なすび色の体はやわらかそうだがあらゆる攻撃を跳ね返すほど頑丈だ。まじめそうに見えるがついエッチなことを考えてしまう。
+}}
+
+==羁绊等级==
+玛修·基列莱特的羁绊等级上限会随着主线剧情的推进逐步提升，以下为各阶段的羁绊等级上限所需主线进度。
+{| class="wikitable" style="text-align:center;width:500px;display:table;white-space:normal;"
+! style="width:60%" |条件
+! style="width:40%" |羁绊上限
+|-
+!通关特异点F
+|Lv 1
+|-
+!通关第一特异点
+|Lv 1.5
+|-
+!通关第二特异点
+|Lv 2
+|-
+!通关第四特异点
+|Lv 3
+|-
+!通关第五特异点
+|Lv 3.5
+|-
+!通关第六特异点 第14节 进行度3/4
+|Lv 4
+|-
+!通关第七特异点
+|Lv 5
+|}
+
+==相关礼装==
+{{参阅|玛修·基列莱特/相关礼装|该从者的其他礼装}}
+{{Trim|{{:迦勒底标准样式|折叠标题=2016&2017年情人节礼物}}}}
+{{Trim|{{:奇妙杏仁|折叠标题=2018年情人节礼物}}}}
+{{Trim|{{:热带回忆|折叠标题=2020年情人节礼物}}}}
+
+==语音==
+{{参阅三|玛修·基列莱特|yy}}
+{{参阅|玛修·基列莱特/情人节剧情语音|该从者情人节剧情的语音}}
+{{:玛修·基列莱特/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=玛修头像1-v2.png
+|图标2=玛修头像2-v2.png
+|图标3=玛修头像3-v2.png
+|灵衣1=常夏的泳装
+|灵衣1图标=玛修头像泳装.png
+|灵衣2=奥特瑙斯
+|灵衣2图标=玛修头像灵衣.png
+|灵衣3=简易灵衣：奥特瑙斯（改进型）
+|灵衣3图标=玛修头像灵衣2.png
+}}
+
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=玛修模型1（旧）.png
+|模型2=玛修模型2（旧）.png
+|模型3=玛修模型3（旧）.png
+|模型1新=玛修模型1（新）.png
+|模型2新=玛修模型2（新）.png
+|模型3新=玛修模型3（新）.png
+|灵衣1=常夏的泳装（旧）
+|灵衣1模型=玛修模型泳装（旧）.png
+|灵衣2=常夏的泳装（新）
+|灵衣2模型=玛修模型泳装（新）.png
+|灵衣3=奥特瑙斯
+|灵衣3模型=玛修模型灵衣.png
+|灵衣4=简易灵衣：奥特瑙斯（改进型）
+|灵衣4模型=玛修模型灵衣2.png
+}}
+
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==注释和链接==
+<references/>{{外部参阅|mode=mg|标题=玛修·基列莱特}}
+{{英灵图鉴导航}}
+[[分类:亚从者]]
+该页面使用的模板：
+
+奇妙杏仁（查看源代码）热带回忆（查看源代码）玛修·基列莱特/成长曲线（查看源代码）玛修·基列莱特/语音（查看源代码）迦勒底标准样式（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:复合标签（查看源代码）（受保护）模板:外部参阅（查看源代码）模板:外部参阅/mode（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:替换侧边栏底图（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵衣开放素材（查看源代码）模板:素材消耗总计（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:语音表格/注释（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至玛修·基列莱特。
+ 
+						取自“http://fgo.wiki/w/玛修·基列莱特”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+英灵图鉴礼装图鉴指令纹章图鉴游戏数据基础各类信息汇总新人御主Q＆A抽卡模拟器 
+
+
+
+热门
+
+
+国服：冥界的圣诞快乐日服：魔伊联动复刻★5(SSR)埃列什基伽勒★4(SR)美游·艾德费尔特 
+
+
+
+扩展
+
+
+关卡配置活动一览卡池一览道具一览灵衣一览敌人一览技能一览状态一览御主装备音乐鉴赏声优一览画师一览登场人物关卡特性相关数据计算器 
+
+
+
+趣味
+
+
+FGO相关表情包FGO名人录FGO黑话·梗·成句游戏卫星一览趣味游戏 
+
+
+
+常用
+
+
+首页最近更改随机页面SE.RA.PH模板一览编辑指南贡献分数页面短链接如何支持我们收支一览点我反馈 
+
+
+
+工具
+
+
+链入页面相关更改特殊页面页面信息 
+
+
+window.toolbox=document.querySelector("#p-tb ul").innerHTML;var a=document.querySelectorAll("#mw-panel > *");for (var i=0;i<a.length;i++){if(a[i].id!="p-logo"){a[i].parentNode.removeChild(a[i])}}首页
+复制短链接https://fgo.wiki/id/190
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：『Fate/Requiem』棋盘游戏默示录
+国服：淑女·莱妮丝事件簿
+
+新增从者
+★4(SR) 鬼女红叶(Berserker)
+★5(SSR) 旅行者(Foreigner)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+事件簿联动活动推荐召唤
+
+日服
+FR联动推荐召唤
+FR联动开幕前夕推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+Bigfun社区-FGO版块
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具document.querySelector("#MSToolbox").innerHTML=window.toolbox;childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")};childlist = document.querySelectorAll("#MenuSidebar > ul#MSToolbox > li");for(var i=0;i<childlist.length;i++){if(childlist[i].innerHTML === ""){childlist[i].parentNode.removeChild(childlist[i])}};
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+    var commentStyle = document.createElement("style");
+    commentStyle.type = "text/css";
+    commentStyle.innerHTML = ".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+    commentStyle.id = "addCommentStyle";
+    document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+ 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":140});});
+
+

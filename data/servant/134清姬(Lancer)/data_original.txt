@@ -1,0 +1,562 @@
+﻿
+
+
+查看“清姬(Lancer)”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"清姬(Lancer)","wgTitle":"清姬(Lancer)","wgCurRevisionId":279669,"wgRevisionId":0,"wgArticleId":5431,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"清姬(Lancer)","wgRelevantArticleId":5431,"wgRequestId":"38b3d3e9ee779f6c9e0fd758","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“清姬(Lancer)”的源代码 
+←清姬(Lancer)
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}{{相关从者|清姬|清姬(Lancer)}}{{review|content=数值|id=1|user=克里斯丁|time=2018-06-09}} 
+
+==基础数值==
+{{基础数值
+|稀有度=4
+|获取途径=限定
+|序号=134
+|中文名=清姬
+|日文名=清姫
+|英文名=Kiyohime
+|中文战斗名=清姬
+|日文战斗名=清姫
+|中文卡面名=清姬
+|日文卡面名=清姫
+|英文卡面名=Kiyohime
+|声优=种田梨沙
+|画师=BLACK
+|属性1=混沌
+|属性2=恶
+|性别=女性
+|身高=158cm
+|体重=41kg
+|隐藏属性=地
+|职阶=Lancer
+|筋力=D
+|耐久=D
+|敏捷=B
+|魔力=E
+|幸运=A+
+|宝具=C
+|基础ATK=1489
+|基础HP=1899
+|满级ATK=8936
+|满级HP=11870
+|90级ATK=9874
+|90级HP=13126
+|100级ATK=10820
+|100级HP=14392
+|第一张卡=Quick
+|第二张卡=Quick
+|第三张卡=Arts
+|第四张卡=Buster
+|第五张卡=Buster
+|Q卡np率=1.05%
+|A卡np率=1.05%
+|B卡np率=1.05%
+|EX卡np率=1.05%
+|宝具np率=1.05%
+|受击np率=4%
+|Q卡hit数=2
+|A卡hit数=2
+|B卡hit数=6
+|EX卡hit数=5
+|宝具卡hit数=6
+|Q卡伤害分布=33,67
+|A卡伤害分布=33,67
+|B卡伤害分布=4,9,14,19,23,31
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=4,9,14,19,23,31
+|出星率=12.0%
+|即死率=40.0%
+|暴击权重=92
+|特性1=龙
+|特性2=天地从者
+|特性3=人科
+|人型=是
+|被EA特攻=是
+|昵称=L清姬
+|立绘1=第１阶段
+|文件1=清姬灵基再临I
+|立绘2=第２阶段
+|文件2=清姬灵基再临II
+|立绘3=第３阶段
+|文件3=清姬灵基再临III
+|立绘4=第４阶段
+|文件4=清姬灵基再临IV
+|立绘5=愚人节
+|文件5=清姬愚人节}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{宝具
+|中文名=道成寺钟百八式火龙薙
+|国服上标=Doujyoujikane Hyakuhachishikikaryuunagi
+|日文名=道成寺鐘百八式火竜薙
+|日服上标=どうじょうじかねひゃくはちしきかりゅうなぎ
+|卡色=Buster
+|类型=单体
+|阶级=A
+|种类=对人宝具
+|效果A=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值A1=600%|数值A2=800%|数值A3=900%|数值A4=950%|数值A5=1000%
+|效果B=(150%概率)付与技能封印(1回合)
+|数值B1=∅
+|效果C=付与灼伤状态(5回合)<Over Charge时效果提升>
+|数值C1=500|数值C2=1000|数值C3=1500|数值C4=2000|数值C5=2500
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|暴击发生率下降|热情的炎夏 A|情熱の炎夏 A|7
+|敌方全体暴击发生率下降(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|红放|水浴转身 A|水浴転身 A|7
+|自身Buster指令卡性能提升(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|降防|恋之追踪者 A|恋の追跡者 A|7
+|(500%概率)敌方单体的防御力下降(3回合)|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|敌方单体的攻击力提升(3回合)【负面效果】 |20%|||||||||
+}}
+
+===职阶技能===
+{{职阶技能|狂化|狂化|EX|自身的Buster指令卡性能提升(12%)|对魔力|对魔力|D|自身的弱化状态耐性少量提升(12.5%)}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=4
+|0->1={{材料消耗|枪阶银棋|4}}
+|1->2={{材料消耗|枪阶银棋|10}}{{材料消耗|八连双晶|6}}
+|2->3={{材料消耗|枪阶金像|4}}{{材料消耗|追忆的贝壳|8}}{{材料消耗|黑兽脂|3}}
+|3->4={{材料消耗|枪阶金像|10}}{{材料消耗|黑兽脂|5}}{{材料消耗|封魔之灯|6}}
+|总计={{材料消耗|枪阶银棋|14}}{{材料消耗|枪阶金像|14}}{{材料消耗|八连双晶|6}}{{材料消耗|追忆的贝壳|8}}{{材料消耗|黑兽脂|8}}{{材料消耗|封魔之灯|6}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=4
+|1->2={{材料消耗|枪之辉石|4}}
+|2->3={{材料消耗|枪之辉石|10}}
+|3->4={{材料消耗|枪之魔石|4}}
+|4->5={{材料消耗|枪之魔石|10}}{{材料消耗|追忆的贝壳|4}}
+|5->6={{材料消耗|枪之秘石|4}}{{材料消耗|追忆的贝壳|8}}
+|6->7={{材料消耗|枪之秘石|10}}{{材料消耗|八连双晶|4}}
+|7->8={{材料消耗|八连双晶|8}}{{材料消耗|龙之牙|12}}
+|8->9={{材料消耗|龙之牙|36}}{{材料消耗|龙之逆鳞|8}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|枪之辉石|14}}{{材料消耗|枪之魔石|14}}{{材料消耗|枪之秘石|14}}{{材料消耗|龙之牙|48}}{{材料消耗|八连双晶|12}}{{材料消耗|追忆的贝壳|12}}{{材料消耗|龙之逆鳞|8}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|枪阶银棋|14}}{{材料消耗|枪阶金像|14}}{{材料消耗|枪之辉石|42}}{{材料消耗|枪之魔石|42}}{{材料消耗|枪之秘石|42}}{{材料消耗|龙之牙|144}}{{材料消耗|八连双晶|42}}{{材料消耗|追忆的贝壳|44}}{{材料消耗|龙之逆鳞|24}}{{材料消耗|黑兽脂|8}}{{材料消耗|封魔之灯|6}}{{材料消耗|传承结晶|3}}
+|稀有度=4
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+烧光、烧光、烧光烧光烧光烧光烧光烧光烧光————
+呜呼，这正可谓是热情之相！　思！　病！
+……综上所述，是陷入奇怪情绪中的清姬。
+喂，说你呢，不准说什么平时情绪也很奇怪。
+
+|详情日文=
+燃えて、燃えて、燃えて燃えて燃えて燃えて燃えて燃えて燃えて――――嗚呼、これこそまさに情熱の恋！　わず！　らい！　……という訳で、何だか妙なテンションの清姫さんである。ハイそこ、テンションがおかしいのはいつものことだとか言わない。
+
+|资料1条件=
+|资料1=
+身高／体重：158cm·41kg
+出处：『清姬传说』
+地域：日本
+属性：混沌·恶　　　性别：女性
+夏日为爱而生的女人（也就是和平时没什么两样）。
+
+|资料1日文=
+身長／体重：158cm・41kg
+出典：『清姫伝説』
+地域：日本
+属性：混沌・悪　　　性別：女性
+夏の恋に生きる女（つまりいつもの通り）
+
+|资料2条件=
+|资料2=
+由于这次是作为Lancer被召唤的，所以手持薙刀。
+「身为少女，自然需要浅尝所有武艺。但是，像我这样柔弱的女性根本没法帮上忙。啊啊真不甘心。」这是本人的说法。此外，正如本人所言，她薙刀的实力只能算二流，但由于她凌厉的杀气和毫不留情，传说在战场上已经可以称之为无双了。
+
+|资料2日文=
+此度はランサーとして召喚されたため、薙刀を所持。「もちろん乙女として武芸は一通り嗜んでおります。しかし、わたくしのようにか弱くいたいけで細腕の女では、役立つこともままなりません。ああ口惜しや」とは本人の弁。なお、本人の言う通り薙刀の技量は二流であるが、溢れんばかりの殺気と容赦のなさから、戦場でも無双を誇るのではないかと噂されている。
+
+|资料3条件=
+|资料3=
+恋之追踪者：A
+跟踪的强化版技能。在炎炎夏日，清姬加速了体内引擎。咆哮的脏腑、加速的肺、呼吸中充满了硝基的气味，无论对方身在何处，都能以超高高速开始追踪。
+
+|资料3日文=
+○恋の追跡者：Ａ
+ストーキングのパワーアップスキル。夏の暑さが、清姫こときよひーの体内エンジンを加速させる。咆吼する臓腑、加速する肺、吐息はニトロの匂いが漂い、相手が如何なる場所に存在しようとも超高々速追跡を開始する。
+
+|资料4条件=
+|资料4=
+……也就是说和平时的清姬没什么两样，但在这样的夏日，何不夸奖夸奖她的泳装呢。这个夏天一定会转瞬即逝的……是指感动万分的清姬一定会将你关在什么地方的意思。
+
+|资料4日文=
+……まあ、つまりはいつも通りの清姫であるが、夏くらいは血迷って彼女の水着を褒めてみてはどうだろう。きっと一夏などあっという間に過ぎ去るだろう……感極まった清姫の手で、どこかに閉じ込められてしまうという意味合いで。
+
+|资料5条件=
+|资料5=
+『道成寺钟百八式火龙薙』
+阶级：A　种类：对人宝具
+有效范围：1　最大捕捉：1人
+Doujyoujikane Hyakuhachishikikaryunagi
+用钟囚禁对手，并刺入薙刀，千钧一发之际吹飞。
+夏日酷热，这东西的热气逼人属于最高级。
+为此，与她同行的从者在夏天期间对她评价十分糟糕。
+
+|资料5日文=
+『道成寺鐘百八式火竜薙』
+ランク：Ａ　種別：対人宝具
+レンジ：１　最大捕捉：１人
+どうじょうじかねひゃくはちしきかりゅうなぎ。
+鐘に相手を閉じ込め、薙刀を突き刺して
+危機一髪的に吹き飛ばす。夏も盛りだというのに、暑苦しさという点ではトップクラス。そのため、彼女と同行することになったサーヴァントたちからは、夏の間は極めて評判が悪い。
+
+|资料6条件=
+羁绊达到LV.5后开放
+
+|资料6=
+……再怎么说，清姬也是生活在古代日本的存在，
+对泳装有着强烈的抵抗感……也就是说，特别害羞。
+即便如此，只要是为了取悦御主，她还是忍下来了，所以为了消解她的紧张，一定要好好夸奖她的泳装很适合哦。
+我方对届时会发生的一切意外一概不承担责任。
+
+|资料6日文=
+……何だかんだで、清姫は古い日本で生まれたということもあり、水着に対しては極めて強い抵抗感……要するに、滅茶苦茶恥ずかしいらしい。
+それでもマスターが喜ぶためとけなげに我慢しているので、彼女の緊張を解くためにも、水着が似合っていることは是非褒めてあげよう。
+その際に生じるアクシデントに関して、当方は一切関知しないからそのつもりで。
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=
+大蛇从者。
+穿上了泳装的清姬。好像比平时更加兴奋了。她会大胆而热情地跟踪你哦。
+
+|日文=
+へびサーヴァント
+水着を着た清姫。普段より興奮しているようだ。大胆かつ情熱的にストーキングしてくるぞ。
+}}
+
+==羁绊点数==
+{{羁绊点数|1500|2250|3000|3750|4500|225000|260000|270000|300000|395000|4}}
+
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|清姬(Lancer)|yy}}
+{{参阅|清姬(Lancer)/情人节剧情语音|该从者情人节剧情的语音}}
+{{:清姬(Lancer)/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=清姬初始头像.png
+|图标2=清姬一破头像.png
+|图标3=清姬满破头像.png
+}}
+
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=清姬初始模型.png
+|模型2=清姬一破模型.png
+|模型3=清姬满破模型.png
+}}
+
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+[[分类:泳装系从者]]
+该页面使用的模板：
+
+平淡无奇的巧克力（查看源代码）海滨情书（恐怖）（查看源代码）清姬(Lancer)/成长曲线（查看源代码）清姬(Lancer)/未来Pick Up情况（查看源代码）清姬(Lancer)/语音（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者小图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:相关从者（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至清姬(Lancer)。
+ 
+						取自“http://fgo.wiki/w/清姬(Lancer)”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E6%B8%85%E5%A7%AC(Lancer)","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E6%B8%85%E5%A7%AC(Lancer)","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E6%B8%85%E5%A7%AC(Lancer)&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/5431
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":141});});
+
+

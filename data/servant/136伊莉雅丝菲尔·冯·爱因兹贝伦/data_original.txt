@@ -1,0 +1,1078 @@
+﻿
+
+
+查看“伊莉雅丝菲尔·冯·爱因兹贝伦”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"伊莉雅丝菲尔·冯·爱因兹贝伦","wgTitle":"伊莉雅丝菲尔·冯·爱因兹贝伦","wgCurRevisionId":287707,"wgRevisionId":0,"wgArticleId":605,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"伊莉雅丝菲尔·冯·爱因兹贝伦","wgRelevantArticleId":605,"wgRequestId":"dc6a7baf0bcceec55293d4f3","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0lsxqe2",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+ type="text/css"/* 这里放置的CSS将应用于所有皮肤的侧边栏 */
+.skin-vector .mw-body {
+	margin-left: 11em!important;
+	padding: 1.25em 1.5em 1.5em 1.5em!important
+}
+
+.skin-vector #mw-panel {
+	padding-left: 0!important;
+	width: 10.5em!important
+}
+
+div#MenuSidebar {
+	margin-bottom: 5rem;
+	position: absolute;
+	top: 200px;
+	width: 100%
+}
+
+div#MenuSidebar a.external {
+	background: 0;
+	padding-right: auto
+}
+
+div#MenuSidebar>:first-child {
+	margin-top: 0;
+	border-top: 2px solid #f4c430
+}
+
+div#MenuSidebar>:first-child>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul {
+	list-style: none none;
+	width: 100%;
+	margin: 0
+}
+
+div#MenuSidebar ul {
+	position: relative;
+	font-size: .9rem
+}
+
+div#MenuSidebar>ul>li ul {
+	display: block;
+	opacity: 0;
+	pointer-events: none;
+	visibility: hidden;
+	transition: .2s all ease-in-out
+}
+
+div#MenuSidebar>ul ul {
+	list-style: none none;
+	position: absolute;
+	left: 100%;
+	width: 100%;
+	top: 0;
+	margin: 0;
+	z-index: 1;
+	background-color: #333;
+	box-shadow: -1px 2px 10px 0 rgba(0, 0, 0, 0.4), -1px -2px 10px 0 rgba(0, 0, 0, 0.4)
+}
+
+div#MenuSidebar ul li:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>p {
+	padding: 8px 10px;
+	margin: 0;
+	cursor: default;
+	margin-top: 8px
+}
+
+div#MenuSidebar>ul li:hover>ul {
+	display: block;
+	opacity: 1;
+	pointer-events: auto;
+	visibility: visible
+}
+
+div#MenuSidebar li {
+	position: relative;
+	margin: 0;
+	box-shadow: inset 0 1px rgba(244, 196, 48, 0.5);
+	transition: .15s all ease-in;
+	z-index: 1
+}
+
+div#MenuSidebar li b,
+div#MenuSidebar li a {
+	padding: 5px 0;
+	padding-left: 18px;
+	display: block;
+	width: auto;
+	height: 100%;
+	font-weight: normal
+}
+
+div#MenuSidebar a {
+	transition: all .15s ease-in;
+	color: #eaeaea
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	color: #000;
+	background-color: #f4c430;
+	text-decoration: none!important
+}
+
+div#MenuSidebar b {
+	cursor: default
+}
+
+div#MenuSidebar li.child>a::after,
+div#MenuSidebar li.child>b::after {
+	float: right;
+	content: "\f0da";
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	display: inherit;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 100%;
+	font-size: 1rem;
+	padding-top: 2%;
+	margin-right: 3px
+}
+
+div#MenuSidebar a.selflink:hover {
+	background-color: inherit;
+	color: #f4c430
+}
+
+div#MenuSidebar>ul>li:last-child>a,
+div#MenuSidebar>ul>li:last-child>b {
+	border-bottom-right-radius: 5px
+}
+
+div#MenuSidebar a.selflink::before {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	border-top: 6px solid transparent;
+	border-bottom: 6px solid transparent;
+	border-left: 6px solid #f4c430
+}
+
+div#MenuSidebar {
+	background-color: rgba(255, 255, 255, 0);
+	box-shadow: none;
+	top: 170px
+}
+
+div#MenuSidebar>ul {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.16), 0 2px 4px rgba(0, 0, 0, 0.23);
+	border-bottom-right-radius: 4px;
+	margin-top: -1px;
+	margin-bottom: 6px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: inset 0 1px #85c1f7;
+	margin-left: 0
+}
+
+div#MenuSidebar>ul ul {
+	background-color: hsla(0, 0%, 100%, 0.9);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+	border-radius: 4px;
+	width: unset!important;
+	z-index: 2
+}
+
+div#MenuSidebar>ul ul li {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul>li>ul {
+	width: 150%;
+	font-size: 100%
+}
+
+div#MenuSidebar>ul>li>ul ul {
+	font-size: 100%
+}
+
+div#MenuSidebar a,
+div#MenuSidebar b {
+	color: #333;
+	text-decoration: none!important
+}
+
+div#MenuSidebar>p {
+	border-top: 0;
+	border-bottom: 2px solid #4487df;
+	color: #4487df;
+	padding: 8px 10px 6px;
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.16), 0 0 4px rgba(0, 0, 0, 0.23);
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:first-child,
+div#MenuSidebar>:not(p)+ul {
+	border-top: 0;
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:not(p)+ul>:first-child {
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>ul>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul ul a,
+div#MenuSidebar>ul ul b {
+	padding: 5px 18px 5px 10px;
+	white-space: nowrap
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding-left: 18px
+}
+
+div#MenuSidebar li li.child>a::after,
+div#MenuSidebar li li.child>b::after {
+	float: unset;
+	position: absolute;
+	right: 0;
+	bottom: 5px
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	background-color: rgba(205, 235, 252, 0.4)
+}
+
+div#MenuSidebar a.selflink,
+div#MenuSidebar b.selflink {
+	font-weight: normal;
+	color: #333;
+	background-image: linear-gradient(90deg, #4487df 4px, transparent 4px)
+}
+
+div#MenuSidebar a.selflink:hover,
+div#MenuSidebar b.selflink:hover {
+	background-color: inherit;
+	color: #333
+}
+
+.skin-vector #left-navigation,
+.skin-vector #content {
+	margin-left: 10.5em
+}
+
+div#MenuSidebar>ul,
+div#MenuSidebar>p {
+	box-shadow: none;
+	border-radius: 0!important;
+	background-color: unset;
+	margin: 0
+}
+
+div#MenuSidebar>p {
+	font-weight: normal;
+	padding: 8px 10px 3px 10px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: none
+}
+
+div#MenuSidebar>p::after {
+	height: 4px;
+	display: block;
+	width: 100%;
+	position: absolute;
+	bottom: -8px;
+	left: 5px;
+	border-radius: 25px;
+	content: "";
+	background-image: linear-gradient(90deg, #4487df, transparent 95%)
+}
+
+div#MenuSidebar>p {
+	color: #4487df;
+	position: relative;
+	padding-left: 15px!important;
+	margin-top: 0!important;
+	margin-bottom: 8px!important;
+	border: 0!important
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding: 2px 0;
+	padding-left: 8px;
+	margin-top: 2px;
+	margin-left: 10px;
+	margin-right: 0;
+	border-radius: 5px 0 0 5px;
+	transition: .3s all ease;
+	color: #555
+}
+
+div#MenuSidebar>ul>:first-child>a,
+div#MenuSidebar>ul>:first-child>b {
+	margin-top: 5px
+}
+
+div#MenuSidebar>ul>li>a:HOVER,
+div#MenuSidebar>ul>li>b:HOVER {
+	background-color: rgba(34, 170, 255, 0.2);
+	color: black
+}
+
+div#MenuSidebar>ul>li>a.selflink {
+	background-color: rgba(34, 170, 255, 0.2)!important;
+	color: black!important
+}
+
+div#MenuSidebar>ul {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: 0;
+	background-image: none
+}
+
+div#MenuSidebar {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	border-radius: none!important;
+	padding-top: 40px;
+	box-shadow: none!important
+}
+
+div#MenuSidebar>ul>li.child>a::after,
+div#MenuSidebar>ul>li.child>b::after {
+	margin-right: 10px!important;
+	color: inherit!important;
+	padding-top: 1%!important;
+}
+
+div#MenuSidebar>ul>li>ul {
+	top: -4px
+}
+
+a.feedlink {
+	padding-left: 16px!important;
+}
+
+/* 为复制短链接增加一个图标 */
+#MenuSidebar #wgCopyURL-url-copy-sidebar::after {
+  content: "\f0c1";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-size: 70%;
+  margin-left: .4em;
+  color: var(--darkblue);
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“伊莉雅丝菲尔·冯·爱因兹贝伦”的源代码 
+←伊莉雅丝菲尔·冯·爱因兹贝伦
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}
+
+==基础数值==
+{{基础数值
+|背景颜色=#FFECF5
+|稀有度=5
+|获取途径=限定
+|序号=136
+|中文名=伊莉雅丝菲尔·冯·爱因兹贝伦
+|日文名=イリヤスフィール・フォン・アインツベルン
+|英文名=Illyasviel von Einzbern
+|中文战斗名=伊莉雅
+|日文战斗名=イリヤ
+|中文卡面名=伊莉雅丝菲尔·冯·爱因兹贝伦
+|日文卡面名=イリヤスフィール・フォン・アインツベルン
+|英文卡面名=Illyasviel von Einzbern
+|声优=门胁舞以
+|声优对应角色=伊莉雅
+|声优2=高野直子
+|声优2对应角色=红宝石
+|画师=HIROYAMA HIROSHI
+|属性1=中立
+|属性2=善
+|性别=女性
+|身高=133cm
+|体重=29kg
+|隐藏属性=人
+|职阶=Caster
+|筋力=E
+|耐久=C
+|敏捷=D
+|魔力=B
+|幸运=A
+|宝具=A+
+|基础ATK=1677
+|基础HP=2027
+|满级ATK=10857
+|满级HP=13825
+|90级ATK=10857
+|90级HP=13825
+|100级ATK=11885
+|100级HP=15146
+|第一张卡=Quick
+|第二张卡=Arts
+|第三张卡=Arts
+|第四张卡=Arts
+|第五张卡=Buster
+|Q卡np率=0.32%
+|A卡np率=0.32%
+|B卡np率=0.32%
+|EX卡np率=0.32%
+|宝具np率=0.32%
+|受击np率=3%
+|Q卡hit数=3
+|A卡hit数=5
+|B卡hit数=1
+|EX卡hit数=5
+|宝具卡hit数=4
+|Q卡伤害分布=16,33,51
+|A卡伤害分布=6,13,20,26,35
+|B卡伤害分布=100
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=10,20,30,40
+|出星率=10.7%
+|即死率=42.0%
+|暴击权重=51
+|特性1=伊莉雅
+|特性2=人科
+|特性3=活在当下的人类
+|人型=是
+|被EA特攻=是
+|昵称=伊莉雅，小学生
+|立绘1=第１阶段
+|文件1=伊莉雅丝菲尔·冯·爱因兹贝伦-卡面-1
+|立绘2=第２阶段
+|文件2=伊莉雅丝菲尔·冯·爱因兹贝伦-卡面-2
+|立绘3=第３阶段
+|文件3=伊莉雅丝菲尔·冯·爱因兹贝伦-卡面-3
+|立绘4=第４阶段
+|文件4=伊莉雅丝菲尔·冯·爱因兹贝伦-卡面-4
+|立绘5=圣约形态
+|文件5=伊莉雅丝菲尔·冯·爱因兹贝伦-卡面-灵衣
+|立绘6=愚人节
+|文件6=伊莉雅丝菲尔·冯·爱因兹贝伦-卡面-y}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{参阅|音乐鉴赏/宝具背景音乐合集#伊莉雅丝菲尔·冯·爱因兹贝伦|该从者的宝具背景音乐}}
+<tabber>
+强化后=通关幕间物语「[[伊莉雅丝菲尔·冯·爱因兹贝伦/从者任务#幕间物语|此等辉煌为何人]]」后强化。<br>
+''（开放条件：通关第七特异点，达到灵基再临第3阶段，达到羁绊Lv.4。开放时间：[[「剧场版Fate/kaleid liner 魔法少女☆伊莉雅 雪下的誓言」公开纪念活动]]。）''
+{{宝具
+|中文名=多元重奏饱和炮击
+|国服上标=Quintett Feuer
+|日文名=多元重奏飽和砲撃
+|日服上标=クウィンテットフォイア
+|卡色=Buster
+|类型=单体
+|阶级=EX
+|种类=对人宝具
+|效果A=自身Buster指令卡性能提升(1回合)<Over Charge时效果提升>
+|数值A1=20%|数值A2=40%|数值A3=60%|数值A4=80%|数值A5=100%
+|效果B=NP获得量提升(3回合)
+|数值B1=20%
+|效果C=暴击星掉落率提升(3回合)
+|数值C1=20%
+|效果D=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值D1=800%|数值D2=1000%|数值D3=1100%|数值D4=1150%|数值D5=1200%
+|效果E=自身攻击力与防御力下降(3回合)【负面效果】
+|数值E1=10%
+}}
+|-|
+强化前=
+{{宝具
+|中文名=多元重奏饱和炮击
+|国服上标=Quintett Feuer
+|日文名=多元重奏飽和砲撃
+|日服上标=クウィンテットフォイア
+|卡色=Buster
+|类型=单体
+|阶级=A+
+|种类=对人宝具
+|效果A=自身Buster指令卡性能提升(1回合)<Over Charge时效果提升>
+|数值A1=20%|数值A2=35%|数值A3=50%|数值A4=65%|数值A5=80%
+|效果B=对敌方单体发动超强大的攻击<宝具升级效果提升>
+|数值B1=600%|数值B2=800%|数值B3=900%|数值B4=950%|数值B5=1000%
+|效果C=自身攻击力与防御力下降(3回合)【负面效果】
+|数值C1=10%
+}}
+</tabber>
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|红放|愉快型魔术礼装 A|愉快型魔術礼装 A|7
+|自身Buster指令卡性能提升(1回合)|30%|32%|34%|36%|38%|40%|42%|44%|46%|50%
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|无敌|自然的婴儿 B|自然の嬰児 B|8
+|付与自身无敌状态(1回合)|∅|||||||||
+|NP获得量提升(3回合)|18%|19%|20%|21%|22%|23%|24%|25%|26%|28%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|回血|可疑的药 A|あやしい薬 A|8
+|随机付与己方单体各种效果|∅|||||||||
+|70%概率付与毅力状态(1次·3回合)|1000|||||||||
+|70%概率付与弱化无效状态(1次)|∅|||||||||
+|HP回复|1000|1200|1400|1600|1800|2000|2200|2400|2600|3000
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力|B|自身的弱化状态耐性提升(17.5%)|回合充能|无限的魔力供给|C|付与自身每回合获得NP的状态(3%)}}
+{{review|content=宝具&技能|user=Seniorious|time=2018年6月7日}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=5
+|0->1={{材料消耗|术阶银棋|5}}
+|1->2={{材料消耗|术阶银棋|12}}{{材料消耗|世界树之种|9}}
+|2->3={{材料消耗|术阶金像|5}}{{材料消耗|禁断书页|10}}{{材料消耗|凤凰羽毛|4}}
+|3->4={{材料消耗|术阶金像|12}}{{材料消耗|凤凰羽毛|8}}{{材料消耗|智慧之圣甲虫像|5}}
+|总计={{材料消耗|术阶银棋|17}}{{材料消耗|术阶金像|17}}{{材料消耗|凤凰羽毛|12}}{{材料消耗|世界树之种|9}}{{材料消耗|禁断书页|10}}{{材料消耗|智慧之圣甲虫像|5}}
+}}
+
+===技能强化===
+{{技能升级素材
+|稀有度=5
+|1->2={{材料消耗|术之辉石|5}}
+|2->3={{材料消耗|术之辉石|12}}
+|3->4={{材料消耗|术之魔石|5}}
+|4->5={{材料消耗|术之魔石|12}}{{材料消耗|禁断书页|5}}
+|5->6={{材料消耗|术之秘石|5}}{{材料消耗|禁断书页|10}}
+|6->7={{材料消耗|术之秘石|12}}{{材料消耗|世界树之种|6}}
+|7->8={{材料消耗|世界树之种|12}}{{材料消耗|人工生命体幼体|6}}
+|8->9={{材料消耗|人工生命体幼体|18}}{{材料消耗|精灵根|10}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|术之辉石|17}}{{材料消耗|术之魔石|17}}{{材料消耗|术之秘石|17}}{{材料消耗|世界树之种|18}}{{材料消耗|禁断书页|15}}{{材料消耗|人工生命体幼体|24}}{{材料消耗|精灵根|10}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|术阶银棋|17}}{{材料消耗|术阶金像|17}}{{材料消耗|术之辉石|51}}{{材料消耗|术之魔石|51}}{{材料消耗|术之秘石|51}}{{材料消耗|凤凰羽毛|12}}{{材料消耗|世界树之种|63}}{{材料消耗|禁断书页|55}}{{材料消耗|人工生命体幼体|72}}{{材料消耗|精灵根|30}}{{材料消耗|智慧之圣甲虫像|5}}{{材料消耗|传承结晶|3}}
+|稀有度=5
+}}
+
+===灵衣开放===
+{{参阅|灵衣一览|其他从者的灵衣相关信息}}
+{{灵衣开放素材
+|灵衣名称=テスタメント・フォーム<br>圣约形态
+|素材={{材料消耗|虚影之尘|10}}{{材料消耗|人工生命体幼体|5}}{{材料消耗|封魔之灯|5}}{{材料消耗|蛮神心脏|5}}
+}}
+
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+就读于穗群原学园小学部的普通女孩子。
+银发赤眼，名字很有贵族的风格，
+常不在家的双亲从事神秘的工作，
+分明是普通住家，却不知为何有两位女仆在，
+顺便还有一个没有血缘关系的哥哥，
+但还是一个非常普通的小学五年级女孩子。
+
+|详情日文=
+穂群原学園小等部に通う、ごく普通の女の子。
+銀髪赤目で名前が貴族っぽくて、
+留守がちな両親は謎の仕事をしていて、
+なぜか一般邸宅にメイドが二人も居て、
+ついでに血の繋がらない兄がいるけれど、
+ごくごく普通の小五女子である。
+
+|资料1条件=
+|资料1=
+身高／体重：133cm·29kg
+出处：Fate/kaleid liner 魔法少女☆伊莉雅
+地域：日本·冬木市
+属性：中立·善　　　性别：女性
+其实已经习惯于迷失在其他世界中了。很正常很正常。
+
+|资料1日文=
+身長／体重：133cm・29kg
+出典：Fate/kaleid liner プリズマ☆イリヤ
+地域：日本・冬木市
+属性：中立・善　　　性別：女性
+別世界に迷い込むのはわりと慣れっこ。普通普通。
+
+|资料2条件=
+|资料2=
+某天晚上，伊莉雅正打算洗个澡给观众送福利的时候，
+一把魔法杖从夜空中突然来袭。
+被这把会扭来扭去地动，还喋喋不休地说话的
+可疑度MAX的杖子诱骗上当，
+如今的魔法少女Prisma☆伊莉雅才闪亮诞生了。
+当然，对班上的各位可是保密的哦☆
+
+——这天夜晚，邂逅了命运。
+
+|资料2日文=
+ある晩、いつものようにイリヤがお風呂でテコ入れをしていると、夜空から魔法のステッキが襲来。
+グネグネ動いてベラベラしゃべる、
+うさん臭さＭＡＸのステッキにまんまと丸め込まれ、
+今ここに魔法少女プリズマ☆イリヤが
+爆誕してしまったのである。
+もちろん、クラスのみんなには内緒だゾ☆
+
+―――その晩、運命に出会う。
+
+|资料3条件=
+|资料3=
+驯服奇妙的杖子，
+打开寡言少女的心灵，
+将企图杀害自己的少女当做家人迎接，
+总之适应能力与沟通能力极为强大。
+说得难听一点就是容易被影响的体质。
+在不断被影响的过程中，终于来到了迦勒底，
+不过应该也能适应这里吧。
+只要有魔法杖、追求未来的意志，
+以及可爱到有些狡猾的可爱，一定能行。
+
+|资料3日文=
+ヘンテコステッキを手懐けたり、
+寡黙な少女の心を開かせたり、
+自分を殺しに来た少女を家族として迎え入れたりと、
+なにげに適応力とコミュ力が極めて高い。
+悪く言えば流され体質。
+流されに流されて、ついにはカルデアまで来てしまったが、ここでもそれなりにやっていけるだろう。
+魔法のステッキと、未来を求める意思と、
+あざといまでの可愛いさがあればきっと。
+
+|资料4条件=
+|资料4=
+『多元重奏饱和炮击』
+阶级：A+　种类：对人宝具
+Quintett Feuer
+通过将肌肉系统、神经系统、血管系统、淋巴系统被拟似地误认为魔术回路，来提升瞬间输出力量的舍身一击。
+游走全身的五种回路奏响的雄壮魔力奔流甚至具备能与星光相匹敌的歼灭力。
+
+|资料4日文=
+『多元重奏飽和砲撃』
+ランク：Ａ＋　種別：対人宝具
+クウィンテットフォイア。
+筋系、神経系、血管系、リンパ系を擬似的な魔術回路と誤認させることにより、瞬間的な出力を得る捨て身の技。
+全身を巡る五つの回路が奏で上げた壮絶な魔力の奔流は、星の光にも匹敵する殲滅力を誇る。
+
+|资料5条件=
+|资料5=
+○可疑的药：A
+红宝石每天晚上在阁楼里精炼的神秘药物。
+正可谓琥珀药草。
+原料主要是植物（毒草）。
+不为人知地在爱因兹家庭院种植可疑的花草，据说已经形成了只要被人看到必然会报警的异常花园了。
+效果卓越到令人后怕，多半不会导致什么好结果，所以尽可能不要使用。
+
+|资料5日文=
+○あやしい薬：Ａ
+ルビーが夜な夜な屋根裏部屋で精製している謎のお薬。まさにアンバーハーブ。
+原料は主に植物（毒草）。
+人知れずアインツ家の裏庭に怪しげな草花を植え付けて、見る人が見れば通報もののサイコガーデンを形成しているとの噂。
+怖いくらいに効果は抜群なのだが、大抵はろくでもない展開になるのでなるべく使用は控えたい。
+
+|资料6条件=
+羁绊达到Lv.5后开放
+
+|资料6=
+这位伊莉雅丝菲尔是「她」可能存在的if的样子。
+是某些成年人反抗命运、祈祷、并赌上性命成功守护的「极为普通的女孩子」。
+抚养孩子，然后终将发现。
+存在于平凡中的幸福，才是这世间最难能可贵的愿望。
+
+——所以，伊莉雅一定不会犯错。
+哪怕残酷的命运逼迫她选择，哪怕为挡在面前的现实感到犹豫不决，最后也一定能抵达。
+她的目标，是真正的大团圆。
+
+|资料6日文=
+このイリヤスフィールは、「彼女」のあり得たかもしれないifの姿である。
+とある大人達が運命に抗い、願い、そして命を賭して守り通した「ごく普通の女の子」。
+子は育ち、そしていつか気付くだろう。
+ごく普通にそこにあった幸せこそが、この世で最も得がたく尊い願いなのだと。
+
+―――だからきっと、イリヤは間違えない。
+たとえ過酷な運命が選択を迫っても、横たわる現実を前にして惑っても、最後には必ず辿り着く。
+彼女が目指す、本当のハッピーエンドへと。
+
+}}
+
+===愚人节===
+{{愚人节资料|侵权复核=1
+|中文=
+魔法从者
+在空中飞翔的魔法少女。有着第一灵基才最棒派和第二灵基才是王道派，以及最爱巅峰状态的第三灵基派这些派系存在。你属于哪一派？
+
+|日文=
+マジカルサーヴァント
+空飛ぶ魔法少女。霊基第一こそ至高派と霊基第二派こそ王道、そしてクライマックス大好き霊基第三派という派閥が存在する。君はどの派閥？
+}}
+
+==羁绊点数==
+{{羁绊点数|2500|3750|5000|6250|10000|257500|261000|309000|343600|431400|5}}
+
+==相关礼装==
+{{参阅|伊莉雅丝菲尔·冯·爱因兹贝伦/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|伊莉雅丝菲尔·冯·爱因兹贝伦|yy}}
+{{参阅|伊莉雅丝菲尔·冯·爱因兹贝伦/情人节剧情语音|该从者情人节剧情的语音}}
+{{:伊莉雅丝菲尔·冯·爱因兹贝伦/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=#FF95CA
+|文字颜色=white
+|图标1=伊莉雅头像1.png
+|图标2=伊莉雅头像2.png
+|图标3=伊莉雅头像3.png
+|灵衣1=圣约形态
+|灵衣1图标=伊莉雅头像_圣约.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=#FF95CA
+|文字颜色=white
+|模型1=伊莉雅模型1.png
+|模型2=伊莉雅模型2.png
+|模型3=伊莉雅模型3.png
+|灵衣1=圣约形态
+|灵衣1模型=圣约 model v3.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+
+==国服未来Pick Up情况==
+{{#Widget:Collapsible-block/core}}
+{{Collapsible-block|title1={{fa|plus}} 显示卡池|title2={{fa|minus}} 隐藏卡池|content={{:{{FULLPAGENAME}}/未来Pick_Up情况}}}}
+
+==注释和链接==
+<references/>{{外部参阅|mode=mg|标题=伊莉雅丝菲尔·冯·爱因兹贝伦(Fate/kaleid_liner)}}
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+伊莉雅丝菲尔·冯·爱因兹贝伦/成长曲线（查看源代码）伊莉雅丝菲尔·冯·爱因兹贝伦/未来Pick Up情况（查看源代码）伊莉雅丝菲尔·冯·爱因兹贝伦/语音（查看源代码）手工爱情巧克力（查看源代码）梦幻召唤（Install）（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Basepage subpage（查看源代码）模板:Category handler（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Collapsible-block（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/next（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Review（查看源代码）模板:Top icon（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:中国（查看源代码）模板:从者图标（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:外部参阅（查看源代码）模板:外部参阅/mode（查看源代码）模板:宝具（查看源代码）模板:愚人节资料（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:日本（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:灵衣开放素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:英灵未来pickup（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模板:黑幕（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）模块:VoiceTable（查看源代码）（受保护）返回至伊莉雅丝菲尔·冯·爱因兹贝伦。
+ 
+						取自“http://fgo.wiki/w/伊莉雅丝菲尔·冯·爱因兹贝伦”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+英灵图鉴礼装图鉴指令纹章图鉴游戏数据基础各类信息汇总新人御主Q＆A抽卡模拟器 
+
+
+
+热门
+
+
+国服：冥界的圣诞快乐日服：魔伊联动复刻★5(SSR)埃列什基伽勒★4(SR)美游·艾德费尔特 
+
+
+
+扩展
+
+
+关卡配置活动一览卡池一览道具一览灵衣一览敌人一览技能一览状态一览御主装备音乐鉴赏声优一览画师一览登场人物关卡特性相关数据计算器 
+
+
+
+趣味
+
+
+FGO相关表情包FGO名人录FGO黑话·梗·成句游戏卫星一览趣味游戏 
+
+
+
+常用
+
+
+首页最近更改随机页面SE.RA.PH模板一览编辑指南贡献分数页面短链接如何支持我们收支一览点我反馈 
+
+
+
+工具
+
+
+链入页面相关更改特殊页面页面信息 
+
+
+window.toolbox=document.querySelector("#p-tb ul").innerHTML;var a=document.querySelectorAll("#mw-panel > *");for (var i=0;i<a.length;i++){if(a[i].id!="p-logo"){a[i].parentNode.removeChild(a[i])}}首页
+复制短链接https://fgo.wiki/id/605
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：『Fate/Requiem』棋盘游戏默示录
+国服：淑女·莱妮丝事件簿
+
+新增从者
+★4(SR) 鬼女红叶(Berserker)
+★5(SSR) 旅行者(Foreigner)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+事件簿联动活动推荐召唤
+
+日服
+FR联动推荐召唤
+FR联动开幕前夕推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+Bigfun社区-FGO版块
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具document.querySelector("#MSToolbox").innerHTML=window.toolbox;childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")};childlist = document.querySelectorAll("#MenuSidebar > ul#MSToolbox > li");for(var i=0;i<childlist.length;i++){if(childlist[i].innerHTML === ""){childlist[i].parentNode.removeChild(childlist[i])}};
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+    var commentStyle = document.createElement("style");
+    commentStyle.type = "text/css";
+    commentStyle.innerHTML = ".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+    commentStyle.id = "addCommentStyle";
+    document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+ 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":129});});
+
+

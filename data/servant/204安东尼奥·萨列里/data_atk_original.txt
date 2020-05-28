@@ -1,0 +1,278 @@
+﻿
+
+
+查看“安东尼奥·萨列里/成长曲线”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"安东尼奥·萨列里/成长曲线","wgTitle":"安东尼奥·萨列里/成长曲线","wgCurRevisionId":50618,"wgRevisionId":0,"wgArticleId":17760,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"安东尼奥·萨列里/成长曲线","wgRelevantArticleId":17760,"wgRequestId":"85cc7801a540b1d3ea3f96eb","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0h5vqaa",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+
+
+ 
+
+
+
+日服近期更新了Android版客户端，我们为您准备了安装文件。（查看详情）
+
+
+查看“安东尼奥·萨列里/成长曲线”的源代码 
+←安东尼奥·萨列里/成长曲线
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+
+
+
+您可以查看与复制此页面的源代码。
+{{成长曲线|数据=
+{"lv": 1, "HP": 1411, "ATK": 1509},{"lv": 2, "HP": 1501, "ATK": 1601},{"lv": 3, "HP": 1591, "ATK": 1694},{"lv": 4, "HP": 1687, "ATK": 1793},{"lv": 5, "HP": 1777, "ATK": 1886},{"lv": 6, "HP": 1873, "ATK": 1985},{"lv": 7, "HP": 1963, "ATK": 2077},{"lv": 8, "HP": 2060, "ATK": 2177},{"lv": 9, "HP": 2150, "ATK": 2269},{"lv": 10, "HP": 2246, "ATK": 2369},{"lv": 11, "HP": 2336, "ATK": 2461},{"lv": 12, "HP": 2433, "ATK": 2560},{"lv": 13, "HP": 2523, "ATK": 2653},{"lv": 14, "HP": 2619, "ATK": 2752},{"lv": 15, "HP": 2709, "ATK": 2845},{"lv": 16, "HP": 2806, "ATK": 2944},{"lv": 17, "HP": 2896, "ATK": 3037},{"lv": 18, "HP": 2992, "ATK": 3136},{"lv": 19, "HP": 3082, "ATK": 3229},{"lv": 20, "HP": 3178, "ATK": 3328},{"lv": 21, "HP": 3268, "ATK": 3421},{"lv": 22, "HP": 3365, "ATK": 3520},{"lv": 23, "HP": 3455, "ATK": 3612},{"lv": 24, "HP": 3551, "ATK": 3712},{"lv": 25, "HP": 3641, "ATK": 3804},{"lv": 26, "HP": 3738, "ATK": 3903},{"lv": 27, "HP": 3828, "ATK": 3996},{"lv": 28, "HP": 3924, "ATK": 4095},{"lv": 29, "HP": 4014, "ATK": 4188},{"lv": 30, "HP": 4111, "ATK": 4287},{"lv": 31, "HP": 4201, "ATK": 4380},{"lv": 32, "HP": 4297, "ATK": 4479},{"lv": 33, "HP": 4387, "ATK": 4572},{"lv": 34, "HP": 4484, "ATK": 4671},{"lv": 35, "HP": 4574, "ATK": 4764},{"lv": 36, "HP": 4670, "ATK": 4863},{"lv": 37, "HP": 4760, "ATK": 4955},{"lv": 38, "HP": 4856, "ATK": 5055},{"lv": 39, "HP": 4946, "ATK": 5147},{"lv": 40, "HP": 5043, "ATK": 5247},{"lv": 41, "HP": 5133, "ATK": 5339},{"lv": 42, "HP": 5229, "ATK": 5438},{"lv": 43, "HP": 5319, "ATK": 5531},{"lv": 44, "HP": 5416, "ATK": 5630},{"lv": 45, "HP": 5506, "ATK": 5723},{"lv": 46, "HP": 5602, "ATK": 5822},{"lv": 47, "HP": 5692, "ATK": 5915},{"lv": 48, "HP": 5789, "ATK": 6014},{"lv": 49, "HP": 5879, "ATK": 6107},{"lv": 50, "HP": 5975, "ATK": 6206},{"lv": 51, "HP": 6065, "ATK": 6298},{"lv": 52, "HP": 6162, "ATK": 6398},{"lv": 53, "HP": 6252, "ATK": 6490},{"lv": 54, "HP": 6348, "ATK": 6590},{"lv": 55, "HP": 6438, "ATK": 6682},{"lv": 56, "HP": 6534, "ATK": 6781},{"lv": 57, "HP": 6624, "ATK": 6874},{"lv": 58, "HP": 6721, "ATK": 6973},{"lv": 59, "HP": 6811, "ATK": 7066},{"lv": 60, "HP": 6907, "ATK": 7165},{"lv": 61, "HP": 6997, "ATK": 7258},{"lv": 62, "HP": 7094, "ATK": 7357},{"lv": 63, "HP": 7184, "ATK": 7450},{"lv": 64, "HP": 7280, "ATK": 7549},{"lv": 65, "HP": 7370, "ATK": 7642},{"lv": 66, "HP": 7467, "ATK": 7741},{"lv": 67, "HP": 7557, "ATK": 7833},{"lv": 68, "HP": 7653, "ATK": 7933},{"lv": 69, "HP": 7743, "ATK": 8025},{"lv": 70, "HP": 7840, "ATK": 8125},{"lv": 71, "HP": 7930, "ATK": 8217},{"lv": 72, "HP": 8020, "ATK": 8310},{"lv": 73, "HP": 8116, "ATK": 8409},{"lv": 74, "HP": 8206, "ATK": 8502},{"lv": 75, "HP": 8302, "ATK": 8601},{"lv": 76, "HP": 8392, "ATK": 8693},{"lv": 77, "HP": 8489, "ATK": 8793},{"lv": 78, "HP": 8579, "ATK": 8885},{"lv": 79, "HP": 8675, "ATK": 8985},{"lv": 80, "HP": 8765, "ATK": 9077},{"lv": 81, "HP": 8862, "ATK": 9176},{"lv": 82, "HP": 8952, "ATK": 9269},{"lv": 83, "HP": 9048, "ATK": 9368},{"lv": 84, "HP": 9138, "ATK": 9461},{"lv": 85, "HP": 9235, "ATK": 9560},{"lv": 86, "HP": 9325, "ATK": 9653},{"lv": 87, "HP": 9421, "ATK": 9752},{"lv": 88, "HP": 9511, "ATK": 9845},{"lv": 89, "HP": 9607, "ATK": 9944},{"lv": 90, "HP": 9697, "ATK": 10037},{"lv": 91, "HP": 9794, "ATK": 10136},{"lv": 92, "HP": 9884, "ATK": 10228},{"lv": 93, "HP": 9980, "ATK": 10328},{"lv": 94, "HP": 10070, "ATK": 10420},{"lv": 95, "HP": 10167, "ATK": 10519},{"lv": 96, "HP": 10257, "ATK": 10612},{"lv": 97, "HP": 10353, "ATK": 10711},{"lv": 98, "HP": 10443, "ATK": 10804},{"lv": 99, "HP": 10540, "ATK": 10903},{"lv": 100, "HP": 10630, "ATK": 10996}
+}}
+该页面使用的模板：
+
+模板:成长曲线（查看源代码）返回至安东尼奥·萨列里/成长曲线。
+ 
+						取自“http://fgo.wiki/w/安东尼奥·萨列里/成长曲线”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+var a = {"whatlinkshere":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2\/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%90%A8%E5%88%97%E9%87%8C\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","id":"t-whatlinkshere"},"recentchangeslinked":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9\/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%90%A8%E5%88%97%E9%87%8C\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF","msg":"recentchangeslinked-toolbox","id":"t-recentchangeslinked","rel":"nofollow"},"specialpages":{"href":"\/w\/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2","id":"t-specialpages"},"info":{"text":"页面信息","href":"\/index.php?title=%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%90%A8%E5%88%97%E9%87%8C\/%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF&action=info","id":"t-info"}};console.log(a);var b = "  ";console.log(b);首页
+复制短链接https://fgo.wiki/id/17760
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：Lostbelt No.5 星间都市山脉 奥林匹斯 击坠神明之日
+国服：幕间物语活动 第8弹
+
+新增从者
+★4(SR) 凯妮斯(Lancer)
+★5(SSR) 狄俄斯库里(Saber)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迦勒底男性精选2020推荐召唤
+
+日服
+奥林匹斯推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具链入页面相关更改特殊页面页面信息
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+var commentStyle = document.createElement("style");
+commentStyle.type = "text/css";
+commentStyle.innerHTML=".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+commentStyle.id="addCommentStyle";
+document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")} 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117});});
+
+
