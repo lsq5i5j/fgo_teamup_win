@@ -199,7 +199,7 @@ class Ui_SelectLevel(QDialog, SelectLevelUi.Ui_Dialog):
 		else:
 			servant_id = 0
 
-		pic_path = 'pic/servant_logo/servant' + str(servant_id).zfill(3) + '.jpg'
+		pic_path = 'pic/servant_logo/Servant' + str(servant_id).zfill(3) + '.jpg'
 		dict1 = {'序号': servant_id, '中文名': name, '职阶': enemy_class, '类别': type, 'NP敌补正': np_type, '血量': health, '图片路径': pic_path}
 		return dict1
 

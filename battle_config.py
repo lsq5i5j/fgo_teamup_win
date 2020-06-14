@@ -118,7 +118,7 @@ class Servant(Role):
         self.np_level = np_level  # 宝具数
         self.level = level  # 等级
         self.oc_level = 1  # 过冲能等级
-        self.pic_path = "./pic/servant_logo/servant" + str(self.servant_id).zfill(3) + ".jpg"
+        self.pic_path = "./pic/servant_logo/Servant" + str(self.servant_id).zfill(3) + ".jpg"
 
         # 确定从者文件夹路径
         path = ''

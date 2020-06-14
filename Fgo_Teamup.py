@@ -632,7 +632,7 @@ class Ui_MainWindow(QMainWindow, MainUi.Ui_MainWindow):
 			text = '技能: \n宝具: \n等级: \n芙芙: '
 			if i == 1:
 				servant_id = self.servant_1['ID']
-				pic_path = "./pic/servant_logo/servant" + str(servant_id).zfill(3) + ".jpg"
+				pic_path = "./pic/servant_logo/Servant" + str(servant_id).zfill(3) + ".jpg"
 				if servant_id != 0:
 					pixmap = QPixmap(pic_path)
 					icon.addPixmap(pixmap, QIcon.Normal, QIcon.Off)
@@ -646,7 +646,7 @@ class Ui_MainWindow(QMainWindow, MainUi.Ui_MainWindow):
 				'''
 			elif i == 2:
 				servant_id = self.servant_2['ID']
-				pic_path = "./pic/servant_logo/servant" + str(servant_id).zfill(3) + ".jpg"
+				pic_path = "./pic/servant_logo/Servant" + str(servant_id).zfill(3) + ".jpg"
 				if servant_id != 0:
 					pixmap = QPixmap(pic_path)
 					icon.addPixmap(pixmap, QIcon.Normal, QIcon.Off)
@@ -660,7 +660,7 @@ class Ui_MainWindow(QMainWindow, MainUi.Ui_MainWindow):
 				'''
 			elif i == 3:
 				servant_id = self.servant_3['ID']
-				pic_path = "./pic/servant_logo/servant" + str(servant_id).zfill(3) + ".jpg"
+				pic_path = "./pic/servant_logo/Servant" + str(servant_id).zfill(3) + ".jpg"
 				if servant_id != 0:
 					pixmap = QPixmap(pic_path)
 					icon.addPixmap(pixmap, QIcon.Normal, QIcon.Off)
@@ -674,7 +674,7 @@ class Ui_MainWindow(QMainWindow, MainUi.Ui_MainWindow):
 				'''
 			elif i == 4:
 				servant_id = self.servant_4['ID']
-				pic_path = "./pic/servant_logo/servant" + str(servant_id).zfill(3) + ".jpg"
+				pic_path = "./pic/servant_logo/Servant" + str(servant_id).zfill(3) + ".jpg"
 				if servant_id != 0:
 					pixmap = QPixmap(pic_path)
 					icon.addPixmap(pixmap, QIcon.Normal, QIcon.Off)
@@ -683,7 +683,7 @@ class Ui_MainWindow(QMainWindow, MainUi.Ui_MainWindow):
 				self.label_servant_state_4.setText(text)
 			elif i == 5:
 				servant_id = self.servant_5['ID']
-				pic_path = "./pic/servant_logo/servant" + str(servant_id).zfill(3) + ".jpg"
+				pic_path = "./pic/servant_logo/Servant" + str(servant_id).zfill(3) + ".jpg"
 				if servant_id != 0:
 					pixmap = QPixmap(pic_path)
 					icon.addPixmap(pixmap, QIcon.Normal, QIcon.Off)
@@ -692,7 +692,7 @@ class Ui_MainWindow(QMainWindow, MainUi.Ui_MainWindow):
 				self.label_servant_state_5.setText(text)
 			elif i == 6:
 				servant_id = self.servant_6['ID']
-				pic_path = "./pic/servant_logo/servant" + str(servant_id).zfill(3) + ".jpg"
+				pic_path = "./pic/servant_logo/Servant" + str(servant_id).zfill(3) + ".jpg"
 				if servant_id != 0:
 					pixmap = QPixmap(pic_path)
 					icon.addPixmap(pixmap, QIcon.Normal, QIcon.Off)

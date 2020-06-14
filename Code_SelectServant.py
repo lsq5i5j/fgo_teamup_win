@@ -328,7 +328,7 @@ class Ui_SelectServant(QDialog, SelectServantUi.Ui_Dialog):
 
 			self.chosen_servant_level = level_list[int(self.chosen_servant_holygrail)]
 			# 显示设置的数据
-			pix = QPixmap("./pic/servant_logo/servant" + str(self.chosen_servant_id).zfill(3) + ".jpg")
+			pix = QPixmap("./pic/servant_logo/Servant" + str(self.chosen_servant_id).zfill(3) + ".jpg")
 			self.label_servant_pic.setPixmap(pix)
 			self.label_servant_pic.setScaledContents(True)
 			self.label_servant_level.setText('等级('+str(self.chosen_servant_level)+')')
@@ -422,7 +422,7 @@ class Ui_SelectServant(QDialog, SelectServantUi.Ui_Dialog):
 		for i in range(30):
 			icon = QIcon()
 			if i < len(self.chosen_list):
-				icon.addPixmap(QPixmap("./pic/servant_logo/servant" + str(self.chosen_list[i]).zfill(3) + ".jpg"), QIcon.Normal, QIcon.Off)
+				icon.addPixmap(QPixmap("./pic/servant_logo/Servant" + str(self.chosen_list[i]).zfill(3) + ".jpg"), QIcon.Normal, QIcon.Off)
 			self.set_icon(i, icon)
 
 	def servant_list(self):
