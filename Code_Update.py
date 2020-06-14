@@ -20,7 +20,7 @@ class Ui_Update(QDialog, UpdateUi.Ui_Dialog):
 		super(Ui_Update, self).__init__()
 		self.setupUi(self)
 		# github项目名称
-		self.git_name_data = 'Fgo_teamup_database'
+		self.git_name_data = 'Fgo_teamup_database_beta_v1.31'
 		self.git_name_software = 'Fgo_teamup_software'
 		# 获取本地时间
 		self.local_time = time.localtime()
@@ -69,8 +69,6 @@ class Ui_Update(QDialog, UpdateUi.Ui_Dialog):
 		else:
 			text = '没有可清除的备份文件。'
 			QMessageBox.information(self, '提  示', text)
-
-
 
 	def get_local_version(self):
 		# 获取本地版本数据
@@ -159,7 +157,10 @@ class Ui_Update(QDialog, UpdateUi.Ui_Dialog):
 			r = requests.get(url).json()
 		except:
 			return '无法和服务器建立连接, 请稍后再试'
-		self.data_time_new = r['updated_at']
+		try:
+			self.data_time_new = r['updated_at']
+		except:
+			return '当前版本软件的数据库已不再维护, 请下载新版本'
 		time_old = time.strptime(self.data_time_old, "%Y-%m-%dT%H:%M:%SZ")
 		time_new = time.strptime(self.data_time_new, "%Y-%m-%dT%H:%M:%SZ")
 		if time_new > time_old:
@@ -168,6 +169,10 @@ class Ui_Update(QDialog, UpdateUi.Ui_Dialog):
 			return 'False'
 
 	def download_data_update(self):
+		# 禁止按钮
+		self.btn_remove_backup.setEnabled(False)
+		self.btn_data_confirm.setEnabled(False)
+		self.btn_data_update.setEnabled(False)
 		# 首先下载文件
 		self.label_data_state.setText('开始下载...')
 		QApplication.processEvents()
@@ -224,10 +229,14 @@ class Ui_Update(QDialog, UpdateUi.Ui_Dialog):
 		time.sleep(1)
 		self.label_data_state.setText('更新完成!')
 		QApplication.processEvents()
+		self.btn_remove_backup.setEnabled(True)
+		self.btn_data_confirm.setEnabled(True)
+		self.btn_data_update.setEnabled(True)
 		text = '更新完成, 请重新启动程序来更新数据。是否关闭程序？'
 		reply = QMessageBox.question(self, '提  示', text, QMessageBox.Yes | QMessageBox.No, QMessageBox.Yes)
 		if reply == QMessageBox.Yes:
 			sys.exit()
+
 
 	def check_software(self):
 		self.label_software_new.setText('')

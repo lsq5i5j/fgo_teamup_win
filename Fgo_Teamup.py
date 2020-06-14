@@ -206,7 +206,7 @@ class Ui_MainWindow(QMainWindow, MainUi.Ui_MainWindow):
 		self.update_window.show()
 
 	def open_about(self):
-		QMessageBox.information(self, 'FGO周回组队器', '版本信息: beta v1.30\n更新日期: 2020/05/30')
+		QMessageBox.information(self, 'FGO周回组队器', '版本信息: beta v1.31  \n更新日期: 2020/06/05  ')
 
 	@staticmethod
 	def open_mooncell():

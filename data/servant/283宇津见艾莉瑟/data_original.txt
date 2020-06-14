@@ -1,0 +1,1065 @@
+﻿
+
+
+查看“宇津见艾莉瑟”的源代码 - Mooncell - 玩家自由构筑的FGO中文Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"宇津见艾莉瑟","wgTitle":"宇津见艾莉瑟","wgCurRevisionId":288858,"wgRevisionId":0,"wgArticleId":53474,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"宇津见艾莉瑟","wgRelevantArticleId":53474,"wgRequestId":"289831e60655be0fc4f1fe1a","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","srfFilteredConfig":null,"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.charinsert.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0lsxqe2",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Filterable","ext.gadget.commentEmoji","ext.gadget.Semicollapse","ext.gadget.Edittools","ext.gadget.Carousel","ext.collapsiblevector.collapsibleNav","ext.charinsert","ext.CodeMirror","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158174062-2');
+
+
+ type="text/css"/* 这里放置的CSS将应用于所有皮肤的侧边栏 */
+.skin-vector .mw-body {
+	margin-left: 11em!important;
+	padding: 1.25em 1.5em 1.5em 1.5em!important
+}
+
+.skin-vector #mw-panel {
+	padding-left: 0!important;
+	width: 10.5em!important
+}
+
+div#MenuSidebar {
+	margin-bottom: 5rem;
+	position: absolute;
+	top: 200px;
+	width: 100%
+}
+
+div#MenuSidebar a.external {
+	background: 0;
+	padding-right: auto
+}
+
+div#MenuSidebar>:first-child {
+	margin-top: 0;
+	border-top: 2px solid #f4c430
+}
+
+div#MenuSidebar>:first-child>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul {
+	list-style: none none;
+	width: 100%;
+	margin: 0
+}
+
+div#MenuSidebar ul {
+	position: relative;
+	font-size: .9rem
+}
+
+div#MenuSidebar>ul>li ul {
+	display: block;
+	opacity: 0;
+	pointer-events: none;
+	visibility: hidden;
+	transition: .2s all ease-in-out
+}
+
+div#MenuSidebar>ul ul {
+	list-style: none none;
+	position: absolute;
+	left: 100%;
+	width: 100%;
+	top: 0;
+	margin: 0;
+	z-index: 1;
+	background-color: #333;
+	box-shadow: -1px 2px 10px 0 rgba(0, 0, 0, 0.4), -1px -2px 10px 0 rgba(0, 0, 0, 0.4)
+}
+
+div#MenuSidebar ul li:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>p {
+	padding: 8px 10px;
+	margin: 0;
+	cursor: default;
+	margin-top: 8px
+}
+
+div#MenuSidebar>ul li:hover>ul {
+	display: block;
+	opacity: 1;
+	pointer-events: auto;
+	visibility: visible
+}
+
+div#MenuSidebar li {
+	position: relative;
+	margin: 0;
+	box-shadow: inset 0 1px rgba(244, 196, 48, 0.5);
+	transition: .15s all ease-in;
+	z-index: 1
+}
+
+div#MenuSidebar li b,
+div#MenuSidebar li a {
+	padding: 5px 0;
+	padding-left: 18px;
+	display: block;
+	width: auto;
+	height: 100%;
+	font-weight: normal
+}
+
+div#MenuSidebar a {
+	transition: all .15s ease-in;
+	color: #eaeaea
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	color: #000;
+	background-color: #f4c430;
+	text-decoration: none!important
+}
+
+div#MenuSidebar b {
+	cursor: default
+}
+
+div#MenuSidebar li.child>a::after,
+div#MenuSidebar li.child>b::after {
+	float: right;
+	content: "\f0da";
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	display: inherit;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 100%;
+	font-size: 1rem;
+	padding-top: 2%;
+	margin-right: 3px
+}
+
+div#MenuSidebar a.selflink:hover {
+	background-color: inherit;
+	color: #f4c430
+}
+
+div#MenuSidebar>ul>li:last-child>a,
+div#MenuSidebar>ul>li:last-child>b {
+	border-bottom-right-radius: 5px
+}
+
+div#MenuSidebar a.selflink::before {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	border-top: 6px solid transparent;
+	border-bottom: 6px solid transparent;
+	border-left: 6px solid #f4c430
+}
+
+div#MenuSidebar {
+	background-color: rgba(255, 255, 255, 0);
+	box-shadow: none;
+	top: 170px
+}
+
+div#MenuSidebar>ul {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.16), 0 2px 4px rgba(0, 0, 0, 0.23);
+	border-bottom-right-radius: 4px;
+	margin-top: -1px;
+	margin-bottom: 6px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: inset 0 1px #85c1f7;
+	margin-left: 0
+}
+
+div#MenuSidebar>ul ul {
+	background-color: hsla(0, 0%, 100%, 0.9);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+	border-radius: 4px;
+	width: unset!important;
+	z-index: 2
+}
+
+div#MenuSidebar>ul ul li {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul>li>ul {
+	width: 150%;
+	font-size: 100%
+}
+
+div#MenuSidebar>ul>li>ul ul {
+	font-size: 100%
+}
+
+div#MenuSidebar a,
+div#MenuSidebar b {
+	color: #333;
+	text-decoration: none!important
+}
+
+div#MenuSidebar>p {
+	border-top: 0;
+	border-bottom: 2px solid #4487df;
+	color: #4487df;
+	padding: 8px 10px 6px;
+	background-color: hsla(0, 0%, 100%, 0.6);
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.16), 0 0 4px rgba(0, 0, 0, 0.23);
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:first-child,
+div#MenuSidebar>:not(p)+ul {
+	border-top: 0;
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>:not(p)+ul>:first-child {
+	border-top-right-radius: 4px
+}
+
+div#MenuSidebar>ul>:first-child {
+	box-shadow: none
+}
+
+div#MenuSidebar>ul ul a,
+div#MenuSidebar>ul ul b {
+	padding: 5px 18px 5px 10px;
+	white-space: nowrap
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding-left: 18px
+}
+
+div#MenuSidebar li li.child>a::after,
+div#MenuSidebar li li.child>b::after {
+	float: unset;
+	position: absolute;
+	right: 0;
+	bottom: 5px
+}
+
+div#MenuSidebar a:hover,
+div#MenuSidebar b:hover {
+	background-color: rgba(205, 235, 252, 0.4)
+}
+
+div#MenuSidebar a.selflink,
+div#MenuSidebar b.selflink {
+	font-weight: normal;
+	color: #333;
+	background-image: linear-gradient(90deg, #4487df 4px, transparent 4px)
+}
+
+div#MenuSidebar a.selflink:hover,
+div#MenuSidebar b.selflink:hover {
+	background-color: inherit;
+	color: #333
+}
+
+.skin-vector #left-navigation,
+.skin-vector #content {
+	margin-left: 10.5em
+}
+
+div#MenuSidebar>ul,
+div#MenuSidebar>p {
+	box-shadow: none;
+	border-radius: 0!important;
+	background-color: unset;
+	margin: 0
+}
+
+div#MenuSidebar>p {
+	font-weight: normal;
+	padding: 8px 10px 3px 10px
+}
+
+div#MenuSidebar>ul>li {
+	box-shadow: none
+}
+
+div#MenuSidebar>p::after {
+	height: 4px;
+	display: block;
+	width: 100%;
+	position: absolute;
+	bottom: -8px;
+	left: 5px;
+	border-radius: 25px;
+	content: "";
+	background-image: linear-gradient(90deg, #4487df, transparent 95%)
+}
+
+div#MenuSidebar>p {
+	color: #4487df;
+	position: relative;
+	padding-left: 15px!important;
+	margin-top: 0!important;
+	margin-bottom: 8px!important;
+	border: 0!important
+}
+
+div#MenuSidebar>ul>li>a,
+div#MenuSidebar>ul>li>b {
+	padding: 2px 0;
+	padding-left: 8px;
+	margin-top: 2px;
+	margin-left: 10px;
+	margin-right: 0;
+	border-radius: 5px 0 0 5px;
+	transition: .3s all ease;
+	color: #555
+}
+
+div#MenuSidebar>ul>:first-child>a,
+div#MenuSidebar>ul>:first-child>b {
+	margin-top: 5px
+}
+
+div#MenuSidebar>ul>li>a:HOVER,
+div#MenuSidebar>ul>li>b:HOVER {
+	background-color: rgba(34, 170, 255, 0.2);
+	color: black
+}
+
+div#MenuSidebar>ul>li>a.selflink {
+	background-color: rgba(34, 170, 255, 0.2)!important;
+	color: black!important
+}
+
+div#MenuSidebar>ul {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: 0;
+	background-image: none
+}
+
+div#MenuSidebar {
+	background-color: hsla(0, 0%, 100%, 0.6);
+	border-radius: none!important;
+	padding-top: 40px;
+	box-shadow: none!important
+}
+
+div#MenuSidebar>ul>li.child>a::after,
+div#MenuSidebar>ul>li.child>b::after {
+	margin-right: 10px!important;
+	color: inherit!important;
+	padding-top: 1%!important;
+}
+
+div#MenuSidebar>ul>li>ul {
+	top: -4px
+}
+
+a.feedlink {
+	padding-left: 16px!important;
+}
+
+/* 为复制短链接增加一个图标 */
+#MenuSidebar #wgCopyURL-url-copy-sidebar::after {
+  content: "\f0c1";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-size: 70%;
+  margin-left: .4em;
+  color: var(--darkblue);
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+ 
+
+
+
+
+
+查看“宇津见艾莉瑟”的源代码 
+←宇津见艾莉瑟
+
+					跳转至：					导航、					搜索
+
+因为以下原因，您没有权限编辑本页：
+
+
+您所请求的操作仅限于这些用户组的用户使用：用户、Editor
+该页面已被保护以防止编辑和其他操作。
+
+
+您可以查看与复制此页面的源代码。
+{{pathnav2|英灵图鉴}}[[分类:未复查的从者条目]]
+==基础数值==
+{{基础数值
+|背景颜色=
+|文字颜色=
+|稀有度=4
+|获取途径=活动
+|序号=283
+|中文名=宇津见艾莉瑟
+|日文名=宇津見エリセ
+|英文名=Utsumi Erice
+|中文战斗名=宇津见艾莉瑟
+|日文战斗名=宇津見エリセ
+|中文卡面名=宇津见艾莉瑟
+|日文卡面名=宇津見エリセ
+|英文卡面名=Utsumi Erice
+|声优=鬼头明里
+|画师=NOCO
+|属性1=秩序
+|属性2=中庸
+|性别=女性
+|身高=158cm
+|体重=48kg
+|隐藏属性=人
+|职阶=Lancer
+|筋力=C
+|耐久=C
+|敏捷=B
+|魔力=C
+|幸运=E
+|宝具=B
+|基础ATK=1520
+|基础HP=1918
+|满级ATK=9122
+|满级HP=11991
+|90级ATK=10079
+|90级HP=13260
+|100级ATK=11045
+|100级HP=14539
+|第一张卡=Quick
+|第二张卡=Quick
+|第三张卡=Arts
+|第四张卡=Arts
+|第五张卡=Buster
+|Q卡np率=0.63%
+|A卡np率=0.63%
+|B卡np率=0.63%
+|EX卡np率=0.63%
+|宝具np率=0.63%
+|受击np率=4%
+|Q卡hit数=4
+|A卡hit数=3
+|B卡hit数=3
+|EX卡hit数=5
+|宝具卡hit数=3
+|Q卡伤害分布=10,20,30,40
+|A卡伤害分布=16,33,51
+|B卡伤害分布=16,33,51
+|EX卡伤害分布=6,13,20,26,35
+|宝具卡伤害分布=16,33,51
+|出星率=12.0%
+|即死率=32.0%
+|暴击权重=87
+|特性1=神性
+|特性2=骑乘
+|特性3=人科
+|特性4=活在当下的人类
+|人型=是
+|被EA特攻=是
+|昵称=
+|立绘1=第１阶段
+|文件1=宇津见艾莉瑟初始
+|立绘2=第２阶段
+|文件2=宇津见艾莉瑟初始
+|立绘3=第３阶段
+|文件3=宇津见艾莉瑟初始
+|立绘4=第４阶段
+|文件4=宇津见艾莉瑟满破
+}}
+
+==宝具==
+{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}
+{{宝具
+|中文名=天遡鉾
+|国服上标=Amenosakahoko
+|日文名=天遡鉾
+|日服上标=アメノサカホコ
+|卡色=Arts
+|类型=全体
+|阶级=B
+|种类=对灵宝具
+|效果A=对敌方全体发动低概率即死<Over Charge时效果提升><!--敵全体に低確率で即死<Over Chargeで確率アップ>-->
+|数值A1=30%|数值A2=40%|数值A3=50%|数值A4=60%|数值A5=70%
+|效果B=强大的攻击<宝具升级效果提升><!--強力な攻撃<宝具升级效果提升>-->
+|数值B1=450%|数值B2=600%|数值B3=675%|数值B4=712.5%|数值B5=750%
+|效果C=解除防御强化状态<!--防御強化状態を解除-->
+|数值C1=∅
+}}
+
+==技能==
+===持有技能===
+'''技能1（初期开放）'''
+{{持有技能|蓝放|巫邪灵媒 A|巫邪霊媒 A|8
+|自身的Arts指令卡性能提升(3回合)<!--自身のArtsカード性能をアップ(3ターン)-->
+|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|付与回避状态(2次・3回合)<!--回避状態を付与(2回・3ターン)-->
+|∅|||||||||
+}}
+'''技能2（灵基再临第1阶段开放）'''
+{{持有技能|必中|魔弹射手（仿造） B|魔弾の射手（模造） B|6
+|付与自身必中状态(1回合)<!--自身に必中状態を付与(1ターン)-->
+|∅|||||||||
+|暴击星集中度提升(1回合)<!--スター集中度をアップ(1ターン)-->
+|300%|330%|360%|390%|420%|450%|480%|510%|540%|600%
+}}
+'''技能3（灵基再临第3阶段开放）'''
+{{持有技能|即死成功率提升|死神 B|死神 B|8
+|自身即死付与成功率提升(3回合)<!--自身の即死付与成功率をアップ(3ターン)-->
+|50%|55%|60%|65%|70%|75%|80%|85%|90%|100%
+|暴击威力提升(3回合)<!--クリティカル威力をアップ(3ターン)-->
+|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+|付与〔从者〕特攻状态(3回合)<!--〔サーヴァント〕特攻状態を付与(3ターン)-->
+|20%|21%|22%|23%|24%|25%|26%|27%|28%|30%
+}}
+
+===职阶技能===
+{{职阶技能|对魔力|对魔力（灵）|B+|自身的弱化耐性提升(10%)＆ 对〔[[特性：死灵|死灵]]〕的弱化耐性提升(20%)<!--自身の弱体耐性をアップ(10%)＆〔死霊〕に対する弱体耐性をアップ(20%)-->|骑乘|骑乘|C+|自身Quick指令卡性能提升(7%)<!--自身のQuickカードの性能を少しアップ(7%)-->|单独行动|单独行动|B|自身的暴击威力提升(8%)<!--自身のクリティカル威力をアップ(8%)-->|神性|神性|E|付与自身伤害附加状态(100)<!--自身に与ダメージプラス状態を付与(100)-->}}
+
+==素材需求==
+===灵基再临（从者进化）===
+{{灵基再临素材
+|稀有度=4
+|0->1={{材料消耗|遥远冒险的星盘|1}}
+|1->2={{材料消耗|遥远冒险的星盘|1}}
+|2->3={{材料消耗|遥远冒险的星盘|1}}
+|3->4={{材料消耗|遥远冒险的星盘|1}}
+|总计={{材料消耗|遥远冒险的星盘|4}}
+}}
+===技能强化===
+{{技能升级素材
+|稀有度=4
+|1->2={{材料消耗|枪之辉石|4}}
+|2->3={{材料消耗|枪之辉石|10}}
+|3->4={{材料消耗|枪之魔石|4}}
+|4->5={{材料消耗|枪之魔石|10}}{{材料消耗|凶骨|12}}
+|5->6={{材料消耗|枪之秘石|4}}{{材料消耗|凶骨|24}}
+|6->7={{材料消耗|枪之秘石|10}}{{材料消耗|鬼魂提灯|4}}
+|7->8={{材料消耗|鬼魂提灯|8}}{{材料消耗|宵泣之铁桩|15}}
+|8->9={{材料消耗|宵泣之铁桩|45}}{{材料消耗|祸罪的箭镞|20}}
+|9->10={{材料消耗|传承结晶|1}}
+|总计={{材料消耗|枪之辉石|14}}{{材料消耗|枪之魔石|14}}{{材料消耗|枪之秘石|14}}{{材料消耗|凶骨|36}}{{材料消耗|宵泣之铁桩|60}}{{材料消耗|鬼魂提灯|12}}{{材料消耗|祸罪的箭镞|20}}{{材料消耗|传承结晶|1}}
+}}
+===再临与技能总计===
+{{素材消耗总计
+|{{材料消耗|遥远冒险的星盘|4}}{{材料消耗|枪之辉石|42}}{{材料消耗|枪之魔石|42}}{{材料消耗|枪之秘石|42}}{{材料消耗|凶骨|108}}{{材料消耗|宵泣之铁桩|180}}{{材料消耗|鬼魂提灯|36}}{{材料消耗|祸罪的箭镞|60}}{{材料消耗|传承结晶|3}}
+|稀有度=4
+}}
+==资料==
+{{#ifexist:{{PAGENAME}}/从者任务|{{参阅|{{PAGENAME}}/从者任务|该从者的幕间物语和强化关卡}}}}
+{{个人资料
+|详情=
+不久将来的圣杯战争结束后的日本。
+在马赛克市“秋叶原”担任夜警（Night Watch）的十四岁少女。
+由于她狩猎从者时那冷酷的工作方式，
+被称呼为“死神”并受人疏远、畏惧。
+
+|详情日文=
+近未来の聖杯戦争終結後の日本。
+モザイク市《秋葉原》で、夜警（ナイトウォッチ）を
+務める十四歳の少女。
+サーヴァントを狩る苛烈な仕事ぶりから、
+“死神”と呼ばれて疎まれ恐れられている。
+
+|资料1条件=
+羁绊达到Lv.1后开放
+
+|资料1=
+身高／体重：158cm·48kg
+出处：Fate/Requiem
+地域：日本·马赛克市“秋叶原”、“新宿”
+属性：秩序·中庸　　性别：女性
+对于时尚与味觉的品味来自于老师。
+
+|资料1日文=
+身長／体重：158cm・48kg
+出典：Fate/Requiem
+地域：日本・モザイク市《秋葉原》、《新宿》
+属性：秩序・中庸　　性別：女性
+ファッションと味覚のセンスは先生譲り。
+
+|资料2条件=
+羁绊达到Lv.2后开放
+
+|资料2=
+在与迦勒底不同走向的未来史中，
+和世界上最后被召唤的从者“旅行者”
+一起投身于圣杯战争。其结局本人也不知晓。
+
+幼年时起被称作“邪灵”的恶灵附身。
+其灵障显现为渗出到身体表面的黑色粘液状疑似物质。
+虽然灵障一点点变得严重起来，但她最后成功地适应了它
+并自己将其取名为“魔王（Erlkönig）”，能够随意操纵。
+这种特殊的感觉在感知死亡气息和杀气时很有用，
+但另一方面，邪灵们总是想要活着的供品，
+一旦得不到满足就会侵蚀艾莉瑟自己的肉体。
+
+|资料2日文=
+カルデアの歩みとは異なる未来史において、
+世界で最後に召喚されたサーヴァント“ボイジャー”と
+共に聖杯戦争に身を投じる。その結末は本人も知らない。
+
+幼少期から“邪霊”と呼ぶ悪霊に取り憑かれている。
+その霊障は、体表に染み出す黒い粘液状の疑似物質
+として現れる。
+霊障は徐々に深刻化していったが、その扱いにも順応し
+“魔王（エルケーニッヒ）”と自ら命名して自在に操る
+までになる。
+死の気配や殺気を感知する超感覚としても有効な反面、
+邪霊たちは生贄を常に欲し、満たされなければ
+エリセ自身の肉体を蝕む。
+
+|资料3条件=
+羁绊达到Lv.3后开放
+
+|资料3=
+重视效率。喜欢功能实用的工具和服装，
+质朴可靠的东西。
+食物方面则喜欢辣的和营养价值高的。
+但对于味道不怎么在意。
+厌恶魔术师，虽然本人是打算成为“魔术使”的，这个嘛。
+
+对古今东西的英灵相当熟悉。
+业余时间全都用来浏览英灵相关的书籍和影像资料。
+在活用这些知识作为“死神”做出冷酷的处理时，
+也会尊重从者生前的经历，并给予深深的敬意。
+对发现了未知世界的航海家和冒险者的英灵们尤其敬爱。
+「也没有吧……因为这在马赛克市很普通啦……」
+虽然她这样装出一副从容的样子，但似乎热衷到
+每天会在迦勒底偷偷兴奋到流鼻血的程度。
+
+|资料3日文=
+効率重視。機能的で実用的なツールや服装、
+質実剛健なものを好む。
+食べ物では、辛いもの、栄養価の高いものが好き。
+味についてはわりとどうでもよい。
+魔術師を毛嫌いし、本人は“魔術使い”のつもり
+でいるが、さて。
+
+古今東西の英霊にかなり詳しい。
+余暇の時間はもっぱら英霊関連の書物や映像資料に
+目を通す。それらの知識を活かし“死神”として冷酷に
+対処する一方で、サーヴァントの生前の生涯を尊重し、
+深い敬意もはらう。とりわけ未知の世界を見いだした
+航海者や冒険者の英霊たちを敬愛している。
+「べつに……モザイク市じゃ普通だったから……」と
+余裕ぶりつつも、カルデアでは毎日ひそかにエキサイト
+して鼻血が出るほどのぼせたり興奮しているらしい。
+
+|资料4条件=
+羁绊达到Lv.4后开放
+
+|资料4=
+○巫邪灵媒：A
+让潜藏于艾莉瑟血脉之中的邪恶之灵附身，
+可作为对灵体格外有效的武器使用。
+
+○魔弹射手（仿造）：B
+将波西米亚传说中的恶魔萨米尔的子弹
+再现并铸造而成的魔术仿造品。
+
+○死神：B
+想要狩猎那些失控、不遵守规矩的从者的妄执。
+以及对于英灵和反英雄的渊博的知识。
+
+|资料4日文=
+○巫邪霊媒：Ａ
+エリセの血脈に潜む邪悪な霊を憑依させ、
+特に霊体へ効果的な武器として駆使する。
+
+○魔弾の射手（模造）：Ｂ
+ボヘミア伝承の悪魔ザミエルの弾丸を再現し
+鋳造した魔術的な模造品。
+
+○死神：Ｂ
+暴走し規範を外れたサーヴァントを狩らんとする妄執。
+英霊や反英雄にまつわる広範囲な知識。
+
+|资料5条件=
+通关『Fate/Requiem』棋盘游戏默示录及羁绊Lv.5后开放
+|资料5=
+『天遡鉾』
+阶级：B　种类：对灵宝具
+有效范围：1～14　最大捕捉：1000人
+
+Amenosakahoko。
+将大神·伊邪纳岐与伊邪那美的“创国”神话
+逆转再现而成的不祥祭祀。
+艾莉瑟在继承冥神之力后，
+通过近似从者化而获得的独有魔术。
+使用神造祭器“天沼矛（Amenonuboko）”的仿造品
+搅动时空，对其构造进行推定演算，
+将目标空间所包含的一切构造、质量、意义、缘因
+返还为最初的混沌。
+如果对象是从者，则可以瓦解、分裂其灵基构造。
+使熵逆转并归返黄泉。
+
+|资料5日文=
+『天遡鉾』
+ランク：Ｂ　種別：対霊宝具
+レンジ：１～１４　最大捕捉：１０００人
+
+アメノサカホコ。
+大神・伊邪那岐と伊邪那美による“国産み”を
+逆転再現する忌まわしき祭事。
+冥神の力を継承するエリセが、準サーヴァント化により
+獲得した独自の魔術。
+神造祭器“天沼矛（アメノヌボコ）”レプリカで
+時空をかきまぜ、その構造を推定演算し、
+対象空間の包有する構造、質量、意味、縁の全てを
+原初の混沌へおくり還す。
+サーヴァントが対象となる際はその霊基構造を
+解消、切断する。エントロピー逆転の黄泉返し。
+
+|资料6条件=
+？？？
+
+|资料6=
+？？？
+
+|资料6日文=
+
+
+}}
+
+==羁绊点数==
+{{羁绊点数|4000|12000|3000|6000|6000|199000|230000|270000|350000|400000|4}}
+==相关礼装==
+{{参阅|{{PAGENAME}}/相关礼装|该从者的其他礼装}}
+{{从者相关礼装}}
+==语音==
+{{参阅三|{{PAGENAME}}|yy}}
+{{:{{PAGENAME}}/语音}}
+===语音关联从者===
+{{语音反查|说明=1}}
+==各阶段图标与战斗形象==
+===再临阶段图标===
+{{再临阶段图标
+|背景颜色=navy
+|文字颜色=white
+|图标1=宇津见艾莉瑟_status_1.png
+|图标2=宇津见艾莉瑟_status_2.png
+|图标3=宇津见艾莉瑟_status_3.png
+}}
+===战斗形象===
+{{战斗形象
+|背景颜色=navy
+|文字颜色=white
+|模型1=宇津见艾莉瑟_model_1.png
+|模型2=宇津见艾莉瑟_model_2.png
+|模型3=宇津见艾莉瑟_model_3.png
+}}
+==成长曲线==
+{{:{{PAGENAME}}/成长曲线}}
+==注释和链接==
+<references/>
+{{英灵图鉴导航}}
+该页面使用的模板：
+
+宇津见艾莉瑟/成长曲线（查看源代码）宇津见艾莉瑟/语音（查看源代码）高德隆Simoun（查看源代码）Mooncell:Gameinfo/国服/灵基一览（查看源代码）（受半保护）模板:=（查看源代码）模板:Cbox2（查看源代码）模板:Cbox2/core（查看源代码）模板:Color（查看源代码）（受保护）模板:Decode（查看源代码）模板:Fa（查看源代码）（受保护）模板:Ifnotempty（查看源代码）模板:Navbox（查看源代码）（受保护）模板:P1（查看源代码）模板:P2（查看源代码）模板:Pathnav2（查看源代码）（受保护）模板:Pathnav2/core（查看源代码）模板:Pathnav2/prev（查看源代码）模板:Pathnav2/svtnext（查看源代码）模板:Pathnav2/svtprev（查看源代码）模板:Popup（查看源代码）模板:QP消耗（查看源代码）模板:Trim（查看源代码）模板:个人资料（查看源代码）模板:从者相关礼装（查看源代码）模板:再临阶段图标（查看源代码）模板:参阅（查看源代码）模板:参阅三（查看源代码）模板:图标/礼装（查看源代码）模板:基础数值（查看源代码）（受保护）模板:声优一览表格（查看源代码）模板:宝具（查看源代码）模板:成长曲线（查看源代码）模板:战斗形象（查看源代码）模板:技能升级素材（查看源代码）模板:持有技能（查看源代码）模板:持有技能/set（查看源代码）模板:数量（查看源代码）模板:材料消耗（查看源代码）模板:概念礼装（查看源代码）（受保护）模板:灵基再临素材（查看源代码）模板:素材消耗总计（查看源代码）模板:羁绊点数（查看源代码）模板:职阶技能（查看源代码）模板:英灵图鉴导航（查看源代码）模板:语音反查（查看源代码）模板:语音反查/core（查看源代码）模块:Arguments（查看源代码）模块:Navbox（查看源代码）模块:SkillDetail（查看源代码）模块:SkillString（查看源代码）模块:SplitFormat（查看源代码）返回至宇津见艾莉瑟。
+ 
+						取自“http://fgo.wiki/w/宇津见艾莉瑟”					
+ 
+
+
+
+导航菜单
+
+
+个人工具
+
+创建账户登录 
+
+
+
+名字空间
+
+页面讨论 
+
+
+
+
+变种
+
+
+
+
+
+
+
+
+
+视图
+
+阅读查看源代码查看历史 
+
+
+
+更多
+
+
+
+
+
+
+
+搜索
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+英灵图鉴礼装图鉴指令纹章图鉴游戏数据基础各类信息汇总新人御主Q＆A抽卡模拟器 
+
+
+
+热门
+
+
+国服：冥界的圣诞快乐日服：魔伊联动复刻★5(SSR)埃列什基伽勒★4(SR)美游·艾德费尔特 
+
+
+
+扩展
+
+
+关卡配置活动一览卡池一览道具一览灵衣一览敌人一览技能一览状态一览御主装备音乐鉴赏声优一览画师一览登场人物关卡特性相关数据计算器 
+
+
+
+趣味
+
+
+FGO相关表情包FGO名人录FGO黑话·梗·成句游戏卫星一览趣味游戏 
+
+
+
+常用
+
+
+首页最近更改随机页面SE.RA.PH模板一览编辑指南贡献分数页面短链接如何支持我们收支一览点我反馈 
+
+
+
+工具
+
+
+链入页面相关更改特殊页面页面信息 
+
+
+window.toolbox=document.querySelector("#p-tb ul").innerHTML;var a=document.querySelectorAll("#mw-panel > *");for (var i=0;i<a.length;i++){if(a[i].id!="p-logo"){a[i].parentNode.removeChild(a[i])}}首页
+复制短链接https://fgo.wiki/id/53474
+
+clip_board = new ClipboardJS('#wgCopyURL-url-copy-sidebar');
+function copyURL_sidebar(btn)
+{
+	var copyText = document.getElementById("wgCopyURL-url-sidebar").innerHTML.replace(/&amp;/g, "&");
+	btn.setAttribute("data-clipboard-text", copyText);
+	alert("链接已复制: " + copyText);
+}
+
+支持我们
+求助与建议
+热门页面
+
+
+当前活动
+日服：『Fate/Requiem』棋盘游戏默示录
+国服：淑女·莱妮丝事件簿
+
+新增从者
+★4(SR) 宇津见艾莉瑟(Lancer)
+★4(SR) 鬼女红叶(Berserker)
+★5(SSR) 旅行者(Foreigner)
+英灵图鉴
+概念礼装图鉴
+指令纹章图鉴
+抽卡模拟器
+
+国服
+迷惑鸣凤庄考察推荐召唤
+事件簿联动活动推荐召唤
+
+日服
+FR联动推荐召唤
+FR联动开幕前夕推荐召唤
+周常规划
+菜单
+
+通用
+英灵图鉴
+礼装图鉴
+基础数据
+技能一览
+活动一览
+卡池一览
+魔术礼装
+新人入门
+关卡配置
+道具一览
+特攻一览
+敌人一览
+扩展
+灵衣一览
+状态一览
+御主任务
+音乐鉴赏
+声优一览
+画师一览
+登场人物
+关卡特性
+数据计算
+宝具效果一览
+从者登场剧情一览
+各类信息汇总
+趣味
+FGO相关表情包
+FGO名人录
+FGO黑话·梗·成句
+游戏卫星一览
+月之背面
+趣味游戏
+站娘
+随机页面
+
+
+探索
+
+PRTS-明日方舟wiki
+官方网站
+Fate/Grand Order简中服官网
+Fate/Grand Order日服官网
+Fate/Grand Order繁中服官网
+Fate/Grand Order美服官网
+Fate/Grand Order韩服官网
+Fate/Grand Order VR
+Fate/Grand Order Arcade
+TYPE-MOON
+竹箒日記
+友情链接
+中文
+NGA论坛Fate/Grand Order版块
+茹西教王的理想乡
+少前百科GFwiki
+维基百科
+萌娘百科
+拖把日记
+Bigfun社区-FGO版块
+日文
+appmedia的fategrandorder频道
+FGO素材效率剧场
+FGO攻略まとめwiki
+Fate/Grand Order @wiki
+英文
+Grand Order wiki 
+Cirnopedia
+FGO Items 
+Fandom的fategrandorder频道
+Fandom的TYPE-MOON频道
+管理与编辑
+
+最近更改
+SE.RA.PH
+编辑指南
+常用代码
+模板一览
+贡献分数
+收支一览
+工具document.querySelector("#MSToolbox").innerHTML=window.toolbox;childlist = document.querySelectorAll("#MenuSidebar li>ul");for(var i=0;i<childlist.length;i++){childlist[i].parentElement.classList.add("child")};childlist = document.querySelectorAll("#MenuSidebar > ul#MSToolbox > li");for(var i=0;i<childlist.length;i++){if(childlist[i].innerHTML === ""){childlist[i].parentNode.removeChild(childlist[i])}};
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+var mcClientRegex = new RegExp("mooncellApp", "i");
+var result = mcClientRegex.test(navigator.userAgent);
+if (result == false) {
+    var commentStyle = document.createElement("style");
+    commentStyle.type = "text/css";
+    commentStyle.innerHTML = ".comment-thread{display:none !important;}.comment-container-top{display:none !important;}.comment-container{display:none !important;}.comment-paginator{display:none !important;}.comment-replybox{display:none !important;}.comment-bannotice{display:none !important;}";
+    commentStyle.id = "addCommentStyle";
+    document.getElementsByTagName("HEAD").item(0).appendChild(commentStyle);
+}
+
+ 
+
+
+
+隐私政策
+关于Mooncell
+免责声明
+粤ICP备18102655号-1
+下载安卓客户端
+广告投放
+评论须知
+手机版视图
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120});});
+
+

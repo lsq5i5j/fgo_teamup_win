@@ -36,6 +36,7 @@ class Ui_SelectLevel(QDialog, SelectLevelUi.Ui_Dialog):
 			if i.endswith('.csv'):
 				df = pd.read_csv(path + "/" + i, encoding="utf-8")
 				df1 = df1.append(df, ignore_index=True)
+		df1['活动'] = '主线自由关卡'
 		df_all = df_all.append(df1, ignore_index=True)
 
 		# 导入加勒底之门副本
@@ -50,27 +51,8 @@ class Ui_SelectLevel(QDialog, SelectLevelUi.Ui_Dialog):
 		df1 = df1.rename(columns={'名称cn': '地点cn', '名称jp': '地点jp'})
 
 		df_all = df_all.append(df1, ignore_index=True)
+		df_all = df_all.fillna('')
 		self.level_data = df_all
-
-		# 导入无限池副本
-		path = r'data/level/Inf'
-		all_list = os.listdir(path)
-		df1 = pd.DataFrame()
-		for i in all_list:
-			if i.endswith('.csv'):
-				df = pd.read_csv(path + "/" + i)
-				df1 = df1.append(df, ignore_index=True)
-		df_all = df_all.append(df1, ignore_index=True)
-
-		# 导入柱子本
-		path = r'data/level/Single'
-		all_list = os.listdir(path)
-		df1 = pd.DataFrame()
-		for i in all_list:
-			if i.endswith('.csv'):
-				df = pd.read_csv(path + "/" + i)
-				df1 = df1.append(df, ignore_index=True)
-		df_all = df_all.append(df1, ignore_index=True)
 
 		# 导入活动本
 		path = r'data/level/Event'
@@ -79,17 +61,20 @@ class Ui_SelectLevel(QDialog, SelectLevelUi.Ui_Dialog):
 		for i in all_list:
 			if i.endswith('.csv'):
 				df = pd.read_csv(path + "/" + i)
+				df = df.rename(columns={'名称cn': '地点cn', '名称jp': '地点jp'})
 				df1 = df1.append(df, ignore_index=True)
 		df1['活动'] = '活动周回本'
-		df1 = df1.rename(columns={'名称cn': '地点cn', '名称jp': '地点jp'})
+
 
 		df_all = df_all.append(df1, ignore_index=True)
+		df_all = df_all.fillna('')
 		self.level_data = df_all
 
 		# 绑定按钮
 		self.box_choose_event.activated.connect(self.event_change)
 		self.box_choose_section.activated.connect(self.section_change)
 		self.box_choose_level.activated.connect(self.level_change)
+		self.box_choose_level_sub.activated.connect(self.sub_level_change)
 		self.btn_confirm.clicked.connect(self.confirm)
 
 		# 敌人数据
@@ -132,11 +117,11 @@ class Ui_SelectLevel(QDialog, SelectLevelUi.Ui_Dialog):
 	def event_change(self):
 		event = self.box_choose_event.currentText()
 		df = self.level_data
-		df2 = df[df['活动'] == event]
-		df2 = df2['章名称']
-		df2 = df2.drop_duplicates()
+		df1 = df[df['活动'] == event]
+		df1 = df1['章名称']
+		df1 = df1.drop_duplicates()
 		self.box_choose_section.clear()
-		for x in df2.values:
+		for x in df1.values:
 			# print(x)
 			self.box_choose_section.addItem(x)
 		self.section_change()
@@ -147,13 +132,31 @@ class Ui_SelectLevel(QDialog, SelectLevelUi.Ui_Dialog):
 		df = self.level_data
 		df1 = df[df['活动'] == event]
 		df2 = df1[df1['章名称'] == section]
+		df2 = df2['地点cn']
+		df2 = df2.drop_duplicates()
 		self.box_choose_level.clear()
-		for x in df2['地点cn'].values:
+		for x in df2.values:
 			# print(x)
 			self.box_choose_level.addItem(x)
-		self.show_level()
+		self.level_change()
 
 	def level_change(self):
+		event = self.box_choose_event.currentText()
+		section = self.box_choose_section.currentText()
+		level = self.box_choose_level.currentText()
+		df = self.level_data
+		df1 = df[df['活动'] == event]
+		df2 = df1[df1['章名称'] == section]
+		df3 = df2[df2['地点cn'] == level]
+		df3 = df3['级别']
+		df3 = df3.drop_duplicates()
+		self.box_choose_level_sub.clear()
+		for x in df3.values:
+			# print(x)
+			self.box_choose_level_sub.addItem(x)
+		self.sub_level_change()
+
+	def sub_level_change(self):
 		self.show_level()
 
 	def set_enemy_data(self, enemy_list):
@@ -240,10 +243,13 @@ class Ui_SelectLevel(QDialog, SelectLevelUi.Ui_Dialog):
 		event = self.box_choose_event.currentText()
 		section = self.box_choose_section.currentText()
 		level = self.box_choose_level.currentText()
+		sub_level = self.box_choose_level_sub.currentText()
 		df = self.level_data
+
 		df1 = df[df['活动'] == event]
 		df1 = df1[df1['章名称'] == section]
 		df1 = df1[df1['地点cn'] == level]
+		df1 = df1[df1['级别'] == sub_level]
 		df_level = df1.fillna('')
 		# print(df_level)
 		self.pic_round1_enemy1.setPixmap(QPixmap())
@@ -313,14 +319,20 @@ class Ui_SelectLevel(QDialog, SelectLevelUi.Ui_Dialog):
 					enemy_list = enemy.split('|')
 					name = enemy_list[1]
 					type = enemy_list[2]
-					enemy_class = self.class_dict[enemy_list[3]]
+					if enemy_list[3] in self.class_dict:
+						enemy_class = self.class_dict[enemy_list[3]]
+					else:
+						enemy_class = 'Shielder'
+						QMessageBox.warning(self, '警告', '无法识别以下从者职介, 请检查数据格式, 如为新职介, 请与作者联系\n' + enemy)
 					health = enemy_list[5]
+					if not health.isdigit():
+						QMessageBox.warning(self, '警告', '无法识别以下从者血量, 请检查数据格式\n' + enemy)
 					text = '中文名: ' + name +'\n' + '职阶: ' + enemy_class +'\n' + '类别: ' + type +'\n' + '血量: ' + health
 
 					dict1 = self.show_enemy_data(enemy_list)
 					pic_path = dict1['图片路径']
 					np_type = dict1['NP敌补正']
-					if event == '2020弓凛祭' and level == '广场花园级':
+					if event == 'BATTLE IN NEWYORK 2020':
 						np_type = 1
 					# 将数据保存起来
 					num = 3 * (i - 1) + (j - 1)
