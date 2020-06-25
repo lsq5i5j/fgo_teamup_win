@@ -206,7 +206,7 @@ class Ui_MainWindow(QMainWindow, MainUi.Ui_MainWindow):
 		self.update_window.show()
 
 	def open_about(self):
-		QMessageBox.information(self, 'FGO周回组队器', '版本信息: beta v1.31  \n更新日期: 2020/06/05  ')
+		QMessageBox.information(self, 'FGO周回组队器', '版本信息: beta v1.33  \n更新日期: 2020/06/23  ')
 
 	@staticmethod
 	def open_mooncell():
@@ -702,6 +702,7 @@ class Ui_MainWindow(QMainWindow, MainUi.Ui_MainWindow):
 
 	# 确认战斗配置
 	def battle_confirm_team(self):
+		self.battle_config = BattleConfig()
 		self.battle_config.battle_strategy = '第1回合：'
 		if self.servant_1['ID'] < 1 and self.servant_2['ID'] < 1 and self.servant_3['ID'] < 1:
 			QMessageBox.information(self, '提 醒', '检测到未设置前排从者, 请设置后继续')
@@ -714,6 +715,7 @@ class Ui_MainWindow(QMainWindow, MainUi.Ui_MainWindow):
 			reply = QMessageBox.information(self, '提 醒', text, QMessageBox.Yes | QMessageBox.No, QMessageBox.Yes)
 			if reply == QMessageBox.No:
 				return
+
 		for order in range(1, 7):
 			if order == 1:
 				# 设定从者数据

@@ -652,15 +652,17 @@ class BattleConfig:
         prob_debuff_attack = prob_debuff + num_attack - num_down_attack - de_num_attack + de_num_down_attack
         prob_debuff_defence = prob_debuff + num_defence - num_down_defence - de_num_defence + de_num_down_defence
 
-        if '提升' in buff_type or '伤害附加' in buff_type or '伤害减免' in buff_type:
+        if '提升' in buff_type or '伤害附加' in buff_type or '伤害减免' in buff_type or '付与特性' in buff_type:
             if '攻击力' in buff_type or '指令卡性能' in buff_type or '宝具威力' in buff_type or '伤害附加' in buff_type:
                 prob = prob_buff_attack
             elif '防御力' in buff_type or '攻击耐性' in buff_type or '伤害减免' in buff_type:
                 prob = prob_buff_defence
             else:
                 prob = prob_buff
+
             if prob >= prob_require:
                 target_role.state = target_role.state.append(a, ignore_index=True)
+
         elif '下降' in buff_type:
             if self.state_presence(target_role, '弱化无效') is True:
                 for index, row in target_role.state.iterrows():
@@ -674,8 +676,10 @@ class BattleConfig:
                 prob = prob_debuff_defence
             else:
                 prob = prob_debuff
+
             if prob >= prob_require:
                 target_role.state = target_role.state.append(a, ignore_index=True)
+
         else:
             if prob >= prob_require:
                 target_role.state = target_role.state.append(a, ignore_index=True)
@@ -706,6 +710,7 @@ class BattleConfig:
                 prob = prob_buff
 
         if prob >= prob_require:
+
             if '解除' in buff_type and '强化状态' in buff_type:
                 if self.state_presence(target_role, '弱化无效') is True:
                     for index, row in target_role.state.iterrows():
@@ -753,7 +758,6 @@ class BattleConfig:
                 target_role.damage_list = self.damage_enemy(servant_order=order, enemy=target_role, random_num=random_num, rate_magnify=num, ignore_defence=True)
                 self.np_recharge(servant_order=order, enemy=target_role)
             elif '特攻' in buff_type and '威力随特性数量增加' in buff_type:
-                print('!!!!!!!!!')
                 temp = self.remove_brackets(buff_type)
                 require_attribute_list = temp.split(',')
                 enemy_attribute_list = target_role.attribute
@@ -771,6 +775,7 @@ class BattleConfig:
                     required_attribute = self.remove_brackets(buff_type)
                     self.damage_special(enemy=target_role, rate_special=num, attribute=required_attribute)
             elif buff_type.startswith('特攻'):
+                print('!!!!!!!!!!')
                 required_attribute = self.remove_brackets(buff_type)
                 num = float(num.strip('%'))
                 self.damage_special(enemy=target_role, rate_special=num, attribute=required_attribute)
@@ -966,10 +971,12 @@ class BattleConfig:
             if enemy.damage == 0:
                 continue
             text += '\n'+ str(i) + '号位敌人' + enemy.name + '受到伤害：' + str(int(enemy.damage)) + '，'
+            text += '剩余血量：' + str(int(enemy.health)) + '，'
             text += '平均伤害：' + str(int(enemy.damage/random_num)) + '，'
-            text += '伤害范围：' + str(int(enemy.damage/random_num*0.9)) + '-' + str(int(enemy.damage/random_num*1.1)) + '，'
-        text = text.strip('，')
-        text += '。'
+            text += '伤害范围：' + str(int(enemy.damage/random_num*0.9)) + '-' + str(int(enemy.damage/random_num*1.1)) + '。'
+        if text.endswith('，'):
+            text = text.strip('，')
+            text += '。'
         self.battle_strategy += text
 
     def skill_left_times(self, df, index, row):
@@ -1072,7 +1079,12 @@ class BattleConfig:
             elif '特攻' in buff_type:
                 print(buff_type)
                 temp = self.remove_brackets(buff_type)
-                require_attribute_list = temp.split(',')
+                if '弱化状态' in temp:
+                    df_temp = pd.read_csv('data/servant/skill_type.csv', encoding='utf-8-sig')
+                    require_attribute_list = df_temp['弱化状态'].values.tolist()
+                    print(require_attribute_list)
+                else:
+                    require_attribute_list = temp.split(',')
                 enemy_attribute_list = enemy.attribute
                 # print(enemy_attribute_list)
                 # print(require_attribute_list)
@@ -1135,13 +1147,12 @@ class BattleConfig:
 
     def damage_special(self, enemy, rate_special, attribute):
         # 计算宝具特攻伤害
-        temp = attribute
-        require_attribute_list = temp.split(',')
+        require_attribute_list = attribute.split(',')
         enemy_attribute_list = enemy.attribute
         list1 = list(set(require_attribute_list).intersection(set(enemy_attribute_list)))
         if len(list1) == 0 and self.state_presence(enemy, attribute) is False:
             return
-        print('宝具特攻', rate_special)
+        print('触发宝具特攻', rate_special)
         temp = enemy.damage_list
         enemy.damage_list = [rate_special/100*x for x in temp]
 

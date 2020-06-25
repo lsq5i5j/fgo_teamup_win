@@ -276,6 +276,7 @@ class Ui_SelectCostume(QDialog, SelectCostumeUi.Ui_Dialog):
 		self.my_Signal.emit(costume_dict)
 
 	def receiveContent(self, costume_dict):
+		print(costume_dict)
 		self.set_zero()
 		self.level = costume_dict['level']
 		self.atk = costume_dict['atk']
@@ -335,10 +336,10 @@ class Ui_SelectCostume(QDialog, SelectCostumeUi.Ui_Dialog):
 				temp = costume_dict[buff]
 				self.box_np_start.setValue(temp)
 			elif buff.startswith('状态[特攻['):
-				text = buff[6:-1]
+				text = buff.strip('状态[特攻[]]')
 				self.lineEdit_attribute.setText(text)
 				temp = costume_dict[buff]
-				self.box_attribute.setValue(temp[0])
+				self.box_attribute.setValue(int(temp[0].strip("%")))
 				self.box_attribute_times.setValue(temp[1])
 				self.box_attribute_round.setValue(temp[2])
 

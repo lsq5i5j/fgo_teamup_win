@@ -302,10 +302,19 @@ class Ui_SelectLevel(QDialog, SelectLevelUi.Ui_Dialog):
 		self.round3_enemy1_np_type.setEnabled(False)
 		self.round3_enemy2_np_type.setEnabled(False)
 		self.round3_enemy3_np_type.setEnabled(False)
-		text = df_level['关卡特性'].values[0]
-		text = text.replace('无,', '')
-		text = text.strip(',')
+		if '关卡特性' in df_level.columns:
+			text = df_level['关卡特性'].values[0]
+			text = text.replace('无,', '')
+			text = text.strip(',')
+		else:
+			text = ''
+
 		self.line_battle_ground.setText(text)
+		# 判断死灵补正:
+		if '死灵补正' in df_level.columns:
+			flag_np_type = df_level['死灵补正'].values[0]
+		else:
+			flag_np_type = ''
 
 		for i in range(1, 4):
 			for j in range(1, 4):
@@ -332,8 +341,11 @@ class Ui_SelectLevel(QDialog, SelectLevelUi.Ui_Dialog):
 					dict1 = self.show_enemy_data(enemy_list)
 					pic_path = dict1['图片路径']
 					np_type = dict1['NP敌补正']
-					if event == 'BATTLE IN NEWYORK 2020':
+					# 处理死灵补正:
+					if flag_np_type == 'N':
 						np_type = 1
+					elif flag_np_type == 'Y':
+						np_type = 2
 					# 将数据保存起来
 					num = 3 * (i - 1) + (j - 1)
 					self.battle_config_data[num] = dict1
